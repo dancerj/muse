@@ -1,0 +1,103 @@
+body {
+     background-color: #fff;
+     color: #000000;
+     font-size: 12pt
+}
+
+h1 {
+   color: #000000;
+   border-style: ridge;
+   border-color: #ffaaaa;
+   font-size: 32pt;
+}
+
+h2 {
+   color: #000;
+   background-color: #bff;
+   font-size: 28pt;
+   border: 0px 0px 0px 0px;
+   margin: 20px 0px 3px 0px;
+}
+
+h3 {
+   border-style: solid;
+   border-color: #ff99ee;
+   background-color: #ff99ee;
+   color: #000000;
+   font-size: 18pt;
+}
+
+a:link {
+  color: #33a;
+}
+
+a:active {
+  color: #333;
+}
+
+/* hover is a CSS2 feature */
+a:hover {
+  color: #ffa;
+  background-color: #55f;
+}
+
+a:visited {
+  color: #33a;
+}
+
+pre {
+    color: #000;
+    background-color: #fff;
+    border-style: ridge;
+}
+
+tt {
+   color: #000;
+   background-color: #fff;
+    border: ridge;
+}
+
+/* filter-opacity is a IE hack, supported by Mozilla */
+div {
+    border: ridge
+}
+
+dl {
+   margin: 2em;
+}
+dt {
+   background-color: #ffa;
+   color: #119;
+}
+dd {
+   
+}
+ul {
+   background-color: #ffffee;
+}
+li {
+}
+
+p{
+	color: #000;
+}
+
+table{
+	border-style: outset;
+}
+
+
+thead{
+	background-color: #fff;
+}
+
+th{
+	border-style: inset;
+	color: #000;
+	background-color: #fff;
+}
+td{
+	border-style: inset;
+	color: #000;
+}
+
