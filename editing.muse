@@ -1,0 +1,25 @@
+#title このページを編集する方法について
+
+*   ツール
+Debian勉強会のページを編集するには，emacs-museを利用しています．
+Debianであれば，muse-elパッケージを利用してください．
+
+*  ディレクトリ構成
+
+alioth の tokyodebian の CVS レポジトリの中の muse というディレクトリにソースがおいてあります．
+ディレクトリとファイルの構成は下記のとおりです．
+
+ファイル || 意味 
+muse-config.el | emacs用の設定ファイル，ここでmuse用のパラメータを設定しています．
+Makefile | 自動生成用のルールを記述 (emacsをwikiプロセッサーとして使っています)
+*.muse | Muse 用のファイル， wiki風 markup です．
+html/debianmeeting.css | スタイルファイルです
+html/*.html | 自動生成されるHTMLです
+
+
+* コンパイル方法
+
+コマンド || 内容
+make -k  | html/ 以下にhtmlファイルを生成 
+make -k publish | aliothにファイルを転送 [[http://tokyodebian.alioth.debian.org/][alioth の プロジェクトページ]]として見れるようになります．
+

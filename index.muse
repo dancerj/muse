@@ -13,3 +13,7 @@
 
  - [[2006-03][2006年3月勉強会]]
  - [[http://www.netfort.gr.jp/~dancer/column/2005-debianmeeting.html.ja][2005年のdebian勉強会ページ]]
+
+* このページの編集方法
+
+ - [[editing]]
