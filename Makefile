@@ -7,3 +7,10 @@ html/%.html: %.muse
 
 publish: html/*.html html/*.css
 	scp $^ alioth.debian.org:/var/lib/gforge/chroot/home/groups/tokyodebian/htdocs
+
+preview: all
+	mozilla -remote "openurl($${PWD}/html/index.html)"
+
+.PHONY: all publish preview
+
+
