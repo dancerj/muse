@@ -1,6 +1,5 @@
 #title 第16回東京エリアDebian勉強会，2006年5月勉強会
 
-
 日時 | 2006年5月14日(日曜日)
 場所 | メキシコからリモートでIRCで開催
 定員 | 不明
@@ -20,3 +19,4 @@
 
 * 参加報告
 
+ - [[http://cvs.alioth.debian.org/cgi-bin/cvsweb.cgi/~checkout~/monthly-report/debianmeetingresume200605.pdf?content-type=application/x-pdf&cvsroot=tokyodebian][PDF事前配布資料]] 未完成
