@@ -1,5 +1,6 @@
 #title 第17回東京エリアDebian勉強会，2006年6月勉強会
 
+まだ場所を確保できていないので注意
 
 日時 | 2006年6月17日(土曜日) 18:00-21:00
 場所 | [[http://www2.city.suginami.tokyo.jp/map/detail.asp?home=H00150][あんさんぶる荻窪 環境学習室]]
