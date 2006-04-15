@@ -35,5 +35,3 @@
 * 参加報告
 
  - [[http://cvs.alioth.debian.org/cgi-bin/cvsweb.cgi/~checkout~/monthly-report/debianmeetingresume200604.pdf?content-type=application/x-pdf&cvsroot=tokyodebian][PDF事前配布資料]] 未完成
-
-
