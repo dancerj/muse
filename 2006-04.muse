@@ -35,6 +35,6 @@
 * 参加報告
 
  - [[http://cvs.alioth.debian.org/cgi-bin/cvsweb.cgi/~checkout~/monthly-report/debianmeetingresume200604.pdf?content-type=application/x-pdf&cvsroot=tokyodebian][PDF事前配布資料]]
- - [[http://www.eto.to/nikki/?date=20060416#p02]][えとーさん]]
+ - [[http://www.eto.to/nikki/?date=20060416#p02][えとーさん]]
  - [[http://www.netfort.gr.jp/~dancer/diary/daily/2006-Apr-16.html.ja#2006-Apr-16-10:21:00][上川の報告]]
  - [[http://www.netfort.gr.jp/~yabuki/diary/20060415.html#p01][矢吹さん]]
