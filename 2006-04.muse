@@ -35,9 +35,41 @@
 * 参加報告
 
  - [[http://cvs.alioth.debian.org/cgi-bin/cvsweb.cgi/~checkout~/monthly-report/debianmeetingresume200604.pdf?content-type=application/x-pdf&cvsroot=tokyodebian][PDF事前配布資料]]
+ - [[http://cvs.alioth.debian.org/cgi-bin/cvsweb.cgi/~checkout~/monthly-report/debianmeetingresume200604-presentation-uekawa.pdf?content-type=application/x-pdf&cvsroot=tokyodebian][上川PDF発表資料]]
+
  - [[http://www.eto.to/nikki/?date=20060416#p02][えとーさん]]
  - [[http://www.netfort.gr.jp/~dancer/diary/daily/2006-Apr-16.html.ja#2006-Apr-16-10:21:00][上川の報告]]
  - [[http://www.netfort.gr.jp/~yabuki/diary/20060415.html#p01][矢吹さん]]
  - [[http://www.hemamu.com/hemamu/diary/?date=20060415#p02][岩松さん]]
  - [[http://dolphin.c.u-tokyo.ac.jp/~nori1/w/?cmd=view;name=Log200604#2006-04-15][小林さん]]
  - [[http://d.ma-aya.to/?date=20060415#p01][やまねさん]]
+
+* 会議議事
+
+** Debian weekly news quiz
+
+- 小林さんが満点をとりました．おめでとうございます．
+- えとーさんが一つ間違えただけでした
+
+** Debian TeX Policy について上川が解説
+
+最近 TeTeX と TeXLive が共存できるように変更が行われたり，
+設定ファイルやディレクトリ構造の整理が行われているため，既存のパッケージが機能しなくなるという事象について解説しました．
+また，日本語の処理できるTeXについてはplatex以外にもたくさんあることになっているが，
+現状インストールしただけで利用できる状態になっているのは platex くらいだということを調査報告しました．
+
+** xpdfで日本語のしおりが出ない件について実演
+
+- 現状，xpdfでは，しおりの部分がlatin-1以外の文字を削除している処理をしている，
+- 日本語ではその部分はUTF-16でエンコードされており，それをEUC-JPなどに内部的に変換すればよいのだが，表示の部分でMotifでの表示のさせかたがよくわからない．
+- gpdfでは，しおりの部分は表示されるのだが本文の文字が全く表示されない
+
+** Debian policyについて岩松さん解説
+
+- ソースパッケージについての解説をしました．
+- debian/以下のファイルがどうなっているのか，という細かい話しを解説しました．
+
+** 宴会
+
+- 「一汁一菜　遇」にて開催．
+
