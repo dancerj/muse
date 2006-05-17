@@ -14,15 +14,18 @@
 ライセンス | 提出いただいた資料は全員に配布すること，また内容の再利用を実施することを了承ください． Debian勉強会資料はGPLで公開します． (Webでの公開が可能な内容にしてください．) 
 
 
-* 当日のagenda (仮)
+* 当日のagenda
 
 時間 || 内容 || 発表者
 1 | 質問への回答 | モデレータ 上川
 2 | Debconfへのいきごみ | 岩松さん
 3 | Debconfでこれをなしとげます | 武藤さん
 4 | トロントの熱い夜 | 矢吹さん
-5 | Debconfに関する連絡事項 | etc.etc.
 
 * 参加報告
 
- - [[http://cvs.alioth.debian.org/cgi-bin/cvsweb.cgi/~checkout~/monthly-report/debianmeetingresume200605.pdf?content-type=application/x-pdf&cvsroot=tokyodebian][PDF事前配布資料]] 未完成
+ - [[http://cvs.alioth.debian.org/cgi-bin/cvsweb.cgi/~checkout~/monthly-report/debianmeetingresume200605.pdf?content-type=application/x-pdf&cvsroot=tokyodebian][PDF事前配布資料]] 
+ - [[http://cvs.alioth.debian.org/cgi-bin/cvsweb.cgi/~checkout~/meetinglog/20060514.txt?content-type=text/plain&cvsroot=tokyodebian][IRC議事録]]
+ - [[http://www.netfort.gr.jp/~dancer/diary/daily/2006-May-17.html.ja#2006-May-17-02:13:18][上川の報告]]
+
+
