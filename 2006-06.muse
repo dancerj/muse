@@ -20,7 +20,7 @@
 
 時間 || 内容 || 発表者
 18:10- | DWN trivia quiz | 上川
-19:00- | Debian policy | 岩松さん
+19:00- | Debconf 参加報告 | 岩松さん
 20:00- | CACert Signing | CACert assurers
 
 * 懇親会
