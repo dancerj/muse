@@ -19,9 +19,10 @@
 * 当日のagenda
 
 時間 || 内容 || 発表者
-18:10- | DWN trivia quiz | 上川
-19:00- | Debconf 参加報告 | 岩松さん
-20:00- | CACert Signing | CACert assurers
+18:00-18:10 | 会場準備 | 参加者
+18:10-20:00 | DWN trivia quiz | 上川
+19:00-20:00 | Debconf 参加報告 | 岩松さん
+20:00-21:00 | CACert Signing | CACert assurers
 
 * 懇親会
 
@@ -34,5 +35,4 @@
 * 参加報告
 
  - [[http://cvs.alioth.debian.org/cgi-bin/cvsweb.cgi/~checkout~/monthly-report/debianmeetingresume200606.pdf?content-type=application/x-pdf&cvsroot=tokyodebian][PDF事前配布資料]] 未完成
-
 
