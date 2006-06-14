@@ -34,6 +34,8 @@ Debian 勉強会を開催します．
  - ウェブマスター: 上川純一 dancer@debian.org
  - 日本語での相談先: [[http://www.debian.or.jp/MailingList.html][debian-users@lists.debian.or.jp]]
 
-* このページの編集方法
+* リンクなど
 
- - [[editing]]
+ - [[editing][このページの編集方法]]
+ - [[http://alioth.debian.org/projects/tokyodebian/][プロジェクトページ]]
+ - [[http://cvs.alioth.debian.org/cgi-bin/cvsweb.cgi/?cvsroot=tokyodebian][CVSweb]]
