@@ -35,4 +35,6 @@
 * 参加報告
 
  - [[http://cvs.alioth.debian.org/cgi-bin/cvsweb.cgi/~checkout~/monthly-report/debianmeetingresume200606.pdf?content-type=application/x-pdf&cvsroot=tokyodebian][PDF事前配布資料]]
+ - [[http://www.eto.to/nikki/?date=20060618#p05][えとーさん]]
+ - [[http://www.netfort.gr.jp/~dancer/diary/daily/2006-Jun-18.html.ja#2006-Jun-18-14:09:07][上川]]
 
