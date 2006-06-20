@@ -37,4 +37,5 @@
  - [[http://cvs.alioth.debian.org/cgi-bin/cvsweb.cgi/~checkout~/monthly-report/debianmeetingresume200606.pdf?content-type=application/x-pdf&cvsroot=tokyodebian][PDF事前配布資料]]
  - [[http://www.eto.to/nikki/?date=20060618#p05][えとーさん]]
  - [[http://www.netfort.gr.jp/~dancer/diary/daily/2006-Jun-18.html.ja#2006-Jun-18-14:09:07][上川]]
-
+ - [[http://www.hemamu.com/hemamu/diary/?date=20060617#p05][岩松さん]]
+ - [[http://kmuto.jp/d/index.cgi/debian/tokyo-debian-200606.htm][武藤さん]]
