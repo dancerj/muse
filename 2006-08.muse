@@ -2,7 +2,7 @@
 
 まだ確定していませんので注意。
 
-日時 | 2006年8月19日(土曜日) 18:00-21:00 or 2006年8月16日(水曜日) 18:00-21:00
+日時 | 2006年8月19日(土曜日) 18:00-21:00
 場所 | [[http://www2.city.suginami.tokyo.jp/map/detail.asp?home=H00150][あんさんぶる荻窪 環境学習室]]
 定員 | 30人
 参加登録方法 | [[http://utage.org/enkai][宴会くん]]に登録，宴会コードは debi-m200608, 8月17日までに登録ください．申込の際に事前課題を提出ください．また，その後の宴会に参加されたいかたは，コメント欄に「宴会参加する」と記述ください．
@@ -37,5 +37,4 @@
 * 参加報告
 
  - [[http://cvs.alioth.debian.org/cgi-bin/cvsweb.cgi/~checkout~/monthly-report/debianmeetingresume200608.pdf?content-type=application/x-pdf&cvsroot=tokyodebian][PDF事前配布資料]] 未完成
-
 
