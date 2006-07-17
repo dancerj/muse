@@ -28,27 +28,24 @@ IRCで参加するためには、それぞれのイベントの時間に WIDE
 * 7月14日のagenda
 
 時間 || 内容 || 発表者
-20:00-22:00 | 会場のネットワークなどの設定 | 各位
-22:00- | IRC: 開会の挨拶 | 上川?
-22:10- | IRC: 翻訳のレビューを気合をいれて実施するとの宣言 | 岩松さん
-22:20- | IRC: glibcメンテナからのありがたいお言葉 | gotomさん?
-22:30- | IRC: ハック予定内容発表 | 参加者
+20:00-24:00 | 会場のネットワークなどの設定 | 各位
+24:00- | IRC: 開会の挨拶 | 上川
+24:10- | IRC: 翻訳のレビューを気合をいれて実施するとの宣言 | 岩松さん
+24:20- | IRC: ハック予定内容発表 | 参加者
 
 * 7月15日のagenda
 
 時間 || 内容 || 発表者
-10:10-10:30 | Mactel Debian の深遠なる世界　| 上川
-10:30-10:55 | Debianの翻訳インフラの現状　| 岩松さん
+10:10-10:50 | Mactel Debian の深遠なる世界　| 上川
 10:00-18:00 | OSC-Do 参加 | 岩松さん、上川
-18:00-20:00 | Debconf会場候補下見 | 岩松さん、上川
-20:00- | OSC宴会 | 参加者
+11:00-12:00 | Debconf会場打ち合わせ　| 岩松さん、上川
+18:00-20:00 | OSC宴会 | 参加者
+20:00-21:00 | Debconf会場打ち合わせ | 岩松さん、上川
 
 * 7月16日のagenda
 
 時間 || 内容 || 発表者
-10:00-18:00 |  | 参加者
-16:00-17:00 | 成果発表会 | 参加者
-19:00?- | 懇親会？ | 未定
+10:00-22:00 | day trip, 会場下見 | 参加者
 
 * 7月17日のagenda
 
@@ -57,5 +54,5 @@ IRCで参加するためには、それぞれのイベントの時間に WIDE
 
 * 参加報告
 
- - [[http://cvs.alioth.debian.org/cgi-bin/cvsweb.cgi/~checkout~/monthly-report/debianmeetingresume200607.pdf?content-type=application/x-pdf&cvsroot=tokyodebian][PDF事前配布資料]] 未完成
+ - [[http://cvs.alioth.debian.org/cgi-bin/cvsweb.cgi/~checkout~/monthly-report/debianmeetingresume200607.pdf?content-type=application/x-pdf&cvsroot=tokyodebian][PDF事前配布資料]]
 

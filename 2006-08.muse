@@ -1,6 +1,4 @@
-#title 第19回東京エリアDebian勉強会，2006年8月勉強会(未定)
-
-まだ確定していませんので注意。
+#title 第19回東京エリアDebian勉強会，2006年8月勉強会
 
 日時 | 2006年8月19日(土曜日) 18:00-21:00
 場所 | [[http://www2.city.suginami.tokyo.jp/map/detail.asp?home=H00150][あんさんぶる荻窪 環境学習室]]
@@ -22,9 +20,9 @@
 
 時間 || 内容 || 発表者
 18:10- | DWN trivia quiz | 上川
-19:00- | Debian JP Project の近況 | Debian JP board?
-20:00- | ? | ?
-21:00- | |
+18:50- | Debian Conference 日本開催にむけての調査進捗報告 | 岩松さん
+19:40- | make-kpkg, module-assistant, kdump | 上川
+20:30- | OSC沖縄参加検討グループワーク | 各位
 
 * 懇親会
 
