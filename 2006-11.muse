@@ -5,7 +5,7 @@
 まだ場所を確保できていないので注意
 
 日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 18:00-21:00
-場所 | [[http://www2.city.suginami.tokyo.jp/map/detail.asp?home=H00150][あんさんぶる荻窪 環境学習室]]
+場所 | 大阪
 定員 | 30人
 参加登録方法 | [[http://utage.org/enkai][宴会くん]]に登録，宴会コードは debi-m<lisp>(format "%.4d%.2d" year month)</lisp>, <lisp>month</lisp>月<lisp>(- day 2)</lisp>日までに登録ください．申込の際に事前課題を提出ください．また，その後の宴会に参加されたいかたは，コメント欄に「宴会参加する」と記述ください．
 参加費用 | 500円
@@ -38,5 +38,3 @@
 * 参加報告
 
  - [[http://cvs.alioth.debian.org/cgi-bin/cvsweb.cgi/~checkout~/monthly-report/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf?content-type=application/x-pdf&cvsroot=tokyodebian][PDF事前配布資料]] 未完成
-
-
