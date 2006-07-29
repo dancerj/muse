@@ -20,12 +20,12 @@
 時間 || 内容 || 発表者
 18:10- | Intro and DWN trivia quiz | 上川
 18:40- | Debian Conference 日本開催にむけての調査進捗報告 | 岩松さん、上川
-19:10- | module-assistant パッケージの作成方法 | 上川
-19:50- | 13執念にむけて、Lightning talks | ?
+19:30- | 13執念にむけて、Lightning talks | ?
 ? | パッケージ列伝ネタ | 野首さん
 ? | board@jp のお仕事日記 | dancerj
 ? | 誕生日に思うこと? | ysjjさん
 ? | 未定 | henrich さん
+? | module-assistant パッケージの作成方法 | dancerj
 20:30- | OSC沖縄参加検討、秋のOSC検討、Debian Conference 検討グループワーク | 各位
 
 * 懇親会
