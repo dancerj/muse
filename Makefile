@@ -7,7 +7,9 @@ html/%.html: %.muse
 
 publish: html/*.html html/*.css
 	cvs ci -m 'update with publish'
-	scp $^ alioth.debian.org:/var/lib/gforge/chroot/home/groups/tokyodebian/htdocs
+	[ ! -f ../aliothweb/mountpoint ] || sshfs alioth.debian.org:/var/lib/gforge/chroot/home/groups/tokyodebian/htdocs ../aliothweb
+	[ ! -f ../aliothweb/mountpoint ]
+	cp $^ ../aliothweb/
 
 preview: all
 	mozilla -remote "openurl($${PWD}/html/index.html)"
