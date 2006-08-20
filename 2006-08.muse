@@ -42,4 +42,4 @@
  - [[http://www.netfort.gr.jp/~dancer/diary/daily/2006-Aug-20.html.ja#2006-Aug-20-12:53:55][上川]]
  - [[http://dolphin.c.u-tokyo.ac.jp/~nori1/w/?cmd=view;name=Log200608][小林さん]]
  - [[http://www.eto.to/nikki/?date=20060820#p01][えとーさん]]
-
+ - [[http://lists.alioth.debian.org/pipermail/tokyodebian-2006/2006-August/000048.html][前田さん]]
