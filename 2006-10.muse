@@ -25,7 +25,8 @@
 時間 || 内容 || 発表者
 18:10- | DWN trivia quiz | 上川
 19:00- | rpmstrapを活用する | 岩松さん
-19:50- | Gentoo/Debian | 上川
+?- | Gentoo/Debian | 上川
+?- | flash で何かをする | 松山さん
 20:00- | ? | ?
 
 * 懇親会
