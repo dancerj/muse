@@ -44,3 +44,4 @@
  - [[http://www.eto.to/nikki/?date=20060820#p01][えとーさん]]
  - [[http://lists.alioth.debian.org/pipermail/tokyodebian-2006/2006-August/000048.html][前田さん]]
  - [[http://www.daionet.gr.jp/~knok/diary/?200608c#200608211][野首さん]]
+ - [[http://www.unixuser.org/~ysjj/diary/?200608b&to=200608192#200608192][ysjjさん]]
