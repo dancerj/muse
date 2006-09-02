@@ -15,6 +15,10 @@ publish: html/*.html html/*.css
 preview: all
 	mozilla -remote "openurl($${PWD}/html/index.html)"
 
-.PHONY: all publish preview
+clean:
+	-rm *~
+
+
+.PHONY: all publish preview clean
 
 
