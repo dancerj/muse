@@ -23,7 +23,7 @@
 18:10- | DWN trivia quiz | 上川
 19:00- | rpmstrapを活用する | 岩松さん
 19:30- | Debian i18n Extradamura 報告、議論会　| 武藤さん
-?- | flash で何かをする | 松山さん
+?- | DebianでFlashを楽しんでみる | 松山さん
 ?- | Gentoo/Debian | 上川
 
 * 懇親会
