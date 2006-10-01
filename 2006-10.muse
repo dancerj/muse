@@ -24,7 +24,7 @@
 19:00- | rpmstrapを活用する | 岩松さん
 19:30- | Jamon, tinto vino, por favor. 〜スペインExtremadura州Debian i18n会議報告　| 武藤さん
 ?- | DebianでFlashを楽しんでみる | 松山さん
-?- | Gentoo/Debian | 上川
+?- | Gentoo を　Debian 上で動かしてみる | 上川
 
 * 懇親会
 
