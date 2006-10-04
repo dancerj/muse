@@ -1,4 +1,4 @@
-#title 第<lisp> number</lisp>回東京エリアDebian勉強会，<lisp>year</lisp>年<lisp>month</lisp>月勉強会(未定)
+#title 第<lisp> number</lisp>回東京エリアDebian勉強会，<lisp>year</lisp>年<lisp>month</lisp>月勉強会
 ; <lisp> (setq year 2006) (setq month 10) (setq day 21) (setq number 21)</lisp>
 
 日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 18:00-21:00
@@ -11,7 +11,7 @@
 
 参加の条件ですので提出お願いします．
 
-お題 | 「あなたの /etc/networking/interfaces をさらしてください」というタイトルでお願いします。今回は文字数制限は特に設けておりません。なお、公開可能でない部分については伏字にするなどの配慮をお願いします。
+お題 | 「あなたの /etc/networking/interfaces をさらしてください」もしくは「Debian のネットワーク設定について思うこと」というタイトルでお願いします。今回は文字数制限は特に設けておりません。なお、公開可能でない部分については伏字にするなどの配慮をお願いします。
 提出先 | tokyodebian-2006@lists.alioth.debian.org (デビアン勉強会事前資料送付用メーリングリスト宛) Subject:「Debian勉強会<lisp>number</lisp>事前課題」 としてメールの本文として提出してください
 期限 | 参加登録期限と同じ
 ライセンス | 提出いただいた資料は全員に配布すること，また内容の再利用を実施することを了承ください． Debian勉強会資料はGPLで公開します． (Webでの公開が可能な内容にしてください．) 
