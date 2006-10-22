@@ -39,3 +39,4 @@
 * 参加報告
 
  - [[http://cvs.alioth.debian.org/cgi-bin/cvsweb.cgi/~checkout~/monthly-report/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf?content-type=application/x-pdf&cvsroot=tokyodebian][PDF事前配布資料]] 未完成
+ - [[http://cvs.alioth.debian.org/cgi-bin/cvsweb.cgi/~checkout~/monthly-report/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf?content-type=application/x-pdf&cvsroot=tokyodebian][PDFプレゼンテーション資料]] 未完成
