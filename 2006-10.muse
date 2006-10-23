@@ -42,4 +42,6 @@
  - [[http://kmuto.jp/d/index.cgi/debian/tokyo-debian-200610.htm][kmutoさん]]
  - [[http://www.h7.dion.ne.jp/~matsu/feature/uzumi/ming/debian_study_meeting_21.html][matsuさん]]
  - [[http://www.popowa.com/nik/?date=20061021#p03][小室さん]]
-
+ - [[http://surf.ap.seikei.ac.jp/~nakano/diary/?200610c#200610215][中野さん]]
+ - [[http://www.eto.to/nikki/?date=20061022#p01][えとーさん]]
+ - [[http://www.netfort.gr.jp/~dancer/diary/daily/2006-Oct-22.html.ja#2006-Oct-22-12:58:46][上川]]
