@@ -39,4 +39,4 @@ Debian 勉強会を開催します．
 
  - [[editing][このページの編集方法]]
  - [[http://alioth.debian.org/projects/tokyodebian/][プロジェクトページ]]
- - [[http://cvs.alioth.debian.org/cgi-bin/cvsweb.cgi/?cvsroot=tokyodebian][CVSweb]]
+ - [[http://alioth.debian.org/plugins/scmcvs/cvsweb.php/?cvsroot=tokyodebian][CVSweb]]

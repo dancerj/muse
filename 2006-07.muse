@@ -54,8 +54,8 @@ IRCで参加するためには、それぞれのイベントの時間に WIDE
 
 * 参加報告
 
- - [[http://cvs.alioth.debian.org/cgi-bin/cvsweb.cgi/~checkout~/monthly-report/debianmeetingresume200607.pdf?content-type=application/x-pdf&cvsroot=tokyodebian][PDF事前配布資料]]
- - [[http://cvs.alioth.debian.org/cgi-bin/cvsweb.cgi/~checkout~/monthly-report/debianmeetingresume200607-presentation.pdf?content-type=application/x-pdf&cvsroot=tokyodebian][PDFプレゼンテーション資料]]
+ - [[http://alioth.debian.org/plugins/scmcvs/cvsweb.php/~checkout~/monthly-report/debianmeetingresume200607.pdf?content-type=application%2Fx-pdf;cvsroot=tokyodebian][PDF事前配布資料]]
+ - [[http://alioth.debian.org/plugins/scmcvs/cvsweb.php/~checkout~/monthly-report/debianmeetingresume200607-presentation.pdf?content-type=application%2Fx-pdf;cvsroot=tokyodebian][PDFプレゼンテーション資料]]
  - [[http://www.t-base.ne.jp/~tj/d/?date=20060715#p02][辻田さん]]
  - [[http://www.t-base.ne.jp/~nakajima/diary/?date=20060715#p03][中島さん]]
  - [[http://www.netfort.gr.jp/~dancer/diary/daily/2006-Jul-15.html.ja#2006-Jul-15-17:15:46][上川]]
