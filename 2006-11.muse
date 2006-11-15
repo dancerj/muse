@@ -1,9 +1,6 @@
 #title 第<lisp> number</lisp>回東京エリアDebian勉強会，<lisp>year</lisp>年<lisp>month</lisp>月勉強会
 ; <lisp> (setq year 2006) (setq month 11) (setq day 19) (setq number 22)</lisp>
 
-
-まだ場所を確保できていないので注意
-
 日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(日曜日) 14:00-17:00
 場所 | [[http://www.osakac.ac.jp/oecu/access/nawate/index.html][大阪電気通信大学 四条畷キャンパス 11号館 403号室]]
 定員 | 30人
