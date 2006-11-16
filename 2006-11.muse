@@ -5,7 +5,7 @@
 場所 | [[http://www.osakac.ac.jp/oecu/access/nawate/index.html][大阪電気通信大学 四条畷キャンパス 11号館 403号室]]
 定員 | 30人
 参加登録方法 | [[http://utage.org/enkai][宴会くん]]に登録，宴会コードは debi-m<lisp>(format "%.4d%.2d" year month)</lisp>, <lisp>month</lisp>月<lisp>(- day 2)</lisp>日までに登録ください．申込の際に事前課題を提出ください．また，その後の宴会に参加されたいかたは，コメント欄に「宴会参加する」と記述ください．
-参加費用 | 500円
+参加費用 | 0円
 
 * 事前課題
 
