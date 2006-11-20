@@ -27,7 +27,7 @@
 * 懇親会
 
 会場 | [[http://www.ones-osaka.com/][ONE's Restaurant]] 京橋
-時間 | 18:00-XX:00
+時間 | 18:00-20:30
 会費 | 5000
 参加登録 | 宴会くんに登録する際に表明してください
 
@@ -36,3 +36,8 @@
 
  - [[http://alioth.debian.org/plugins/scmcvs/cvsweb.php/~checkout~/monthly-report/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf?content-type=application%2Fx-pdf;cvsroot=tokyodebian][PDF事前配布資料]] 未完成
  - [[http://alioth.debian.org/plugins/scmcvs/cvsweb.php/~checkout~/monthly-report/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf?content-type=application%2Fx-pdf;cvsroot=tokyodebian][PDFプレゼンテーション資料]] 未完成
+ - [[http://www.olnr.org/~hatanaka/blog/2006/11/debian.php][はたなかさん]]
+ - [[http://www.olnr.org/~fujisawa/tdiary/?date=20061120#p02][ふじさわさん]]
+　- [[http://www.netfort.gr.jp/~dancer/diary/daily/2006-Nov-20.html.ja#2006-Nov-20-18:39:57][上川]]
+ - [[http://www.netfort.gr.jp/~yabuki/diary/20061119.html#p01][矢吹さん]]
+ - [[http://www.hemamu.com/hemamu/diary/?date=20061119#p02][岩松さん]]
