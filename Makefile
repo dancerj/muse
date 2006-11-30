@@ -7,9 +7,8 @@ html/%.html: %.muse
 
 publish: html/*.html html/*.css
 	cvs ci -m 'update with publish'
-	-fusermount -u ../aliothweb 
-	[ ! -f ../aliothweb/mountpoint ] || sshfs -o nonempty alioth.debian.org:/var/lib/gforge/chroot/home/groups/tokyodebian/htdocs ../aliothweb
-	[ ! -f ../aliothweb/mountpoint ]
+	#-fusermount -u ../aliothweb 
+	sshfs -o nonempty alioth.debian.org:/var/lib/gforge/chroot/home/groups/tokyodebian/htdocs ../aliothweb
 	cp $^ ../aliothweb/
 
 preview: all
