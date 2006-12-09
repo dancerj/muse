@@ -3,7 +3,7 @@
 all: html/*.html
 
 html/%.html: %.muse
-	emacs -batch -l muse-config.el -eval '(muse-project-publish "Debian-study")'
+	umask 002; emacs -batch -l muse-config.el -eval '(muse-project-publish "Debian-study")'
 
 publish: html/*.html html/*.css
 	cvs ci -m 'update with publish'
