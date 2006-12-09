@@ -10,7 +10,7 @@ publish: html/*.html html/*.css
 	-fusermount -u ../aliothweb 
 	[ ! -f ../aliothweb/mountpoint ] || sshfs -o nonempty,umask=002 alioth.debian.org:/var/lib/gforge/chroot/home/groups/tokyodebian/htdocs ../aliothweb
 	[ ! -f ../aliothweb/mountpoint ]
-	cp $^ ../aliothweb/
+	umask 002; cp $^ ../aliothweb/
 
 preview: all
 	mozilla -remote "openurl($${PWD}/html/index.html)"
