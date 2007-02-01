@@ -14,6 +14,7 @@ publish: $(HTML_FILES) html/*.css
 	[ ! -f ../aliothweb/mountpoint ] || sshfs -o nonempty,umask=002 alioth.debian.org:/var/lib/gforge/chroot/home/groups/tokyodebian/htdocs ../aliothweb
 	[ ! -f ../aliothweb/mountpoint ]
 	umask 002; cp $^ ../aliothweb/
+	ssh alioth.debian.org chmod g+w /var/lib/gforge/chroot/home/groups/tokyodebian/htdocs/*html
 
 preview: all
 	mozilla -remote "openurl($${PWD}/html/index.html)"
