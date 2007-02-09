@@ -1,4 +1,4 @@
-#title 第<lisp> number</lisp>回東京エリアDebian勉強会，<lisp>year</lisp>年<lisp>month</lisp>月勉強会(未定）
+#title 第<lisp> number</lisp>回東京エリアDebian勉強会，<lisp>year</lisp>年<lisp>month</lisp>月勉強会
 ; <lisp> (setq year 2007) (setq month 2) (setq day 17) (setq number 25)</lisp>
 
 日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 18:00-21:00
@@ -20,10 +20,11 @@
 * 当日のagenda
 
 時間 || 内容 || 発表者
-18:10- | DWN trivia quiz | 上川
-19:00- | ? | 岩松さん
-?- | ? | 上川
-20:00- | ? | ?
+18:10- | Intro, DWN trivia quiz | 小林
+19:00- | パッチ管理ツール quilt の使い方 | 小林
+19:30- | dbs について | 岩松さん
+20:00- | svn-buildpackage などとともに dpatch を使う | 上川さん
+20:30- | Open Source Conference 2007 Tokyo/Spring 参加に向けた準備をしよう | 全員
 
 * 懇親会
 
