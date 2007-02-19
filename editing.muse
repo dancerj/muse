@@ -13,7 +13,7 @@ Debianであれば，muse-elパッケージを利用してください．
 
 *  ディレクトリ構成
 
-alioth の tokyodebian の CVS レポジトリの中の muse というディレクトリにソースがおいてあります．
+alioth の tokyodebian の  muse.git という git レポジトリの中にソースがおいてあります。
 ディレクトリとファイルの構成は下記のとおりです．
 
 ファイル || 意味 
