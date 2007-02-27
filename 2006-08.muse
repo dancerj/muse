@@ -38,8 +38,8 @@
 
 * 参加報告
 
- - [[http://alioth.debian.org/plugins/scmcvs/cvsweb.php/~checkout~/monthly-report/debianmeetingresume200608.pdf?content-type=application%2Fx-pdf;cvsroot=tokyodebian][PDF事前配布資料]]
- - [[http://alioth.debian.org/plugins/scmcvs/cvsweb.php/~checkout~/monthly-report/debianmeetingresume200608-presentation.pdf?content-type=application%2Fx-pdf;cvsroot=tokyodebian][PDFプレゼンテーション資料]]
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]] 
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]] 
  - [[http://www.netfort.gr.jp/~dancer/diary/daily/2006-Aug-20.html.ja#2006-Aug-20-12:53:55][上川]]
  - [[http://dolphin.c.u-tokyo.ac.jp/~nori1/w/?cmd=view;name=TokyoDebianMeeting20060819][小林さん]]
  - [[http://www.eto.to/nikki/?date=20060820#p01][えとーさん]]

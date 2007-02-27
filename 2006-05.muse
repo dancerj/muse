@@ -23,6 +23,6 @@
 
 * 参加報告
 
- - [[http://alioth.debian.org/plugins/scmcvs/cvsweb.php/~checkout~/monthly-report/debianmeetingresume200605.pdf?content-type=application%2Fx-pdf;cvsroot=tokyodebian][PDF事前配布資料]] 
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume200605.pdf][PDF事前配布資料]] 
  - [[http://cvs.alioth.debian.org/cgi-bin/cvsweb.cgi/~checkout~/meetinglog/20060514.txt?content-type=text/plain&cvsroot=tokyodebian][IRC議事録]]
  - [[http://www.netfort.gr.jp/~dancer/diary/daily/2006-May-17.html.ja#2006-May-17-02:13:18][上川の報告]]

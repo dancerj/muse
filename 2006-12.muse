@@ -35,8 +35,8 @@
 
 * 参加報告
 
- - [[http://alioth.debian.org/plugins/scmcvs/cvsweb.php/~checkout~/monthly-report/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf?content-type=application%2Fx-pdf;cvsroot=tokyodebian][PDF事前配布資料]]
- - [[http://alioth.debian.org/plugins/scmcvs/cvsweb.php/~checkout~/monthly-report/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf?content-type=application%2Fx-pdf;cvsroot=tokyodebian][PDFプレゼンテーション資料]]
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
  - [[http://www.popowa.com/nik/?date=20061216#p03][小室さん]]
  - [[http://www.netfort.gr.jp/~dancer/diary/daily/2006-Dec-17.html.ja#2006-Dec-17-11:40:53][上川]]
  - [[http://www.eto.to/nikki/?date=20061217#p01][えとーさん]]

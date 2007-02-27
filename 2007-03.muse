@@ -28,5 +28,5 @@
 
 * 参加報告
 
- - [[http://alioth.debian.org/plugins/scmcvs/cvsweb.php/~checkout~/monthly-report/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf?content-type=application%2Fx-pdf;cvsroot=tokyodebian][PDF事前配布資料]] 未完成
- - [[http://alioth.debian.org/plugins/scmcvs/cvsweb.php/~checkout~/monthly-report/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf?content-type=application%2Fx-pdf;cvsroot=tokyodebian][PDFプレゼンテーション資料]] 未完成
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]] 未完成
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]] 未完成
