@@ -41,6 +41,10 @@ Debian 勉強会を開催します。
  - [[2006-03][2006年3月勉強会]]
  - [[http://www.netfort.gr.jp/~dancer/column/2005-debianmeeting.html.ja][2005年のdebian勉強会ページ]]
 
+* 関西での勉強会
+
+ - [[http://wiki.debian.org/KansaiDebianMeeting][Kansai Debian Meeting]]
+
 * 連絡先
 
  - ウェブマスター: 上川純一 dancer@debian.org
