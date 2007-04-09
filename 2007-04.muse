@@ -1,7 +1,5 @@
-#title 第<lisp> number</lisp>回東京エリアDebian勉強会，<lisp>year</lisp>年<lisp>month</lisp>月勉強会(未定)
+#title 第<lisp> number</lisp>回東京エリアDebian勉強会，<lisp>year</lisp>年<lisp>month</lisp>月勉強会
 ; <lisp> (setq year 2007) (setq month 4) (setq day 21) (setq number 27)</lisp>
-
-まだ場所確保していないので注意
 
 日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 18:00-21:00
 場所 | [[http://www2.city.suginami.tokyo.jp/map/detail.asp?home=H00150][あんさんぶる荻窪 環境学習室]]
@@ -23,10 +21,9 @@
 
 時間 || 内容 || 発表者
 18:10- | DWN trivia quiz | 上川
-19:00- | darcs | David
-? | quilt | 小林
-? | git-buildpackage | 上川
-20:00- | ? | ?
+19:00 | quilt | 小林
+19:30- | darcs | David
+20:00- | git-buildpackage | 上川
 
 * 懇親会
 
