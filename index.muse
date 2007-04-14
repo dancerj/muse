@@ -27,7 +27,7 @@ Debian 勉強会を開催します。
 
 * 過去の勉強会
 
- - [[http://wiki.debian.org/KansaiDebianMeeting20070421][関西開催、2007年3月勉強会]]
+ - [[http://wiki.debian.org/KansaiDebianMeeting20070421][2007年3月勉強会(関西）]]
  - [[2007-03][2007年3月勉強会]]
  - [[2007-02][2007年2月勉強会]]
  - [[2007-01][2007年1月勉強会]]
