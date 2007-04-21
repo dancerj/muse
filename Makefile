@@ -14,7 +14,7 @@ html/%.html: %.muse
 	touch $@
 	scp -p $< alioth.debian.org:/var/lib/gforge/chroot/home/groups/tokyodebian/htdocs/
 
-publish: $(HTML_FILES) $(RELEASE_FILES)
+publish: $(RELEASE_FILES)
 	-git-commit -a -m 'update with publish' && git-push
 	ssh alioth.debian.org chmod g+w /var/lib/gforge/chroot/home/groups/tokyodebian/htdocs/*html  /var/lib/gforge/chroot/home/groups/tokyodebian/htdocs/*css
 
@@ -23,5 +23,6 @@ preview: all
 
 clean:
 	-rm *~
+	touch $(UPLOAD_FILES)
 
 .PHONY: all publish preview clean
