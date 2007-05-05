@@ -1,4 +1,4 @@
-#title 第<lisp> number</lisp>回東京エリアDebian勉強会，<lisp>year</lisp>年<lisp>month</lisp>月勉強会(未定)
+#title 第<lisp> number</lisp>回東京エリアDebian勉強会，<lisp>year</lisp>年<lisp>month</lisp>月勉強会
 ; <lisp> (setq year 2007) (setq month 5) (setq day 19) (setq number 28)</lisp>
 
 日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 18:00-21:00
@@ -21,8 +21,8 @@
 時間 || 内容 || 発表者
 18:10- | DWN trivia quiz | 上川
 19:00- | Debian Conference で発表する内容 | 岩松さん + 上川
-19:30- | エッチになって困ったこと| 小室さん
-20:00- | Debian etch discussion | 全員
+19:30- | デビアン・エッチになって困ったこと（仮）| 小室さん
+20:00- | Debian etch について discussion | 全員
 
 * 懇親会
 
