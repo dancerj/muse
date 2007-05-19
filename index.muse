@@ -54,6 +54,7 @@ Debian 勉強会を開催します。
 
 * リンクなど
 
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume200712.pdf][資料の編集方針など（2007年12月用資料）]]
  - [[editing][このページの編集方法]]
  - [[http://alioth.debian.org/projects/tokyodebian/][Alioth でのプロジェクトページ]]
  - [[http://git.debian.org/?p=tokyodebian/monthly-report.git;a=summary][資料のgitレポジトリ]]
