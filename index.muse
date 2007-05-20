@@ -12,7 +12,7 @@ Debian 勉強会を開催します。
 * 次回の勉強会
 
  - [[2007-06][2007年6月勉強会(エジンバラ）]]
- - [[http://wiki.debian.org/KansaiDebianMeeting20070602][2007年6月勉強会(関西)]
+ - [[http://wiki.debian.org/KansaiDebianMeeting20070602][2007年6月勉強会(関西)]]
  - [[2007-07][2007年7月勉強会(東京)]]
 
 * 未来の勉強会
