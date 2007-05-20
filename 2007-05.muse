@@ -38,3 +38,4 @@
  - [[http://www.netfort.gr.jp/~dancer/diary/daily/2007-May-20.html.ja#2007-May-20-09:42:16][上川]]
  - [[http://d.hatena.ne.jp/mkouhei/20070520#1179628518][前田さん]]
  - [[http://kmuto.jp/d/index.cgi/debian/tokyo-debian-200705.htm][武藤さん]]
+ - [[http://donrails.araki.net/archives/id/5694][荒木さん]]
