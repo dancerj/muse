@@ -1,11 +1,9 @@
-#title 第<lisp> number</lisp>回東京エリアDebian勉強会，<lisp>year</lisp>年<lisp>month</lisp>月勉強会(未定)
+#title 第<lisp> number</lisp>回東京エリアDebian勉強会，<lisp>year</lisp>年<lisp>month</lisp>月勉強会
 ; <lisp> (setq year 2007) (setq month 6) (setq day 16) (setq number 29)</lisp>
-
-まだ場所確保していないので注意
 
 日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 18:00-21:00
 場所 | エジンバラ Debconf 会場、もしくは IRC #debianjp チャンネル
-定員 | 不明
+定員 | IRCの限界量
 
 * 事前課題
 
@@ -16,11 +14,12 @@
 期限 | 参加登録期限と同じ
 ライセンス | 提出いただいた資料は全員に配布すること，また内容の再利用を実施することを了承ください． Debian勉強会資料はGPLで公開します． (Webでの公開が可能な内容にしてください．) 
 
-
 * 当日のagenda
 
 時間 || 内容 || 発表者
 ？- | Debconf7キックオフ | ？
+
+現地の状況に左右されます。
 
 * 参加報告
 
