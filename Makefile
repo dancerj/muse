@@ -19,7 +19,7 @@ publish: $(RELEASEFILES)
 	ssh alioth.debian.org chmod g+w /var/lib/gforge/chroot/home/groups/tokyodebian/htdocs/*html  /var/lib/gforge/chroot/home/groups/tokyodebian/htdocs/*css
 
 preview: all
-	mozilla -remote "openurl($${PWD}/html/index.html)"
+	iceweasel -remote "openurl($${PWD}/html/index.html)"
 
 clean:
 	-rm *~

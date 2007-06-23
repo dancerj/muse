@@ -48,9 +48,9 @@ Debian 勉強会を開催します。
  - [[2006-03][2006年3月勉強会]]
  - [[http://www.netfort.gr.jp/~dancer/column/2005-debianmeeting.html.ja][2005年のdebian勉強会ページ]]
 
-* 関西での勉強会
+* 資料集
 
- - [[http://wiki.debian.org/KansaiDebianMeeting][Kansai Debian Meeting]]
+ - [[undocumenteddebian][あんどきゅめんてっどでびあん 過去PDF]]
 
 * 連絡先
 
@@ -65,3 +65,4 @@ Debian 勉強会を開催します。
  - [[http://git.debian.org/?p=tokyodebian/monthly-report.git;a=summary][資料のgitレポジトリ]]
  - [[http://git.debian.org/?p=tokyodebian/muse.git;a=summary][ウェブページのgitレポジトリ]]
  - [[http://git.debian.org/?p=tokyodebian/monthly-report.git;a=blob_plain;f=planner/200704-tokyo.ods;hb=HEAD][準備スケジュール]]
+ - [[http://wiki.debian.org/KansaiDebianMeeting][Kansai Debian Meeting]]
