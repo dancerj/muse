@@ -26,14 +26,13 @@
 
 * 懇親会
 
-会場 | 未定
+会場 | [[http://www.hotpepper.jp/A_20100/strJ000054780.html][時の居酒屋  刻　荻窪店]]
 時間 | 21:00-23:00
 会費 | 5000
 参加登録 | 宴会くんに登録する際に表明してください
 
-
 * 参加報告
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]　(未完成)
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]　(未完成)
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation-fsij.pdf][参考：FSIJ月例報告会の際のプレゼンテーション資料]]
