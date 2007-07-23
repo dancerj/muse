@@ -38,3 +38,4 @@
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation-fsij.pdf][参考：FSIJ月例報告会の際のプレゼンテーション資料]]
  - [[http://d.hatena.ne.jp/mkouhei/20070722#1185078192][前田さん]]
  - [[http://www.netfort.gr.jp/~dancer/diary/daily/2007-Jul-22.html.ja#2007-Jul-22-11:18:33][上川]]
+ - [[http://popowa.com/nik/?date=20070721#p02][小室さん]]
