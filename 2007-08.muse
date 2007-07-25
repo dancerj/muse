@@ -20,10 +20,10 @@
 * 当日のagenda
 
 時間 || 内容 || 発表者
-18:10- | DWN trivia quiz | 上川 純一
+18:10-18:30 | DWN trivia quiz | 上川 純一
 18:30-18:45 | OSC-Kansai 報告 | たかや
-19:00- | CDN.debian.or.jp 紹介 | 荒木 靖宏
-20:00- | apt の sources.list 管理についてディスカッション | 上川 純一
+19:00-19:50 | CDN.debian.or.jp 紹介 | 荒木 靖宏
+20:00-20:50 | apt の sources.list 管理についてディスカッション | 上川 純一
 
 * 懇親会
 
