@@ -1,4 +1,4 @@
-#title 第<lisp> number</lisp>回東京エリアDebian勉強会，<lisp>year</lisp>年<lisp>month</lisp>月勉強会(未定)
+#title 第<lisp> number</lisp>回東京エリアDebian勉強会，<lisp>year</lisp>年<lisp>month</lisp>月勉強会
 ; <lisp> (setq year 2007) (setq month 8) (setq day 18) (setq number 31)</lisp>
 
 日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 18:00-21:00
@@ -11,7 +11,7 @@
 
 参加の条件ですので提出お願いします．
 
-お題 | 「XXXX」というタイトルで200-800文字程度の文章を書いてください
+お題 | 「ここ最近 Debian を使っていて ハマったこと/ちょっと感激したこと」もしくは「apt の sources.list はこう書く」というタイトルで200-800文字程度の文章を書いてください
 提出先 | tokyodebian-<lisp>year</lisp>@lists.alioth.debian.org (デビアン勉強会事前資料送付用メーリングリスト宛) Subject:「Debian勉強会<lisp>number</lisp>事前課題」 としてメールの本文として提出してください
 期限 | 参加登録期限と同じ
 ライセンス | 提出いただいた資料は全員に配布すること，また内容の再利用を実施することを了承ください． Debian勉強会資料はGPLで公開します． (Webでの公開が可能な内容にしてください．) 
@@ -21,7 +21,7 @@
 
 時間 || 内容 || 発表者
 18:10-18:30 | DWN trivia quiz | 上川 純一
-18:30-18:45 | OSC-Kansai 報告 | たかや
+18:30-18:45 | OSC-Kansai 報告 | 山下 尊也
 19:00-19:50 | CDN.debian.or.jp 紹介 | 荒木 靖宏
 20:00-20:50 | apt の sources.list 管理についてディスカッション | 上川 純一
 
