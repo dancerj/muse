@@ -10,6 +10,7 @@
 	 (:base "html" :path ,(concat default-directory "html")))))
 (setq muse-html-style-sheet "<link rel=\"stylesheet\" type=\"text/css\" href=\"debianmeeting.css\">")
 (setq muse-html-header
+      (concat 
 "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\">
 <html>
   <head>
@@ -36,7 +37,10 @@
                 (concat \" (by \" author \")\"))))</lisp></h1>
     <div class=\"toplinks\">
       <a class=\"toplinks\" href=\"index.html\">Index</a>
+      <a class=\"toplinks\" href=\""
+(format-time-string "%Y-%m")
+".html\">Current</a>
     </div>    
 
     <!-- Page published by Emacs Muse begins here -->
-")
+"))
