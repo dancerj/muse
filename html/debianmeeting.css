@@ -60,10 +60,12 @@ tt {
     border: ridge;
 }
 
-/* filter-opacity is a IE hack, supported by Mozilla */
-div {
+div.toplinks {
     border: ridge;
     margin: 20pt 0pt 8pt 10pt;
+}
+
+div.bodydiv {
 }
 
 dl {

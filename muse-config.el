@@ -9,6 +9,7 @@
 	 (,default-directory :default "index")
 	 (:base "html" :path ,(concat default-directory "html")))))
 (setq muse-html-style-sheet "<link rel=\"stylesheet\" type=\"text/css\" href=\"debianmeeting.css\">")
+
 (setq muse-html-header
       (concat 
 "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\">
@@ -42,5 +43,12 @@
 ".html\">Current</a>
     </div>    
 
+    </div class=\"bodydiv\">
     <!-- Page published by Emacs Muse begins here -->
 "))
+
+(setq muse-html-footer
+"<!-- Page published by Emacs Muse ends here -->
+  </div>
+  </body>
+</html>\n")
