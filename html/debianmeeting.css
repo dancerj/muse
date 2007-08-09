@@ -9,6 +9,9 @@ body
 
 h1
 {
+  background-image: url(http://www.debian.org/logos/openlogo-nd-50.png);
+  background-repeat: no-repeat;
+  background-position: top right;
   color: #000000;
   border-style: solid;
   border-width: 5px 0px 5px 0px;
@@ -16,7 +19,7 @@ h1
   padding: 20px 0px 20px 0px;
   font-size: 24pt;
   text-align: center;
-  margin: 15pt 0pt 35pt 15pt;
+  margin: 15pt 10% 35pt 10%;
   }
 
 h2 {
