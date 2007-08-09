@@ -1,5 +1,6 @@
 #title 第14回東京エリアDebian勉強会、2006年3月勉強会
 
+* 開催概要
 
 日時 | 2006年3月18日
 場所 | [[http://www.ospn.jp/osc2006/modules/eguide/event.php?eid=52][OSC会場]]

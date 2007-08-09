@@ -36,6 +36,13 @@
           (let ((author (muse-publishing-directive \"author\")))
             (if (not (string= author (user-full-name)))
                 (concat \" (by \" author \")\"))))</lisp></h1>
+    <div class=\"bodydiv\">
+    <!-- Page published by Emacs Muse begins here -->
+"))
+
+(setq muse-html-footer (concat 
+"<!-- Page published by Emacs Muse ends here -->
+    </div>
     <div class=\"toplinks\">
       <a class=\"toplinks\" href=\"index.html\">Index</a>
       <a class=\"toplinks\" href=\""
@@ -43,12 +50,5 @@
 ".html\">Current</a>
     </div>    
 
-    </div class=\"bodydiv\">
-    <!-- Page published by Emacs Muse begins here -->
-"))
-
-(setq muse-html-footer
-"<!-- Page published by Emacs Muse ends here -->
-  </div>
   </body>
-</html>\n")
+</html>\n"))

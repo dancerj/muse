@@ -1,5 +1,6 @@
 #title 第<lisp> number</lisp>回東京エリアDebian勉強会，<lisp>year</lisp>年<lisp>month</lisp>月勉強会(未定)
 <lisp>(progn  (setq year 2007) (setq month 9) (setq day 15) (setq number 32) "") </lisp>
+* 開催概要
 
 日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 18:00-21:00
 場所 | [[http://nyc.niye.go.jp/][国立オリンピック記念青少年総合センター]] 部屋どこ？

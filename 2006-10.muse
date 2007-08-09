@@ -1,5 +1,6 @@
 #title 第<lisp> number</lisp>回東京エリアDebian勉強会，<lisp>year</lisp>年<lisp>month</lisp>月勉強会
 <lisp>(progn  (setq year 2006) (setq month 10) (setq day 21) (setq number 21) "") </lisp>
+* 開催概要
 
 日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 18:00-21:00
 場所 | [[http://www2.city.suginami.tokyo.jp/map/detail.asp?home=H00150][あんさんぶる荻窪 4F第一教室]] ！いつもと違うので注意！

@@ -1,6 +1,7 @@
 #title 第<lisp>number</lisp>回東京エリアDebian勉強会，<lisp>year</lisp>年<lisp>month</lisp>月勉強会
 
 <lisp>(progn (setq month 8)  (setq year 2007) (setq number 31) (setq day 18) "")</lisp>
+* 開催概要
 
 日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 18:00-21:00
 場所 | [[http://www2.city.suginami.tokyo.jp/map/detail.asp?home=H00150][あんさんぶる荻窪 環境学習室]]

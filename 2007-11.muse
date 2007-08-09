@@ -1,5 +1,6 @@
 #title 第<lisp> number</lisp>回東京エリアDebian勉強会，<lisp>year</lisp>年<lisp>month</lisp>月勉強会(未定)
 <lisp>(progn  (setq year 2007) (setq month 11) (setq day 17) (setq number 34) "") </lisp>
+* 開催概要
 
 まだ場所確保していないので注意
 

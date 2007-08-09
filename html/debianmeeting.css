@@ -1,17 +1,23 @@
 
-body {
-     background-color: #fff;
-     color: #000000;
-     font-size: 12pt;
+body
+{
+  background-color: #fff;
+  color: #000000;
+  font-size: 12pt;
+  line-height: 140%;
 }
 
-h1 {
-   color: #000000;
-   border-style: ridge;
-   border-color: #ffaaaa;
-   font-size: 24pt;
-   margin-left: 0pt;
-}
+h1
+{
+  color: #000000;
+  border-style: solid;
+  border-width: 5px 0px 5px 0px;
+  border-color: #bbaaff;
+  padding: 20px 0px 20px 0px;
+  font-size: 24pt;
+  text-align: center;
+  margin: 15pt 0pt 35pt 15pt;
+  }
 
 h2 {
    color: #000;
@@ -60,12 +66,21 @@ tt {
     border: ridge;
 }
 
-div.toplinks {
-    border: ridge;
-    margin: 20pt 0pt 8pt 10pt;
+div.toplinks
+{
+  width: 20%;
+  float: right;
+  border-style: solid;
+  border-color: #aaeeff;
+  border-width: 0px 5px 0px 5px;
+  margin: 20pt 3% 8pt 10pt;
 }
 
-div.bodydiv {
+div.bodydiv 
+{
+  width: 70%;
+  float: left;
+  margin: 0pt 0pt 0pt 3%;
 }
 
 dl {

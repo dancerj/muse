@@ -1,5 +1,7 @@
 #title 第19回東京エリアDebian勉強会，2006年8月勉強会
 
+* 開催概要
+
 日時 | 2006年8月19日(土曜日) 18:00-21:00
 場所 | [[http://www2.city.suginami.tokyo.jp/map/detail.asp?home=H00150][あんさんぶる荻窪 環境学習室]]
 定員 | 30人
