@@ -44,10 +44,10 @@
 "<!-- Page published by Emacs Muse ends here -->
     </div>
     <div class=\"toplinks\">
-      <a class=\"toplinks\" href=\"index.html\">Index</a>
+      <a class=\"toplinks\" href=\"index.html\">Index</a><br>
       <a class=\"toplinks\" href=\""
 (format-time-string "%Y-%m")
-".html\">Current</a>
+".html\">Current</a><br>
     </div>    
 
   </body>

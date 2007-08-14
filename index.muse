@@ -15,7 +15,7 @@ Debian 勉強会を開催します。
 * 次回の勉強会
 
  - [[2007-08][2007年8月勉強会]]
- - [[http://wiki.debian.org/KansaiDebianMeeting20070812][2007年8月勉強会(関西)]]
+ - [[http://wiki.debian.org/KansaiDebianMeeting20070915][2007年9月勉強会(関西)]]
 
 * 未来の勉強会
 
@@ -26,6 +26,7 @@ Debian 勉強会を開催します。
 
 * 過去の勉強会
 
+ - [[http://wiki.debian.org/KansaiDebianMeeting20070812][2007年8月勉強会(関西)]]
  - [[2007-07][2007年7月勉強会(東京)]]
  - [[http://wiki.debian.org/KansaiDebianMeeting20070720-21][2007年7月勉強会(関西) OSC-Kansai]]
  - [[http://wiki.debian.org/KansaiDebianMeeting20070602][2007年6月勉強会(関西)]]
