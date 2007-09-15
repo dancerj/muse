@@ -1,18 +1,20 @@
-#title 第<lisp> number</lisp>回東京エリアDebian勉強会，<lisp>year</lisp>年<lisp>month</lisp>月勉強会(未定)
+#title 第<lisp> number</lisp>回東京エリアDebian勉強会，<lisp>year</lisp>年<lisp>month</lisp>月勉強会
 <lisp>(progn  (setq year 2007) (setq month 10) (setq day 6) (setq number 33) "") </lisp>
 * 開催概要
 
-まだ場所確保していないので注意
-
-日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 18:00-21:00
-場所 | OSC Tokyo/Fall 会場
-定員 | ？
-
+日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 
+場所 | OSC Tokyo/Fall [[http://www.ospn.jp/osc2007-fall/][OSC Tokyo/Fall]]会場 大田区産業プラザ(PiO) 会議室E 
+定員 | 30
+ 
 * 当日のagenda
 
 時間 || 内容 || 発表者
-？ | 印刷関連のあれこれ（仮） | 武藤 健志
-？| Debian JP 紹介 | ？
+12:30-13:30 | GNU/Linuxはふちなし印刷の夢を見るか？ | 武藤 健志
+
+* ブース展示
+
+2007年10月6日(土) 10:00-17:30
+各種展示します。
 
 * 懇親会
 
@@ -21,8 +23,7 @@
 会費 | 5000
 参加登録 | 宴会くんに登録する際に表明してください
 
-
 * 参加報告
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]　(未完成)
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事後配布資料、今回は会場では配布しません]]　(未完成)
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]　(未完成)
