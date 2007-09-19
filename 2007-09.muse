@@ -37,3 +37,7 @@
 
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF»öÁ°ÇÛÉÛ»ñÎÁ]]¡¡(Ì¤´°À®)
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDF¥×¥ì¥¼¥ó¥Æ¡¼¥·¥ç¥ó»ñÎÁ]]¡¡(Ì¤´°À®)
+ - [[http://d.hatena.ne.jp/mkouhei/20070916#1189926415][Á°ÅÄ¤µ¤ó]]
+ - [[http://www.popowa.com/nik/?date=20070915#p02][¾®¼¼¤µ¤ó]]
+ - [[http://d.ma-aya.to/?date=20070915#p01][¤ä¤Þ¤Í¤µ¤ó]]
+ - [[http://www.nigauri.org/~iwamatsu/d/?date=20070915#p01][´ä¾¾]]
