@@ -26,7 +26,7 @@
 
 * 参加報告
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事後配布資料、今回は会場では配布しません]]　(未完成)
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事後配布資料、今回は会場では配布しません]]
  - [[http://tokyodebian.alioth.debian.org/pdf/osc2007-cups.pdf][「GNU/Linuxはふちなし印刷の夢を見るか？」PDFプレゼンテーション資料（武藤 健志、CC-Attribution license）]]
  - [[http://www.netfort.gr.jp/~dancer/diary/daily/2007-Oct-7.html.ja#2007-Oct-7-12:15:24][上川]]
  - [[http://kmuto.jp/d/index.cgi/debian/osc2007-after.htm][武藤さん]]
