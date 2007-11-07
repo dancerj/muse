@@ -22,9 +22,9 @@
 
 時間 || 内容 || 発表者
 18:10- | DWN trivia quiz | 上川 純一
+18:30- | OSC Tokyo/Fall,  KOF 報告 | 山根 秀樹、上川 純一
 19:00- | Debian での bluetooth 活用方法紹介 | 野首 貴嗣
 19:40- | livehelper ネタ | 岩松 信洋
-20:20- | OSC Tokyo/Fall,  KOF 報告 | 山根 秀樹、上川 純一
 20:20- | Tomoyo Kernel Module を Debian Package にしてみました | 山根 秀樹、
 
 * 懇親会
