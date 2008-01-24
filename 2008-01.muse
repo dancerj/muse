@@ -27,7 +27,7 @@
 
 * 懇親会
 
-会場 | [[荻窪 高原亭][http://r.gnavi.co.jp/p351100/]]
+会場 | [[http://r.gnavi.co.jp/p351100/][荻窪 高原亭]]
 時間 | 21:00-23:00
 会費 | 5000
 参加登録 | 宴会くんに登録する際に表明してください
@@ -42,4 +42,5 @@
 
  - [[http://www.netfort.gr.jp/~dancer/diary/daily/2008-Jan-20.html.ja#2008-Jan-20-11:23:17][上川]]
  - [[http://d.hatena.ne.jp/mkouhei/20080120#1200824381][前田さん]]
+ - [[http://dolphin.c.u-tokyo.ac.jp/~nori1/w/?cmd=view;name=Log200801#2008-01-19][小林]]
  - [[http://popowa.com/nik/?date=20080119#p01][小室さん]]
