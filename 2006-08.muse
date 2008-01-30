@@ -21,7 +21,7 @@
 
 時間 || 内容 || 発表者
 18:10- | Intro and DWN trivia quiz | 上川
-18:40- | Debian Conference 日本開催にむけての調査進捗報告 | 岩松さん、上川
+18:40- | Debian Conference 日本開催にむけての調査進捗報告 | 岩松信洋、上川純一
 19:30- | 13執念にむけて、Lightning talks | ?
 ? | パッケージ列伝 | 野首さん
 ? | 誕生日に思うこと | ysjjさん

@@ -23,7 +23,7 @@
 時間 || 内容 || 発表者
 18:10- | Intro, DWN trivia quiz | 小林儀匡
 19:00- | パッチ管理ツール quilt の使い方 | 小林儀匡
-19:30- | dbs について | 岩松
+19:30- | dbs について | 岩松信洋
 20:00- | svn-buildpackage などとともに dpatch を使う | 上川純一
 20:30- | Open Source Conference 2007 Tokyo/Spring 参加に向けた準備をしよう | 全員
 

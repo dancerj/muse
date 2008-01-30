@@ -23,7 +23,7 @@
 時間 || 内容 || 発表者
 18:10- | DWN trivia quiz | 上川
 19:00- | 前回の報告 | やまね
-19:30- | Debian policy | 岩松さん
+19:30- | Debian policy | 岩松信洋さん
 20:30- | Debian Texの構造をあぶりだす | 上川 
 
 * 懇親会
@@ -43,7 +43,7 @@
  - [[http://www.eto.to/nikki/?date=20060416#p02][えとーさん]]
  - [[http://www.netfort.gr.jp/~dancer/diary/daily/2006-Apr-16.html.ja#2006-Apr-16-10:21:00][上川の報告]]
  - [[http://www.netfort.gr.jp/~yabuki/diary/20060415.html#p01][矢吹さん]]
- - [[http://www.hemamu.com/hemamu/diary/?date=20060415#p02][岩松さん]]
+ - [[http://www.hemamu.com/hemamu/diary/?date=20060415#p02][岩松信洋さん]]
  - [[http://dolphin.c.u-tokyo.ac.jp/~nori1/w/?cmd=view;name=TokyoDebianMeeting20060415][小林儀匡さん]]
  - [[http://d.ma-aya.to/?date=20060415#p01][やまねさん]]
 
@@ -67,7 +67,7 @@
  - 日本語ではその部分はUTF-16でエンコードされており，それをEUC-JPなどに内部的に変換すればよいのだが，表示の部分でMotifでの表示のさせかたがよくわからない．
  - gpdfでは，しおりの部分は表示されるのだが本文の文字が全く表示されない
 
-** Debian policyについて岩松さん解説
+** Debian policyについて岩松信洋さん解説
 
  - ソースパッケージについての解説をしました．
  - debian/以下のファイルがどうなっているのか，という細かい話しを解説しました．

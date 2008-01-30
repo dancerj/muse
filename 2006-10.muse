@@ -23,7 +23,7 @@
 時間 || 内容 || 発表者
 18:10- | DWN trivia quiz | 上川
 19:00- | Jamon, tinto vino, por favor. 〜スペインExtremadura州Debian i18n会議報告　| 武藤さん
-20:00- | rpmstrapを活用する | 岩松さん
+20:00- | rpmstrapを活用する | 岩松信洋
 20:20- | DebianでFlashを楽しんでみる | 松山さん
 20:45- | Gentoo を　Debian 上で動かしてみる | 上川
 

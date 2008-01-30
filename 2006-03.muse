@@ -12,7 +12,7 @@
 * 当日のagenda
 
 時間 || 内容 || 発表者
-1 | Debian勉強会とは | 岩松さん
+1 | Debian勉強会とは | 岩松信洋さん
 2 | Debian sid へのいざない | やまねさん
 
 
@@ -20,7 +20,7 @@
 
 参加者 || 反応
 矢吹さん | [[http://blog.good-day.net/~yabuki/diary/20060318.html#p01][日記]]
-岩松さん | [[http://www.hemamu.com/hemamu/diary/?date=20060318#p02][日記]] [[http://www.hemamu.com/hemamu/trash/osc2006-spring.odp][発表資料]]
+岩松信洋さん | [[http://www.hemamu.com/hemamu/diary/?date=20060318#p02][日記]] [[http://www.hemamu.com/hemamu/trash/osc2006-spring.odp][発表資料]]
 やまねさん | [[http://d.ma-aya.to/?date=20060318#p01][日記]]
 
 以下，澤田さんによるまとめ

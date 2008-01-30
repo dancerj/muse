@@ -20,10 +20,10 @@
 
 * 当日のagenda
 
-18:10-18:30 | DWN trivia quiz | 岩松
-18:30-18:45 | あまり知られていないかもしれない apt-xxx | 岩松
+18:10-18:30 | DWN trivia quiz | 岩松信洋
+18:30-18:45 | あまり知られていないかもしれない apt-xxx | 岩松信洋
 19:00-19:50 | exim 再発見 | 小室 文さん
-20:00-20:50 | Debian での MUA/MTA のディスカッション | 岩松
+20:00-20:50 | Debian での MUA/MTA のディスカッション | 岩松信洋
 
 * 懇親会
 
@@ -40,5 +40,5 @@
  - [[http://d.hatena.ne.jp/mkouhei/20070916#1189926415][前田さん]]
  - [[http://www.popowa.com/nik/?date=20070915#p02][小室さん]]
  - [[http://d.ma-aya.to/?date=20070915#p01][やまねさん]]
- - [[http://www.nigauri.org/~iwamatsu/d/?date=20070915#p01][岩松]]
+ - [[http://www.nigauri.org/~iwamatsu/d/?date=20070915#p01][岩松信洋]]
  - [[http://dolphin.c.u-tokyo.ac.jp/~nori1/w/?cmd=view;name=Log200709][小林儀匡]]
