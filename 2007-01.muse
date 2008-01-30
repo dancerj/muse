@@ -21,12 +21,12 @@
 * 当日のagenda
 
 時間 || 内容 || 発表者
-18:10-18:30 | intro | 上川
+18:10-18:30 | intro | 上川純一
 18:40-19:10 | apt-torrent | 岩松信洋さん
-19:10-19:25 | kvm | 上川
+19:10-19:25 | kvm | 上川純一
 19:30-20:30 | 2007年のDebian勉強会を計画する | 全員
 20:30-20:45 | quilt | 小林儀匡さん 
-20:45-20:50 | Debian Conference 参加募集 | 上川
+20:45-20:50 | Debian Conference 参加募集 | 上川純一
 
 * 懇親会
 
@@ -42,5 +42,5 @@
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
  - [[http://palmtb.blogspot.com/2007/01/blog-post_2041.html][mkouheiさん]]
  - [[http://www.popowa.com/nik/?date=20070120#p02][小室さん]]
- - [[http://www.netfort.gr.jp/~dancer/diary/daily/2007-Jan-21.html.ja#2007-Jan-21-20:16:11][上川]]
+ - [[http://www.netfort.gr.jp/~dancer/diary/daily/2007-Jan-21.html.ja#2007-Jan-21-20:16:11][上川純一]]
  - [[http://d.hatena.ne.jp/gunshot/20070120/p2][吉田さん]]

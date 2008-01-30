@@ -21,10 +21,10 @@
 * 当日のagenda
 
 時間 || 内容 || 発表者
-18:10- | DWN trivia quiz | 上川
+18:10- | DWN trivia quiz | 上川純一
 19:00- | 前回の報告 | やまね
 19:30- | Debian policy | 岩松信洋さん
-20:30- | Debian Texの構造をあぶりだす | 上川 
+20:30- | Debian Texの構造をあぶりだす | 上川純一
 
 * 懇親会
 
@@ -38,10 +38,10 @@
 
 
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume200604.pdf][PDF事前配布資料]]
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume200604-presentation-uekawa.pdf][上川PDF発表資料]]
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume200604-presentation-uekawa.pdf][上川純一PDF発表資料]]
 
  - [[http://www.eto.to/nikki/?date=20060416#p02][えとーさん]]
- - [[http://www.netfort.gr.jp/~dancer/diary/daily/2006-Apr-16.html.ja#2006-Apr-16-10:21:00][上川の報告]]
+ - [[http://www.netfort.gr.jp/~dancer/diary/daily/2006-Apr-16.html.ja#2006-Apr-16-10:21:00][上川純一の報告]]
  - [[http://www.netfort.gr.jp/~yabuki/diary/20060415.html#p01][矢吹さん]]
  - [[http://www.hemamu.com/hemamu/diary/?date=20060415#p02][岩松信洋さん]]
  - [[http://dolphin.c.u-tokyo.ac.jp/~nori1/w/?cmd=view;name=TokyoDebianMeeting20060415][小林儀匡さん]]
@@ -54,7 +54,7 @@
  - 小林さんが満点をとりました．おめでとうございます．
  - えとーさんが一つ間違えただけでした
 
-** Debian TeX Policy について上川が解説
+** Debian TeX Policy について上川純一が解説
 
 最近 TeTeX と TeXLive が共存できるように変更が行われたり，
 設定ファイルやディレクトリ構造の整理が行われているため，既存のパッケージが機能しなくなるという事象について解説しました．

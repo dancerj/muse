@@ -18,7 +18,7 @@
 * 当日のagenda
 
 時間 || 内容 || 発表者
-1 | 質問への回答 | モデレータ 上川
+1 | 質問への回答 | モデレータ 上川純一
 2 | Debconfへのいきごみ | 岩松信洋さん
 3 | Debconfでこれをなしとげます | 武藤さん
 4 | トロントの熱い夜 | 矢吹さん
@@ -27,4 +27,4 @@
 
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume200605.pdf][PDF事前配布資料]] 
  - [[http://cvs.alioth.debian.org/cgi-bin/cvsweb.cgi/~checkout~/meetinglog/20060514.txt?content-type=text/plain&cvsroot=tokyodebian][IRC議事録]]
- - [[http://www.netfort.gr.jp/~dancer/diary/daily/2006-May-17.html.ja#2006-May-17-02:13:18][上川の報告]]
+ - [[http://www.netfort.gr.jp/~dancer/diary/daily/2006-May-17.html.ja#2006-May-17-02:13:18][上川純一の報告]]

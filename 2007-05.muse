@@ -20,8 +20,8 @@
 * 当日のagenda
 
 時間 || 内容 || 発表者
-18:10- | DWN trivia quiz | 上川
-19:00- | Debian Conference で発表する内容 | 岩松信洋さん + 上川
+18:10- | DWN trivia quiz | 上川純一
+19:00- | Debian Conference で発表する内容 | 岩松信洋さん + 上川純一
 19:30- | サーバをエッチにしてみました | 小室さん
 20:00- | Debian etch について discussion | 全員
 
@@ -36,7 +36,7 @@
 
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
- - [[http://www.netfort.gr.jp/~dancer/diary/daily/2007-May-20.html.ja#2007-May-20-09:42:16][上川]]
+ - [[http://www.netfort.gr.jp/~dancer/diary/daily/2007-May-20.html.ja#2007-May-20-09:42:16][上川純一]]
  - [[http://d.hatena.ne.jp/mkouhei/20070520#1179628518][前田さん]]
  - [[http://kmuto.jp/d/index.cgi/debian/tokyo-debian-200705.htm][武藤さん]]
  - [[http://donrails.araki.net/archives/id/5694][荒木さん]]

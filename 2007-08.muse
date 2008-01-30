@@ -41,7 +41,7 @@
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
  - [[http://d.hatena.ne.jp/mkouhei/20070819#1187493470][前田さん]]
  - [[http://donrails.araki.net/archives/id/5799][荒木(yasu)さん]]
- - [[http://www.netfort.gr.jp/~dancer/diary/daily/2007-Aug-19.html.ja#2007-Aug-19-21:55:06][上川]]
+ - [[http://www.netfort.gr.jp/~dancer/diary/daily/2007-Aug-19.html.ja#2007-Aug-19-21:55:06][上川純一]]
  - [[http://popowa.com/nik/?date=20070818#p01][小室さん]]
  - [[http://hisashim.livejournal.com/375196.html][hisashimさん]]
 

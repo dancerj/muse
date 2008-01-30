@@ -39,7 +39,7 @@
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
  - [[http://lists.debian.or.jp/debian-devel/200704/msg00026.html][青木さんの感想]]
- - [[http://www.netfort.gr.jp/~dancer/diary/daily/2007-Apr-22.html.ja#2007-Apr-22-20:15:35][上川の感想]]
+ - [[http://www.netfort.gr.jp/~dancer/diary/daily/2007-Apr-22.html.ja#2007-Apr-22-20:15:35][上川純一の感想]]
  - [[http://www.eto.to/nikki/?date=20070423#p01][えとーさん]]
  - [[http://dolphin.c.u-tokyo.ac.jp/~nori1/w/?cmd=view;name=Log200704][小林儀匡さん]]
  - [[http://comuro.org/nik/?date=20070421#p03][小室さん]]

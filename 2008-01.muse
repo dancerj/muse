@@ -21,9 +21,9 @@
 * 当日のagenda
 
 時間 || 内容 || 発表者
-18:10- | DWN trivia quiz | 上川
-19:00- | Debian 勉強会2008年度計画 | 上川
-20:00- | Debian パッケージ作成の流れを追ってみる | 上川
+18:10- | DWN trivia quiz | 上川純一
+19:00- | Debian 勉強会2008年度計画 | 上川純一
+20:00- | Debian パッケージ作成の流れを追ってみる | 上川純一
 
 * 懇親会
 
@@ -40,7 +40,7 @@
 
 * 参加報告
 
- - [[http://www.netfort.gr.jp/~dancer/diary/daily/2008-Jan-20.html.ja#2008-Jan-20-11:23:17][上川]]
+ - [[http://www.netfort.gr.jp/~dancer/diary/daily/2008-Jan-20.html.ja#2008-Jan-20-11:23:17][上川純一]]
  - [[http://d.hatena.ne.jp/mkouhei/20080120#1200824381][前田さん]]
  - [[http://dolphin.c.u-tokyo.ac.jp/~nori1/w/?cmd=view;name=Log200801#2008-01-19][小林儀匡]]
  - [[http://popowa.com/nik/?date=20080119#p01][小室さん]]
