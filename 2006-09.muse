@@ -39,7 +39,7 @@
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
  - [[http://www.hemamu.com/hemamu/diary/?date=20060916#p02][岩松信洋さん]]
- - [[http://www.netfort.gr.jp/~dancer/diary/daily/2006-Sep-17.html.ja#2006-Sep-17-10:01:52][上川]]
+ - [[http://www.netfort.gr.jp/~dancer/diary/daily/2006-Sep-17.html.ja#2006-Sep-17-10:01:52][上川純一]]
  - [[http://www.popowa.com/nik/?date=20060916#p02][ややあやや]]
  - [[http://www.eto.to/nikki/?date=20060918#p02][えとーさん]]
  - [[http://dolphin.c.u-tokyo.ac.jp/~nori1/w/?cmd=view;name=Log200609][小林儀匡さん]]
