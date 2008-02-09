@@ -2,10 +2,10 @@
 <lisp>(progn  (setq year 2008) (setq month 3) (setq day 1) (setq number 37) "") </lisp>
 * 開催概要
 
-日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) ??
-場所 | OSC 会場
-定員 | ?
-参加登録方法 | 未定
+日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日)
+場所 | OSC 2008 spring 会場
+定員 | セミナー:40名 / ハンズオン:25名
+参加登録方法 | OSC2008 spring のWebサイトから行ってください(http://www.ospn.jp/osc2008-spring/)
 参加費用 | なし
 
 * 事前課題
@@ -21,8 +21,20 @@
 * 当日のagenda
 
 時間 || 内容 || 発表者
-？- | Debian の最近事情 | ？
-？- | XXX | ？
+11:15-12:00 | [[ihttp://www.ospn.jp/osc2008-spring/modules/eguide/event.php?eid=52][Debian Package ハンズオン]] | 岩松 信洋
+14:00-14:45 | [[http://www.ospn.jp/osc2008-spring/modules/eguide/event.php?eid=46][Debian Overview]] | やまねひでき
+
+* Debian Package ハンズオンの連絡
+
+(この項目は更新されます。参加者は定期的に確認していただけるようお願いします。)
+
+Debian Package のハンズオンでは、開発環境が必要です。
+ノートPCをお持ちこみの場合は以下の環境をご用意してご参加ください。
+
+対象OS | Debian GNU/Linux Etch
+必要なパッケージ  | gcc binutils libc6-dev devscripts debhelper lintian linda
+
+chroot もご用意する予定です。後日アップロードします。
 
 * 懇親会
 
