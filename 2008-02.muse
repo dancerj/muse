@@ -21,7 +21,7 @@
 * 当日のagenda
 
 時間 || 内容 || 発表者
-11:15-12:00 | [[ihttp://www.ospn.jp/osc2008-spring/modules/eguide/event.php?eid=52][Debian Package ハンズオン]] | 岩松 信洋
+11:15-12:00 | [[http://www.ospn.jp/osc2008-spring/modules/eguide/event.php?eid=52][Debian Package ハンズオン]] | 岩松 信洋
 14:00-14:45 | [[http://www.ospn.jp/osc2008-spring/modules/eguide/event.php?eid=46][Debian Overview]] | やまねひでき
 
 * Debian Package ハンズオンの連絡
