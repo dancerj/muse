@@ -4,7 +4,7 @@
 
 日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日)
 場所 | OSC 2008 spring 会場
-定員 | セミナー:40名 / ハンズオン:25名
+定員 | セミナー:40名 / ハンズオン:38名
 参加登録方法 | OSC2008 spring のWebサイトから行ってください(http://www.ospn.jp/osc2008-spring/)
 参加費用 | なし
 
@@ -21,7 +21,7 @@
 * 当日のagenda
 
 時間 || 内容 || 発表者
-11:15-12:00 | [[http://www.ospn.jp/osc2008-spring/modules/eguide/event.php?eid=52][Debian Package ハンズオン]] | 岩松 信洋
+15:15-16:00 | [[http://www.ospn.jp/osc2008-spring/modules/eguide/event.php?eid=52][Debian Package ハンズオン]] | 岩松 信洋
 14:00-14:45 | [[http://www.ospn.jp/osc2008-spring/modules/eguide/event.php?eid=46][Debian Overview]] | やまねひでき
 
 * Debian Package ハンズオンの連絡
