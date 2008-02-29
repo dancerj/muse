@@ -32,9 +32,15 @@ Debian Package のハンズオンでは、開発環境が必要です。
 ノートPCをお持ちこみの場合は以下の環境をご用意してご参加ください。
 
 対象OS | Debian GNU/Linux Etch
-必要なパッケージ  | gcc binutils libc6-dev devscripts debhelper lintian linda
+必要なパッケージ  | gcc binutils libc6-dev devscripts debhelper lintian dh-make apt-file pbuilder
 
-chroot もご用意する予定です。後日アップロードします。
+
+ノートPCをお使いの方は以下のchrootイメージを使ってください（ちょっと仕込みをいれているので。）
+http://tokyodebian.alioth.debian.org/etch-chroot-osc2008.tar.gz
+http://www.nigauri.org/~iwamatsu/osc2008/etch-chroot-osc2008.tar.gz(ミラー)
+
+また、当日はLive-CDを用意します。ノートPCのない方の参加も加能です。
+PC台分用意しますので、ノートPC持参の方もLive-CDを使って参加することができます。
 
 * 懇親会
 
