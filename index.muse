@@ -16,6 +16,11 @@ Debian 勉強会を開催します。
 
  - [[2008-03][2008年3月勉強会]]
 
+* 関連記事など
+
+ - 2007/12/27 ＠IT自分戦略研究所 [[http://jibun.atmarkit.co.jp/lcom01/special/comeve01/comeve01.html][積極的な発言が勉強会を盛り上げる]]
+ - 2008/2/18 ＠IT自分戦略研究所 [[http://jibun.atmarkit.co.jp/lcom01/special/semi/semi01.html][先達を見つけ、自分なりの勉強会を開催せよ]]
+
 * 未来の勉強会
 
  - [[2008-04][2008年4月勉強会]]
