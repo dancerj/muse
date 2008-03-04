@@ -22,7 +22,7 @@
 
 時間 || 内容 || 発表者
 14:10- | DWN trivia quiz | 上川純一
-14:30- | Open Source Conference 展示報告 | 山根秀樹・岩松信洋
+14:30- | Open Source Conference 展示報告 | やまねひでき・岩松信洋
 15:00- | Debian パッケージ論1: データだけのパッケージ、ライセンスの考え方 | David Smith
 
 
