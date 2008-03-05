@@ -8,16 +8,6 @@
 参加登録方法 | OSC2008 spring のWebサイトから行ってください(http://www.ospn.jp/osc2008-spring/)
 参加費用 | なし
 
-* 事前課題
-
-今回はOSC開催のため、事前課題は参加の要件とはしません。が、あるとおもしろいので広く募集します。
-
-お題 | 「（未定）」というタイトルで200-800文字程度の文章を書いてください
-提出先 | tokyodebian-<lisp>year</lisp>@lists.alioth.debian.org (デビアン勉強会事前資料送付用メーリングリスト宛) Subject:「Debian勉強会<lisp>number</lisp>事前課題」 としてメールの本文として提出してください
-期限 | 参加登録期限と同じ
-ライセンス | 提出いただいた資料は全員に配布すること，また内容の再利用を実施することを了承ください． Debian勉強会資料はGPLで公開します． (Webでの公開が可能な内容にしてください．) 
-
-
 * 当日のagenda
 
 時間 || 内容 || 発表者
@@ -25,8 +15,6 @@
 14:00-14:45 | [[http://www.ospn.jp/osc2008-spring/modules/eguide/event.php?eid=46][Debian Overview]] | やまねひでき
 
 * Debian Package ハンズオンの連絡
-
-(この項目は更新されます。参加者は定期的に確認していただけるようお願いします。)
 
 Debian Package のハンズオンでは、開発環境が必要です。
 ノートPCをお持ちこみの場合は以下の環境をご用意してご参加ください。
@@ -42,18 +30,20 @@ http://www.nigauri.org/~iwamatsu/osc2008/etch-chroot-osc2008.tar.gz(ミラー)
 また、当日はLive-CDを用意します。ノートPCのない方の参加も加能です。
 PC台分用意しますので、ノートPC持参の方もLive-CDを使って参加することができます。
 
-* 懇親会
-
-会場 | 未定
-時間 | ？
-会費 | 5000
-参加登録 | 宴会くん？
-
-
 * 資料
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]　(未完成)
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume200802-hanson.pdf][ハンズオンPDFプレゼンテーション資料]]
 
 * 参加報告
 
+ - http://d.hatena.ne.jp/akuwano/20080303#1204560082
+ - http://d.hatena.ne.jp/ichii386/20080303/1204484511
+ - http://d.hatena.ne.jp/jitsu102/20080301/1204379844
+ - http://d.hatena.ne.jp/mkouhei/20080302#1204424115
+ - http://d.hatena.ne.jp/CCG/20080302#p3
+ - http://d.ma-aya.to/?date=20080301#p01
+ - http://junaraki.net/blog/2008/03/02/48.html
+ - http://masashi.biz/blog/archives/001161.html
+ - http://www.popowa.com/nik/?date=20080301#p01
+ - http://www.smokeymonkey.net/2008/03/2008-tokyospring-31-sat.html
+ - http://osamu-m.org/d/?date=20080302#p01
