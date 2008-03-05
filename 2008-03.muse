@@ -1,10 +1,10 @@
-#title 第<lisp> number</lisp>回東京エリアDebian勉強会，<lisp>year</lisp>年<lisp>month</lisp>月勉強会 (未定）
+#title 第<lisp> number</lisp>回東京エリアDebian勉強会，<lisp>year</lisp>年<lisp>month</lisp>月勉強会 
 <lisp>(progn  (setq year 2008) (setq month 3) (setq day 15) (setq number 38) "") </lisp>
 * 開催概要
 
 日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 14:00-18:00 (いつもより早い時間帯なのでご注意ください)
-場所 | Google 東京オフィス
-定員 | 30人（？）
+場所 | [[http://maps.google.co.jp/maps/ms?msa=0&msid=103025693653867566500.00043cc53fdb460db1f4b&hl=ja&ie=UTF8&ll=35.657628,139.701065&spn=0.003191,0.006974&z=17&iwloc=00043cc543919c0be4d53][Google 東京オフィス]、B1F から入館してください、入館方法の詳細については後日このウェブページで連絡します。社員の立会いが必要なため、できるだけ14:00に集合してください。
+定員 | 30人くらい（？）
 参加登録方法 | [[http://utage.org/enkai][宴会くん]]に登録，宴会コードは debi-m<lisp>(format "%.4d%.2d" year month)</lisp>, <lisp>month</lisp>月<lisp>(- day 2)</lisp>日までに登録ください．申込の際に事前課題を提出ください．また，その後の宴会に参加されたいかたは，コメント欄に「宴会参加する」と記述ください．
 参加費用 | 500円（仮）
 
@@ -12,7 +12,7 @@
 
 参加の条件ですので提出お願いします．
 
-お題 | 「（未定）」というタイトルで200-800文字程度の文章を書いてください
+お題 | 「データだけのパッケージでできること」もしくは「ソフトウェアのライセンスで不自由したこと」もしくは「好きなソフトウェアライセンスとその理由」というタイトルで200-800文字程度の文章を書いてください
 提出先 | tokyodebian-<lisp>year</lisp>@lists.alioth.debian.org (デビアン勉強会事前資料送付用メーリングリスト宛) Subject:「Debian勉強会<lisp>number</lisp>事前課題」 としてメールの本文として提出してください
 期限 | 参加登録期限と同じ
 ライセンス | 提出いただいた資料は全員に配布すること，また内容の再利用を実施することを了承ください． Debian勉強会資料はGPLで公開します． (Webでの公開が可能な内容にしてください．) 
