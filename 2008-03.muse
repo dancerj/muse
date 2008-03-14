@@ -23,7 +23,8 @@
 時間 || 内容 || 発表者
 14:10- | DAN trivia quiz | 上川純一
 14:30- | Open Source Conference 展示報告 | やまねひでき
-15:00- | Debian パッケージ論1: データだけのパッケージ、ライセンスの考え方 | David Smith
+15:00- | Debian パッケージ論1: データだけのパッケージ | David Smith
+16:00- | Debian でのパッケージのライセンスの考え方 | 上川純一
 
 
 * 懇親会
