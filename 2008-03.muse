@@ -41,4 +41,7 @@
 
 * 参加報告
  - [[http://blogger.ukai.org/2008/03/debian-google-japan.html][鵜飼さん]]
+ - [[http://d.hatena.ne.jp/yamanetoshi/20080315/p4][yamanetoshi]]
+ - [[http://d.hatena.ne.jp/jitsu102/20080315/1205588429][jitsu]]
+ - [[http://d.hatena.ne.jp/mkouhei/20080316#1205648501][前田さん]]
 
