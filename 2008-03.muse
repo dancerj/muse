@@ -45,3 +45,5 @@
  - [[http://d.hatena.ne.jp/jitsu102/20080315/1205588429][jitsu]]
  - [[http://d.hatena.ne.jp/mkouhei/20080316#1205648501][前田さん]]
  - [[http://d.hatena.ne.jp/CCG/20080316#p2][CCGさん]]
+ - [[http://www.ianlewis.org/index.php?title=debian_a_afmaf&more=1&c=1&tb=1&pb=1][Ian Lewisさん]]
+ - [[http://osamu-m.org/d/?date=20080316#p02][osamuさん]]
