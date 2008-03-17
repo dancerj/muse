@@ -14,6 +14,7 @@ Debian 勉強会を開催します。
 
 * 次回の勉強会
 
+ - [[http://wiki.debian.org/KansaiDebianMeeting20080323][2008年3月勉強会(第11回関西Debian勉強会)]]
  - [[2008-04][2008年4月勉強会]]
 
 * 関連記事など
