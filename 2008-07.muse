@@ -23,6 +23,7 @@
 時間 || 内容 || 発表者
 18:10- | DWN trivia quiz | 上川純一
 19:00- | ファイルシステムネタ | ?
+19:00- | kernel patch / kernel module | ? 
 
 * 懇親会
 
