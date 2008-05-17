@@ -23,7 +23,7 @@
 時間 || 内容 || 発表者
 18:10- | DWN trivia quiz | 小林儀匡
 19:00- | パッケージ作成(dpatch/debhelperで作成するパッケージ) | 小林儀匡
-20:00- | man の書き方(roff or docbook)|でんさん
+20:00- | man の書き方(roff or docbook) | でんさん
 
 * 懇親会
 
