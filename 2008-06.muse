@@ -21,7 +21,7 @@
 * 当日のagenda
 
 時間 || 内容 || 発表者
-18:10- | DWN trivia quiz | 小林儀匡
+18:10- | DWN trivia quiz | 岩松 信洋
 19:00- | パッケージ作成(dpatch/debhelperで作成するパッケージ) | 小林儀匡
 
 * 懇親会
