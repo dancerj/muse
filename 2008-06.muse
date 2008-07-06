@@ -26,7 +26,7 @@
 
 * 懇親会
 
-会場 | 未定
+会場 | [[http://r.tabelog.com/tokyo/rstdtl/13045105/][居酒屋さつき]]
 時間 | 21:00-23:00
 会費 | 5000
 参加登録 | 宴会くんに登録する際に表明してください
@@ -34,8 +34,9 @@
 
 * 資料
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]　(未完成)
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]　(未完成)
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
 
 * 参加報告
-
+ - [[http://d.hatena.ne.jp/mkouhei/20080621][前田さん]]
+ - [[http://www.nigauri.org/~iwamatsu/d/?date=20080621#p03][岩松]]
