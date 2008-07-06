@@ -1,79 +1,129 @@
-#title ¤¢¤ó¤É¤­¤å¤á¤ó¤Æ¤Ã¤É¤Ç¤Ó¤¢¤ó
+#title ã‚ã‚“ã©ãã‚…ã‚ã‚“ã¦ã£ã©ã§ã³ã‚ã‚“
 
-* ¡Ø¤¢¤ó¤É¤­¤å¤á¤ó¤Æ¤Ã¤É ¤Ç¤Ó¤¢¤ó¡Ù¤Ë¤Ä¤¤¤Æ
+* ã€ã‚ã‚“ã©ãã‚…ã‚ã‚“ã¦ã£ã© ã§ã³ã‚ã‚“ã€ã«ã¤ã„ã¦
 
-ËÜ½ñ¤Ï¡¢Åìµş¼şÊÕ¤ÇËè·î¹Ô¤Ê¤ï¤ì¤Æ¤¤¤ë¡ØÅìµş¥¨¥ê¥¢ Debian ÊÙ¶¯²ñ¡Ù¤Ç»ÈÍÑ
-¤µ¤ì¤¿»ñÎÁ¡¦¾®¥Í¥¿¡¦É¬»¦µ»¤Ê¤É¤òÈ¾Ç¯¤Ë°ì²ó°ìºı¤Ë¤Ş¤È¤á¤Æ¤¤¤ë¤â¤Î¤Ç¤¹¡£
-Í­»Ö¤Ç»æÇŞÂÎ¤Ë°õºş¤·¤ÆÍ­½ş¤ÇÇÛÉÛ¤·¤Æ¤¤¤Ş¤¹¤¬¡¢PDF·Á¼°¤Ç¤âÇÛÉÛ¤·¤Æ¤ª¤ê¡¢
-¤³¤³¤«¤é¥À¥¦¥ó¥í¡¼¥É¤Ç¤­¤Ş¤¹¡£
+æœ¬æ›¸ã¯ã€æ±äº¬å‘¨è¾ºã§æ¯æœˆè¡Œãªã‚ã‚Œã¦ã„ã‚‹ã€æ±äº¬ã‚¨ãƒªã‚¢ Debian å‹‰å¼·ä¼šã€ã§ä½¿ç”¨
+ã•ã‚ŒãŸè³‡æ–™ãƒ»å°ãƒã‚¿ãƒ»å¿…æ®ºæŠ€ãªã©ã‚’åŠå¹´ã«ä¸€å›ä¸€å†Šã«ã¾ã¨ã‚ã¦ã„ã‚‹ã‚‚ã®ã§ã™ã€‚
+æœ‰å¿—ã§ç´™åª’ä½“ã«å°åˆ·ã—ã¦æœ‰å„Ÿã§é…å¸ƒã—ã¦ã„ã¾ã™ãŒã€PDFå½¢å¼ã§ã‚‚é…å¸ƒã—ã¦ãŠã‚Šã€
+ã“ã“ã‹ã‚‰ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰ã§ãã¾ã™ã€‚
 
-** 2005Ç¯²Æ¹æ
+** 2005å¹´å¤å·
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2005-natsu.pdf][2005Ç¯²Æ¹æPDF]] 
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2005-natsu.pdf][2005å¹´å¤å·PDF]] 
 
- - Debian Social Contract¤Ë¤Ä¤¤¤Æ
- - debhelperÏÀ ¤½¤Î1 Debhelper¤È¤Ï²¿¤«¡¥Â¸ºß°ÕµÁ¤Ï²¿¤«¡¥
- - debhelperÏÀ ¤½¤Î2 Debhelper¤Î³Æ¥³¥Ş¥ó¥É¤Ï²¿¼Ô¤«¡¥
- - debhelperÏÀ ¤½¤Î3 Debhelper¤Î½èÍı¤ÎÎ®¤ì¡¥
- - DFSG¶µ
+ - Debian Social Contractã«ã¤ã„ã¦
+ - debhelperè«– ãã®1 Debhelperã¨ã¯ä½•ã‹ï¼å­˜åœ¨æ„ç¾©ã¯ä½•ã‹ï¼
+ - debhelperè«– ãã®2 Debhelperã®å„ã‚³ãƒãƒ³ãƒ‰ã¯ä½•è€…ã‹ï¼
+ - debhelperè«– ãã®3 Debhelperã®å‡¦ç†ã®æµã‚Œï¼
+ - DFSGæ•™
  - dpkg-cross
- - alternatives -ÁªÂò¤»¤è-
+ - alternatives -é¸æŠã›ã‚ˆ-
  - Inside Debian-Installer
- - dpatch¤ò¤Ä¤«¤Ã¤Æ¤ß¤è¤¦
+ - dpatchã‚’ã¤ã‹ã£ã¦ã¿ã‚ˆã†
  - ``claim'' makes Debian better
  - Stating debconf translation
  - Debian Weekly News trivia quiz
 
 
-** 2005Ç¯Åß¹æ
+** 2005å¹´å†¬å·
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2005-fuyu.pdf][2005Ç¯Åß¹æPDF]] 
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2005-fuyu.pdf][2005å¹´å†¬å·PDF]] 
 
- - ITP¤Î»ÅÊı¤«¤é¥¢¥Ã¥×¥í¡¼¥É¤Ş¤Ç¤ÎÎ®¤ì
- - debconfÏÀ
- - apt-listbugs ¤ÎÀ¸¤¤Î©¤Á¤È¼ÂÁõ
+ - ITPã®ä»•æ–¹ã‹ã‚‰ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰ã¾ã§ã®æµã‚Œ
+ - debconfè«–
+ - apt-listbugs ã®ç”Ÿã„ç«‹ã¡ã¨å®Ÿè£…
  - ``claim'' makes Debian better
  - Starting debconf translation
  - debbugs internal
- - Debian¤È¥¹¥Æ¡¼¥¿¥¹
- - Debian Weekly News ËİÌõ¥Õ¥í¡¼
+ - Debianã¨ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹
+ - Debian Weekly News ç¿»è¨³ãƒ•ãƒ­ãƒ¼
  - Debian Weekly News trivia quiz
 
-** 2006Ç¯²Æ¹æ
+** 2006å¹´å¤å·
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2006-natsu.pdf][2006Ç¯²Æ¹æPDF]] 
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2006-natsu.pdf][2006å¹´å¤å·PDF]] 
 
- - Debian Policy ÆşÌç Âè1²ó
- - Debian Policy ÆşÌç Âè2²ó
- - Debian Policy ÆşÌç Âè3²ó
+ - Debian Policy å…¥é–€ ç¬¬1å›
+ - Debian Policy å…¥é–€ ç¬¬2å›
+ - Debian Policy å…¥é–€ ç¬¬3å›
  - Debian multimedia project
- - Debian Multimedia Audio application³µ´Ñ
+ - Debian Multimedia Audio applicationæ¦‚è¦³
  - Debian \TeX{
- - Debian latex¤Î¸½¾õÄ´ºº
- - °ìÇ¯´ÖDebianÊÙ¶¯²ñ¤ò¤ä¤Ã¤Æ¤ß¤Æ
- - DebianÊÙ¶¯²ñ¤Î»öÁ°»ñÎÁ¤ÎºîÀ®¤Ï¤É¤¦¤ä¤Ã¤Æ¤ä¤Ã¤¿¤«
- - °ìÇ¯´ÖDebianÊÙ¶¯²ñ¤ò¤ä¤Ã¤Æ¤ß¤Æ
- - Debconf¤Ç³«ºÅ¤µ¤ì¤¿²ñµÄ³µÍ×
+ - Debian latexã®ç¾çŠ¶èª¿æŸ»
+ - ä¸€å¹´é–“Debianå‹‰å¼·ä¼šã‚’ã‚„ã£ã¦ã¿ã¦
+ - Debianå‹‰å¼·ä¼šã®äº‹å‰è³‡æ–™ã®ä½œæˆã¯ã©ã†ã‚„ã£ã¦ã‚„ã£ãŸã‹
+ - ä¸€å¹´é–“Debianå‹‰å¼·ä¼šã‚’ã‚„ã£ã¦ã¿ã¦
+ - Debconfã§é–‹å‚¬ã•ã‚ŒãŸä¼šè­°æ¦‚è¦
  - pbuilder cowdancer cowbuilder
  - Debian Weekly News trivia quiz
- - Debian Weekly News ÌäÂê²óÅú
+ - Debian Weekly News å•é¡Œå›ç­”
 
 
-** 2006Ç¯Åß¹æ
+** 2006å¹´å†¬å·
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2006-fuyu.pdf][2006Ç¯Åß¹æPDF]] 
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2006-fuyu.pdf][2006å¹´å†¬å·PDF]] 
 
- - MacBook ¤Ë Debian ¤ò¥¤¥ó¥¹¥È¡¼¥ë
- - ¤¢¤Ê¤¿¤¬ÃÎ¤é¤Ê¤¤¤¦¤Á¤Ë»È¤Ã¤Æ¤¤¤ëDebian specific
- - ËİÌõ¤Ø¤Î¤µ¤½¤¤
- - dpkg, apt ¤Î¥×¥í¥Õ¥¡¥¤¥ê¥ó¥°
- - apt¤òºÇÅ¬²½¤·¤Æ¤ß¤ë
- - Jamon, tinto vino, por favor. ¡Á¥¹¥Ú¥¤¥óExtremadura½£Debian i18n²ñµÄÊó¹ğ
- - Debian¤ÇFlash¤·¤¿¤¤
- - rpmstrap¤ò³èÍÑ¤¹¤ë
+ - MacBook ã« Debian ã‚’ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«
+ - ã‚ãªãŸãŒçŸ¥ã‚‰ãªã„ã†ã¡ã«ä½¿ã£ã¦ã„ã‚‹Debian specific
+ - ç¿»è¨³ã¸ã®ã•ãã„
+ - dpkg, apt ã®ãƒ—ãƒ­ãƒ•ã‚¡ã‚¤ãƒªãƒ³ã‚°
+ - aptã‚’æœ€é©åŒ–ã—ã¦ã¿ã‚‹
+ - Jamon, tinto vino, por favor. ã€œã‚¹ãƒšã‚¤ãƒ³Extremaduraå·Debian i18nä¼šè­°å ±å‘Š
+ - Debianã§Flashã—ãŸã„
+ - rpmstrapã‚’æ´»ç”¨ã™ã‚‹
  - gentoo chroot
- - ¥Ñ¥Ã¥±¡¼¥¸¥ó¥°¤Ë¤Ä¤¤¤Æ
- - sid ¤òÆü¾ï´Ä¶­¤È¤·¤Æ»È¤¦¤¿¤á¤ÎÃí°Õ
- - bugreport ÏÀ
+ - ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ãƒ³ã‚°ã«ã¤ã„ã¦
+ - sid ã‚’æ—¥å¸¸ç’°å¢ƒã¨ã—ã¦ä½¿ã†ãŸã‚ã®æ³¨æ„
+ - bugreport è«–
  - Debian Weekly News trivia quiz
- - Debian Weekly News ÌäÂê²óÅú
+ - Debian Weekly News å•é¡Œå›ç­”
+
+** 2007å¹´å¤å·
+
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2007-natsu.pdf][2006å¹´å†¬å·PDF]] 
+
+ - ãƒ‘ãƒƒãƒç®¡ç†ãƒ„ãƒ¼ãƒ« quilt ã®ä½¿ã„æ–¹
+ - dpatch ã«ã¤ã„ã¦ã®å°ãƒã‚¿
+ - dbs
+ - darcs ä½¿ã„ã‹ãŸ
+ - git-buildpackage ã®ä½¿ã„ã‹ãŸ
+ - git ã®å®Ÿè£…æŠ€è¡“çš„è§£èª¬
+ - ä»®æƒ³ãƒã‚·ãƒ³ãƒ¢ãƒ‹ã‚¿ KVM
+ - Bug Squashing Party 
+ - apt-torrent
+ - ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆãƒˆãƒ©ãƒƒã‚«ãƒ¼ã®å‹§ã‚
+ - ã‚µãƒ¼ãƒã‚’ã‚¨ãƒƒãƒã«ã—ã¦ã¿ã¾ã—ãŸ
+ - æœ€è¿‘ pbuilder ã£ã¦ã©ã†ã‚ˆ?
+ - Debian on SuperH
+ - Debian ã®æƒ…å ±ãƒ•ãƒ­ãƒ¼
+ - Debian å‹‰å¼·ä¼šè³‡æ–™ã®ä½œæˆæ–¹æ³•
+ - Debian å‹‰å¼·ä¼š 2006 å¹´çµæœçµ±è¨ˆ
+ - Debian å‹‰å¼·ä¼š 2006 å¹´ã€ä½œæ¥­ãƒ•ãƒ­ãƒ¼
+ - Debian å‹‰å¼·ä¼š 2007 å¹´åº¦è¨ˆç”»æ¤œè¨çµæœ
+ - Debian Weekly News trivia quiz
+ - ä»®æƒ³åŒ–å‹ã®ä¼šã¨ã®åˆåŒã‚¯ã‚¤ã‚º
+ - Debian Weekly News å•é¡Œå›ç­”
+
+** 2007å¹´å†¬å·
+
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2007-fuyu.pdf][2007å¹´å†¬å·PDF]] 
+
+ - Debconf å‚åŠ å ±å‘Š
+ - Debconf 2007 å„ç¨®è¨è­°å†…å®¹
+ - OSC-Kansai å‚åŠ å ±å‘Š
+ - å°†æ¥ã® Debconf
+ - cdn.debian.or.jp ã®ç´¹ä»‹
+ - Debian GNU/kFreeBSD ã®ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«
+ - Exim å†ç™ºè¦‹
+ - ã‚ãªãŸã®çŸ¥ã‚‰ãªã„ã‹ã‚‚ã—ã‚Œãªã„ apt-xxx
+ - DebTorrent ã«è§¦ã£ã¦ã¿ãŸ
+ - live-helper
+ - Debian ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã®ä½œã‚Šæ–¹ (1) â€“ 20 åˆ†ã§ä½œã‚‹ Debian ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ â€“
+ - Debian ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã®ä½œã‚Šæ–¹ (2) â€“ debian/rules ã‚’èª­ã‚€ â€“
+ - Debian ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã®ä½œã‚Šæ–¹ (3) â€“ dpatch ã®ä½¿ã„æ–¹ â€“
+ - Debian ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã®ä½œã‚Šæ–¹ (4) â€“ ãƒ©ã‚¤ãƒ–ãƒ©ãƒªç·¨ â€“
+ - HP ML350G5 Debian etch å‹•ä½œç¢ºèª
+ - HP ML110G4 Debian etch å‹•ä½œç¢ºèª
+ - Debian Weekly News trivia quiz
+ - Debian Weekly News å•é¡Œå›ç­”
+
