@@ -2,7 +2,7 @@
 <lisp>(progn  (setq year 2008) (setq month 9) (setq day 20) (setq number 44) "") </lisp>
 * 開催概要
 
-日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 14:00〜17:00
+日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 14:00〜17:00 (いつもより早い時間帯なのでご注意ください)
 場所 | [[http://nyc.niye.go.jp/][国立オリンピック記念青少年総合センター]] 部屋は未定
 定員 | 20人
 参加登録方法 | [[http://utage.org/enkai][宴会くん]]に登録，宴会コードは debi-m<lisp>(format "%.4d%.2d" year month)</lisp>, <lisp>month</lisp>月<lisp>(- day 2)</lisp>日までに登録ください．申込の際に事前課題を提出ください．また，その後の宴会に参加されたいかたは，コメント欄に「宴会参加する」と記述ください．
@@ -21,8 +21,8 @@
 * 当日のagenda
 
 時間 || 内容 || 発表者
-14:10- | DWN trivia quiz | 上川純一
-15:00- | XXX | 上川純一
+14:10- | DWN trivia quiz | 岩松信洋
+15:00- | XXX | 岩松信洋
 
 * 懇親会
 

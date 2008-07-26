@@ -14,7 +14,7 @@ Debian 勉強会を開催します。
 
 * 次回の勉強会
  - [[2008-08][2008年8月勉強会(第43回東京エリアDebian勉強会)]]
- - [[http://wiki.debian.org/KansaiDebianMeeting20080817][(第16回関西Debian勉強会)]]
+ - [[http://wiki.debian.org/KansaiDebianMeeting20080817][2008年8月勉強会(第16回関西Debian勉強会)]]
 
 * 関連記事など
 
