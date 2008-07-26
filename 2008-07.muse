@@ -38,3 +38,7 @@
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
 
 * 参加報告
+ - [[http://www.nigauri.org/~iwamatsu/d/?date=20080719#p01][岩松]]
+ - [[http://d.ma-aya.to/?date=20080719#p01][やまねさん]]
+ - [[http://d.hatena.ne.jp/mkouhei/20080720#1216517893][前田さん]]
+ - [[http://d.hatena.ne.jp/wavekids/20080720/1216541189][山本啄さん]]
