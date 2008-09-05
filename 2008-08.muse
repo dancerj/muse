@@ -7,7 +7,7 @@
 
 ** 開催概要
 
-日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(日曜日) 22:00-24:00（日本時間）
+日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(月曜日) 22:00-24:00（日本時間）
 場所 | マルデルプラタ Debconf8 会場、もしくは IRC irc.debian.or.jp #debconf8 チャンネル(文字コード: iso-2022-jp)
 定員 | IRCの限界量
 参加登録方法 | IRCチャンネルにログインしてください。
