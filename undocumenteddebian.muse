@@ -2,107 +2,10 @@
 
 * 『あんどきゅめんてっど でびあん』について
 
-本書は、東京周辺で毎月行なわれている『東京エリア Debian 勉強会』で使用
+本書は、東京エリアおよび関西エリア周辺で毎月行なわれている『東京エリア/関西エリア Debian 勉強会』で使用
 された資料・小ネタ・必殺技などを半年に一回一冊にまとめているものです。
 有志で紙媒体に印刷して有償で配布していますが、PDF形式でも配布しており、
 ここからダウンロードできます。
-
-** 2005年夏号
-
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2005-natsu.pdf][2005年夏号PDF]] 
-
- - Debian Social Contractについて
- - debhelper論 その1 Debhelperとは何か．存在意義は何か．
- - debhelper論 その2 Debhelperの各コマンドは何者か．
- - debhelper論 その3 Debhelperの処理の流れ．
- - DFSG教
- - dpkg-cross
- - alternatives -選択せよ-
- - Inside Debian-Installer
- - dpatchをつかってみよう
- - ``claim'' makes Debian better
- - Stating debconf translation
- - Debian Weekly News trivia quiz
-
-
-** 2005年冬号
-
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2005-fuyu.pdf][2005年冬号PDF]] 
-
- - ITPの仕方からアップロードまでの流れ
- - debconf論
- - apt-listbugs の生い立ちと実装
- - ``claim'' makes Debian better
- - Starting debconf translation
- - debbugs internal
- - Debianとステータス
- - Debian Weekly News 翻訳フロー
- - Debian Weekly News trivia quiz
-
-** 2006年夏号
-
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2006-natsu.pdf][2006年夏号PDF]] 
-
- - Debian Policy 入門 第1回
- - Debian Policy 入門 第2回
- - Debian Policy 入門 第3回
- - Debian multimedia project
- - Debian Multimedia Audio application概観
- - Debian \TeX{
- - Debian latexの現状調査
- - 一年間Debian勉強会をやってみて
- - Debian勉強会の事前資料の作成はどうやってやったか
- - 一年間Debian勉強会をやってみて
- - Debconfで開催された会議概要
- - pbuilder cowdancer cowbuilder
- - Debian Weekly News trivia quiz
- - Debian Weekly News 問題回答
-
-
-** 2006年冬号
-
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2006-fuyu.pdf][2006年冬号PDF]] 
-
- - MacBook に Debian をインストール
- - あなたが知らないうちに使っているDebian specific
- - 翻訳へのさそい
- - dpkg, apt のプロファイリング
- - aptを最適化してみる
- - Jamon, tinto vino, por favor. 〜スペインExtremadura州Debian i18n会議報告
- - DebianでFlashしたい
- - rpmstrapを活用する
- - gentoo chroot
- - パッケージングについて
- - sid を日常環境として使うための注意
- - bugreport 論
- - Debian Weekly News trivia quiz
- - Debian Weekly News 問題回答
-
-** 2007年夏号
-
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2007-natsu.pdf][2006年冬号PDF]] 
-
- - パッチ管理ツール quilt の使い方
- - dpatch についての小ネタ
- - dbs
- - darcs 使いかた
- - git-buildpackage の使いかた
- - git の実装技術的解説
- - 仮想マシンモニタ KVM
- - Bug Squashing Party 
- - apt-torrent
- - プロジェクトトラッカーの勧め
- - サーバをエッチにしてみました
- - 最近 pbuilder ってどうよ?
- - Debian on SuperH
- - Debian の情報フロー
- - Debian 勉強会資料の作成方法
- - Debian 勉強会 2006 年結果統計
- - Debian 勉強会 2006 年、作業フロー
- - Debian 勉強会 2007 年度計画検討結果
- - Debian Weekly News trivia quiz
- - 仮想化友の会との合同クイズ
- - Debian Weekly News 問題回答
 
 ** 2007年冬号
 
@@ -126,4 +29,101 @@
  - HP ML110G4 Debian etch 動作確認
  - Debian Weekly News trivia quiz
  - Debian Weekly News 問題回答
+
+** 2007年夏号
+
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2007-natsu.pdf][2007年夏号PDF]] 
+
+ - パッチ管理ツール quilt の使い方
+ - dpatch についての小ネタ
+ - dbs
+ - darcs 使いかた
+ - git-buildpackage の使いかた
+ - git の実装技術的解説
+ - 仮想マシンモニタ KVM
+ - Bug Squashing Party 
+ - apt-torrent
+ - プロジェクトトラッカーの勧め
+ - サーバをエッチにしてみました
+ - 最近 pbuilder ってどうよ?
+ - Debian on SuperH
+ - Debian の情報フロー
+ - Debian 勉強会資料の作成方法
+ - Debian 勉強会 2006 年結果統計
+ - Debian 勉強会 2006 年、作業フロー
+ - Debian 勉強会 2007 年度計画検討結果
+ - Debian Weekly News trivia quiz
+ - 仮想化友の会との合同クイズ
+ - Debian Weekly News 問題回答
+
+** 2006年冬号
+
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2006-fuyu.pdf][2006年冬号PDF]] 
+
+ - MacBook に Debian をインストール
+ - あなたが知らないうちに使っているDebian specific
+ - 翻訳へのさそい
+ - dpkg, apt のプロファイリング
+ - aptを最適化してみる
+ - Jamon, tinto vino, por favor. 〜スペインExtremadura州Debian i18n会議報告
+ - DebianでFlashしたい
+ - rpmstrapを活用する
+ - gentoo chroot
+ - パッケージングについて
+ - sid を日常環境として使うための注意
+ - bugreport 論
+ - Debian Weekly News trivia quiz
+ - Debian Weekly News 問題回答
+
+** 2006年夏号
+
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2006-natsu.pdf][2006年夏号PDF]] 
+
+ - Debian Policy 入門 第1回
+ - Debian Policy 入門 第2回
+ - Debian Policy 入門 第3回
+ - Debian multimedia project
+ - Debian Multimedia Audio application概観
+ - Debian TeX
+ - Debian latexの現状調査
+ - 一年間Debian勉強会をやってみて
+ - Debian勉強会の事前資料の作成はどうやってやったか
+ - 一年間Debian勉強会をやってみて
+ - Debconfで開催された会議概要
+ - pbuilder cowdancer cowbuilder
+ - Debian Weekly News trivia quiz
+ - Debian Weekly News 問題回答
+
+** 2005年冬号
+
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2005-fuyu.pdf][2005年冬号PDF]] 
+
+ - ITPの仕方からアップロードまでの流れ
+ - debconf論
+ - apt-listbugs の生い立ちと実装
+ - ``claim'' makes Debian better
+ - Starting debconf translation
+ - debbugs internal
+ - Debianとステータス
+ - Debian Weekly News 翻訳フロー
+ - Debian Weekly News trivia quiz
+
+** 2005年夏号
+
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2005-natsu.pdf][2005年夏号PDF]] 
+
+ - Debian Social Contractについて
+ - debhelper論 その1 Debhelperとは何か．存在意義は何か．
+ - debhelper論 その2 Debhelperの各コマンドは何者か．
+ - debhelper論 その3 Debhelperの処理の流れ．
+ - DFSG教
+ - dpkg-cross
+ - alternatives -選択せよ-
+ - Inside Debian-Installer
+ - dpatchをつかってみよう
+ - ``claim'' makes Debian better
+ - Stating debconf translation
+ - Debian Weekly News trivia quiz
+
+
 
