@@ -1,28 +1,30 @@
 #title 第<lisp> number</lisp>回東京エリアDebian勉強会，<lisp>year</lisp>年<lisp>month</lisp>月勉強会 (未定）
-<lisp>(progn  (setq year 2008) (setq month 10) (setq day 18) (setq number 45) "") </lisp>
+<lisp>(progn  (setq year 2008) (setq month 10) (setq day 4) (setq number 45) "") </lisp>
 * 開催概要
 
 日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 18:00-21:00
-場所 | [[http://www2.city.suginami.tokyo.jp/map/detail.asp?home=H00150][あんさんぶる荻窪 環境学習室]]
-定員 | 30人
-参加登録方法 | [[http://utage.org/enkai][宴会くん]]に登録，宴会コードは debi-m<lisp>(format "%.4d%.2d" year month)</lisp>, <lisp>month</lisp>月<lisp>(- day 2)</lisp>日までに登録ください．申込の際に事前課題を提出ください．また，その後の宴会に参加されたいかたは，コメント欄に「宴会参加する」と記述ください．
-参加費用 | 500円
+場所 | [[http://www.ospn.jp/osc2008-fall/][OSC 2008 Tokyo Fall]] 会場
+定員 | セミナー:87名 / ミニセミナー:不明
+参加登録方法 | OSC2008 Tokyo Fall のWebサイトから行ってください(http://www.ospn.jp/osc2008-fall/)
+参加費用 | なし
 
 * 事前課題
+なし
 
-参加の条件ですので提出お願いします．
-
-お題 | 「（未定）」というタイトルで200-800文字程度の文章を書いてください
-提出先 | tokyodebian-<lisp>year</lisp>@lists.alioth.debian.org (デビアン勉強会事前資料送付用メーリングリスト宛) Subject:「Debian勉強会<lisp>number</lisp>事前課題」 としてメールの本文として提出してください
-期限 | 参加登録期限と同じ
-ライセンス | 提出いただいた資料は全員に配布すること，また内容の再利用を実施することを了承ください． Debian勉強会資料はGPLで公開します． (Webでの公開が可能な内容にしてください．) 
-
+* 展示
+OSC 2008 Tokyo Fall では展示を行います。
+ - Debian インストールCD/Live-CD の配布
+ - Debian 可動マシンの展示
+ - Debian 勉強会資料の展示
+ - Debian 関連書籍の展示
+ - Debian 質問箱
 
 * 当日のagenda
 
-時間 || 内容 || 発表者
-18:10- | DWN trivia quiz | 上川純一
-19:00- | XXX | 上川純一
+時間 || タイトル || 内容 || 発表者
+11:15-12:00 | 「あなた」とオープンソース／フリーソフトウェア、そして「Debian」 | オープンソース／フリーソフトウェアは、「あなた」にとってどんな価値があるのでしょうか？どのような利益をもたらすものなのでしょうか？不利益は生じないのでしょうか？「自由」を求めるディストリビューション　Debian のパッケージメンテナの一人として、そして個人／会社等での利用者としてこれらに接する立場から改めて考えた視点を伝えます。 | やまね ひでき
+13:00-14:15 | 勉強会大集合 東京エリアDebian勉強会の紹介 | 東京エリアDebian勉強会の紹介と勉強会の運営方法などについて語るかもしれません。 | 岩松 信洋
+未定 | Debian でぶっこぬき！ FLOSSのFlash環境（未定） | 自由なソフトウェアで構成される Debian GNU/Linux。プロプラエタリなソフトウェアの代表であるFlash-plugin を使わずに GNU/Linux 上で生き延びる方法を話すかもしれません。 | 岩松 信洋
 
 * 懇親会
 
