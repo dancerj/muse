@@ -37,8 +37,11 @@
 
 * 資料
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]　(未完成)
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]　(未完成)
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]] (今回はありません。)
 
 * 参加報告
-
+ - [[http://d.hatena.ne.jp/aked0n/20080817/1219253701][あけどさん]]
+ - [[http://d.hatena.ne.jp/BlueSkyDetector/20080818][鈴木さん]]
+ - [[http://d.hatena.ne.jp/mkouhei/20080817#1218984451][前田さん]]
+ - [[http://www.nigauri.org/~iwamatsu/d/?date=20080818][岩松]]
