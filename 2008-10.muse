@@ -31,7 +31,7 @@ OSC 2008 Tokyo Fall では展示を行います。
 会場 | 未定
 時間 | 21:00-23:00
 会費 | 5000
-参加登録 | 宴会くんに登録する際に表明してください
+参加登録方法 | [[http://utage.org/enkai][宴会くん]]に登録，宴会コードは debi-m<lisp>(format "%.4d%.2d" year month)</lisp>, <lisp>month</lisp>月<lisp>(- day 2)</lisp>日までに登録ください．
 
 
 * 資料
