@@ -11,7 +11,7 @@ html/%.html: %.muse
 	umask 002; emacs -batch -l muse-config.el -eval '(muse-project-publish "Debian-study")'
 
 %.release-stamp: %
-	scp -p $< alioth.debian.org:/var/lib/gforge/chroot/home/groups/tokyodebian/htdocs/
+	scp $< alioth.debian.org:/var/lib/gforge/chroot/home/groups/tokyodebian/htdocs/
 	touch $@
 
 publish: $(RELEASEFILES)
