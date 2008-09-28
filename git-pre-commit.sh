@@ -1,7 +1,7 @@
 #!/bin/sh
 # try to run make before commit.
 # add this to .git/hooks/pre-commit and chmod a+x
-# cp git-pre-commit.sh .git/hooks/pre-commit
+# cp -p git-pre-commit.sh .git/hooks/pre-commit
 
 echo 'Run pre-commit make testing'
 make preview
