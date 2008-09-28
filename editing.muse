@@ -22,11 +22,14 @@ alioth の tokyodebian の  muse.git という git レポジトリの中にソースがおいてあり
 =*.muse= | Muse 用のファイル， wiki風 markup です．
 =html/debianmeeting.css= | スタイルファイルです
 =html/*.html= | 自動生成されるHTMLです
+git-pre-commit.sh | cp -p git-pre-commit.sh .git/hooks/pre-commit として利用するチェック用スクリプトです
 
 * コンパイル方法
 
-コマンド || 内容
-make -k  | html/ 以下にhtmlファイルを生成 
-make -k preview | firefox を起動、プリビュー
-make -k publish | aliothにファイルを転送 [[http://tokyodebian.alioth.debian.org/][alioth の プロジェクトページ]]として見れるようになります．
+git commit をする際に git-pre-commit.sh を利用すると自動で make preview してくれるようになります。
+make publish でリリースです。
 
+コマンド || 内容
+make  | html/ 以下にhtmlファイルを生成 
+make preview | iceweasel を起動して、プリビュー
+make publish | aliothにファイルを転送 [[http://tokyodebian.alioth.debian.org/][alioth の プロジェクトページ]]として見れるようになります．
