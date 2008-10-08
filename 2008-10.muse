@@ -40,4 +40,9 @@ OSC 2008 Tokyo Fall では展示を行います。
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]　(未完成)
 
 * 参加報告
-
+ - [[http://taka.no32.tk/diary/20081004.html#p03][たかのさん]]
+ - [[http://popowa.com/nik/?date=20081004#p01][あやさん]]
+ - [[http://blog.goo.ne.jp/ikunya/e/b38a2c5dbc678d27d191bcd7733de3e4][いくやさん]]
+ - [[http://d.hatena.ne.jp/mkouhei/20081005#1223132524][前田さん]]
+ - [[http://d.hatena.ne.jp/Megumi221/20081004][megumi211さん]]
+ - [[http://d.hatena.ne.jp/haray/][harayさん]]
