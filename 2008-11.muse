@@ -1,4 +1,4 @@
-#title 第<lisp> number</lisp>回東京エリアDebian勉強会，<lisp>year</lisp>年<lisp>month</lisp>月勉強会 (未定）
+#title 第<lisp> number</lisp>回東京エリアDebian勉強会，<lisp>year</lisp>年<lisp>month</lisp>月勉強会 
 <lisp>(progn  (setq year 2008) (setq month 11) (setq day 15) (setq number 46) "") </lisp>
 * 開催概要
 
@@ -30,7 +30,7 @@ Debian GNU/Linux (sid) のインストールされたノートパソコンを用意してください。
 
 * 懇親会
 
-会場 | 未定
+会場 | 未定(11/13あたりに決定予定)
 時間 | 21:00-23:00
 会費 | 5000
 参加登録 | 宴会くんに登録する際に表明してください
