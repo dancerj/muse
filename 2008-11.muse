@@ -44,4 +44,6 @@ Debian GNU/Linux (sid) のインストールされたノートパソコンを用意してください。
 * 参加報告
 
 事後課題として、参加者報告を作成してもらっています。ここからリンクをはります。
+ - [[http://blog.livedoor.jp/tyamada22/archives/533867.html][やまださん]]
+ - [[http://d.hatena.ne.jp/jitsu102/20081116/1226795226][じつかたさん]]
 
