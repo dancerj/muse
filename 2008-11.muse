@@ -38,12 +38,14 @@ Debian GNU/Linux (sid) のインストールされたノートパソコンを用意してください。
 
 * 資料
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]　(未完成)
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]　(未完成)
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]　(使用せず)
 
 * 参加報告
 
 事後課題として、参加者報告を作成してもらっています。ここからリンクをはります。
  - [[http://blog.livedoor.jp/tyamada22/archives/533867.html][やまださん]]
  - [[http://d.hatena.ne.jp/jitsu102/20081116/1226795226][じつかたさん]]
+ - [[http://d.hatena.ne.jp/mkouhei/20081117#1226880165][前田さん]]
+ - [[http://www.nigauri.org/~iwamatsu/d/?date=20081115#p01][岩松さん]]
 
