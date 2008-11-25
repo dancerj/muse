@@ -48,4 +48,5 @@ Debian GNU/Linux (sid) のインストールされたノートパソコンを用意してください。
  - [[http://d.hatena.ne.jp/jitsu102/20081116/1226795226][じつかたさん]]
  - [[http://d.hatena.ne.jp/mkouhei/20081117#1226880165][前田さん]]
  - [[http://www.nigauri.org/~iwamatsu/d/?date=20081115#p01][岩松さん]]
+ - [[http://hisashim.livejournal.com/432828.html][hisashim]]
  - [[http://www.netfort.gr.jp/~dancer/diary/daily/2008-Nov-19.html.ja#2008-Nov-19-21:25:20][上川]]
