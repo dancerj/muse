@@ -15,7 +15,7 @@ html/%.html: %.muse
 	touch $@
 
 publish: $(RELEASEFILES)
-	-git-commit -a -m 'update with publish' && git-push
+	-git commit -a -m 'update with publish' && git push
 	ssh alioth.debian.org chmod g+w /var/lib/gforge/chroot/home/groups/tokyodebian/htdocs/*html  /var/lib/gforge/chroot/home/groups/tokyodebian/htdocs/*css
 
 preview: all
