@@ -35,8 +35,6 @@
 
 * 参加報告
 
-
-
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume200604.pdf][PDF事前配布資料]]
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume200604-presentation-uekawa.pdf][上川純一PDF発表資料]]
 
