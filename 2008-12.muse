@@ -55,3 +55,6 @@ ustream チャンネル | [[http://www.ustream.tv/channel/tokyo-debian-meeting-200812
  - [[http://d.hatena.ne.jp/mkouhei/20081221#1229791257][前田耕平さん]]
  - [[http://d.hatena.ne.jp/jitsu102/20081221/1229809932][じつかた]]
  - [[http://hackerscafe.g.hatena.ne.jp/Ubuntu/20081220/1229773749][id:Ubuntu]]
+ - [[http://popowa.com/nik/?date=20081220][小室文さん]]
+ - [[http://d.hatena.ne.jp/risouf/20081221/tokyodebianmeeting][藤沢理聡さん]]
+ - [[http://d.hatena.ne.jp/gunshot/20081220][吉田＠板橋]]

@@ -50,3 +50,6 @@ Debian GNU/Linux (sid) のインストールされたノートパソコンを用意してください。
  - [[http://www.nigauri.org/~iwamatsu/d/?date=20081115#p01][岩松さん]]
  - [[http://hisashim.livejournal.com/432828.html][hisashim]]
  - [[http://www.netfort.gr.jp/~dancer/diary/daily/2008-Nov-19.html.ja#2008-Nov-19-21:25:20][上川]]
+ - [[http://d.hatena.ne.jp/risouf/20081117/tokyodebianmeeting][藤沢理聡さん]]
+ - [[http://d.hatena.ne.jp/gunshot/20081115][吉田＠板橋さん]]
+ - [[http://d.hatena.ne.jp/toshi_hirasawa/20081117/1226879508][平澤俊雄さん]]
