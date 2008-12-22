@@ -54,3 +54,4 @@ ustream チャンネル | [[http://www.ustream.tv/channel/tokyo-debian-meeting-200812
  - [[http://www.netfort.gr.jp/~dancer/diary/daily/2008-Dec-21.html.ja#2008-Dec-21-05:47:04][上川純一]]
  - [[http://d.hatena.ne.jp/mkouhei/20081221#1229791257][前田耕平さん]]
  - [[http://d.hatena.ne.jp/jitsu102/20081221/1229809932][じつかた]]
+ - [[http://hackerscafe.g.hatena.ne.jp/Ubuntu/20081220/1229773749][id:Ubuntu]]
