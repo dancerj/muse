@@ -58,3 +58,4 @@ ustream ¥Á¥ã¥ó¥Í¥ë | [[http://www.ustream.tv/channel/tokyo-debian-meeting-200812
  - [[http://popowa.com/nik/?date=20081220][¾®¼¼Ê¸¤µ¤ó]]
  - [[http://d.hatena.ne.jp/risouf/20081221/tokyodebianmeeting][Æ£ÂôÍıÁï¤µ¤ó]]
  - [[http://d.hatena.ne.jp/gunshot/20081220][µÈÅÄ¡÷ÈÄ¶¶]]
+ - [[http://www.nigauri.org/~iwamatsu/d/?date=20081220#p01][´ä¾¾]]
