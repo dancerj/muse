@@ -7,6 +7,39 @@
 有志で紙媒体に印刷して有償で配布していますが、PDF形式でも配布しており、
 ここからダウンロードできます。
 
+** 2008年夏号
+
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2008-natsu.pdf][2008年夏号PDF]] 
+
+ - 2008年度 Debian 勉強会企画
+ - Debian パッケージ 管理の流れ
+ - Debianパッケージにおいてのライセンスの取扱い
+ - Debianパッケージ作成：データだけのパッケージ
+ - バイナリ一つだけのパッケージを作成してみる
+ - バイナリをわけたパッケージの扱い
+ - バージョン管理ツールを使い Debian パッケージを管理する Git編
+ - アップストリームの VCS と付き合う
+ - 東京エリアDebian勉強会の設計
+ - 東京エリア Debian 勉強会のワークフロー
+ - 東京エリア Debian 勉強会資料の準備の方法
+ - 関西 Debian 勉強会
+ - 各種イベント開催実績
+ - Open Source Conference 2008 Spring 報告
+ - Nexenta Core Platformを使ってみる
+ - GIS on Debian GNU/Linux!
+ - DebianでPCクラスタを作ってみよう
+ - 資料作成基礎(TeX)
+ - バグレポートから参加するDebianパッケージ開発
+ - GPG 最初の一歩
+ - Debian 開発者のコーナーの歩き方
+ - WindowsなPCでもDebianを楽しもう
+ - Debian GNU/kFreeBSD
+ - chrootからはじめる sid
+ - ustream.tvを使った関西Debian勉強会中継の裏側
+ - Debian で始める Emacs エディタ
+ - Debian Trivia Quiz
+ - Debian Trivia Quiz 問題回答
+
 ** 2007年冬号
 
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2007-fuyu.pdf][2007年冬号PDF]] 
