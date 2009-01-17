@@ -56,7 +56,7 @@ ustream チャンネル | [[http://www.ustream.tv/channel/tokyo-debian-meeting-200901
 
 * 懇親会
 
-会場 | 荻窪駅近辺で場所を確保する予定です、直前に決定します
+会場 | 荻窪 [[http://www.k-dining.com/usagi.html][卯]]
 時間 | 21:00-23:00
 会費 | 5000
 参加登録 | 宴会くんに登録する際に表明してください
