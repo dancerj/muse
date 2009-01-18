@@ -73,4 +73,4 @@ ustream チャンネル | [[http://www.ustream.tv/channel/tokyo-debian-meeting-200901
  - [[http://d.hatena.ne.jp/mkouhei/20090118/1232249446][前田耕平さん]]
  - [[http://blog.livedoor.jp/tyamada22/archives/678962.html][やまだたくまさん]]
  - [[http://d.hatena.ne.jp/jitsu102/20090118/1232249789][じつかたさん]]
-
+ - [[http://hackerscafe.g.hatena.ne.jp/Ubuntu/20090118/1232279226][id:Ubuntu]]
