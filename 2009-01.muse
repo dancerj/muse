@@ -69,3 +69,5 @@ ustream チャンネル | [[http://www.ustream.tv/channel/tokyo-debian-meeting-200901
 
 * 参加報告
 
+ - [[http://www.netfort.gr.jp/~dancer/diary/daily/2009-Jan-18.html.ja#2009-Jan-18-08:28:33][上川]]
+ - [[http://d.hatena.ne.jp/mkouhei/20090118/1232249446][前田]]
