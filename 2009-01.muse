@@ -74,3 +74,4 @@ ustream チャンネル | [[http://www.ustream.tv/channel/tokyo-debian-meeting-200901
  - [[http://blog.livedoor.jp/tyamada22/archives/678962.html][やまだたくまさん]]
  - [[http://d.hatena.ne.jp/jitsu102/20090118/1232249789][じつかたさん]]
  - [[http://hackerscafe.g.hatena.ne.jp/Ubuntu/20090118/1232279226][id:Ubuntu]]
+ - [[http://popowa.com/nik/?date=20090117#p01][小室さん]]
