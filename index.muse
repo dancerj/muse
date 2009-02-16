@@ -15,7 +15,8 @@ Debian 勉強会を開催します。
 * 次回の勉強会
 
  - [[2009-02][2009年2月勉強会(第49回東京エリアDebian勉強会)]]
- - [[http://wiki.debian.org/KansaiDebianMeeting20090125][第21回 関西 Debian 勉強会 「"Debian Meeting" with Coffee in Kansai (DMCK)」]]
+ - 関西では2月はお休みします。
+ - [[http://wiki.debian.org/KansaiDebianMeeting20090307][第22回 関西 Debian 勉強会]]
 
 * 関連記事など
 
@@ -40,6 +41,7 @@ Debian 勉強会を開催します。
 
 ** 2009年度
  - [[2009-01][2009年1月勉強会(第48回東京エリアDebian勉強会)]]
+ - [[http://wiki.debian.org/KansaiDebianMeeting20090125][第21回 関西 Debian 勉強会 「"Debian Meeting" with Coffee in Kansai (DMCK)」]]
 
 ** 2008年度
  - [[2008-12][2008年12月勉強会(第47回東京エリアDebian勉強会)]]
