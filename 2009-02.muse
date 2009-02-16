@@ -5,13 +5,13 @@
 日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日)
 場所 | [[http://www.ospn.jp/osc2009-spring/][OSC Tokyo Spring 会場]]
 定員 | 30人
-参加登録| OSCの申し込みページでどうぞ
+参加登録 | OSCの申し込みページでどうぞ
 
 * 当日のagenda
 
 時間 || 内容 || 概要 || 発表者
-13:00-14:45 | Debian パッケージングハンズオン|  | 岩松
-朝から-晩まで | ブース展示 |  | 山本他
+13:00-14:45 | Debian パッケージングハンズオン | 初心者向け Debian パッケージングハンズオン  | Debian 勉強会有志
+朝から-晩まで | ブース展示 | Debianマシンおよび資料展示、lenny Live-CDの配布、Debian勉強会資料およびグッズ販売 | Debian 勉強会有志
 
 * 懇親会
 
