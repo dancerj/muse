@@ -1,10 +1,10 @@
-#title 第<lisp> number</lisp>回東京エリアDebian勉強会、<lisp>year</lisp>年<lisp>month</lisp>月勉強会 (未定)
+#title 第<lisp> number</lisp>回東京エリアDebian勉強会、<lisp>year</lisp>年<lisp>month</lisp>月勉強会
 <lisp>(progn  (setq year 2009) (setq month 3) (setq day 21) (setq number 50) "") </lisp>
 * 開催概要
 
 日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 15:00-19:00
-場所 | 東京大学 工学部 211講義室??
-定員 | 30人??
+場所 | 東京大学 工学部2号館 211号講義室
+定員 | 30人
 参加登録方法 | [[http://utage.org/enkai][宴会くん]]に登録、宴会コードは debi-m<lisp>(format "%.4d%.2d" year month)</lisp>、 <lisp>month</lisp>月<lisp>(- day 2)</lisp>日までに登録ください。申込の際に事前課題を提出ください。また、その後の宴会に参加されたいかたは、コメント欄に「宴会参加する」と記述ください。
 
 * 事前課題
@@ -22,18 +22,9 @@
 * 当日のagenda
 
 時間 || 内容 || 概要 || 発表者
-15:00- | 未定 | 分散とRについて語る | 小林?
-15:00- | 未定 | ? | ?
-
-* 勉強会中継について
-  
-FIXME: 今回のネットワーク状況で実施可能か?
-
-今回も ustream を使って勉強会の中継および録画を行う予定です。参加者の方で顔出し等ができない方は、主催者まで連絡をください。また、細かい情報等はこのページを参照してください。
-
-ustream チャンネル | 未定
-時間 | 未定
-注意事項 | ネットワークの状態により、中継ができない場合があります。また、今回はライトニングトークのみの中継を行います。
+15:10- | DWN trivia quiz | Debian 関連のニュースにおいついていますか? 簡単なクイズでDebian常識テストしちゃいます | 上川 純一
+16:00- | 研究室のソフトウェアを Debian パッケージにしてみる | 研究室で使われているフリーソフトウェアを Debian パッケージにしてみたので、その過程を説明します | 藤澤 徹
+17:00- | Debian での Common Lispプログラミング環境 | Debian での Common Lisp 生活方法について説明します | 日比野 啓
 
 * 懇親会
 
