@@ -15,6 +15,7 @@ Debian 勉強会を開催します。
 * 次回の勉強会
 
  - [[2009-03][2009年3月勉強会(第50回東京エリアDebian勉強会)]]
+ - [[http://wiki.debian.org/KansaiDebianMeeting20090426][第23回 関西 Debian 勉強会]]
  
 * 関連記事など
 
