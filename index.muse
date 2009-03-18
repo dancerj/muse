@@ -16,7 +16,10 @@ Debian 勉強会を開催します。
 
  - [[2009-03][2009年3月勉強会(第50回東京エリアDebian勉強会)]]
  - [[http://wiki.debian.org/KansaiDebianMeeting20090426][第23回 関西 Debian 勉強会]]
- 
+
+* [[hackcafe][Debian Hack Cafe]]
+定期的にハックする時間を確保するテストプロジェクトを行っています。
+
 * 関連記事など
 
  - 2007/12/27 ＠IT自分戦略研究所 [[http://jibun.atmarkit.co.jp/lcom01/special/comeve01/comeve01.html][積極的な発言が勉強会を盛り上げる]]
