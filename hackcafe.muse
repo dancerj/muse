@@ -23,3 +23,7 @@ Debian に関係ない人もぜひ参加してください。
 管理には Git を使います。
 
 * 開催場所
+
+* 気になるところ
+- [[http://www.marunouchicafe.com/index.html][丸の内カフェ]]
+- 
