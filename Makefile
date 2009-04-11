@@ -16,7 +16,7 @@ html/%.html: %.muse
 
 publish: $(RELEASEFILES)
 	-git commit -a -m 'update with publish' && git push
-	ssh alioth.debian.org chmod g+w /var/lib/gforge/chroot/home/groups/tokyodebian/htdocs/*html  /var/lib/gforge/chroot/home/groups/tokyodebian/htdocs/*css
+	-ssh alioth.debian.org chmod g+w /var/lib/gforge/chroot/home/groups/tokyodebian/htdocs/*html  /var/lib/gforge/chroot/home/groups/tokyodebian/htdocs/*css
 
 preview: all
 	iceweasel -remote "openurl($${PWD}/html/index.html)"
