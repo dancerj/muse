@@ -13,7 +13,7 @@
 参加の条件ですので提出お願いします。
 
 お題 | 各自の「私のDebian開発ワークフロー」を紹介してください。
-提出方法 | [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume200811.pdf][2008年11月資料]]等を参考にしてチェックアウト、ビルドしてください。image<lisp>(format "%.4i%.2i" year month)</lisp>/prework.tex を編集し、作成した成果を git commit したあと、 git format-patch -o ./ origin コマンドで生成されたパッチファイルを送付してください。(この手順が不明な場合は、メールでそのままテキスト形式で送付ください)
+提出方法 | [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume200811.pdf][2008年11月資料]]等を参考にしてチェックアウト、ビルドしてください。image<lisp>(format "%.4i%.2i" year month)</lisp>/prework.tex を編集し、作成した成果を git commit したあと、 git format-patch -o ./ origin コマンドで生成されたパッチファイルを送付してください。(この手順が不明な場合は、メールでそのままテキスト形式で送付ください、またワークフローなんてないよ、という場合は普段の作業環境について自由に述べてください。)
 提出先 | tokyodebian-<lisp>year</lisp>@lists.alioth.debian.org (デビアン勉強会事前資料送付用メーリングリスト宛) Subject:「Debian勉強会<lisp>number</lisp>事前課題」 としてパッチファイルを添付してください。
 質問先 | 課題内容の実施についてなにかあれば、[[http://lists.debian.or.jp/debian-users/][debian-users@debian.or.jp Debianユーザ用公開メーリングリスト]] にてご質問ください。
 期限 | 参加登録期限と同じ
