@@ -33,3 +33,10 @@ make publish でリリースです。
 make  | html/ 以下にhtmlファイルを生成 
 make preview | iceweasel を起動して、プリビュー
 make publish | aliothにファイルを転送 [[http://tokyodebian.alioth.debian.org/][alioth の プロジェクトページ]]として見れるようになります．
+
+* TIPS
+
+ssh の設定で、 ssh alioth.debian.org だけで alioth に接続できるようにするには、 ~/.ssh/config を編集すると便利です。
+「Host alioth.debian.org git.debian.org」 項目を作成して、「User ユーザ名」を指定すればよいでしょう。
+
+

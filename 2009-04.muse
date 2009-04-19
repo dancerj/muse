@@ -1,4 +1,4 @@
-#title 第<lisp> number</lisp>回東京エリアDebian勉強会、<lisp>year</lisp>年<lisp>month</lisp>月勉強会 (未定)
+#title 第<lisp> number</lisp>回東京エリアDebian勉強会、<lisp>year</lisp>年<lisp>month</lisp>月勉強会
 <lisp>(progn  (setq year 2009) (setq month 4) (setq day 18) (setq number 51) "") </lisp>
 * 開催概要
 
@@ -12,8 +12,8 @@
 
 参加の条件ですので提出お願いします。
 
-お題 | 未定(仮:「やまねさんのワークフローを劇的に改善する方法を提案してください」)
-提出方法 | [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume200811.pdf][2008年11月資料]]を参考にしてチェックアウト、ビルドしてください。作成した成果を git commit したあと、 git format-patch -o ./ origin コマンドで生成されたパッチファイルを送付してください。
+お題 | 各自の「私のDebian開発ワークフロー」を紹介してください。
+提出方法 | [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume200811.pdf][2008年11月資料]]等を参考にしてチェックアウト、ビルドしてください。image<lisp>(format "%.4i%.2i" year month)</lisp>/prework.tex を編集し、作成した成果を git commit したあと、 git format-patch -o ./ origin コマンドで生成されたパッチファイルを送付してください。(この手順が不明な場合は、メールでそのままテキスト形式で送付ください、またワークフローなんてないよ、という場合は普段の作業環境について自由に述べてください。)
 提出先 | tokyodebian-<lisp>year</lisp>@lists.alioth.debian.org (デビアン勉強会事前資料送付用メーリングリスト宛) Subject:「Debian勉強会<lisp>number</lisp>事前課題」 としてパッチファイルを添付してください。
 質問先 | 課題内容の実施についてなにかあれば、[[http://lists.debian.or.jp/debian-users/][debian-users@debian.or.jp Debianユーザ用公開メーリングリスト]] にてご質問ください。
 期限 | 参加登録期限と同じ
@@ -24,20 +24,17 @@
 
 時間 || 内容 || 概要 || 発表者
 18:10- | DWN trivia quiz | Debian 関連のニュースにおいついていますか? 簡単なクイズでDebian常識テストしちゃいます | 上川純一
-20:00- | 未定 | ?
+19:00- | Java ポリシー | Java でかかれたソフトウェアのDebianパッケージを作成するために、Debianの Java ポリシーについて調査しました。 | 前田耕平
+19:30- | Ocaml 使ってみた感想を語る | Debianでocamlを使う方法について一人勉強会をやってみました。 | 上川純一 
+20:00- | 開発ワークフローディスカッション | Debianのパッケージ開発のワークフローはどうやったらよりよくできる?のかを全員でディスカッションします。 | 全員
 
 * 勉強会中継について
   
 今回も ustream を使って勉強会の中継および録画を行う予定です。参加者の方で顔出し等ができない方は、主催者まで連絡をください。また、細かい情報等はこのページを参照してください。
 
-ustream チャンネル | 未定
-時間 | 未定
-注意事項 | ネットワークの状態により、中継ができない場合があります。また、今回はライトニングトークのみの中継を行います。
-
-
 * 懇親会
 
-会場 | 会場近辺で場所を確保する予定です、直前に決定します
+会場 | [[http://r.gnavi.co.jp/g240182/][はなの舞 荻窪西口店]]
 時間 | 21:00-23:00
 会費 | 5000
 参加登録 | 宴会くんに登録する際に表明してください

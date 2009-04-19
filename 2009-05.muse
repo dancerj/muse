@@ -3,8 +3,8 @@
 * 開催概要
 
 日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 18:00-21:00
-場所 | 未定　東京大学?
-定員 | 30人
+場所 | [[http://www.city.nerima.tokyo.jp/guide/tetsuduki_syosai.php?id=00700&rf=t&t=6409][サンライフ練馬]]
+定員 | 25人
 参加登録方法 | [[http://utage.org/enkai][宴会くん]]に登録、宴会コードは debi-m<lisp>(format "%.4d%.2d" year month)</lisp>、 <lisp>month</lisp>月<lisp>(- day 2)</lisp>日までに登録ください。申込の際に事前課題を提出ください。また、その後の宴会に参加されたいかたは、コメント欄に「宴会参加する」と記述ください。
 参加費用 | 500円
 
@@ -24,7 +24,7 @@
 
 時間 || 内容 || 概要 || 発表者
 18:10- | DWN trivia quiz | Debian 関連のニュースにおいついていますか? 簡単なクイズでDebian常識テストしちゃいます | 上川純一
-20:00- | 未定 | ?
+20:00- | Debian 公式パッケージへの道 | 藤澤 徹
 
 * 勉強会中継について
   
