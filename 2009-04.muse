@@ -46,3 +46,6 @@
  - [[http://emasaka.blog65.fc2.com/blog-entry-596.html][高橋(masaka)]]
  - [[http://d.hatena.ne.jp/mkouhei/20090419/1240106632][前田耕平]]
  - [[http://www.netfort.gr.jp/~dancer/diary/daily/2009-Apr-19.html.ja#2009-Apr-19-11:18:28][上川純一]]
+ - [[http://blog.livedoor.jp/tyamada22/archives/815568.html][やまだたくま]]
+ - [[http://d.hatena.ne.jp/risouf/20090420/ocaml][藤沢理聡]]
+ - [[http://d.hatena.ne.jp/conceal-rs/20090419/1240122570][小川伸一郎]]
