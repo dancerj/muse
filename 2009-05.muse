@@ -12,8 +12,8 @@
 
 参加の条件ですので提出お願いします。
 
-お題 | 未定
-提出方法 | [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume200811.pdf][2008年11月資料]]を参考にしてチェックアウト、ビルドしてください。作成した成果を git commit したあと、 git format-patch -o ./ origin コマンドで生成されたパッチファイルを送付してください。
+お題 | DDTSS でいくつか(3個ほど)Debianパッケージの説明文を翻訳してみて、そこでの:1。適用した主要な方法、2。発見した課題、3。提案する理想像(ツールとか)、共有したい情報を説明してください。
+提出方法 | [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume200811.pdf][2008年11月資料]], [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume200901.pdf][2009年1月資料]]を参考にしてチェックアウト、ビルドしてください。作成した成果を git commit したあと、 git format-patch -o ./ origin コマンドで生成されたパッチファイルを送付してください。
 提出先 | tokyodebian-<lisp>year</lisp>@lists.alioth.debian.org (デビアン勉強会事前資料送付用メーリングリスト宛) Subject:「Debian勉強会<lisp>number</lisp>事前課題」 としてパッチファイルを添付してください。
 質問先 | 課題内容の実施についてなにかあれば、[[http://lists.debian.or.jp/debian-users/][debian-users@debian.or.jp Debianユーザ用公開メーリングリスト]] にてご質問ください。
 期限 | 参加登録期限と同じ
@@ -24,8 +24,10 @@
 
 時間 || 内容 || 概要 || 発表者
 18:10- | DWN trivia quiz | Debian 関連のニュースにおいついていますか? 簡単なクイズでDebian常識テストしちゃいます | 上川純一
-19:00- | Debian 公式パッケージへの道 | 藤澤 徹
-20:30- | erlang をつかってみる | 前田耕平
+19:00- | MC-MPI Debian 公式パッケージへの道(仮) | 3月の勉強会でお伝えした MC-MPI Debian 公式パッケージ化の道、続編をおつたえします。 ITP とかを紹介する予定 | 藤澤 徹
+19:30- | erlang をつかってみる | Debian で Erlang を活用する方法を模索してみました。 | 前田耕平
+20:00- | ゴールデンウィークこんなのしてみました: Android アプリをつくってみた | Android 携帯でDebianを活用するためのアプリを充実させるという野望の第一歩です。とりあえず何かつくって持っていく予定です。 | 上川純一
+20:30- | DDTP での翻訳プロセスについてのワークショップ | 今回の事前課題、Debian Description Translation Projectについてワークショップを行います。 | やまねひでき
 
 * 勉強会中継について
   
