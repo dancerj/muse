@@ -53,3 +53,4 @@ Debian GNU/Linux (sid) のインストールされたノートパソコンを用意してください。
  - [[http://d.hatena.ne.jp/risouf/20081117/tokyodebianmeeting][藤沢理聡さん]]
  - [[http://d.hatena.ne.jp/gunshot/20081115][吉田＠板橋さん]]
  - [[http://d.hatena.ne.jp/toshi_hirasawa/20081117/1226879508][平澤俊雄さん]]
+ - [[http://d.hatena.ne.jp/matoken/20090423/1240495731][matohara]]
