@@ -12,7 +12,7 @@
 
 参加の条件ですので提出お願いします。
 
-お題 | DDTSS でいくつか(3個ほど)Debianパッケージの説明文を翻訳してみて、そこでの:1。適用した主要な方法、2。発見した課題、3。提案する理想像(ツールとか)、共有したい情報を説明してください。
+お題 | DDTSS ([[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume200905.pdf][今月のPDF資料参照]])でいくつか(2個以上)Debianパッケージの説明文を翻訳してみて、2個レビューしてみて、そこでの:1。適用した主要な方法、2。発見した課題、3。提案する理想像(ツールとか)、共有したい情報を説明してください。
 提出方法 | [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume200811.pdf][2008年11月資料]], [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume200901.pdf][2009年1月資料]]を参考にしてチェックアウト、ビルドしてください。作成した成果を git commit したあと、 git format-patch -o ./ origin コマンドで生成されたパッチファイルを送付してください。
 提出先 | tokyodebian-<lisp>year</lisp>@lists.alioth.debian.org (デビアン勉強会事前資料送付用メーリングリスト宛) Subject:「Debian勉強会<lisp>number</lisp>事前課題」 としてパッチファイルを添付してください。
 質問先 | 課題内容の実施についてなにかあれば、[[http://lists.debian.or.jp/debian-users/][debian-users@debian.or.jp Debianユーザ用公開メーリングリスト]] にてご質問ください。
