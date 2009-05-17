@@ -29,15 +29,6 @@
 20:00- | ゴールデンウィークこんなのしてみました: Android アプリをつくってみた | Android 携帯でDebianを活用するためのアプリを充実させるという野望の第一歩です。とりあえず何かつくって持っていく予定です。 | 上川純一
 20:30- | DDTP での翻訳プロセスについてのワークショップ | 今回の事前課題、Debian Description Translation Projectについて（手探りでの）現状把握と情報交換を中心に今後の作業に向けての交流を実施します。 | やまねひでき
 
-* 勉強会中継について
-  
-今回は ustream を使って勉強会の中継および録画を行いません。
-
-ustream チャンネル | 未定
-時間 | 未定
-注意事項 | ネットワークの状態により、中継ができない場合があります。また、今回はライトニングトークのみの中継を行います。
-
-
 * 懇親会
 
 会場 | [[http://r.gnavi.co.jp/p736500/][のみくい処 仲々]]
@@ -48,8 +39,9 @@ ustream チャンネル | 未定
 
 * 資料
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]　(未完成)
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]　(未完成)
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]　
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]　
 
 * 参加報告
 
+ - [[http://d.hatena.ne.jp/mkouhei/20090517/1242532732][前田耕平]]
