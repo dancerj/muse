@@ -16,7 +16,7 @@ Debian / 既婚者 / 社会人に限らず誰でも参加できます。
 東京/新宿近辺のどこかです。
 
 * twitter
-開催日、場所は [[http://twitter.com/debian_hackcafet][twitter]] で流されます。
+開催日、場所は [[http://twitter.com/debian_hackcafe][twitter]] で流されます。
 
 * 作業報告
 毎回作業報告が必要です。何をやったかを毎回まとめます。
