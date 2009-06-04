@@ -6,24 +6,42 @@
 
 * 対象者
 Debian / 既婚者 / 社会人に限らず誰でも参加できます。
-気軽に参加してください。
-Debian に関係ない人もぜひ参加してください。
+気軽に参加してください。異種交流、相談等歓迎します。
 
 * 開催日
 基本的に毎週水曜日の19:00-21:00までです。
+遅刻とか気にする必要はありません。来たいときに来て、帰りたいときに帰るスタイルです。
 
 * 場所
 東京/新宿近辺のどこかです。
 
 * twitter
-開催日、場所は [[http://twitter.com/debian_hackcafet][twitter]] で流されます。
+開催日、場所は [[http://twitter.com/debian_hackcafe][twitter]] で流されます。
 
 * 作業報告
 毎回作業報告が必要です。何をやったかを毎回まとめます。
 管理には Git を使います。
 
-* 開催場所
+* いままでの開催場所
+ - [[http://tinyurl.com/bddclm][マクドナルド・新宿西口駅前店]]
+    電源がある。コーヒーおわかり自由。
+ - [[http://www.cybac.com/information/nakano/index.html][サイバック中野サンプラザ店]]
+    ネット、電源あり。ドリンクバー。
+ - [[http://www.kadoya-hotel.co.jp/la_voie/][カフェ ラ ヴォワ]]
+    ヴォシャレなカフェ。奥の席に電源あり。2時間で１ドリンク。
+ - [[http://www.transit-web.com/shop/cafe/blue-square-cafe/][BLUE SQUARE CAFE]]
+    カフェ。ネット、電源あり。学生が多い。
+ - [[http://www.italiantomato.co.jp][イタリアン・トマト カフェジュニア 新宿東口店]]
+    ちょっとヴォシャレなカフェ。
+ - [[http://vip.mapion.co.jp/c/f?uc=4&pg=1&grp=misterdonut&ino=BA389146][ミスタードーナツ 新宿靖国通り ショップ]]
+    電源あり。コーヒーおかわり自由。
+ - [[http://www.metro-net.co.jp/][フリーカフェ＆バー「mixing cafe」]]
+    飲み屋
+ - [[CafeMiyama 新宿南口駅前店][http://tinyurl.com/cjspgu]]
+    電源あり。ルノアール。
+ - [[http://bit.ly/pm4Dt][工学院大学の地下]]
+    電源あり。学生が多い。
 
 * 気になるところ
-- [[http://www.marunouchicafe.com/index.html][丸の内カフェ]]
-- 
+ - [[http://www.marunouchicafe.com/index.html][丸の内カフェ]]
+ - [[http://www.alternativecafe.jp/][オルタネイティブカフェ]]
