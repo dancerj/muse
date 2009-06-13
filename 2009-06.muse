@@ -1,4 +1,4 @@
-#title 第<lisp> number</lisp>回東京エリアDebian勉強会、<lisp>year</lisp>年<lisp>month</lisp>月勉強会 (未定)
+#title 第<lisp> number</lisp>回東京エリアDebian勉強会、<lisp>year</lisp>年<lisp>month</lisp>月勉強会 
 <lisp>(progn  (setq year 2009) (setq month 6) (setq day 20) (setq number 53) "") </lisp>
 * 開催概要
 
@@ -26,18 +26,9 @@
 時間 || 内容 || 概要 || 発表者
 18:10- | DWN trivia quiz | Debian 関連のニュースにおいついていますか? 簡単なクイズでDebian常識テストしちゃいます | 上川純一
 19:00- | DDTSS (1) | ??? | 明渡 
-19:30- | DDTSS (2) | ??? | 山田たくま
+19:30- | DDTSS (2) | DDTSS の使い方の基本について解説します。 | 山田たくま
 20:00- | DDTSS (3) | スペインDebconfに向けて意気込みを | やまねひでき
 20:30- | Debian kFreeBSD ネタ | ??? | 山本ひろゆき
-
-* 勉強会中継について
-  
-今回も ustream を使って勉強会の中継および録画を行う予定です。参加者の方で顔出し等ができない方は、主催者まで連絡をください。また、細かい情報等はこのページを参照してください。
-
-ustream チャンネル | 未定
-時間 | 未定
-注意事項 | ネットワークの状態により、中継ができない場合があります。また、今回はライトニングトークのみの中継を行います。
-
 
 * 懇親会
 
