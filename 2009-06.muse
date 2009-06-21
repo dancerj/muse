@@ -7,7 +7,7 @@
 会場の注意事項 | 飲食禁止
 定員 | 20人
 参加登録方法 | [[http://utage.org/enkai][宴会くん]]に登録、宴会コードは debi-m<lisp>(format "%.4d%.2d" year month)</lisp>、 <lisp>month</lisp>月<lisp>(- day 2)</lisp>日までに登録ください。申込の際に事前課題を提出ください。また、その後の宴会に参加されたいかたは、コメント欄に「宴会参加する」と記述ください。
-参加費用(割り勘です) | 500円予定
+参加費用(割り勘です) | 1000円
 
 * 事前課題
 
@@ -26,7 +26,8 @@
 時間 || 内容 || 概要 || 発表者
 18:10- | DWN trivia quiz | Debian 関連のニュースにおいついていますか? 簡単なクイズでDebian常識テストしちゃいます | 上川純一
 19:00- | DDTP 翻訳作業での TIPS | DDTP の翻訳をするうえで知っているとよさそうなことを紹介します。 | 明渡 
-19:30- | DDTSS の利用方法の紹介 | DDTSS の使い方の基本について解説します。 | 山田たくま
+キャンセル | DDTSS の利用方法の紹介 | DDTSS の使い方の基本について解説します。 | 山田たくま
+? | bsdstats | bsdstatsのDebianパッケージを作成しました | 吉野与志仁
 20:30- | Debian kFreeBSD | Debian kFreeBSD を VMware の仮想マシン上でインストールしてみました。 | 山本ひろゆき
 
 * 懇親会
@@ -39,8 +40,9 @@
 
 * 資料
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]　(未完成)
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]　(未完成)
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
 
 * 参加報告
 
+ - [[http://d.hatena.ne.jp/mkouhei/20090621/1245552952][前田耕平]]
