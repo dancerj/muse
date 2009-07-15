@@ -1,17 +1,14 @@
-#title 第<lisp> number</lisp>回東京エリアDebian勉強会、<lisp>year</lisp>年<lisp>month</lisp>月勉強会 (未定)
+#title 第<lisp> number</lisp>回東京エリアDebian勉強会、<lisp>year</lisp>年<lisp>month</lisp>月勉強会 
 <lisp>(progn  (setq year 2009) (setq month 7) (setq day 18) (setq number 54) "") </lisp>
 * 開催概要
 
-日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 18:00-21:00
-場所 | スペイン
+日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日)あたり
+場所 | スペイン・IRC
 定員 | 未定
-参加登録方法 | 未定
 
 * 当日のagenda
 
-時間 || 内容 || 概要 || 発表者
-18:10- | DWN trivia quiz | Debian 関連のニュースにおいついていますか? 簡単なクイズでDebian常識テストしちゃいます | 上川純一
-20:00- | 未定 | ?
+適当にIRCでやりましょう。
 
 * 資料
 
