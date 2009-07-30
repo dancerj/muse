@@ -23,7 +23,7 @@ Debian / 既婚者 / 社会人に限らず誰でも参加できます。
 管理には Git を使います。
 
 * いままでの開催場所
- - [[http://tinyurl.com/bddclm][マクドナルド・新宿西口駅前店]]
+ - [[http://maps.google.co.jp/maps?hl=ja&lr=lang_ja&ie=UTF8&q=%E3%83%9E%E3%82%AF%E3%83%89+%E6%96%B0%E5%AE%BF&fb=1&split=1&gl=jp&ei=IL6kSZiNAZTq6QOD2bHPAg&ll=35.69526,139.70026&spn=0.015579,0.038323&z=15&iwloc=D][マクドナルド・新宿西口駅前店]]
     電源がある。コーヒーおわかり自由。
  - [[http://www.cybac.com/information/nakano/index.html][サイバック中野サンプラザ店]]
     ネット、電源あり。ドリンクバー。
@@ -37,7 +37,7 @@ Debian / 既婚者 / 社会人に限らず誰でも参加できます。
     電源あり。コーヒーおかわり自由。
  - [[http://www.metro-net.co.jp/][フリーカフェ＆バー「mixing cafe」]]
     飲み屋
- - [[CafeMiyama 新宿南口駅前店][http://tinyurl.com/cjspgu]]
+ - [[http://www.ginza-renoir.co.jp/miyama/082.htm][CafeMiyama 新宿南口駅前店]]
     電源あり。ルノアール。
  - [[http://bit.ly/pm4Dt][工学院大学の地下]]
     電源あり。学生が多い。
