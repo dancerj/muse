@@ -32,9 +32,10 @@
 
 * »ñÎÁ
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF»öÁ°ÇÛÉÛ»ñÎÁ]]¡¡(Ì¤´°À®)
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDF¥×¥ì¥¼¥ó¥Æ¡¼¥·¥ç¥ó»ñÎÁ]]¡¡(Ì¤´°À®)
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF»öÁ°ÇÛÉÛ»ñÎÁ]]
 
 * »²²ÃÊó¹ğ
 
  - [[http://donrails.araki.net/archives/id/6744][¹ÓÌÚÌ÷¹¨]]
+ - [[http://www.shige.idani.jp/tdiary/?date=20090808][°»Ã«]]
+ - [[http://d.hatena.ne.jp/mkouhei/20090811/1249983007][Á°ÅÄ]]
