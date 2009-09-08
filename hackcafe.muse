@@ -8,12 +8,20 @@
 Debian / 既婚者 / 社会人に限らず誰でも参加できます。
 気軽に参加してください。異種交流、相談等歓迎します。
 
-* 開催日
+* 東京エリア
+** 開催日
 基本的に毎週水曜日の19:00-21:00までです。
 遅刻とか気にする必要はありません。来たいときに来て、帰りたいときに帰るスタイルです。
 
-* 場所
-東京/新宿近辺のどこかです。
+** 場所
+新宿駅近辺のどこかです。[[http://twitter.com/debian_hackcafe][twitter]] で流されます。
+
+* 関西エリア
+* 開催日
+まだ未定。
+
+** 場所
+関西にある駅の近くです。[[http://twitter.com/debian_hackcafe][twitter]] で流されます。
 
 * twitter
 開催日、場所は [[http://twitter.com/debian_hackcafe][twitter]] で流されます。
@@ -31,8 +39,8 @@ $ echo "つぶやき" | gpg --clearsign | lwp-request -m POST http://www.nigauri.org
 毎回作業報告が必要です。何をやったかを毎回まとめます。
 管理には Git を使います。
 
-
-* いままでの開催場所
+* 東京エリア
+** いままでの開催場所
  - [[http://maps.google.co.jp/maps?hl=ja&lr=lang_ja&ie=UTF8&q=%E3%83%9E%E3%82%AF%E3%83%89+%E6%96%B0%E5%AE%BF&fb=1&split=1&gl=jp&ei=IL6kSZiNAZTq6QOD2bHPAg&ll=35.69526,139.70026&spn=0.015579,0.038323&z=15&iwloc=D][マクドナルド・新宿西口駅前店]]
     電源がある。コーヒーおわかり自由。
  - [[http://www.cybac.com/information/nakano/index.html][サイバック中野サンプラザ店]]
@@ -56,7 +64,13 @@ $ echo "つぶやき" | gpg --clearsign | lwp-request -m POST http://www.nigauri.org
  - [[http://www.marunouchicafe.com/index.html][丸の内カフェ]]
     電源あり。静か。イベントもできるようだ。
 
-* 気になるところ
+** 気になるところ
  - [[http://www.timeoutcafe.jp/][タイムアウトカフェ]]
  - [[http://www.alternativecafe.jp/][オルタネイティブカフェ]]
 
+* 関西エリア
+** いままでの開催場所
+ - [[http://r.tabelog.com/osaka/A2701/A270101/27019188/dtlmap/][Seattle's Best Coffee 梅田DTタワー店]]
+
+** 気になるところ
+ - [[http://www.cafe-eikokuya.jp/store/partyroom.html][個室貸し切りプラン：喫茶館 英國屋]]
