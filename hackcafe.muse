@@ -18,7 +18,8 @@ Debian / 既婚者 / 社会人に限らず誰でも参加できます。
 
 * 関西エリア
 * 開催日
-まだ未定。
+基本的に毎週金曜日の19:00-22:30までです。
+遅刻や早退などに気にする必要はありません。
 
 ** 場所
 関西にある駅の近くです。[[http://twitter.com/debian_hackcafe][twitter]] で流されます。
@@ -71,6 +72,9 @@ $ echo "つぶやき" | gpg --clearsign | lwp-request -m POST http://www.nigauri.org
 * 関西エリア
 ** いままでの開催場所
  - [[http://r.tabelog.com/osaka/A2701/A270101/27019188/dtlmap/][Seattle's Best Coffee 梅田DTタワー店]]
+    電源あり。喫煙。FREESPOTに繋げられる。
+ - [[http://www.yodobashi-umeda.com/cafe/cafe_soft.html][サンマルクカフェ 大阪ソフトバンクヨドバシ梅田店]]
+    電源あり。禁煙。FREESPOTはあるがよく切れる。ちょっとうるさい。
 
 ** 気になるところ
  - [[http://www.cafe-eikokuya.jp/store/partyroom.html][個室貸し切りプラン：喫茶館 英國屋]]
