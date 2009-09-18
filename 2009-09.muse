@@ -30,3 +30,6 @@
 
 * »²²ÃÊó¹ğ
 
+ - [[http://d.hatena.ne.jp/conceal-rs/20090917/1253148693][conceal-rs]]
+ - [[http://d.hatena.ne.jp/mkouhei/20090918/1253240313][mkouhei]]
+ - [[http://donrails.araki.net/archives/2009/9/16][araki]]
