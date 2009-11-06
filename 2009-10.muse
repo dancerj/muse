@@ -1,32 +1,31 @@
-#title 第<lisp> number</lisp>回東京エリアDebian勉強会、<lisp>year</lisp>年<lisp>month</lisp>月勉強会 (未定)
+#title 第<lisp> number</lisp>回東京エリアDebian勉強会、<lisp>year</lisp>年<lisp>month</lisp>月勉強会 
 <lisp>(progn  (setq year 2009) (setq month 10) (setq day 31) (setq number 57) "") </lisp>
 * 開催概要
 
 日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 18:00-21:00
-場所 | OSC Tokyo Fall
-定員 | XX人
-参加登録方法 | OSC Tokyo Fall に登録してください
+場所 | OSC 2009 Tokyo/Fall
+参加登録方法 | OSC 2009Tokyo/Fall に登録してください
 参加費用 | なし
 
 
 * 当日のagenda
 
-時間 || 内容 || 概要 || 発表者
-XXX- | 未定 | ?
+今回はブースでの展示のみです。
 
 
 * 懇親会
 
-会場 | 会場近辺で場所を確保する予定です、直前に決定します
-時間 | 未定
-会費 | 5000
-参加登録 | ?
+会場 | 春香園
+時間 | 17:00 - 18:30
+会費 | 2500
+参加登録 | 当日確認
 
 
 * 資料
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]　(未完成)
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]　(未完成)
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
 
 * 参加報告
 
+ - [[http://d.hatena.ne.jp/mkouhei/20091101/1257043156][まえだこうへい]]
+ - [[http://d.ma-aya.to/?date=20091101#p01][やまねひでき]]
