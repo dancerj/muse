@@ -15,8 +15,8 @@ Debian 勉強会を開催します。
 * 次回の勉強会
 
  - [[hackcafe][毎週開催のハックカフェ]]
- - [[http://wiki.debian.org/KansaiDebianMeeting20090823][第26回 関西 Debian 勉強会]]
- - [[2009-09][2009年9月勉強会(第56回東京エリアDebian勉強会)]]
+ - [[2009-11][2009年11月勉強会(第58回東京エリアDebian勉強会)]] 
+ - [[http://wiki.debian.org/KansaiDebianMeeting20091106-07][第29回 関西 Debian 勉強会]]
 
 * 関連記事など
 
@@ -25,16 +25,18 @@ Debian 勉強会を開催します。
 
 * 未来の勉強会
 
- - [[http://wiki.debian.org/KansaiDebianMeeting20090927][第27回 関西 Debian 勉強会]]
- - [[2009-10][2009年10月勉強会(第57回東京エリアDebian勉強会)]]
- - [[2009-11][2009年11月勉強会(第58回東京エリアDebian勉強会)]]
+ - [[http://wiki.debian.org/KansaiDebianMeeting20091227][第30回 関西 Debian 勉強会]]
  - [[2009-12][2009年12月勉強会(第59回東京エリアDebian勉強会)]]
-
 
 * 過去の勉強会
 
 ** 2009年度
 
+ - [[http://wiki.debian.org/KansaiDebianMeeting20091025][第28回 関西 Debian 勉強会]]
+ - [[2009-10][2009年10月勉強会(第57回東京エリアDebian勉強会)]]
+ - [[http://wiki.debian.org/KansaiDebianMeeting20090927][第27回 関西 Debian 勉強会]]
+ - [[2009-09][2009年9月勉強会(第56回東京エリアDebian勉強会)]]
+ - [[http://wiki.debian.org/KansaiDebianMeeting20090823][第26回 関西 Debian 勉強会]]
  - [[2009-08][2009年8月勉強会(第55回東京エリアDebian勉強会)]]
  - [[http://wiki.debian.org/KansaiDebianMeeting20090710-11][第25回 関西 Debian 勉強会 @ OSC Kansai]]
  - [[2009-07][2009年7月勉強会(第54回東京エリアDebian勉強会)]]
