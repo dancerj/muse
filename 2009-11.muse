@@ -25,7 +25,7 @@
 時間 || 内容 || 概要 || 発表者
 18:10- | DWN trivia quiz | Debian 関連のニュースにおいついていますか? 簡単なクイズでDebian常識テストしちゃいます | 上川純一
 19:00- | Debianでの数学ことはじめ。 | Debian でOctave, GNU R, Gnuplotに入門してみました。 | まえだこうへい
-20:00- | builddを語る。 |  | 岩松信洋
+20:00- | auto-builderの仕組み | Debian Project の主要なシステムの一つである 自動パッケージビルドシステム:auto-builder の仕組みについて説明します。 | 岩松信洋
 
 * 勉強会中継について
   
