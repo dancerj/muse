@@ -8,7 +8,7 @@ RELEASEFILES:=$(UPLOAD_FILES:%=%.release-stamp)
 all: $(HTML_FILES)
 
 html/%.html: %.muse
-	umask 002; emacs -batch -l muse-config.el -eval '(muse-project-publish "Debian-study")'
+	umask 002; emacs22 -batch -l muse-config.el -eval '(muse-project-publish "Debian-study")'
 
 %.release-stamp: %
 	scp $< alioth.debian.org:/var/lib/gforge/chroot/home/groups/tokyodebian/htdocs/
