@@ -15,8 +15,11 @@ Debian 勉強会を開催します。
 * 次回の勉強会
 
  - [[hackcafe][毎週開催のハックカフェ]]
- - [[2009-11][2009年11月勉強会(第58回東京エリアDebian勉強会)]] 
+ - [[2009-12][2009年12月勉強会(第59回東京エリアDebian勉強会)]] 
  - [[http://wiki.debian.org/KansaiDebianMeeting20091106-07][第29回 関西 Debian 勉強会]]
+
+* 課題提出方法
+ [[prework-update][課題提出方法]]をちょっとだけ真面目に書いてみました。
 
 * 関連記事など
 
@@ -31,7 +34,7 @@ Debian 勉強会を開催します。
 * 過去の勉強会
 
 ** 2009年度
-
+ - [[2009-12][2009年12月勉強会(第58回東京エリアDebian勉強会)]] 
  - [[http://wiki.debian.org/KansaiDebianMeeting20091025][第28回 関西 Debian 勉強会]]
  - [[2009-10][2009年10月勉強会(第57回東京エリアDebian勉強会)]]
  - [[http://wiki.debian.org/KansaiDebianMeeting20090927][第27回 関西 Debian 勉強会]]
