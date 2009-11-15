@@ -1,0 +1,76 @@
+#title 東京エリアDebian勉強会 課題提出方法
+
+* 更新方法
+** 1. 勉強会資料のリポジトリを持ってない人は、git clone コマンドを使ってコピーします。
+
+(既に持っている人は3. から読んでください。)
+<example>
+$ git clone git://git.debian.org/git/tokyodebian/monthly-report.git
+</example>
+
+** 2. 作成されたtokyodebianディレクトリに移動します。
+<example>
+$ cd tokyodebian
+</example>
+
+** 3. 現在チェックアウトしているブランチを確認します。
+<example>
+$ git branch
+* 200904
+  master
+</example>
+   もし、master に前にアスタリスク(*)がついていない場合、masterブランチをチェックアウトします。
+<example>
+$ git checkout master
+</example>
+
+再度、masterブランチをチェックアウトしているか確認します。
+<example>
+$ git branch
+  200904
+** master
+</example>
+
+** 4. 課題を作成する年月(2009年11月の場合は200911) のローカルブランチを作成します。
+<example>
+$ git branch 200911
+</example>
+
+** 5. 作成したブランチをチェックアウトします。
+<example>
+$ git checkout 200911
+Switched to branch '200911'
+</example>
+** 6. 課題を作成する年月用のディレクトリ(2009年11月の場合はimage200911)にあるprework.texに自分の課題を追加します。
+
+利用するエディタはお好きなものをどうぞ。
+<example>
+$ vi images200911/prework.tex
+</example>
+** 7. 課題を書いたら、変更をコミットします。
+
+<example>
+$ git commit -m "Add iwamatsu prework" prework.tex
+[master 0b0f025] images200911/prework.tex
+ 1 files changed, 3 insertions(+), 0 deletions(-)
+</example>
+** 8. 変更をパッチで出力します。
+<example>
+$ git format-patch -o /tmp HEAD~
+/tmp/0001-Add-iwamatsu-prework.patch
+</example>
+
+/tmp/0001-Add-iwamatsu-prework.patch がパッチです。
+** 9. パッチを課題用メーリングリストに投稿します。
+
+真のgit使いは git send-email コマンドを使いますが、各々が使っている
+MUA を使って送るのがいいでしょう。
+2009年度向けのメーリングリストはhttp://lists.alioth.debian.org/mailman/listinfo/tokyodebian-2009です。
+
+** 10 . メーリングリストに投稿できたら、masterブランチをチェックアウトします。
+
+<example>
+$ git checkout master
+Switched to branch 'master'
+</example>
+
