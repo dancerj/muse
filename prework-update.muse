@@ -3,7 +3,7 @@
 * 更新方法
 ** 1. 勉強会資料のリポジトリを持ってない人は、git clone コマンドを使ってコピーします。
 
-(既に持っている人は3. から読んでください。)
+(既に持っている人は2. から読んでください。)
 <example>
 $ git clone git://git.debian.org/git/tokyodebian/monthly-report.git
 Initialized empty Git repository in /tmp/monthly-report/.git/
@@ -24,7 +24,7 @@ $ git branch
 * 200904
   master
 </example>
-もし、master に前にアスタリスク(**)がついていない場合、masterローカルブランチをチェックアウトします。
+もし、master に前にアスタリスク( * )がついていない場合、masterローカルブランチをチェックアウトします。
 <example>
 $ git checkout master
 </example>
@@ -33,47 +33,53 @@ $ git checkout master
 <example>
 $ git branch
   200904
-** master
+* master
 </example>
 
-** 4. 課題を作成する年月(2009年11月の場合は200911) のローカルブランチを作成します。
+** 4. リモートリポジトリからリポジトリ情報を取得します。
+<example>
+$ git pull
+</example>
+
+** 5. 課題を作成する年月(2009年11月の場合は200911) のローカルブランチを作成します。
 <example>
 $ git branch 200911
 </example>
 
-** 5. 作成したローカルブランチをチェックアウトします。
+** 6. 作成したローカルブランチをチェックアウトします。
 <example>
 $ git checkout 200911
 Switched to branch '200911'
 </example>
 
-** 6. 課題を作成する年月用のディレクトリ(2009年11月の場合はimage200911)にあるprework.texに自分の課題を追加します。
+** 7. 課題を作成する年月用のディレクトリ(2009年11月の場合はimage200911)にあるprework.texに自分の課題を追加します。
 利用するエディタはお好きなものをどうぞ。
 <example>
 $ vi images200911/prework.tex
 </example>
 
-** 7. 課題を書いたら、変更をローカルブランチにコミットします。
+** 8. 課題を書いたら、変更をローカルブランチにコミットします。
 <example>
 $ git commit -m "Add iwamatsu prework" images200911/prework.tex
 [master 0b0f025] images200911/prework.tex
  1 files changed, 3 insertions(+), 0 deletions(-)
 </example>
 
-** 8. 変更をパッチで出力します。
+** 9. 変更をパッチで出力します。
 <example>
 $ git format-patch -o /tmp HEAD~
 /tmp/0001-Add-iwamatsu-prework.patch
 </example>
 
 /tmp/0001-Add-iwamatsu-prework.patch がパッチです。
-** 9. パッチを課題用メーリングリストに投稿します。
+
+** 10. パッチを課題用メーリングリストに投稿します。
 
 真のgit使いは git send-email コマンドを使いますが、各々が使っている
 MUA を使って送るのがいいでしょう。
 2009年度向けのメーリングリストは http://lists.alioth.debian.org/mailman/listinfo/tokyodebian-2009 です。
 
-** 10 . メーリングリストに投稿できたら、masterローカルブランチをチェックアウトします。
+** 11 . メーリングリストに投稿できたら、masterローカルブランチをチェックアウトします。
 
 <example>
 $ git checkout master
