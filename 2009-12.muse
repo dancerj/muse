@@ -3,9 +3,9 @@
 * 開催概要
 
 日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 13:00-17:00
-場所 | 未定　東京大学 駒場キャンパス
-定員 | 30人
-参加登録方法 | [[http://utage.org/enkai][宴会くん]]に登録、宴会コードは debi-m<lisp>(format "%.4d%.2d" year month)</lisp>、 <lisp>month</lisp>月<lisp>(- day 2)</lisp>日までに登録ください。申込の際に事前課題を提出ください。また、その後の宴会に参加されたいかたは、コメント欄に「宴会参加する」と記述ください。
+場所 | 東京大学先端科学技術研究センター3号館 M2階
+定員 | 50人
+参加登録方法 | [[http://atnd.org/events/2226][ATND]]に<lisp>month</lisp>月<lisp>(- day 2)</lisp>日までに登録ください。申込の際に事前課題を提出ください。また、その後の宴会に参加されたいかたは、コメント欄に「宴会参加する」と記述ください。キーサインを希望される方は、その旨もコメント欄に記入ください。
 参加費用 | 500円
 
 * 事前課題
@@ -13,7 +13,7 @@
 参加の条件ですので提出お願いします。
 
 お題 | 未定
-提出方法 | [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume200811.pdf][2008年11月資料]], [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume200901.pdf][2009年1月資料]]を参考にしてチェックアウト、ビルドしてください。作成した成果を git commit したあと、 git format-patch -o ./ origin コマンドで生成されたパッチファイルを送付してください。
+提出方法 | [[http://tokyodebian.alioth.debian.org/prework-update.html][課題提出方法]] を参考にしてチェックアウト、ビルドしてください。作成した成果を git commit したあと、 git format-patch -o ./ origin コマンドで生成されたパッチファイルを送付してください。
 提出先 | tokyodebian-<lisp>year</lisp>@lists.alioth.debian.org (デビアン勉強会事前資料送付用メーリングリスト宛) Subject:「Debian勉強会<lisp>number</lisp>事前課題」 としてパッチファイルを添付してください。
 質問先 | 課題内容の実施についてなにかあれば、[[http://lists.debian.or.jp/debian-users/][debian-users@debian.or.jp Debianユーザ用公開メーリングリスト]] にてご質問ください。
 期限 | 参加登録期限と同じ
@@ -40,7 +40,7 @@ ustream チャンネル | 未定
 会場 | 会場近辺で場所を確保する予定です、直前に決定します
 時間 | 18:00-21:00
 会費 | 5000
-参加登録 | 宴会くんに登録する際に表明してください
+参加登録 | ATNDに登録する際に表明してください
 
 
 * 資料
