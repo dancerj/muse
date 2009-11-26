@@ -12,7 +12,7 @@
 
 参加の条件ですので提出お願いします。
 
-お題 | 未定
+お題 | 「自分がDebianに関して2009年にやったこと」　「2009年にDebianに関連したおきた大きなイベント」
 提出方法 | [[http://tokyodebian.alioth.debian.org/prework-update.html][課題提出方法]] を参考にしてチェックアウト、ビルドしてください。作成した成果を git commit したあと、 git format-patch -o ./ origin コマンドで生成されたパッチファイルを送付してください。
 提出先 | tokyodebian-<lisp>year</lisp>@lists.alioth.debian.org (デビアン勉強会事前資料送付用メーリングリスト宛) Subject:「Debian勉強会<lisp>number</lisp>事前課題」 としてパッチファイルを添付してください。
 質問先 | 課題内容の実施についてなにかあれば、[[http://lists.debian.or.jp/debian-users/][debian-users@debian.or.jp Debianユーザ用公開メーリングリスト]] にてご質問ください。
@@ -24,7 +24,9 @@
 
 時間 || 内容 || 概要 || 発表者
 13:10- | DWN trivia quiz | Debian 関連のニュースにおいついていますか? 簡単なクイズでDebian常識テストしちゃいます | 上川純一
-20:00- | 未定 | ?
+13:30- | qemubuilder 論 | 上川純一
+14:00- | Debian 勉強会2009年まとめ | 上川純一
+14:30- | 2009年を振り返るワークショップ | 上川純一
 
 * 勉強会中継について
   
