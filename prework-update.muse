@@ -1,6 +1,48 @@
 #title 東京エリアDebian勉強会 課題提出方法
 
 * 更新方法
+
+** 0.  Git と Latex の設定をします。
+
+*** apt-lineにcontrib non-freeを追加します。
+/etc/apt/sources.listの該当する行を次のように編集してください。
+
+<example>
+deb http://ftp.jp.debian.org/debian/ lenny main contrib non-free
+deb-src http://ftp.jp.debian.org/debian/ lenny main contrib non-free
+</example>
+
+編集後、rootに移行しaptを更新します。
+
+<example>
+# apt-get update && apt-get upgrade
+</example>
+
+*** 課題作成に必要なパッケージを導入します。
+
+<example>
+# apt-get install git-core make lv ptex-bin okumura-clsfiles \
+xpdf xpdf-japanese texlive-latex-extra \
+ghostscript dvipdfmx latex-beamer ttf-sazanami-mincho \
+ttf-mona ttf-vlgothic gs-cjk-resource
+</example>
+
+
+*** 新クラスファイルを追加します。
+
+<example>
+# jisftconfig add
+</example>
+
+*** gitを設定します。
+
+課題を作成するユーザに戻り、gitにメールアドレスや名前を設定します。
+
+<example>
+$ git config --global user.email foo@example.com
+$ git config --global user.name "Tarou Debian"
+</example>
+
 ** 1. 勉強会資料のリポジトリを持ってない人は、git clone コマンドを使ってコピーします。
 
 (既に持っている人は2. から読んでください。)
@@ -13,10 +55,13 @@ remote: Compressing objects: 100% (910/910), done.
 Resolving deltas: 100% (1428/1428), done.
 </example>
 
-** 2. 作成されたmonthly-reportディレクトリに移動します。
+** 2. ディレクトリに移動し、取得したファイルをビルドします。
 <example>
 $ cd monthly-report
+$ cp -p git-pre-commit.sh .git/hooks/pre-commit
+$ make
 </example>
+ビルドが終了すると100個以上のpdfファイルが作成されます。
 
 ** 3. 現在チェックアウトしているローカルブランチを確認します。
 <example>
@@ -54,9 +99,29 @@ Switched to branch '200911'
 
 ** 7. 課題を作成する年月用のディレクトリ(2009年11月の場合はimage200911)にあるprework.texに自分の課題を追加します。
 利用するエディタはお好きなものをどうぞ。
+
+debianmeetingresume<YYYYMM>.texが勉強会資料で、事前課題はこのファ
+イルから読み込まれているimage<YYYYMM>/prework.texにお好みのエディ
+タを使用して追記します。
+
 <example>
+$ gnuclient images200911/prework.tex
 $ vi images200911/prework.tex
 </example>
+
+image<YYYYMM>/prework.texはMakefileの依存対象となっていないため、
+debianmeetingresume<YYYYMM>.texの日付を変更するなりしてビルドし
+ます。
+
+<example>
+$ touch debianmeetingresume200911.tex
+$ make
+</example>
+
+まれにdebianmeetingresume<YYYYMM>.texのimage<YYYYMM>/prework.tex
+を読み込んでいる箇所がコメントアウトされている場合がありますので、
+結果が反映されない場合はご確認ください。
+
 
 ** 8. 課題を書いたら、変更をローカルブランチにコミットします。
 <example>
