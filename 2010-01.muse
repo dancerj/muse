@@ -3,8 +3,8 @@
 * 開催概要
 
 2010年の3月に次期安定版である コードネーム "squeeze" がリリースフリーズに入る予定です。
-これに合わせて世界各地で　Debian Bug Squashing Parties が行われます。
-今回、日本でも東京エリアDebian勉強会と合わせて Bug Squashing Parties を行います。
+これに合わせて世界各地で　Debian Bug Squashing Party が行われます。
+今回、日本でも東京エリアDebian勉強会と合わせて Bug Squashing Party を行います。
 以下の日程で行いますので、Bug Squashing に協力していただける方の参加をお待ちしております。
 RC バグを潰しまくるのはもちろん、パッケージ、ソフトウェアメンテナンス、ドキュメント/po翻訳などのBug Squashingを
 やりたい方も参加できます。
@@ -52,7 +52,7 @@ Debian / オープンソースの開発者が集まりますので、GPGサインをやりたい方もどうぞ。
  - unstable が動作しているマシンおよび開発環境
     - pbuilder/cowbuilderの整備
     - 修正するソフトウェアのソースコード等 
- - ネットワークの動作確認 有線/無線(WEP,WPA1/2)
+ - ネットワークの動作確認 有線/無線(WEP,WPA1/2), IPv6環境
     - 会場は無線メインになる予定です
  - デバッグ用の資料、機材
  - ネットワークケーブル、ハブ
@@ -102,6 +102,12 @@ Debian / オープンソースの開発者が集まりますので、GPGサインをやりたい方もどうぞ。
 IRC サーバー | osdn.debian.or.jp
 IRC チャンネル | #debianjp
 文字コード | UTF-8
+
+RC バグに対応される方は以下のチャンネルにも入る必要があります。
+IRC サーバー | irc.oftc.net
+IRC チャンネル | #debian-bugs
+文字コード | UTF-8
+
 
 * Ustream
 
