@@ -13,13 +13,15 @@ Debian / オープンソースの開発者が集まりますので、GPGサインをやりたい方もどうぞ。
 
 ** 会場
 
-日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 18:00-21:00
+日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 9:00-21:00
 場所 | 東京大学先端科学技術研究センター3号館 M2階 東京都目黒区駒場4-6-1 ([[http://www.google.co.jp/maps?q=35.6625987,139.6776863(%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E9%A7%92%E5%A0%B44-6-1)&z=17][Google Map]])
 定員 | 50人
 参加費用 | なし
 
 <literal style="html">
+<p>
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.google.co.jp/maps?q=35.6625987,139.6776863(%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E9%A7%92%E5%A0%B44-6-1)&amp;ie=UTF8&amp;z=17&amp;brcurrent=3,0x6018f4cc9e2835f1:0x28078d19a4b01873,0&amp;ll=35.662599,139.677686&amp;output=embed"></iframe><br /><small><a href="http://www.google.co.jp/maps?q=35.6625987,139.6776863(%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E9%A7%92%E5%A0%B44-6-1)&amp;ie=UTF8&amp;z=17&amp;brcurrent=3,0x6018f4cc9e2835f1:0x28078d19a4b01873,0&amp;ll=35.662599,139.677686&amp;source=embed" style="color:#0000FF;text-align:left">大きな地図で見る</a></small>
+</p>
 </literal>
 
 ** 参加登録方法
