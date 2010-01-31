@@ -15,7 +15,9 @@ Debian 勉強会を開催します。
 * 次回の勉強会
 
  - [[hackcafe][毎週開催のハックカフェ]]
- - [[2010-01][2010年1月勉強会(第60回東京エリアDebian勉強会)]] 
+ - [[2010-02][2010年2月勉強会(第61回東京エリアDebian勉強会)]]
+ - [[2009-02-OSC][オープンソースカンファレンス2009 Tokyo/Spring 出張勉強会]]
+ - [[http://wiki.debian.org/KansaiDebianMeeting20100228][第32回 関西 Debian 勉強会]]
 
 * 課題提出方法
  [[prework-update][課題提出方法]]をちょっとだけ真面目に書いてみました。
@@ -26,11 +28,16 @@ Debian 勉強会を開催します。
  - 2008/2/18 ＠IT自分戦略研究所 [[http://jibun.atmarkit.co.jp/lcom01/special/semi/semi01.html][先達を見つけ、自分なりの勉強会を開催せよ]]
 
 * 未来の勉強会
- - [[2010-02][2010年2月勉強会(第61回東京エリアDebian勉強会)]]
  - [[2010-03][2010年3月勉強会(第62回東京エリアDebian勉強会)]]
+ - [[http://wiki.debian.org/KansaiDebianMeeting20100313][第33回関西Debian勉強会@OSC2010 Kobe]]
  - [[2010-04][2010年4月勉強会(第63回東京エリアDebian勉強会)]]
+ - [[2010-05][2010年5月勉強会(第63回東京エリアDebian勉強会)]]
 
 * 過去の勉強会
+
+** 2010年度
+ - [[2010-01][2010年1月勉強会(第60回東京エリアDebian勉強会)]] 
+ - [[http://wiki.debian.org/KansaiDebianMeeting20100124][第31回 関西 Debian 勉強会]]
 
 ** 2009年度
  - [[http://wiki.debian.org/KansaiDebianMeeting20091227][第30回 関西 Debian 勉強会]]
