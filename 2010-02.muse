@@ -7,7 +7,7 @@
 定員 | 30人
 参加登録方法 |今回は2日間で木更津近郊以外からの参加の場合は宿泊も伴うため、お手数をお掛けしますが、日程ごとにDebian勉強会予約システムへの登録をお願いします。申込の際に事前課題を提出ください。また、その後の宴会に参加されたいかたは、コメント欄に「宴会参加する」と記述ください。キーサインを希望される方は、その旨もコメント欄に記入ください。
 1日目の参加登録 |  [[http://debianmeeting.appspot.com/event?eventid=7f337ce32d330102b25b03054acfff0be5d193a8][Debian勉強会予約システム(2/20)]] 宿泊あり：2月10日までに。宿泊なし：<lisp>month</lisp>月<lisp>(- day 2)</lisp>日までに登録ください。
-2日目の参加登録 | [[http://debianmeeting.appspot.com/eventadmin/edit?eventid=24235fd808ccfa9db0e6bd0c12742b4a5737f048][Debian勉強会予約システム(2/21)]] 宿泊なし：2月10日までに。宿泊なし：2月18日までに登録ください。
+2日目の参加登録 | [[http://debianmeeting.appspot.com/eventadmin/edit?eventid=24235fd808ccfa9db0e6bd0c12742b4a5737f048][Debian勉強会予約システム(2/21)]] 宿泊あり：2月10日までに。宿泊なし：2月18日までに登録ください。
 宿泊に関する注意事項 | 宿泊希望の場合は、[[http://wiki.debian.org/ja/Debian-Onsen][こちら]]を必ず確認の上、申し込みください。また、コメント欄に「宿泊希望」と記述ください。
 参加費用 | 500円(仮)
 
