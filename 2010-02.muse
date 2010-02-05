@@ -15,6 +15,8 @@
 <literal style="html">
 <iframe src="http://debianmeeting.appspot.com/event?eventid=7f337ce32d330102b25b03054acfff0be5d193a8&ui=simple" width="100%" height="500">
 </iframe>
+<iframe src="http://debianmeeting.appspot.com/event?eventid=24235fd808ccfa9db0e6bd0c12742b4a5737f048&ui=simple" width="100%" height="500">
+</iframe>
 </literal>
 
 
@@ -23,8 +25,7 @@
 参加の条件ですので提出お願いします。
 
 お題 | 未定
-提出方法 | [[http://tokyodebian.alioth.debian.org/prework-update.html][課題提出方法]] を参考にしてチェックアウト、ビルドしてください。作成した成果を git commit したあと、 git format-patch -o ./ origin コマンドで生成されたパッチファイルを送付してください。
-提出先 | tokyodebian-<lisp>year</lisp>@lists.alioth.debian.org (デビアン勉強会事前資料送付用メーリングリスト宛) Subject:「Debian勉強会<lisp>number</lisp>事前課題」 としてパッチファイルを添付してください。
+提出方法 | Debian勉強会予約システムの課題回答フォームに入力してください。
 質問先 | 課題内容の実施についてなにかあれば、[[http://lists.debian.or.jp/debian-users/][debian-users@debian.or.jp Debianユーザ用公開メーリングリスト]] にてご質問ください。
 期限 | 参加登録期限と同じ
 ライセンス | 提出いただいた資料は全員に配布すること、また内容の再利用を実施することを了承ください。 Debian勉強会資料はGPLで公開します。 (Webでの公開が可能な内容にしてください。) 
@@ -33,7 +34,8 @@
 * 当日のagenda
 
 時間 || 内容 || 概要 || 発表者
-13:10- | DWN trivia quiz | Debian 関連のニュースにおいついていますか? 簡単なクイズでDebian常識テストしちゃいます | 上川純一
+2/20 13:10- | DWN trivia quiz | Debian 関連のニュースにおいついていますか? 簡単なクイズでDebian常識テストしちゃいます | 上川純一
+
 
 * 勉強会中継について
   
@@ -49,7 +51,7 @@ ustream チャンネル | 未定
 会場 | 会場近辺で場所を確保する予定です、直前に決定します
 時間 | 18:00-21:00
 会費 | 5000
-参加登録 | ATNDに登録する際に表明してください
+参加登録 | Debian勉強会予約システムに登録する際に表明してください
 
 
 * 資料
