@@ -37,11 +37,11 @@
 時間 || 内容 || 概要 || 発表者
 2/20 13:00- | DWN trivia quiz | Debian 関連のニュースにおいついていますか? 簡単なクイズでDebian常識テストしちゃいます | 上川純一
 2/20 13:30- | Why Debian ? | Debian をなぜ使うのか？ | やまね
-2/20 14:10- | Debian のブート | Squeeze から upstart に変わります | まえだ
-2/20 14:40- | プログラミング言語 Yadorigi | 未踏ユースで採択された Yadorigi について | 坂口
-2/20 15:20- | Debian の関数型処理系 | Debian における関数型処理系まわりのパッケージについての実態 | 日比野
 2/20 15:50- | 関数型言語インタプリタ作成入門 | OCaml 開発環境での簡略化した Haskell 様の関数型言語のインタプリタ作り方について | 日比野
-2/20 16:00- | Debian 勉強会予約システム | 今年から使い始めた新たな参加登録システムについて | 上川
+2/20 16:20- | Debian の関数型処理系 | Debian における関数型処理系まわりのパッケージについての実態 | 日比野
+2/21 9:10- | Debian のブート | Squeeze から upstart に変わります | まえだ
+2/21 9:40- | プログラミング言語 Yadorigi | 未踏ユースで採択された Yadorigi について | 坂口
+2/21 11:30- | Debian 勉強会予約システム | 今年から使い始めた新たな参加登録システムについて | 上川
 
 
 * 勉強会中継について
@@ -60,7 +60,7 @@
 * 資料
 
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]　(未完成)
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
 
 * 参加報告
 
