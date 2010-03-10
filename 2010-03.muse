@@ -1,9 +1,9 @@
-#title 第<lisp> number</lisp>回東京エリアDebian勉強会、<lisp>year</lisp>年<lisp>month</lisp>月勉強会 (未定)
+#title 第<lisp> number</lisp>回東京エリアDebian勉強会、<lisp>year</lisp>年<lisp>month</lisp>月勉強会 
 <lisp>(progn  (setq year 2010) (setq month 3) (setq day 20) (setq number 62) "") </lisp>
 * 開催概要
 
-日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 未定
-場所 | 未定
+日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 
+場所 | ASAHIネット 会議室 東京都中央区銀座??
 定員 | 未定人
 参加登録方法 | Debian勉強会予約システムへの登録をお願いします。申込の際に事前課題を提出ください。また、その後の宴会に参加されたい方は、「宴会参加」をチェックしてください。
 参加登録 | [[http://debianmeeting.appspot.com/event?eventid=dff1b3a4cd4e215fed4c36259fa72d2288f6a70e][Debian勉強会予約システム]] X月X日までに登録ください。
