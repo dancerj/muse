@@ -29,7 +29,11 @@
 * 当日のagenda
 
 時間 || 内容 || 概要 || 発表者
-X:XX | XXX | YYY | ZZZ
+14:00 | XXX | YYY | ZZZ
+14:30 | ニューラルネットワークで画像を分類してみた | YYY | 本庄
+15:10 | Debian で weka を使ってみる | YYY | 本庄
+15:50 | Debian で libfftw を使ってみる | YYY | 上川
+16:30 | man-db を深追いした | YYY | 日比野
 
 * 懇親会
 
