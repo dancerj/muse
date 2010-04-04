@@ -2,16 +2,16 @@
 <lisp>(progn (setq year 2010) (setq month 4) (setq day 17) (setq number 63) (setq eventid "") "") </lisp>
 * 開催概要
 
-日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 未定
-場所 | 未定
-定員 | 未定人
+日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 13:00-17:00
+場所 | 稲城市立iプラザ 中会議室
+定員 | 30人
 参加登録方法 | Debian勉強会予約システムへの登録をお願いします。申込の際に事前課題を提出ください。また、その後の宴会に参加されたい方は、「宴会参加」をチェックしてください。
-参加登録 | [[http://debianmeeting.appspot.com/event?eventid=<lisp>eventid</lisp>][Debian勉強会予約システム]] X月X日までに登録ください。
-勉強会参加費用 | 500円(仮)
+参加登録 | [[http://debianmeeting.appspot.com/event?eventid=<lisp>eventid</lisp>][Debian勉強会予約システム]] 4月15日までに登録ください。
+勉強会参加費用 | 500円(仮) ※施設使用料・事前配布資料代に充当します。
 
 イベント登録: (Gmail アカウントを流用して認証します)
 <literal style="html">
-<iframe src="http://debianmeeting.appspot.com/event?eventid=<lisp>eventid</lisp>&ui=simple" width="100%" height="500">
+<iframe src="http://debianmeeting.appspot.com/event?eventid=0013e9df2ac265e769263ef259c1e0c9db79bd42&ui=simple" width="100%" height="500">
 </iframe>
 </literal>
 
@@ -33,8 +33,8 @@ X:XX | XXX | YYY | ZZZ
 
 * 懇親会
 
-会場 | 未定
-時間 | 未定
+会場 | 牛角 若葉台店(仮)
+時間 | 17:30-20:00(仮)
 会費 | 実費、5000円程度予定
 参加登録 | Debian勉強会予約システムに登録する際に表明してください
 
