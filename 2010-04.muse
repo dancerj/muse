@@ -6,7 +6,7 @@
 場所 | 稲城市立iプラザ 中会議室
 定員 | 30人
 参加登録方法 | Debian勉強会予約システムへの登録をお願いします。申込の際に事前課題を提出ください。また、その後の宴会に参加されたい方は、「宴会参加」をチェックしてください。
-参加登録 | [[http://debianmeeting.appspot.com/event?eventid=<lisp>eventid</lisp>][Debian勉強会予約システム]] 4月15日までに登録ください。
+参加登録 | [[http://debianmeeting.appspot.com/event?eventid=<lisp>eventid</lisp>0013e9df2ac265e769263ef259c1e0c9db79bd42][Debian勉強会予約システム]] 4月15日までに登録ください。
 勉強会参加費用 | 500円(仮) ※施設使用料・事前配布資料代に充当します。
 
 イベント登録: (Gmail アカウントを流用して認証します)
