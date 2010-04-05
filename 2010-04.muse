@@ -1,4 +1,4 @@
-#title 第<lisp> number</lisp>回東京エリアDebian勉強会、<lisp>year</lisp>年<lisp>month</lisp>月勉強会 (未定)
+#title 第<lisp> number</lisp>回東京エリアDebian勉強会、<lisp>year</lisp>年<lisp>month</lisp>月勉強会
 <lisp>(progn (setq year 2010) (setq month 4) (setq day 17) (setq number 63) (setq eventid "") "") </lisp>
 * 開催概要
 
@@ -29,7 +29,11 @@
 * 当日のagenda
 
 時間 || 内容 || 概要 || 発表者
-X:XX | XXX | YYY | ZZZ
+13:10 - 13:20 | 2010年度 Debian JP Project 会長の挨拶 | 2010年度のDebian JP Project 会長からの挨拶と抱負 | 荒木 靖宏
+13:20 - 13:40 | DWN trivia quiz | Debian 関連のニュースにおいついていますか? 簡単なクイズでDebian常識テストしちゃいます。 | 岩松 信洋
+13:50 - 14:50 | Upstart 再入門 | 次期リリースでinitがUpstartに変わります。予習のために再入門してみましょう。 | 前田 耕平
+15:00 - 16:00 | piuparts ってなによ | 次期リリースゴールの一つである piuparts-clean。これの中心にある piuparts について説明します。 | 岩松 信洋
+16:10 - 16:50 | もっとパッケージが探しやすくなる~ debtags 入門 | 様々なソフトが手軽に導入できることが Debian の魅力の一つです。しかし、現在 Debian には 20000 個を越えるパッケージが存在しています。さて、どうやって大量のパッケージから目当てのソフトを探せばいいのでしょう？そんな悩みを改善してくれる debtags の紹介と簡単な使い方を案内します。 | 山根 秀樹
 
 * 懇親会
 
