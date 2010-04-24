@@ -48,3 +48,6 @@
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDF¥×¥ì¥¼¥ó¥Æ¡¼¥·¥ç¥ó»ñÎÁ]] (Ì¤´°À®)
 
 * »²²ÃÊó¹ğ
+ - [[http://donrails.araki.net/archives/id/7018][araki]]
+ - [[http://d.hatena.ne.jp/gunshot/20100417][µÈÅÄ@ÈÄ¶¶]]
+ - [[http://d.hatena.ne.jp/mkouhei/20100418][mkouhei]]
