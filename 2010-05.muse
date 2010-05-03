@@ -5,7 +5,7 @@
 日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 
 場所 | 筑波大学 第3エリア B棟 302室 [3B302] [[http://maps.google.com/maps?f=d&source=s_d&saddr=36.111184,140.100236][地図]]/[[http://www.tsukuba-linux.org/wiki/%E7%AD%91%E6%B3%A2%E5%A4%A7%E5%AD%A6%E3%81%B8%E3%81%AE%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9][筑波大学さんへのアクセス]]
 定員 | 30名
-参加登録方法 | Debian勉強会予約システムへの登録をお願いします。申込の際に事前課題を提出ください。また、その後の宴会に参加されたい方は、「宴会参加」をチェックしてください。
+参加登録方法 | Debian勉強会予約システムおよび[[http://atnd.org/events/4210][つくらぐさんのATND]]への登録をお願いします(面倒ではありますが、両方の登録をお願いします)。申込の際に事前課題を提出ください。また、その後の宴会に参加されたい方は、「宴会参加」をチェックしてください。
 参加登録 | [[http://debianmeeting.appspot.com/event?eventid=<lisp>eventid</lisp>][Debian勉強会予約システム]] 5月13日までに登録ください。
 勉強会参加費用 | なし
 
