@@ -37,7 +37,7 @@
 15:50-15:55 |	LT |	Why Debian? | よく利用されているディストリビューションの一つ、Debianの魅力を熱く語ります |	東京エリアDebian勉強会
 16:15-16:45 |	テクニカル |	未定 |	未定 | tnzk
 17:00-17:30 |	テクニカル | DebianでのLinuxカーネルとの付き合い方	| DebianでのLinuxカーネルの開発体制などバックグラウンドの話や今時のLinuxカーネル構築方法などについて語ります。 | 	東京エリアDebian勉強会 / 岩松
-17:45-18:15 |	テクニカル |	未定 | 未定 |	東京エリアDebian勉強会
+17:45-18:15 |	テクニカル | mozc をパッケージ化してみました | Google IME の オープンソース版 mozc をパッケージ化してみました。 |	東京エリアDebian勉強会 / 岩松
 18:30-18:35 |	LT | 募集中 |	募集中 | 	-
 18:35-18:40 |	LT | 募集中 |	募集中 | -
 
@@ -50,7 +50,7 @@
 
 * 資料
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]] (未完成)
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]] (未完成)
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]] 
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]] 
 
 * 参加報告
