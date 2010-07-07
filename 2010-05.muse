@@ -1,5 +1,5 @@
 #title 第<lisp> number</lisp>回東京エリアDebian勉強会、<lisp>year</lisp>年<lisp>month</lisp>月勉強会
-<lisp>(progn (setq year 2010) (setq month 5) (setq day 15) (setq number 64) (setq eventid "") "") </lisp>
+<lisp>(progn (setq year 2010) (setq month 5) (setq day 15) (setq number 64) (setq eventid "3a3e00d1179b896b57fa2d531dc36456ea05676b") "") </lisp>
 * 開催概要
 
 日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 
