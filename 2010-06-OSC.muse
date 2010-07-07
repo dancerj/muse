@@ -21,6 +21,6 @@
 10:40 | squeeze に向けた Debian GNU/kFreeBSD 入門 | 次期リリースでサポートされる予定の Debian GNU/kFreeBSDのバックグラウンドについてお話します。 | 岩松信洋
 
 * 資料
- - [[http://tokyodebian.alioth.debian.org/debianmeetingresume201006-iwamatsu-presentation.pdf][PDFプレゼンテーション資料]]
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume201006-iwamatsu-presentation.pdf][PDFプレゼンテーション資料]]
 
 * 参加報告
