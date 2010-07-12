@@ -1,6 +1,8 @@
-#title 第<lisp> number</lisp>回東京エリアDebian勉強会、<lisp>year</lisp>年<lisp>month</lisp>月勉強会 
+#title 第<lisp> number</lisp>回東京エリアDebian勉強会、<lisp>year</lisp>年<lisp>month</lisp>月勉強会 　CANCELED 開催中止
 <lisp>(progn (setq year 2010) (setq month 7) (setq day 17) (setq number 66) (setq eventid "015f88b7c7e30730a1944613102682eb204d4750") "") </lisp>
 * 開催概要
+
+CANCELED 開催中止
 
 日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日)
 場所 | あんさんぶる荻窪
