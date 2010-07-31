@@ -7,6 +7,86 @@
 有志で紙媒体に印刷して有償で配布していますが、PDF形式でも配布しており、
 ここからダウンロードできます。
 
+
+** 2009年冬号
+
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2009-fuyu.pdf][2009年冬号PDF]] 
+
+ - Introduction
+ - Debian Conference 2009参加報告
+ - Debian GNU/kFreeBSD をインストールしてみよう
+ - 【CD/DVD/USBメモリ】Debian JP版 Debian Liveを作るよ【netbootも】
+ - ハッカーに一歩近づく Tips：Bash 編
+ - Debianでの数学ことはじめ。
+ - デバッグのお供："gdbのススメ"
+ - GPG キーサインパーティの説明
+ - DDTSS を使ってみよう
+ - DDTP 翻訳作業での TIPS
+ - DDTSS の利用方法の紹介
+ - GUIがついて格好良くなったreportbugを使ってみよう
+ - Debian パッケージの作り方。最初から最後まで
+ - lintian でパッケージをチェックする
+ - Debian Mentors ってご存知ですか
+ - Debian Autobuilder ネットワーク
+ - Debian Trivia Quiz
+ - Debian Trivia Quiz 問題回答
+
+** 2009年夏号
+
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2009-natsu.pdf][2009年夏号PDF]] 
+
+ - Introduction
+ - sqlite3 と python で csv ファイルを分析する
+ - Debian JP 定例会議 on IAX
+ - Git+メールでの事前課題提出にまつわる課題
+ - NamazuみたいにGoogle AJAX Search API
+ - AspireOneでDebian sidサーバー
+ - Debian GNU/Linux 2ch ブラウザ普及計画
+ - Linuxカーネルコンフィグ変換ツールを作ってみた
+ - 黒 MacBook の Lenny/Sid 64bit 化でのハマりポイント
+ - Debian パッケージングハンズオンの手引書
+ - DebianにおけるCommon Lispプログラミング環境
+ - Debian on chumbyの作り方 
+ - Java ポリシーを読んでみた
+ - adviをデバッグしてみた
+ - ocamlに入門してみた
+ - Erlang コードをDebianパッケージにしてみた
+ - 研究室のソフトウェアを Debian パッケージにしてみる
+ - MC-MPI/GXP 公式パッケージへの道
+ - Debian GNU/Linux 上で Android SDK を使ってみた
+ - DDTSS活用
+ - パッケージの依存性を解く：EDOS から Mancoosi まで
+ - Debian 勉強会の資料を作成しよう
+ - LaTeX beamer でプレゼンテーション
+ - 各種イベント開催実績
+ - 2008年を振り返ってみる
+ - Debian Trivia Quiz
+ - Debian Trivia Quiz 問題回答
+
+** 2008年冬号
+
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2008-fuyu.pdf][2008年冬号PDF]] 
+
+ - 2008年度 Debian 勉強会企画
+ - パッケージ作成(debhelper、CDBS、dpatch、quiltを用いたパッケージ作成)
+ - Linux カーネルパッチ の Debian パッケージ作成
+ - Linux カーネルモジュールの Debian パッケージ作成
+ - みんなも Debian GNU/Hurd を使おうよ！
+ - Debconf 8
+ - Debian 温泉
+ - Po4a でドキュメント翻訳の保守を楽にしよう
+ - 【でびあん】Debian パッケージメンテナというお仕事【現在募集中】
+ - Debconf8 参加報告
+ - 「その場で勉強会資料を作成しちゃえ」 Debian を使った \LaTeX 原稿作成合宿
+ - DebianをWindowsなPCでも楽しもう --応用編
+ - Debian Live に Ubiquity を移植できるか？
+ - 10分でわかる Debianフリーソフトウェアガイドライン (DFSG)
+ - はじめての CDBS
+ - cdn.debian.or.jp, cdn.debian.netにおける取り組み
+ - Debian Trivia Quiz
+ - Debian Trivia Quiz 問題回答
+
+
 ** 2008年夏号
 
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2008-natsu.pdf][2008年夏号PDF]] 
@@ -159,4 +239,6 @@
  - Debian Weekly News trivia quiz
 
 
+** このページの作成方法
 
+ make listtopic ででてきたものを適当に編集
