@@ -29,7 +29,13 @@
 * 当日のagenda
 
 時間 || 内容 || 概要 || 発表者
+X:XX | MythTV | YYY | やまもと?
+X:XX | CEPHをつかってみる | YYY | はっとり?
+X:XX | BtrFSをつかってみる | DeibanでBtrFSを使うには | すずき?
+X:XX | NILFSをつかってみる | Debian でNILFSを使うには | やまだ?
+X:XX | Mini Debconf | Mini Debconf 計画について語る | ZZZ
 X:XX | XXX | YYY | ZZZ
+(調整中)
 
 * 懇親会
 

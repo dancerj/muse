@@ -34,10 +34,7 @@
 14:40 | 最近のDebian関連のイベント事情 | Japan Linux Conf | 鈴木
 14:50 | 最近のDebian関連のイベント事情 | Debconf 2010 | やまね
 15:10 | 俺のDebianな一日 | 一日について語ります。 | 各位
-16:10 | Mini Debconfについて計画する | YYY | 山本
-17:10 | XXX | YYY | ZZZ
-
-(内容については絶賛調整中)
+16:10 | Mini Debconfについて計画する | Mini Debconf の計画について語ります | 山本
 
 * 懇親会
 
