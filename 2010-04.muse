@@ -52,3 +52,4 @@
  - [[http://d.hatena.ne.jp/gunshot/20100417][µÈÅÄ@ÈÄ¶¶]]
  - [[http://d.hatena.ne.jp/mkouhei/20100418][mkouhei]]
  - [[http://www.nigauri.org/~iwamatsu/d/?date=20100417#p01][iwamatsu]]
+ - [[http://smash.nobuto-murata.org/2010/04/63debian.html][murata]]
