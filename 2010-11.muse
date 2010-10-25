@@ -2,7 +2,7 @@
 <lisp>(progn (setq year 2010) (setq month 11) (setq day 20) (setq number 70) (setq eventid "b8aff506ce72a6c31d7bdad237a372c66685ab10") "") </lisp>
 * 開催概要
 
-日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 未定
+日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 18:00-
 場所 | [[http://www2.city.suginami.tokyo.jp/map/detail.asp?home=H00150][あんさんぶる荻窪 環境学習室]]
 定員 | 30人
 参加登録方法 | Debian勉強会予約システムへの登録をお願いします。申込の際に事前課題を提出ください。また、その後の宴会に参加されたい方は、「宴会参加」をチェックしてください。
@@ -19,7 +19,7 @@
 
 参加の条件ですので提出お願いします。
 
-|お題 | 未定
+|お題 | 日常的に活用しているファイルシステム設定について紹介する。(例、LVM, ext3, jffs, ...)
 |提出方法 | Debian勉強会予約システムの課題回答フォームに入力してください。
 |質問先 | 課題内容の実施についてなにかあれば、[[http://lists.debian.or.jp/debian-users/][debian-users@debian.or.jp Debianユーザ用公開メーリングリスト]] にてご質問ください。
 |期限 | 参加登録期限と同じ
@@ -29,12 +29,12 @@
 * 当日のagenda
 
 時間 || 内容 || 概要 || 発表者
-X:XX | MythTV | YYY | やまもと?
-X:XX | CEPHをつかってみる | YYY | はっとり?
-X:XX | BtrFSをつかってみる | DeibanでBtrFSを使うには | すずき?
-X:XX | NILFSをつかってみる | Debian でNILFSを使うには | やまだ?
-X:XX | Mini Debconf | Mini Debconf 計画について語る | ZZZ
-X:XX | XXX | YYY | ZZZ
+18:00- | 設営 | 会場準備 | 全員
+18:15- | 事前課題紹介 | xxx | 上川純一
+19:00- | CEPHをつかってみる | Debianで分散ファイルシステムCEPHを使うには(仮) | 服部 武史
+19:30 | BtrFSをつかってみる | DeibanでBtrFSを使うには(仮) | 鈴木 崇文
+20:00- | NILFSをつかってみる | Debian でNILFSを使うには(仮) | 山田 泰資
+20:30- | Mini Debconf計画 | Mini Debconf 計画について語る | 山本 浩之
 (調整中)
 
 * 懇親会
