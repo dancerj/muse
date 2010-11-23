@@ -38,14 +38,18 @@
 
 * 懇親会
 
-会場 | 未定
-時間 | 未定
-会費 | 実費、5000円程度予定
+会場 | はなの舞
+時間 | 21:00-23:00
+会費 | 実費、4100円
 参加登録 | Debian勉強会予約システムに登録する際に表明してください
 
 * 資料
 
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]] 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]] (未完成)
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]] 
 
 * 参加報告
+ - [[http://www.netfort.gr.jp/~dancer/diary/daily/2010-Nov-20.html.ja][dancerj]]
+ - [[http://emasaka.blog65.fc2.com/blog-entry-838.html][masaka]]
+ - [[http://d.hatena.ne.jp/mkouhei/20101123/1290471828][mkouhei]]
+ - [[http://donrails.araki.net/archives/id/7247][araki]]
