@@ -33,7 +33,6 @@
 13:00- | Kinectを使ってみた | YYY | ZZZ
 13:00- | 2010年のDebian勉強会を振り返って | YYY | ZZZ
 13:00- | CACertの準備に必要なもの | YYY | ZZZ
-13:00- | ゲームパッケージングしてみました | YYY | ZZZ
 13:00- | Debian Miniconf 企画 | YYY | ZZZ
 
 * 懇親会
