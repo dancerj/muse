@@ -1,4 +1,4 @@
-#title 第<lisp> number</lisp>回東京エリアDebian勉強会、<lisp>year</lisp>年<lisp>month</lisp>月勉強会 (未定)
+#title 第<lisp> number</lisp>回東京エリアDebian勉強会、<lisp>year</lisp>年<lisp>month</lisp>月勉強会 
 <lisp>(progn (setq year 2010) (setq month 12) (setq day 18) (setq number 71) (setq eventid "2eca91c408a78e5b5bc3ce15df1265aee499042c") "") </lisp>
 * 開催概要
 
@@ -29,11 +29,13 @@
 * 当日のagenda
 
 時間 || 内容 || 概要 || 発表者
-13:00- | XXX | YYY | ZZZ
-13:00- | Kinectを使ってみた | YYY | ZZZ
-13:00- | 2010年のDebian勉強会を振り返って | YYY | ZZZ
-13:00- | CACertの準備に必要なもの | YYY | ZZZ
-13:00- | Debian Miniconf 企画 | YYY | ZZZ
+13:00- | 会場準備 | xx | 全員
+13:10- | 事前課題紹介 | 事前課題について語ります | 上川 純一
+13:50- | 2010年のDebian勉強会を振り返って | 2010年の開催実績について解説します、2011年の計画について議論しましょう。 | 上川 純一
+14:30- | CACertの準備に必要なもの | YYY | ZZZ
+15:20- | 俺のlibsaneが火をふくぜ | YYY | 本庄
+16:10- | Debian Miniconf 企画 | YYY | 山本 浩之
+17:00- | 2011 年を想像する | xxx | 上川 純一
 
 * 懇親会
 
