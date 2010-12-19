@@ -45,7 +45,10 @@
 
 * 資料
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]] (未完成)
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]] (未完成)
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]] 
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]] 
 
 * 参加報告
+ - [[http://d.ma-aya.to/?date=20101218][henrich]]
+ - [[http://www.netfort.gr.jp/~dancer/diary/daily/2010-Dec-18.html.ja#2010-Dec-18-16:23:55][上川]]
+ - [[http://togetter.com/li/80408][togetter]]
