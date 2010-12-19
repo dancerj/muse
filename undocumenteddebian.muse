@@ -7,6 +7,40 @@
 有志で紙媒体に印刷して有償で配布していますが、PDF形式でも配布しており、
 ここからダウンロードできます。
 
+** 2010年夏号
+
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2010-natsu.pdf][2010年夏号PDF]] 
+
+
+ - Introduction
+ - Debian の紹介
+ - みんなのDebianデスクトップ環境を見てみよう
+ - 次期リリースの squeeze を見てみよう
+ - ブート方法が変わるよ
+ - upstart 再入門
+ - Xenで作る自宅サーバ
+ - lxc コンテナを使ってみる 
+ - Debianユーザのための Ubuntu 入門
+ - debtags 入門
+ - Debian を使って愉しむ Open Street Map 入門
+ - ハンドメイドGPSロガーの構築
+ - ハッカーに一歩近づく Tips 〜正規表現編〜
+ - ニューラルネットワークで画像認識してみた
+ - Wekaを使ってみる
+ - Debian で libfftw を使ってみる
+ - man-db を深追いした
+ - DebianのOCaml環境で開発する関数型言語インタプリタ
+ - DebianでのLinuxカーネルとの付き合い方
+ - dpkg ソース形式 ``3.0 (quilt)''
+ - piuparts の使い方
+ - qemubuilder 2009年アップデート
+ - 東京エリアDebian勉強会予約システムの構想
+ - PythonもGoogle App Engineも知らない人が「Debian勉強会予約管理システム」のソースを見てみたよ
+ - 東京エリアDebian勉強会　2009年度各種イベント開催実績と総括
+ - 関西 Debian 勉強会　2009年度各種イベント開催実績と総括
+ - 2009年を振り返ってみる
+ - Debian Trivia Quiz
+ - Debian Trivia Quiz 問題回答
 
 ** 2009年冬号
 
