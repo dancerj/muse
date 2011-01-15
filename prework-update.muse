@@ -1,5 +1,8 @@
 #title 東京エリアDebian勉強会 課題提出方法
 
+この資料は Debian 勉強会予約システム導入以前の手順を説明しています。
+2010年以降はDebian 勉強会予約システム (http://debianmeeting.appspot.com/) を利用してください。
+
 * 更新方法
 
 ** 0.  Git と Latex の設定をします。
