@@ -51,3 +51,8 @@ XX:XX- | Debian miniconf 企画は演者都合により中止です |  | 岩松
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]] (未完成)
 
 * 参加報告
+
+ - [[http://d.hatena.ne.jp/mkouhei/20110115/1295101435][mkouhei]]
+ - [[http://www.netfort.gr.jp/~dancer/diary/daily/2011-Jan-15.html.ja#2011-Jan-15-20:04:53][dancerj]]
+ - [[http://kmuto.jp/d/index.cgi/debian/tokyo-debian-201101.htm][kmuto]]
+ - [[http://blog.livedoor.jp/hideout2003/archives/51599713.html][ヒジキ]]
