@@ -14,7 +14,7 @@ Debian 勉強会を開催します。
 
 * 次回の勉強会
 
- - [[2011-01][2011年1月勉強会(第72回東京エリアDebian勉強会)]]
+ - [[2011-02][2011年2月勉強会(第73回東京エリアDebian勉強会)]]
  - [[hackcafe][毎週開催のハックカフェ]]
 
 * 課題提出方法
@@ -27,7 +27,6 @@ Debian 勉強会を開催します。
 
 * 未来の勉強会
 
- - [[2011-02][2011年2月勉強会(第73回東京エリアDebian勉強会)]]
  - [[2011-03][2011年3月勉強会(第74回東京エリアDebian勉強会)]]
  - [[2011-04][2011年4月勉強会(第75回東京エリアDebian勉強会)]]
  - [[2011-05][2011年5月勉強会(第76回東京エリアDebian勉強会)]]
@@ -41,17 +40,30 @@ Debian 勉強会を開催します。
 
 * 過去の勉強会
 
+** 2011年度
+ - [[http://wiki.debian.org/KansaiDebianMeeting20110123][第43回関西Debian勉強会]]
+ - [[2011-01][2011年1月勉強会(第72回東京エリアDebian勉強会)]]
 ** 2010年度
  - [[2010-12][2010年12月勉強会(第71回東京エリアDebian勉強会)]]
+ - [[http://wiki.debian.org/KansaiDebianMeeting20101226][第42回関西Debian勉強会]]
  - [[2010-11][2010年11月勉強会(第70回東京エリアDebian勉強会)]]
+ - [[http://wiki.debian.org/KansaiDebianMeeting20101105-1106][第41回関西Debian勉強会@関西オープンソース2010]]
  - [[2010-10][2010年10月勉強会(第69回東京エリアDebian勉強会)]]
+ - [[http://wiki.debian.org/KansaiDebianMeeting20101024][第40回関西Debian勉強会]]
  - [[2010-09][2010年9月勉強会(第68回東京エリアDebian勉強会)]]
+ - [[http://wiki.debian.org/KansaiDebianMeeting20100926][第39回関西Debian勉強会]]
  - [[2010-08][2010年8月勉強会(第67回東京エリアDebian勉強会)]]
+ - [[http://wiki.debian.org/KansaiDebianMeeting20100822][第38回関西Debian勉強会]]
  - [[2010-07][2010年7月勉強会(第66回東京エリアDebian勉強会)]]
+ - [[http://wiki.debian.org/KansaiDebianMeeting20100709-0710][第37回関西Debian勉強会@OSC2010Kyoto]]
  - [[2010-06-OSC][オープンソースカンファレンス2010 北海道 出張勉強会]]
  - [[2010-06][2010年6月勉強会(第65回東京エリアDebian勉強会)]]
+ - [[http://wiki.debian.org/KansaiDebianMeeting20100627][第36回関西Debian勉強会]]
  - [[2010-05][2010年5月勉強会(第64回東京エリアDebian勉強会)]]
+ - [[http://wiki.debian.org/KansaiDebianMeeting20100523][第35回関西Debian勉強会]]
  - [[2010-04][2010年4月勉強会(第63回東京エリアDebian勉強会)]]
+ - [[http://wiki.debian.org/KansaiDebianMeeting20100425][第34回関西Debian勉強会]]
+ - [[http://wiki.debian.org/KansaiDebianMeeting20100313][第33回関西Debian勉強会@OSC2010 Kobe]]
  - [[2010-03][2010年3月勉強会(第62回東京エリアDebian勉強会)]]
  - [[http://wiki.debian.org/KansaiDebianMeeting20100313][第33回関西Debian勉強会@OSC2010 Kobe]]
  - [[2010-02-OSC][オープンソースカンファレンス2010 Tokyo/Spring 出張勉強会]]
