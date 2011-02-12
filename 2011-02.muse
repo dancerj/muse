@@ -35,6 +35,18 @@
 19:40- | Squeezeをみんなインストールした結果を語る会 | 事前課題の回答を確認し、Squeezeについて議論します。 | 前田 耕平
 20:20- | CACert Assure / GPG keysigning | CACertとGPG署名会 | 山田 泰資
 
+* CACert認証の事前準備について
+
+CACertの認証を希望する方は事前に下記をご準備下さい。
+ - [[http://www.cacert.org/][CAcert]]でのアカウント作成
+ - CAcert に登録したメールアドレス(複数登録の場合はプライマリのもの)
+ - 身元証明書。2つ以上が望ましく、最低1つは政府発行かつ誕生日入りである必要がある。また、最低1つは写真入りである必要がある
+ - 未署名の CAP Form(署名以外は事前記入・印刷 OK)※
+ - [[http://www.cacert.org/policy/CAcertCommunityAgreement.php][CACert Community Agreement]]の熟読、内容理解
+
+※認証をお願いするassurer人数分の枚数を用意ください。今回参加予定のassurerの方は?名です。
+
+詳しくは、[[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume201012.pdf][2010年12月の事前配布資料]]をご参照下さい。
 
 * 懇親会
 
