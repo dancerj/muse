@@ -6,7 +6,7 @@
 場所 | [[http://www.regasu-shinjuku.or.jp/?p=647][北新宿生涯学習館]]
 定員 | 30人
 参加登録方法 | Debian勉強会予約システムへの登録をお願いします。申込の際に事前課題を提出ください。また、その後の宴会に参加されたい方は、「宴会参加」をチェックしてください。
-参加登録 | [[http://debianmeeting.appspot.com/event?eventid=<lisp>eventid</lisp>][Debian勉強会予約システム]] <lisp>month</lisp>月<lisp>(- day 2)</lisp>日までに登録ください。
+参加登録 | [[http://debianmeeting.appspot.com/event?eventid=b4c638760f9c4c8d57f17a3c3aa618c5e3d316e8][Debian勉強会予約システム]] <lisp>month</lisp>月<lisp>(- day 2)</lisp>日までに登録ください。
 勉強会参加費用 | 500円(仮)
 
 イベント登録: (Gmail アカウントを流用して認証します)
@@ -32,7 +32,7 @@
 18:00- | 会場設営 | 会場の設営をします | 
 18:10- | Hadoopネタ | Hadoop について熱く語ります。 | 山田 泰資
 18:50- | Debian Games Team 体験記 | Debian Games Team Project に参加してしまった体験記を話します | 野島 貴英
-19:40- | Squeezeをみんなインストールした結果を語る会 | 事前課題の回答を確認し、Squeezeについて議論します。 | 前田 耕平
+19:40- | Squeezeをみんなインストールした結果を語る会 | 事前課題の回答を確認し、Squeezeについて議論します。 | まえだこうへい
 20:20- | CACert Assure / GPG keysigning | CACertとGPG署名会 | 山田 泰資
 
 * CACert認証の事前準備について
