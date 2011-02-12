@@ -1,4 +1,4 @@
-#title 第<lisp> number</lisp>回東京エリアDebian勉強会、<lisp>year</lisp>年<lisp>month</lisp>月勉強会 (未定)
+#title 第<lisp> number</lisp>回東京エリアDebian勉強会、<lisp>year</lisp>年<lisp>month</lisp>月勉強会
 <lisp>(progn (setq year 2011) (setq month 2) (setq day 19) (setq number 73) (setq eventid "") "") </lisp>
 * 開催概要
 
@@ -29,15 +29,17 @@
 * 当日のagenda
 
 時間 || 内容 || 概要 || 発表者
-18:00- | 会場設営 | 会場の設営をします | 全員
+18:00- | 会場設営 | 会場の設営をします | 
 18:10- | Hadoopネタ | Hadoop について熱く語ります。 | 山田 泰資
-19:50- | Debian Games Team 体験記 | Debian Games Team Project に参加してしまった体験記を話します | 野島 貴英
-20:20- | Squeezeをみんなインストールした結果を語る会 | 事前課題の回答を確認し、Squeezeについて議論します。 | 前田 耕平
+18:50- | Debian Games Team 体験記 | Debian Games Team Project に参加してしまった体験記を話します | 野島 貴英
+19:40- | Squeezeをみんなインストールした結果を語る会 | 事前課題の回答を確認し、Squeezeについて議論します。 | 前田 耕平
+20:20- | CACert Assure / GPG keysigning | CACertとGPG署名会 | 山田 泰資
+
 
 * 懇親会
 
 会場 | 未定
-時間 | 21:00くらいからじゃないか?
+時間 | 21:00-
 会費 | 実費、5000円程度予定
 参加登録 | Debian勉強会予約システムに登録する際に表明してください
 
