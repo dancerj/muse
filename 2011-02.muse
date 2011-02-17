@@ -44,13 +44,13 @@ CACertの認証を希望する方は事前に下記をご準備下さい。
  - 未署名の CAP Form(署名以外は事前記入・印刷 OK)※
  - [[http://www.cacert.org/policy/CAcertCommunityAgreement.php][CACert Community Agreement]]の熟読、内容理解
 
-※認証をお願いするassurer人数分の枚数を用意ください。今回参加予定のassurerの方は?名です。
+※認証をお願いするassurer人数分の枚数を用意ください。今回参加予定のassurerの方は1名です。
 
 詳しくは、[[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume201012.pdf][2010年12月の事前配布資料]]をご参照下さい。
 
 * 懇親会
 
-会場 | 未定
+会場 | JR大久保駅周辺のどこか。
 時間 | 21:00-
 会費 | 実費、5000円程度予定
 参加登録 | Debian勉強会予約システムに登録する際に表明してください
