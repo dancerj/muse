@@ -1,4 +1,4 @@
-#title 第<lisp> number</lisp>回東京エリアDebian勉強会，<lisp>year</lisp>年<lisp>month</lisp>月勉強会
+#title 第<lisp> number</lisp>回東京エリアDebian勉強会，<lisp>year</lisp>年<lisp>month</lisp>月勉強会 / オープンソースカンファレンス2011 Tokyo/Spring
 <lisp>(progn  (setq year 2011) (setq month 3) (setq day 5) (setq number 74) "") </lisp>
 * 開催概要
 
@@ -24,8 +24,8 @@
 11:35- | 質疑応答 | 岩松信洋
 
 * その他 Debian 関係者によるイベント
- - [[http://www.ospn.jp/osc2011-spring/modules/eguide/event.php?eid=60][GPG/CAcert キーサインパーティ]]
- - [[http://www.ospn.jp/osc2011-spring/modules/eguide/event.php?eid=58][日本初！CAcert 公式トレーニング（ATE Tokyo） キーサイン会]]
+ - [[http://www.ospn.jp/osc2011-spring/modules/eguide/event.php?eid=60][GPG/CAcert キーサインパーティ]] (10:00 - 10:45)
+ - [[http://www.ospn.jp/osc2011-spring/modules/eguide/event.php?eid=58][日本初！CAcert 公式トレーニング（ATE Tokyo） キーサイン会]] (12:00 - 12:45)
 * 参加報告
 
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
