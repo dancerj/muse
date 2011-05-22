@@ -60,8 +60,11 @@
 
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
-
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation-mkouhei.pdf][2011年度 Debian JP Project 会長の挨拶 PDFプレゼンテーション資料]]
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation-mkouhei2.pdf][ Pythonのパッケージを作ってみた話 PDFプレゼンテーション資料]]
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation-iwamatsu.pdf][backports.debian.org の活用 PDFプレゼンテーション資料]]
 * 参加報告
 
-
+ - [[http://d.masterq.net/?date=20110416][岡部さん]]
+ - [[http://d.hatena.ne.jp/mkouhei/20110417/1302968563][前田さん]]
 
