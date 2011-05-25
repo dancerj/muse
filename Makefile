@@ -11,13 +11,13 @@ html/%.html: %.muse
 	umask 002; emacs -batch -l muse-config.el -eval '(muse-project-publish "Debian-study")'
 
 %.release-stamp: %
-	scp $< alioth.debian.org:/var/lib/gforge/chroot/home/groups/tokyodebian/htdocs/
+	scp $< alioth.debian.org:/home/groups/tokyodebian/htdocs/
 	touch $@
 
 publish: $(RELEASEFILES)
 	-git commit -a -m 'update with publish'
 	-git push
-	-ssh alioth.debian.org chmod g+w /var/lib/gforge/chroot/home/groups/tokyodebian/htdocs/*html  /var/lib/gforge/chroot/home/groups/tokyodebian/htdocs/*css
+	-ssh alioth.debian.org chmod g+w /home/groups/tokyodebian/htdocs/*html /home/groups/tokyodebian/htdocs/*css
 
 preview: all
 	iceweasel -remote "openurl($${PWD}/html/index.html)"
