@@ -42,8 +42,8 @@
 13:10- | 2011年度 Debian JP Project 会長の挨拶 | 2011年度のDebian JP Project 会長からの挨拶と抱負 | まえだ
 13:20- | DWN trivia quiz | Debian 関連のニュースにおいついていますか? 簡単なクイズでDebian常識テストしちゃいます。 |
 13:40- | 事前課題紹介 | 事前課題について語ります | 
-14:20- | backports.debian.org の活用 |  | 岩松
-15:30- | initram-tools関連 |   | 山田
+14:20- | backports.debian.org の活用 | Debian backports システムにの仕組みと使い方についてお話します。 | 岩松 信洋
+15:30- | initramfs 仕組みとツール| initram-tools の仕組みとdracut についてお話します。  | 山田
 16:00- | Pythonのパッケージを作ってみた話 | ようやくやるやる詐欺を脱しようと思うので、パッケージ作成のレビューとスポンサーをお願いしようと。 | まえだ
 17:00- | 月刊PPC64ポーティング |  | 山本
 
@@ -63,7 +63,8 @@
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation-mkouhei.pdf][2011年度 Debian JP Project 会長の挨拶 PDFプレゼンテーション資料]]
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation-mkouhei2.pdf][ Pythonのパッケージを作ってみた話 PDFプレゼンテーション資料]]
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation-iwamatsu.pdf][backports.debian.org の活用 PDFプレゼンテーション資料]]
-* 参加報告
+ - [[http://www.slideshare.net/tyamadajp/initramfs-intro][initramfs 仕組みとツール(slide share)]]
+ * 参加報告
 
  - [[http://d.masterq.net/?date=20110416][岡部さん]]
  - [[http://d.hatena.ne.jp/mkouhei/20110417/1302968563][前田さん]]
