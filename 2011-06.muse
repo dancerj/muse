@@ -2,9 +2,9 @@
 <lisp>(progn (setq year 2011) (setq month 6) (setq day 18) (setq number 77) (setq eventid "8b79561d119f12a6b31da7f46b2acaa697ad54c2") "") </lisp>
 * 開催概要
 
-日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 18:00-21:00
-場所 | [[http://www.regasu-shinjuku.or.jp/?p=648][公益財団法人新宿未来創造財団/戸山生涯学習館]]
-定員 | 15人
+日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 14:00-17:00
+場所 | [[http://nyc.niye.go.jp/facilities/d7.html][国立オリンピック記念青少年総合センター]]
+定員 | 20人
 参加登録方法 | Debian勉強会予約システムへの登録をお願いします。申込の際に事前課題を提出ください。また、その後の宴会に参加されたい方は、「宴会参加」をチェックしてください。
 参加登録 | [[http://debianmeeting.appspot.com/event?eventid=<lisp>eventid</lisp>][Debian勉強会予約システム]] <lisp>month</lisp>月<lisp>(- day 2)</lisp>日までに登録ください。
 勉強会参加費用 | 500円(仮)
