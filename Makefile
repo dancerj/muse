@@ -20,7 +20,7 @@ publish: $(RELEASEFILES)
 	-ssh alioth.debian.org chmod g+w /home/groups/tokyodebian/htdocs/*html /home/groups/tokyodebian/htdocs/*css
 
 preview: all
-	iceweasel -remote "openurl($${PWD}/html/index.html)"
+	sensible-browser "$${PWD}/html/index.html"
 
 clean:
 	-rm *~
