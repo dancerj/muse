@@ -1,37 +1,19 @@
-#title 第<lisp> number</lisp>回東京エリアDebian勉強会、<lisp>year</lisp>年<lisp>month</lisp>月勉強会
-<lisp>(progn (setq year 2011) (setq month 7) (setq day 23) (setq number 78) (setq eday 30) (setq eventid "") "") </lisp>
+#title 第<lisp> number</lisp>回東京エリアDebian勉強会，<lisp>year</lisp>年<lisp>month</lisp>月勉強会
+<lisp>(progn  (setq year 2011) (setq month 7) (setq day 23) (setq number 78) "") </lisp>
 * 開催概要
 
-日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日 -  <lisp>year</lisp>年<lisp>month</lisp>月<lisp>eday</lisp>日 -  00:00-24:00
-場所 | Debconf11 会場およびIRC: #debianjp (サーバ: irc.debian.or.jp)
-定員 | なし
-参加登録方法 | なし。
-参加登録 | IRCチャンネルにログインしてください。
-勉強会参加費用 | なし
-
-* 事前課題
-
-参加の条件ですので提出お願いします。
-
-|お題 | 未定
-|提出方法 | Debian勉強会予約システムの課題回答フォームに入力してください。
-|質問先 | 課題内容の実施についてなにかあれば、[[http://lists.debian.or.jp/debian-users/][debian-users@debian.or.jp Debianユーザ用公開メーリングリスト]] にてご質問ください。
-|期限 | 参加登録期限と同じ
-|ライセンス | 提出いただいた資料は全員に配布すること、また内容の再利用を実施することを了承ください。 Debian勉強会資料はGPLで公開します。 (Webでの公開が可能な内容にしてください。) 
-
+日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 18:00-23:00
+場所 | ボスニア・ヘルツェゴビナ Debconf 会場、もしくは IRC irc.debian.or.jp #debianjp チャンネル(文字コード: UTF-8)
+定員 | IRCの限界量
 
 * 当日のagenda
 
-時間 || 内容 || 概要 || 発表者
+時間 || 内容 || 発表者
+18:00-23:00 | Debconf11キックオフ | 全員
 
-* 懇親会
-
-* 資料
-
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
+また、会期中(7/23 - 7/31 )随時ミーティングを行います。IRCチャンネルに参加すると参加者が反応する可能性があります。
 
 * 参加報告
 
-
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]
 

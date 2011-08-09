@@ -12,8 +12,6 @@ Debian 勉強会を開催します。
 のメンバーが Debian JP の公式なイベントとして運営しています。
 
 * 次回の勉強会
- - [[http://wiki.debian.org/KansaiDebianMeeting20110716][第 49 回関西 Debian 勉強会@OSC2011 Kyoto]]
- - [[2011-07][2011年7月勉強会(第78回東京エリアDebian勉強会)]]
  - [[2011-08][2011年8月勉強会(第79回東京エリアDebian勉強会)]]
  - [[hackcafe][毎週開催のハックカフェ]]
 
@@ -35,6 +33,8 @@ Debian 勉強会を開催します。
 * 過去の勉強会
 
 ** 2011年度
+ - [[http://wiki.debian.org/KansaiDebianMeeting20110716][第 49 回関西 Debian 勉強会@OSC2011 Kyoto]]
+ - [[2011-07][2011年7月勉強会(第78回東京エリアDebian勉強会)]]
  - [[http://wiki.debian.org/KansaiDebianMeeting20110626][第48回関西Debian勉強会]]
  - [[2011-06][2011年6月勉強会(第77回東京エリアDebian勉強会)]]
  - [[http://wiki.debian.org/KansaiDebianMeeting20110522][第47回関西Debian勉強会]]
