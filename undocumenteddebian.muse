@@ -7,6 +7,33 @@
 有志で紙媒体に印刷して有償で配布していますが、PDF形式でも配布しており、
 ここからダウンロードできます。
 
+
+** 2010年冬号
+
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2010-fuyu.pdf][2010年冬号PDF]] 
+
+
+ - Introduction
+ - あるDebianな一日 その一
+ - あるDebianな一日 その二
+ - あるDebianな一日 その三
+ - あるDebianな一日 その四
+ - Debian Conference 2010参加報告
+ - OSC Tokyo 2010/Fall 参加報告
+ - puppetに $HOME を管理させてみよう
+ - ext4 ファイルシステムをDebianで活用してみる
+ - NILFSをDebianで活用してみる
+ - BtrfsをDebianで活用してみる
+ - 分散ファイルシステムCEPHをDebianで活用してみる
+ - initramfs について
+ - 最近の Debian Live の動向
+ - Debian Backports の使い方
+ - dh - source format 3.0, the magic debhelper rules -
+ - Emdebian について
+ - Debian GNU/kFreeBSDで暮らせる環境を構築してみる
+ - Debian Miniconf 計画検討
+
+
 ** 2010年夏号
 
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2010-natsu.pdf][2010年夏号PDF]] 
