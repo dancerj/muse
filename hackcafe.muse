@@ -30,7 +30,7 @@ Debian 関係者 / 既婚者 / 社会人に限らず誰でも参加できます。
 ** twitter へのつぶやき
 Debain Hack Cafe に参加して、GPG鍵交換をした人は 以下のコマンドで twitter へ書き込むことが
 できます。
- 
+
 <example>
 $ sudo apt-get install libwww-perl
 $ echo "つぶやき" | gpg --clearsign | lwp-request -m POST http://www.nigauri.org/debian_hackcafe_post
@@ -64,15 +64,20 @@ $ echo "つぶやき" | gpg --clearsign | lwp-request -m POST http://www.nigauri.org
     電源あり。学生が多いのでうるさい。パンが食える。
  - [[http://www.marunouchicafe.com/index.html][丸の内カフェ]]
     電源あり。静か。イベントもできるようだ。
+ - [[http://www.alternativecafe.jp/][オルタネイティブカフェ]]
+   普通のカフェ。最寄り駅からはちょっと遠い。
+
  - [[http://www.hotpepper.jp/strJ000760916/][Brooklyn Parlor/ブルックリン　パーラー]]
+ 
    電源なし。ネットワークあり。おしゃれなカフェで値段が高い。おおきいテーブルがあるので、
    作業はしやすいかも。人がけっこう多いので早めにいくか、予約したほうがいい。
  - [[http://r.gnavi.co.jp/a616414/][ラ・テラッツァ イル・バール・ディ・オフィチーナ]]
+
    東京都庁<北塔>の最上階にあるカフェ。席によっては電源が使える。穴場。
 
 ** 気になるところ
+ - [[http://theterminal.jp/][Terminal]]
  - [[http://www.timeoutcafe.jp/][タイムアウトカフェ]]
- - [[http://www.alternativecafe.jp/][オルタネイティブカフェ]]
 
 * 関西エリア
 ** いままでの開催場所
