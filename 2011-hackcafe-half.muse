@@ -9,6 +9,13 @@
 参加登録方法 | [[http://debianmeeting.appspot.com/event?eventid=76baa8deb4f23599e4bce223f1b0a0411e151021][登録システム]]を使ってください。
 勉強会参加費用 | 一人必ず飲み物を注文してください。
 
+* Q&A
+ - なんで前期なんですか？後期じゃないんですか？
+   日本の社会人的に前期なので前期です。
+ - ネットワークはありますか？
+   ホットスポットがあるみたいですがわかりません。事前に作業内容を決めてPCに環境を整えておいたほうがいいかもしれません。
+   また、E-mobile や Wimax を持っている方は提供していただけると嬉しいです。
+
 * 資料
 
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]
