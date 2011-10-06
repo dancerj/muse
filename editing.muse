@@ -42,6 +42,6 @@ ssh の設定で、 ssh alioth.debian.org だけで alioth に接続できるようにするには、 
 例:
 
 <verse>
-Host git.denx.de
+Host alioth.debian.org git.debian.org
   User username-guest
 </verse>
