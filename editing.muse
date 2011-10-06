@@ -39,4 +39,9 @@ make publish | aliothにファイルを転送 [[http://tokyodebian.alioth.debian.org/][a
 ssh の設定で、 ssh alioth.debian.org だけで alioth に接続できるようにするには、 ~/.ssh/config を編集すると便利です。
 「Host alioth.debian.org git.debian.org」 項目を作成して、「User ユーザ名」を指定すればよいでしょう。
 
+例:
 
+<verse>
+Host git.denx.de
+  User username-guest
+</verse>

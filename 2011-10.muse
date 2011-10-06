@@ -3,8 +3,8 @@
 * 開催概要
 
 日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 18:00-21:00
-場所 | 筑波大学
-定員 | 30人
+場所 | 筑波大学 3B203教室
+定員 | 50人
 参加登録方法 | Debian勉強会予約システムへの登録をお願いします。申込の際に事前課題を提出ください。また、その後の宴会に参加されたい方は、「宴会参加」をチェックしてください。
 参加登録 | [[http://debianmeeting.appspot.com/event?eventid=<lisp>eventid</lisp>][Debian勉強会予約システム]] <lisp>month</lisp>月<lisp>(- day 2)</lisp>日までに登録ください。
 勉強会参加費用 | 500円(仮)
@@ -28,7 +28,9 @@
 * 当日のagenda
 
 時間 || 内容 || 概要 || 発表者
-18:00- | 未定 | 未定 | 未定
+xx:00- | Debian/Haskell | Debian上でのHaskell開発について説明します。 | 岡部 究
+xx:00- | Tex | |
+xx:00- | | |
 
 * 懇親会
 
