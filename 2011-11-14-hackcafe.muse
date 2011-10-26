@@ -1,4 +1,4 @@
-#title Debian Hack Cafe: 2011年前期 バグ探し＆バグ潰し
+#title Debian Hack Cafe: 2011年11月14日
 <lisp>(progn (setq year 2011) (setq month 11) (setq day 14) (setq number 1) (setq eventid "c08fb9718e45d921c5efcae42830191300e5627a") "") </lisp>
 * 開催概要
 
