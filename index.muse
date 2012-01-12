@@ -15,10 +15,6 @@ Debian 勉強会を開催します。
  - [[2012-01][2012年1月勉強会(第84回東京エリアDebian勉強会)]]
  - [[hackcafe][毎週開催のハックカフェ]]
 
-* 課題提出方法
-2009年までの [[prework-update][課題提出方法]]をちょっとだけ真面目に書いてみました。Gitのワークフロー紹介の例としてご参照ください。
-2010年以降はDebian勉強会予約システムを利用した提出に切り替わっています。
-
 * 関連記事など
 
  - 2007/12/27 ＠IT自分戦略研究所 [[http://jibun.atmarkit.co.jp/lcom01/special/comeve01/comeve01.html][積極的な発言が勉強会を盛り上げる]]
@@ -169,6 +165,10 @@ Debian 勉強会を開催します。
 
  - ウェブマスター: 上川純一 dancer@debian.org
  - 日本語での相談先: [[http://www.debian.or.jp/community/ml/openml.html#usersML][debian-users@lists.debian.or.jp]]
+
+* 2009年までの課題提出方法
+2009年までの [[prework-update][課題提出方法]]をちょっとだけ真面目に書いてみました。Gitのワークフロー紹介の例としてご参照ください。
+2010年以降はDebian勉強会予約システムを利用した提出に切り替わっています。
 
 * リンクなど
 
