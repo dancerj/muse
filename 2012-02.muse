@@ -1,5 +1,5 @@
 #title 第<lisp> number</lisp>回東京エリアDebian勉強会、<lisp>year</lisp>年<lisp>month</lisp>月勉強会
-<lisp>(progn (setq year 2012) (setq month 2) (setq day 18) (setq number 85) (setq eventid nil) "") </lisp>
+<lisp>(progn (setq year 2012) (setq month 2) (setq day 18) (setq number 85) (setq eventid "acb281bdb6bddf030276a19b272c7c42939f4fdb") "") </lisp>
 * 開催概要
 
 日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 18:00-21:00
@@ -29,6 +29,7 @@
 -18:10 | 設営とか | xx | xx
 未定 | 未定 | 未定 | 未定
  xxx | 月刊デブヘルパー | hoge | 山本
+ xxx | KDE関連 | hoge | xxx
 
 * 懇親会
 
