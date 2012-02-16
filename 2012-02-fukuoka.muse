@@ -3,8 +3,8 @@
 * 開催概要
 
 日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土) 14:00-18:00（勉強会）、18:30-（懇親会）
-場所 | 博多駅周辺（会場・懇親会ともに。懇親会へは歩いて移動）
-定員 | 30
+場所 | [[http://www.fsi.co.jp/company/421.html][富士ソフト 福岡オフィス]]（建物入口に集合、博多駅より徒歩15分）
+定員 | 20
 参加登録 | [[http://debianmeeting.appspot.com/event?eventid=<lisp>eventid</lisp>][Debian勉強会予約システム]] での登録をお願いします（「勉強会への参加」「宴会への参加」の２つがあります）
 参加費用 | なし
 Twitterハッシュ | #debianjp を使ってください
