@@ -38,3 +38,7 @@ Twitterハッシュ | #debianjp を使ってください
 時間 | 18:30-
 会費 | 実費
 メモ | 人数把握のため、勉強会登録の際にできれば参加表明をお願いします
+
+* ブロクなどでの反応
+ - [[http://yktkei.hatenablog.com/entry/2012/02/14/225355][id:ykt_keiさん]]
+ - [[http://blog.popowa.com/2012/02/0-debian.html][小室さん]]
