@@ -1,13 +1,22 @@
 #title 第<lisp> number</lisp>回東京エリアDebian勉強会、<lisp>year</lisp>年<lisp>month</lisp>月勉強会
-<lisp>(progn (setq year 2012) (setq month 4) (setq day 21) (setq number 87) (setq eventid nil) "") </lisp>
+<lisp>(progn (setq year 2012) (setq month 4) (setq day 21) (setq number 87) (setq eventid "7efec234159a1a8d821f3d8dc9606d048ca22e78") "") </lisp>
 * 開催概要
 
-日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 18:00-21:00
-場所 | 未定
+日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 14:00-18:00
+場所 | [[http://www.square-enix.com/jpn/company/access.html][東京都渋谷区代々木3-22-7 新宿文化クイントビル12階]](（株）スクウェア・エニックス　セミナールーム)
 定員 | 30
 参加登録方法 | Debian勉強会予約システムへの登録をお願いします。申込の際に事前課題を提出ください。また、その後の宴会に参加されたい方は、「宴会参加」をチェックしてください。
 参加登録 | [[http://debianmeeting.appspot.com/event?eventid=<lisp>eventid</lisp>][Debian勉強会予約システム]] <lisp>month</lisp>月<lisp>(- day 2)</lisp>日までに登録ください。
-勉強会参加費用 | 500円(仮)
+勉強会参加費用 | 500円
+** 注意
+
+場所は新宿文化クイントビル12Fとなります。カードキーが無いと部屋に入れませんので、14:00にビルの1Fのホール内の観用植物の前に待ち合わせとさせてください。また、遅れる方はTwitter（[[http://twitter.com/#!/nozzy123nozzy][@nozzy123nozzy]]）かメールに書いていただき、12Fエレベータ降りたところに来ていただけますと迎えに行きます。
+
+ 1. セミナールーム内部のみ撮影OKです。その他施設内での撮影はNGなので、ご注意ください。
+ 2. 今回場所を借りている会社はDebian JP Projectとはなんら関係がありません。つきましては、本勉強会に関するお問い合わせを（株）スクウェア・エニックスに行う事はお避け下さいますようお願い致します。
+ 3. 当日参加された方には名簿の記帳（ハンドル名OK)をお願いしております。
+ 4. 電源が心配の方は、テーブルタップのご用意をお願いします。
+
 
 * イベント登録: (Gmail アカウントを流用して認証します)
 
@@ -25,12 +34,18 @@
 * 当日のagenda
 
 時間 || 内容 || 概要 || 発表者
-未定 | 未定 | 未定 | 未定
+14:00- | 会場設営 | 会場の設営をします | 全員
+14:10- | DWN trivia quiz | Debian 関連のニュースにおいついていますか? 簡単なクイズでDebian常識テストしちゃいます。 | 野島
+14:40- | 事前課題発表 | 事前課題について語ります。 | 野島
+15:00- | node.js | node.jsについて語ります。 | 上川
+未定- | 企画中 | 絶賛企画中 | 未定
+未定- | 月刊Debhelper | 月刊企画。今月はdebhelperの幾つかのコマンドについて説明します。 | 杉本
+18:00- | 撤収作業 | 撤収作業をします | 全員
 
 * 懇親会
 
 会場 | 会場近辺の予定
-時間 | ??:??-
+時間 | 18:15-
 会費 | 5000円
 参加登録 | Debian勉強会予約システムに登録する際に表明してください
 
