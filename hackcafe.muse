@@ -75,6 +75,7 @@ $ echo "つぶやき" | gpg --clearsign | lwp-request -m POST http://www.nigauri.org
 ** 気になるところ
  - [[http://theterminal.jp/][Terminal]]
  - [[http://www.timeoutcafe.jp/][タイムアウトカフェ]]
+ - [[http://ascii.jp/elem/000/000/677/677502/][＠Cafe]]
 
 * 関西エリア
 ** いままでの開催場所
