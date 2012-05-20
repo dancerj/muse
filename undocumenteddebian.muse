@@ -11,31 +11,31 @@
 
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2011-natsu.pdf][2011年夏号PDF]] 
 
-- 「フリー」って、どういうこと?
-- Squeezeの変更点をみんなで見てみよう
-- Squeezeをみんなインストールした結果を語る会
-- Debian のドキュメントをみてみよう
-- ハッカーに一歩近づく Tips：vi 編
-- Debian GNU/kFreeBSD で便利に暮らすための Tips
-- Debian Games Team体験記
-- KinectをDebianで使ってみた
-- 俺のlibsaneが火を噴くぜ！
-- Proxmox VE の紹介
-- Apache2 のモジュールをつくってみた
-- CAcert の準備に何が必要か
-- CACert Assurance
-- 月刊 PPC64ポーティング 2011年04月, 05月
-- Debian/m68k 開発
-- バグ報告はバグのためだけじゃないよ
-- dpkg のおさらい
-- backports.debian.org
-- pbuilderを使ってみよう
-- Debian勉強会予約システムにアンケート追加
-- 2010年の東京エリアDebian勉強会をふりかえって
-- 関西 Debian 勉強会 2010年度各種イベント開催実績と総括
-- 執筆者紹介
-- Debian Trivia Quiz
-- Debian Trivia Quiz 問題回答
+ - 「フリー」って、どういうこと?
+ - Squeezeの変更点をみんなで見てみよう
+ - Squeezeをみんなインストールした結果を語る会
+ - Debian のドキュメントをみてみよう
+ - ハッカーに一歩近づく Tips：vi 編
+ - Debian GNU/kFreeBSD で便利に暮らすための Tips
+ - Debian Games Team体験記
+ - KinectをDebianで使ってみた
+ - 俺のlibsaneが火を噴くぜ！
+ - Proxmox VE の紹介
+ - Apache2 のモジュールをつくってみた
+ - CAcert の準備に何が必要か
+ - CACert Assurance
+ - 月刊 PPC64ポーティング 2011年04月, 05月
+ - Debian/m68k 開発
+ - バグ報告はバグのためだけじゃないよ
+ - dpkg のおさらい
+ - backports.debian.org
+ - pbuilderを使ってみよう
+ - Debian勉強会予約システムにアンケート追加
+ - 2010年の東京エリアDebian勉強会をふりかえって
+ - 関西 Debian 勉強会 2010年度各種イベント開催実績と総括
+ - 執筆者紹介
+ - Debian Trivia Quiz
+ - Debian Trivia Quiz 問題回答
 
 
 ** 2010年冬号
