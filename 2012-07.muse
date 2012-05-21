@@ -2,6 +2,8 @@
 <lisp>(progn (setq year 2012) (setq month 7) (setq day 21) (setq number 90) (setq eventid "") "") </lisp>
 * 開催概要
 
+ひょっとするとDebconf開催？
+
 日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 18:00-21:00
 場所 | あんさんぶる荻窪　環境学習室(仮)
 定員 | 30
