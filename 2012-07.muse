@@ -1,5 +1,5 @@
 #title 第<lisp> number</lisp>回東京エリアDebian勉強会、<lisp>year</lisp>年<lisp>month</lisp>月勉強会
-<lisp>(progn (setq year 2012) (setq month 7) (setq day 21) (setq number 90) (setq eventid "") "") </lisp>
+<lisp>(progn (setq year 2012) (setq month 7) (setq day 21) (setq number 90) (setq eventid "4d5dab7e92d5527aa26fb4ca393574f4cd57f227") "") </lisp>
 * 開催概要
 
 日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 18:00-21:00
@@ -13,7 +13,7 @@
 
 参加の条件ですので提出お願いします。
 
-|お題 | hoge
+|お題 | Debconfの内容で興味があったセッションの内容を紹介してください
 |質問先 | 課題内容の実施についてなにかあれば、[[http://lists.debian.or.jp/debian-users/][debian-users@debian.or.jp Debianユーザ用公開メーリングリスト]] にてご質問ください。
 |期限 | 参加登録期限と同じ
 |ライセンス | 提出いただいた資料は全員に配布すること、また内容の再利用を実施することを了承ください。 Debian勉強会資料はGPLで公開します。 (Webでの公開が可能な内容にしてください。) 
