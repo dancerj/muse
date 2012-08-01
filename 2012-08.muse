@@ -3,7 +3,7 @@
 * 開催概要
 
 日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 18:00-21:00
-場所 | 未定 新宿の某所
+場所 | 新宿 [[http://www.regasu-shinjuku.or.jp/?p=649][赤城生涯学習館 2F 教養室A]]
 定員 | 30
 参加登録方法 | Debian勉強会予約システムへの登録をお願いします。申込の際に事前課題を提出ください。また、その後の宴会に参加されたい方は、「宴会参加」をチェックしてください。
 参加登録 | [[http://debianmeeting.appspot.com/event?eventid=<lisp>eventid</lisp>][Debian勉強会予約システム]] <lisp>month</lisp>月<lisp>(- day 2)</lisp>日までに登録ください。
