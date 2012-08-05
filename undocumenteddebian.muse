@@ -7,6 +7,28 @@
 有志で紙媒体に印刷して有償で配布していますが、PDF形式でも配布しており、
 ここからダウンロードできます。
 
+** 2011年冬号
+
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2011-fuyu.pdf][2011年冬号PDF]] 
+
+ - Introduction
+ - Debian とはなにか？
+ - 翻訳で Debian に貢献しよう
+ - Debian JP 定例会議処理系にXSLTを使ってみた
+ - DebianでSphinxとDoxygenを使ってみた
+ - IPv6 のトンネル接続を試してみた話
+ - HaskellとDebianの辛くて甘い関係
+ - Emacs, Vim の拡張機能で学ぶ Debian パッケージ
+ - 月刊 debhelper 第1回
+ - aufsbuilder - cowbuilderにたたかいをいどむ
+ - vcs-buildpackage: Git、svn編
+ - vcs-buildpackage: bzrの場合
+ - vcs-buildpackage: Gitの場合 (again)
+ - パッケージを作ったらスポンサーアップロード
+ - Debian Trivia Quiz
+ - Debian Trivia Quiz 問題回答
+
+
 ** 2011年夏号
 
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2011-natsu.pdf][2011年夏号PDF]] 
@@ -41,7 +63,6 @@
 ** 2010年冬号
 
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2010-fuyu.pdf][2010年冬号PDF]] 
-
 
  - Introduction
  - あるDebianな一日 その一
