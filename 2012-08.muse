@@ -21,10 +21,11 @@
 * 当日のagenda
 
 時間 || 内容 || 概要 || 発表者
-18:10- | x | y
-18:40- | x | y 
-18:40- | Debconf | y | iwamatsu
-19:20-19:40 | Debhelper | y | nozzy 
+18:10-18:30 | 事前課題紹介 | x | 
+18:40-19:20 | Debconf | y | iwamatsu
+19:30-19:50 | Debhelper | y | nozzy 
+20:00-20:30 | C++11 in Debian | C++11 を使う方法について紹介します。 | uekawa
+20:30- | quiz | x | nozzy
 
 * 懇親会
 
