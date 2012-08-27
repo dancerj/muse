@@ -21,9 +21,10 @@
 * 当日のagenda
 
 時間 || 内容 || 概要 || 発表者
-18:10- | x | y
-18:40- | x | y 
-19:20-19:40 | x | y
+15:10- | x | y
+16:00- | dh_haskell | Debian haskell packaging について語ります | 日比野
+16:40- | レゴマインドストーム | xxx | 本庄
+17:20- | mtrack | mtrack とか utouch のネタについて | 岩松
 
 * 懇親会
 
