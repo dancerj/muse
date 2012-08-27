@@ -1,25 +1,13 @@
 #title Âè<lisp> number</lisp>²óÅìµş¥¨¥ê¥¢DebianÊÙ¶¯²ñ¡¢<lisp>year</lisp>Ç¯<lisp>month</lisp>·îÊÙ¶¯²ñ
-<lisp>(progn (setq year 2012) (setq month 9) (setq day 15) (setq number 92) (setq eventid "") "") </lisp>
+<lisp>(progn (setq year 2012) (setq month 9) (setq day 8) (setq number 92) (setq eventid "") "") </lisp>
 * ³«ºÅ³µÍ×
 
 OSC Tokyo Fall ¤Ë»²²Ã¤·¤Ş¤¹¡£ÄÌ¾ï·îÎã¥ß¡¼¥Æ¥£¥ó¥°¤Ç¤Ï¤Ê¤¯OSC Tokyo Fall¤Ç¤¢¤¤¤Ş¤·¤ç¤¦¡£
 
 
-Æü»ş | <lisp>year</lisp>Ç¯<lisp>month</lisp>·î<lisp>day</lisp>Æü(ÅÚÍËÆü) 18:00-21:00
+Æü»ş | <lisp>year</lisp>Ç¯<lisp>month</lisp>·î<lisp>day</lisp>Æü(ÅÚÍËÆü) 
 ¾ì½ê | 
-Äê°÷ | 30
-»²²ÃÅĞÏ¿ÊıË¡ | DebianÊÙ¶¯²ñÍ½Ìó¥·¥¹¥Æ¥à¤Ø¤ÎÅĞÏ¿¤ò¤ª´ê¤¤¤·¤Ş¤¹¡£¿½¹ş¤Îºİ¤Ë»öÁ°²İÂê¤òÄó½Ğ¤¯¤À¤µ¤¤¡£¤Ş¤¿¡¢¤½¤Î¸å¤Î±ã²ñ¤Ë»²²Ã¤µ¤ì¤¿¤¤Êı¤Ï¡¢¡Ö±ã²ñ»²²Ã¡×¤ò¥Á¥§¥Ã¥¯¤·¤Æ¤¯¤À¤µ¤¤¡£
-»²²ÃÅĞÏ¿ | [[http://debianmeeting.appspot.com/event?eventid=<lisp>eventid</lisp>][DebianÊÙ¶¯²ñÍ½Ìó¥·¥¹¥Æ¥à]] <lisp>month</lisp>·î<lisp>(- day 2)</lisp>Æü¤Ş¤Ç¤ËÅĞÏ¿¤¯¤À¤µ¤¤¡£
-ÊÙ¶¯²ñ»²²ÃÈñÍÑ | 500±ß(²¾)
-
-* »öÁ°²İÂê
-
-»²²Ã¤Î¾ò·ï¤Ç¤¹¤Î¤ÇÄó½Ğ¤ª´ê¤¤¤·¤Ş¤¹¡£
-
-|¤ªÂê | hoge
-|¼ÁÌäÀè | ²İÂêÆâÍÆ¤Î¼Â»Ü¤Ë¤Ä¤¤¤Æ¤Ê¤Ë¤«¤¢¤ì¤Ğ¡¢[[http://lists.debian.or.jp/debian-users/][debian-users@debian.or.jp Debian¥æ¡¼¥¶ÍÑ¸ø³«¥á¡¼¥ê¥ó¥°¥ê¥¹¥È]] ¤Ë¤Æ¤´¼ÁÌä¤¯¤À¤µ¤¤¡£
-|´ü¸Â | »²²ÃÅĞÏ¿´ü¸Â¤ÈÆ±¤¸
-|¥é¥¤¥»¥ó¥¹ | Äó½Ğ¤¤¤¿¤À¤¤¤¿»ñÎÁ¤ÏÁ´°÷¤ËÇÛÉÛ¤¹¤ë¤³¤È¡¢¤Ş¤¿ÆâÍÆ¤ÎºÆÍøÍÑ¤ò¼Â»Ü¤¹¤ë¤³¤È¤òÎ»¾µ¤¯¤À¤µ¤¤¡£ DebianÊÙ¶¯²ñ»ñÎÁ¤ÏGPL¤Ç¸ø³«¤·¤Ş¤¹¡£ (Web¤Ç¤Î¸ø³«¤¬²ÄÇ½¤ÊÆâÍÆ¤Ë¤·¤Æ¤¯¤À¤µ¤¤¡£) 
+Äê°÷ | 
 
 * ÅöÆü¤Îagenda
 
@@ -33,14 +21,7 @@ OSC Tokyo Fall ¤Ë»²²Ã¤·¤Ş¤¹¡£ÄÌ¾ï·îÎã¥ß¡¼¥Æ¥£¥ó¥°¤Ç¤Ï¤Ê¤¯OSC Tokyo Fall¤Ç¤¢¤¤¤Ş¤
 ²ñ¾ì | ²ñ¾ì¶áÊÕ¤ÎÍ½Äê
 »ş´Ö | ??:??-
 ²ñÈñ | 5000±ß
-»²²ÃÅĞÏ¿ | DebianÊÙ¶¯²ñÍ½Ìó¥·¥¹¥Æ¥à¤ËÅĞÏ¿¤¹¤ëºİ¤ËÉ½ÌÀ¤·¤Æ¤¯¤À¤µ¤¤
 
-* »ñÎÁ
-
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF»öÁ°ÇÛÉÛ»ñÎÁ]]
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDF¥×¥ì¥¼¥ó¥Æ¡¼¥·¥ç¥ó»ñÎÁ]]
-
-* »²²ÃÊó¹ğ
 
 
 
