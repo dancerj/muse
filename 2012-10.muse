@@ -1,9 +1,9 @@
 #title 第<lisp> number</lisp>回東京エリアDebian勉強会、<lisp>year</lisp>年<lisp>month</lisp>月勉強会
-<lisp>(progn (setq year 2012) (setq month 10) (setq day 20) (setq number 93) (setq eventid "") "") </lisp>
+<lisp>(progn (setq year 2012) (setq month 10) (setq day 20) (setq number 93) (setq eventid "91465c37ffffe065d01bf8c9965b3d7e955b9b89") "") </lisp>
 * 開催概要
 
-日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 18:00-21:00
-場所 | あんさんぶる荻窪　環境学習室(仮)
+日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 15:00-18:00
+場所 | [[http://asahi-net.co.jp/jp/location/][朝日ネット 会議室 東京都中央区銀座6-6-7 朝日ビル9F]] 
 定員 | 30
 参加登録方法 | Debian勉強会予約システムへの登録をお願いします。申込の際に事前課題を提出ください。また、その後の宴会に参加されたい方は、「宴会参加」をチェックしてください。
 参加登録 | [[http://debianmeeting.appspot.com/event?eventid=<lisp>eventid</lisp>][Debian勉強会予約システム]] <lisp>month</lisp>月<lisp>(- day 2)</lisp>日までに登録ください。
