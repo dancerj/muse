@@ -2,8 +2,7 @@
 <lisp>(progn (setq year 2012) (setq month 9) (setq day 8) (setq number 92) (setq eventid "") "") </lisp>
 * ³«ºÅ³µÍ×
 
-OSC Tokyo Fall ¤Ë»²²Ã¤·¤Ş¤¹¡£ÄÌ¾ï·îÎã¥ß¡¼¥Æ¥£¥ó¥°¤Ç¤Ï¤Ê¤¯OSC Tokyo Fall¤Ç¤¢¤¤¤Ş¤·¤ç¤¦¡£
-
+OSC Tokyo Fall ¤Ë»²²Ã¤·¤Ş¤¹¡£ÄÌ¾ï·îÎã¥ß¡¼¥Æ¥£¥ó¥°¤Ç¤Ï¤Ê¤¯OSC Tokyo Fall¤Ç²ñ¤¤¤Ş¤·¤ç¤¦¡£
 
 Æü»ş | <lisp>year</lisp>Ç¯<lisp>month</lisp>·î<lisp>day</lisp>Æü(ÅÚÍËÆü) 
 ¾ì½ê | 
@@ -12,15 +11,15 @@ OSC Tokyo Fall ¤Ë»²²Ã¤·¤Ş¤¹¡£ÄÌ¾ï·îÎã¥ß¡¼¥Æ¥£¥ó¥°¤Ç¤Ï¤Ê¤¯OSC Tokyo Fall¤Ç¤¢¤¤¤Ş¤
 * ÅöÆü¤Îagenda
 
 »ş´Ö || ÆâÍÆ || ³µÍ× || È¯É½¼Ô
-18:10- | x | y
-18:40- | x | y 
-19:20-19:40 | x | y
+11:00 - 11:45 | ¼¡´ü°ÂÄêÈÇ Debian 7.0 "Wheezy" ¤Î¾Ò²ğ | ¼¡´ü°ÂÄêÈÇ Debian 7.0 "Wheezy" ¤Ë¤Ä¤¤¤ÆºÇ¿·¾ğÊó¤ò¤ªÅÁ¤¨¤·¤Ş¤¹ | ´ä¾¾
 
 * º©¿Æ²ñ
 
-²ñ¾ì | ²ñ¾ì¶áÊÕ¤ÎÍ½Äê
-»ş´Ö | ??:??-
-²ñÈñ | 5000±ß
+º£²ó¤Ï¤¢¤ê¤Ş¤»¤ó¡£
+
+* »ñÎÁ
+
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDF¥×¥ì¥¼¥ó¥Æ¡¼¥·¥ç¥ó»ñÎÁ]]
 
 
 
