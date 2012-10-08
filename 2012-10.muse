@@ -22,8 +22,8 @@
 
 時間 || 内容 || 概要 || 発表者
 15:10- | x | y
-16:00- | dh_haskell | Debian haskell packaging について語ります | 日比野
-16:40- | レゴマインドストーム | xxx | 本庄
+16:00- | Haskell の Debian packaging 周辺について語ります | -Haskell のパッケージおよび依存関係の仕組みである Cabal, Hackage, -その情報を利用して Debian パッケージを作る cabal-debian コマンドおよび debian ライブラリ, -Debhelper との連携のためのスクリプトである haskell-devscripts | 日比野
+16:40- | レゴでなめこ収穫期 | nxt-pythonについて語ります | 本庄
 17:20- | mtrack | mtrack とか utouch のネタについて | 岩松
 
 * 懇親会
