@@ -21,10 +21,12 @@
 * 当日のagenda
 
 時間 || 内容 || 概要 || 発表者
-15:10- | x | y
+15:10- |  会場設営 | 会場の設営をします | 全員
+15:10-15:30 | Debian trivia quiz | Debian 関連のニュースにおいついていますか? 簡単なクイズでDebianの知識をテストしちゃいます。 | 岩松
+15:30-15:50 | 事前課題発表 | 事前課題について語ります。 | 日比野
 16:00- | Haskell の Debian packaging 周辺について語ります | -Haskell のパッケージおよび依存関係の仕組みである Cabal, Hackage, -その情報を利用して Debian パッケージを作る cabal-debian コマンドおよび debian ライブラリ, -Debhelper との連携のためのスクリプトである haskell-devscripts | 日比野
 16:40- | レゴでなめこ収穫期 | nxt-pythonについて語ります | 本庄
-17:20- | mtrack | mtrack とか utouch のネタについて | 岩松
+17:20- | xf86-input-mtrack | xf86-input-mtrack について | 岩松
 
 * 懇親会
 
