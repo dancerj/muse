@@ -3,7 +3,7 @@
 * 開催概要
 
 日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 15:00-18:00
-場所 | [[http://asahi-net.co.jp/jp/location/][朝日ネット 会議室 東京都中央区銀座6-6-7 朝日ビル9F]] 
+場所 | [[http://asahi-net.co.jp/jp/location/][朝日ネット 会議室 東京都中央区銀座6-6-7 朝日ビル9F]] エレベーターで9Fまで上がってください
 定員 | 30
 参加登録方法 | Debian勉強会予約システムへの登録をお願いします。申込の際に事前課題を提出ください。また、その後の宴会に参加されたい方は、「宴会参加」をチェックしてください。
 参加登録 | [[http://debianmeeting.appspot.com/event?eventid=<lisp>eventid</lisp>][Debian勉強会予約システム]] <lisp>month</lisp>月<lisp>(- day 2)</lisp>日までに登録ください。
@@ -24,7 +24,7 @@
 15:10- |  会場設営 | 会場の設営をします | 全員
 15:10-15:30 | Debian trivia quiz | Debian 関連のニュースにおいついていますか? 簡単なクイズでDebianの知識をテストしちゃいます。 | 岩松
 15:30-15:50 | 事前課題発表 | 事前課題について語ります。 | 日比野
-16:00- | Haskell の Debian packaging 周辺について語ります | -Haskell のパッケージおよび依存関係の仕組みである Cabal, Hackage, -その情報を利用して Debian パッケージを作る cabal-debian コマンドおよび debian ライブラリ, -Debhelper との連携のためのスクリプトである haskell-devscripts | 日比野
+16:00- | Haskell の Debian packaging 周辺について語ります | Haskell のパッケージおよび依存関係の仕組みである Cabal, Hackage,  その情報を利用して Debian パッケージを作る cabal-debian コマンドおよび debian ライブラリ,  Debhelper との連携のためのスクリプトである haskell-devscripts, について紹介します | 日比野
 16:40- | レゴでなめこ収穫期 | nxt-pythonについて語ります | 本庄
 17:20- | xf86-input-mtrack | xf86-input-mtrack について | 岩松
 
