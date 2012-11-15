@@ -21,7 +21,7 @@
 * 当日のagenda
 
 時間 || 内容 || 概要 || 発表者
-18:10- | systemd | y | iwamatsu
+18:10- | Debian / systemd | 既に移行していると思いますが、init の代替プログラムである systemd の概要と Debian GNU/linux で systemd を使う方法について語ります。 | 岩松
 18:40- | bluetooth tetheringを使う | bluetooth tethering というものがあるようです。WiFi Tetheringより電波環境にやさしそうなきがしますがDebianではどうやって使うの？ | 上川
 19:20-19:40 | linux perf | oprofile 使おうと思ってたら気づいたら時代はperfになっていました。perfってどうやって使うの？というところを紹介します。 | 上川
 
