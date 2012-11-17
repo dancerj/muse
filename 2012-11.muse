@@ -21,14 +21,14 @@
 * 当日のagenda
 
 時間 || 内容 || 概要 || 発表者
-18:10- | systemd | y | iwamatsu
+18:10- | systemd | init のかわりとして開発されているsystemdについて紹介します。 | iwamatsu
 18:40- | bluetooth tetheringを使う | bluetooth tethering というものがあるようです。WiFi Tetheringより電波環境にやさしそうなきがしますがDebianではどうやって使うの？ | 上川
 19:20-19:40 | linux perf | oprofile 使おうと思ってたら気づいたら時代はperfになっていました。perfってどうやって使うの？というところを紹介します。 | 上川
 
 * 懇親会
 
-会場 | 会場近辺の予定
-時間 | ??:??-
+会場 | はなのまい
+時間 | 21:00-
 会費 | 5000円
 参加登録 | Debian勉強会予約システムに登録する際に表明してください
 
