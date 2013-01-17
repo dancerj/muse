@@ -72,6 +72,9 @@ $ echo "つぶやき" | gpg --clearsign | lwp-request -m POST http://www.nigauri.org
  - [[http://r.gnavi.co.jp/a616414/][ラ・テラッツァ イル・バール・ディ・オフィチーナ]]
     東京都庁<北塔>の最上階にあるカフェ。席によっては電源が使える。穴場。
 
+ - [[http://www.facebook.com/Cafe.CONCENT.tas.jp][Cafe Concent]]
+    電源、無線LANあり。1時間500円。ドリンクバー付き。19時以降は500円で何時間も利用可能。
+
 ** 気になるところ
  - [[http://theterminal.jp/][Terminal]]
  - [[http://www.timeoutcafe.jp/][タイムアウトカフェ]]
