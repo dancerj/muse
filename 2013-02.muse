@@ -2,13 +2,16 @@
 <lisp>(progn (setq year 2013) (setq month 2) (setq day 0) (setq number 97) (setq eventid "") "") </lisp>
 * 開催概要
 
-未定
+Debian勉強会は OSC Tokyo/Spring に参加します。
 
-日時 | 検討中 
-場所 | 
-定員 | 
+
+日時 | ２月２３日土曜日
+場所 | OSC Tokyo/Spring会場
+定員 | ？
 
 * 当日のagenda
+
+セッション詳細については後日発表予定？
 
 時間 || 内容 || 概要 || 発表者
 未定 | 検討中 | 検討中 | 検討中
