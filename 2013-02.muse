@@ -1,4 +1,4 @@
-#title 第<lisp> number</lisp>回東京エリアDebian勉強会、<lisp>year</lisp>年<lisp>month</lisp>月勉強会
+#title 第<lisp> number</lisp>回東京エリアDebian勉強会、<lisp>year</lisp>年<lisp>month</lisp>月勉強会 OSC出張
 <lisp>(progn (setq year 2013) (setq month 2) (setq day 0) (setq number 97) (setq eventid "") "") </lisp>
 * 開催概要
 
