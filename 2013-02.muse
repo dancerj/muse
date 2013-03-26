@@ -1,20 +1,17 @@
-#title 第<lisp> number</lisp>回東京エリアDebian勉強会、<lisp>year</lisp>年<lisp>month</lisp>月勉強会 OSC出張
-<lisp>(progn (setq year 2013) (setq month 2) (setq day 0) (setq number 97) (setq eventid "") "") </lisp>
+#title 第<lisp> number</lisp>回東京エリアDebian勉強会、<lisp>year</lisp>年<lisp>month</lisp>月勉強会 2013 OSC出張
+<lisp>(progn (setq year 2013) (setq month 2) (setq day 23) (setq number 97) (setq eventid "") "") </lisp>
 * 開催概要
 
-Debian勉強会は OSC Tokyo/Spring に参加します。
+Debian勉強会は、OSC Tokyo/Springに参加します。
 
-
-日時 | ２月２３日土曜日
-場所 | OSC Tokyo/Spring会場
-定員 | ？
+日時    | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日)
+会場案内 | [[http://www.ospn.jp/osc2013-spring/][OSC Tokyo/Spring 会場(明星大学 日野キャンパス 28号館)]]
 
 * 当日のagenda
 
-セッション詳細については後日発表予定？
-
 時間 || 内容 || 概要 || 発表者
-未定 | 検討中 | 検討中 | 検討中
+10:00-10:45 | Debian update | Debianの最新情報について | 野島
+終日 | Debianブース出展中 | Debianブースを出しています | 吉田、野島
 
 * 懇親会
 
@@ -23,6 +20,9 @@ Debian勉強会は OSC Tokyo/Spring に参加します。
 * 資料
 
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
+
+* 参加報告
+ - [[http://henrich-on-debian.blogspot.jp/2013/02/open-source-conference-2013-tokyospring.html][henrichさん]]
 
 
 
