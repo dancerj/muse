@@ -22,7 +22,10 @@
 * 当日のagenda
 
 時間 || 内容 || 概要 || 発表者
-18:00-21:00 | x | y
+18:00- | debootstrap + chroot まとめ（仮） | xx | 杉本
+xx - yy | samba(仮） | sambaの何か | 高橋もとのぶ
+xx - yy | ppc64 ベクトル命令あれこれ（仮） | y | 山本ひろゆき
+xx - yy | Debian勉強会予約システム変更履歴 | y | 上川純一
 
 * 懇親会
 
