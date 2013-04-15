@@ -28,7 +28,7 @@
 18:50- | debootstrapを有効活用してみよう | debianのインストール処理に使うdebootstrapコマンドの応用例として開発環境整備、サーバ用途、組み込み用途、異種OS利用とまとめてみました。 | 杉本
 19:30- | Debianの認証をWindowsに統合してみたり | 好むと好まざるとに関わらず、Debianの認証をWindowsに統合できれば……ということはありませんか。主にSambaを用いて、その辺の方法についてご紹介してみます。 | たかはしもとのぶ
 20:15- | PowerPC の Vector Facility や Vector-Scalar Floating-Point Operation の Opcode Map を調べてみた。 | PowerPC の Opcode Map を AltiVec、VMX128、 AltiVec2、VSX、QPX を中心に調べ、binutils や gcc の対応状況についても調べてみました。 | 山本ひろゆき
-20:15- | Debian勉強会予約システム変更履歴 | y | 上川純一
+時間があれば | Debian勉強会予約システム変更履歴 | - | 上川純一
 
 * 懇親会
 
