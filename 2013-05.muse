@@ -23,11 +23,11 @@
 12:30〜13:15 | Session2
 13:20〜14:05 | Session3
 closing
-15:00〜 | 別申し込み：<a href="http://connpass.com/event/2364/">Wheezy リリースパーティ</a>
+15:00〜 | 別申し込み：<a href="http://atnd.org/event/wheezy">Wheezy リリースパーティ</a>
 
 * 懇親会
 
 今回は懇親会はありません。
-同日、勉強会後に「<a href="http://connpass.com/event/2364/">Debian 7.0 "Wheezy" リリースパーティ</a>」を開催します（別に申し込みが必要になります）。
+同日、勉強会後に「<a href="http://atnd.org/event/wheezy">Debian 7.0 "Wheezy" リリースパーティ</a>」を開催します（別に申し込みが必要になります）。
 
 
