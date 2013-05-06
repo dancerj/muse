@@ -1,3 +1,5 @@
+#title 東京エリアDebian勉強会過去の勉強会記録
+
 ** 2012年度
  - [[2012-12][2012年12月勉強会(第95回東京エリアDebian勉強会)]]
  - [[2012-11][2012年11月勉強会(第94回東京エリアDebian勉強会)]]
@@ -141,5 +143,7 @@
  - [[2006-05][2006年5月勉強会(第16回東京エリアDebian勉強会)]]
  - [[2006-04][2006年4月勉強会(第15回東京エリアDebian勉強会)]]
  - [[2006-03][2006年3月勉強会(第14回東京エリアDebian勉強会)]]
- - [[http://www.netfort.gr.jp/~dancer/column/2005-debianmeeting.html.ja][2005年のdebian勉強会ページ]]
+
+** 2005年度
+ - 更に昔の情報は[[http://www.netfort.gr.jp/~dancer/column/2005-debianmeeting.html.ja][2005年のdebian勉強会ページ]]
 
