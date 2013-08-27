@@ -27,3 +27,5 @@ clean:
 	-rm *~
 
 .PHONY: all publish preview clean
+
+.NOTPARALLEL:
