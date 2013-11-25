@@ -4,7 +4,7 @@ MUSE_FILES = $(wildcard *.muse)
 HTML_FILES = $(MUSE_FILES:%.muse=html/%.html)
 UPLOAD_FILES = $(HTML_FILES) $(wildcard html/*.css)
 RELEASEFILES:=$(UPLOAD_FILES:%=%.release-stamp)
-ALIOTH_FILEHOSTING:=wagner.debian.org
+ALIOTH_FILEHOSTING:=alioth.debian.org
 
 all: $(HTML_FILES)
 
