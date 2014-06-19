@@ -46,7 +46,9 @@ Debian 勉強会を開催します。
 
  - ウェブマスター: 上川純一 dancer@debian.org
  - 日本語での相談先: [[http://www.debian.or.jp/community/ml/openml.html#usersML][debian-users@lists.debian.or.jp]]
- - 運営用ML: qwik上で行っています。参加されたい方は ウェブマスター、勉強会運営メンバー、[[http://www.debian.or.jp/community/ml/openml.html#usersML][debian-users@lists.debian.or.jp]] に連絡ください。
+
+* 運営用ML
+qwik上で行っています。勉強会運営に興味がある方は ウェブマスター、勉強会運営メンバー または [[http://www.debian.or.jp/community/ml/openml.html#usersML][debian-users@lists.debian.or.jp]] に連絡ください。
 
 * 2009年までの課題提出方法
 2009年までの [[prework-update][課題提出方法]]をちょっとだけ真面目に書いてみました。Gitのワークフロー紹介の例としてご参照ください。
