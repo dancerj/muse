@@ -7,6 +7,22 @@
 有志で紙媒体に印刷して有償で配布していますが、PDF形式でも配布しており、
 ここからダウンロードできます。
 
+** 2013年冬号
+
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2013-fuyu.pdf][2013年冬号PDF]] 
+
+** 2013年夏号
+
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2013-natsu.pdf][2013年夏号PDF]] 
+
+** 2012年冬号
+
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2012-fuyu.pdf][2012年冬号PDF]] 
+
+** 2012年夏号
+
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2012-natsu.pdf][2012年夏号PDF]] 
+
 ** 2011年冬号
 
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2011-fuyu.pdf][2011年冬号PDF]] 
