@@ -11,17 +11,132 @@
 
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2013-fuyu.pdf][2013年冬号PDF]] 
 
+ - Introduction
+ - Debian topic update
+ - git-buildpackage 入門 again
+ - raspbian on raspberry pi
+ - Debian linux kernel / armmp フレーバ
+ - puppet による構成管理の実践
+ - tramp 入門
+ - Linux とサウンドシステム
+ - ALSAの ユーザーランド解説
+ - OpenVPN を使ってみた
+ - wayland を動かす
+ - 月刊 Debhelper dh_strip
+ - Debian 勉強会の資料の ePUB 化を試みた
+ - Debian Trivia Quiz
+ - Debian Trivia Quiz 問題回答
+
 ** 2013年夏号
 
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2013-natsu.pdf][2013年夏号PDF]] 
+
+ - Introduction
+ - Debian と Ubuntu の違いを知ろう
+ - リリースノートを読んでみよう
+ - Android 端末 （Asus Transformer TF201） への Debian インストール奮闘記
+ - クラウド初心者が AWS に Debian をのっけて翻訳サービスの試行に挑戦してみた
+ - Debian Installer トラブルシューティング
+ - Debian 日本語入力の選択肢: im-config 関連
+ - debootstrap を有効活用してみよう
+ - Using Drupal on Debian − CMS から入った人の Debian 体験
+ - ldapvi &amp python-ldap で stress-free life
+ - Samba で Linux の認証を Windows に統合してみたり
+ - Ruby In Wheezy
+ - gdb python 拡張 その 1
+ - 日本における DFSG の求める自由と ２０１２ 年改正著作権法
+ - 月刊 Debian Policy 「パッケージ管理スクリプトとインストールの手順」
+ - 月刊 Debian Policy 「オペレーティングシステム」その1
+ - 月刊Debhelper dh_auto_install dh_install
+ - 月刊Debhelper dh_gencontrol dh_listpackages
+ - 東京エリア Debian 勉強会資料の準備の方法
+ - Debian 勉強会予約システム変更履歴
+ - Debian 勉強会予約システムアンケート集計
+ - 2012 年の振り返りと 2013 年の企画
+ - 2012 年度東京エリア Debian 勉強会の振り返り
+ - Debian 勉強会 2013 年度計画
+ - Debian Trivia Quiz
+ - Debian Trivia Quiz 問題回答
 
 ** 2012年冬号
 
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2012-fuyu.pdf][2012年冬号PDF]] 
 
+ - Introduction
+ - MacBook Air 4,1 (Mid 2011) に Debian インストールしてみた
+ - xserver-xorg-input-mtrack
+ - レゴでなめこ収穫機を作ってみた
+ - Android 携帯で Bluetooth Tethering
+ - perf でパフォーマンスチューニング
+ - systemd
+ - Debian で作る LDAP サーバ
+ - Debian ではじめる Kerberos 認証
+ - Debian での C++11 開発環境
+ - clang によるパッケージビルド
+ - Haskell の Debian packaging
+ - 基本的なパッケージの作成方法手引書
+ - 最新のパッケージング事情の説明と使い方
+ - 月刊 Debhelper dh_makeshlibs,dh_shlibdeps
+ - 月刊 Debian Policy 第5回 「ソースパッケージ」
+ - 月刊 Debian Policy 第6回 「文書」
+ - ソフト開発以外の簡単 Debian contribution
+ - 本気で ``使える'' 翻訳環境を構築してみた
+ - Debian セキュリティ勧告翻訳の舞台裏
+ - 大統一 Debian 勉強会 2012 参加報告
+ - Debian Conference 2012参加報告
+ - Debian Trivia Quiz
+ - Debian Trivia Quiz 問題回答
+
 ** 2012年夏号
 
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2012-natsu.pdf][2012年夏号PDF]] 
+
+ - Introduction
+ - TeXLive2011(2012/dev) in Debian
+ - Linux-PAMの設定について
+ - 数学ソフトウェア使ってますか？
+ - IPython notebookとその周辺
+ - DebianとLibreOffice
+ - debug.debian.net
+ - Rabbit: 時間内に終われるプレゼンツール
+ - U-Bootについてあれこれ
+ - Debian Multiarch Support
+ - 家庭内LANを高速に！ - InfiniBand on Debian
+ - Gentoo/Prefix on Debian
+ - Debianでもマルチタッチデバイスを使う
+ - 東京エリアDebian勉強会 2011年の振り返り
+ - 関西Debian勉強会 2011年の振り返りと2012年の企画
+ - 東京エリアDebian勉強会の開催方法
+ - Debian勉強会予約システム再訪
+ - quiltでportingしてみた
+ - Debianの使えるVPSを使ってみた
+ - Debianでtwitter連携
+ - 月刊debhelper 第2回
+ - 月刊debhelper 第3回
+ - 月刊debhelper 第4回
+ - 月刊debhelper 第5回
+ - Debian開発者のKDE環境あれこれ
+ - CMakeを使ってみる
+ - Apache2 / HTTP サーバから始める Debian
+ - Debian での node 入門
+ - Android機でDebian
+ - Python初心者が 「Python プロフェッショナルプログラミング」 を読んでみた
+ - CoffeeScriptを使ってみた
+ - Dynamic Kernel Module Support Framework
+ - さきが(ry NM 塾
+ - フリーソフトウェアと戯れるための著作権入門
+ - ITP から始めるパッケージメンテナへの道
+ - t-code のバグレポートをしてみた
+ - emacs24で問題なく使える t-code.deb を作った話
+ - 月刊 t-code パッケージ修正
+ - スクリプティング言語 Konoha の Debian パッケージ化について その１
+ - スクリプティング言語 Konoha の Debian パッケージ化について その２
+ - 月刊 Debian Policy 第1回「パッケージの依存関係についてのルール」
+ - 月刊 Debian Policy 第2回 「Controlファイルについて 」
+ - 月刊 Debian Policy 第3回 「Debian アーカイブ」
+ - 月刊 Debian Policy 第4回 「バイナリパッケージ」
+ - Debian Trivia Quiz
+ - Debian Trivia Quiz 問題回答
 
 ** 2011年冬号
 
