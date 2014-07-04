@@ -1,21 +1,82 @@
-#title 第<lisp> number</lisp>回東京エリアDebian勉強会 with Debianパッケージ道場、<lisp>year</lisp>年<lisp>month</lisp>月勉強会
+#title 第<lisp> number</lisp>回東京エリアDebian勉強会 with 第2回 Debianパッケージング道場、<lisp>year</lisp>年<lisp>month</lisp>月勉強会
 <lisp>(progn (setq year 2014) (setq month 7) (setq day 19) (setq number 115) (setq eventid "6e3ddb5f107434dc7b198a583482e6948c57bb5e") nil) </lisp>
 * 開催概要
 
 日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 10:00-19:00 
-場所 | ...mkouheiさん書いて...
-定員 | ...mkouheiさん書いて...
+場所 | （株）サイバーエージェント 東京オフィス プライムプラザ4F セミナールームB （〒150-0044 東京都渋谷区円山町19番1号 渋谷プライムプラザ [[http://www.cyberagent.co.jp/access_print/id=7037][地図]]）
+定員 | 24名
 参加登録方法 | Debian勉強会予約システムへの登録をお願いします。申込の際に事前課題を提出ください。また、その後の宴会に参加されたい方は、「宴会参加」をチェックしてください。
 参加登録 | [[http://debianmeeting.appspot.com/event?eventid=<lisp>eventid</lisp>][Debian勉強会予約システム]] <lisp>month</lisp>月<lisp>(- day 2)</lisp>日までに登録ください。
 勉強会参加費用 | 500円
 
-* 今回の勉強会の形式と、持ち物について
+* パッケージング道場形式と持ち物について
 
-  ...iwamatsuさん書いて...
+ Debian パッケージの作り方を教える道場です。
+ 丸一日、Debian漬けでDebianパッケージを作ってみましょう。
+
+ - あのソフトウェアがDebianパッケージになっていないので、パッケージにしてみたい。
+ - 普段使っているDebianパッケージに修正を加えて、利用したい。
+ - メンテナンスしているDebianパッケージを更新してみる。
+ - モダンなDebianパッケージの作成方法とか知りたい。
+ - などなど
+
+Debian Developer と Debian Maintainer が パッケージの作成をサポートします。
+
+** 当日の流れ（予定）
+  1. 簡単な挨拶など。
+  2. 基本的なパッケージの作成方法を説明。
+  3. 最新のパッケージング事情の説明と使い方を説明。
+  4. パッケージ作成作業開始
+   - 参加者は何かパッケージにしたいものを持ってきて、それをパッケージ化する。
+   - 参加者は弄りたいまたは修正したい既存のパッケージを見つけてくる。そしてそれをいじる。
+   - [[担当者のいないパッケージ、パッケージ化して欲しいソフトウェア 一覧][http://wnpp.debian.net]]から気になるソフトウェアを探してみるのもいいでしょう。（要するにパッケージするテーマを持って参加してみましょうということです。）
+   - わからないところがあったら、遠慮無くその辺にいるDebian Developerを捕まえて聞いてください。
+   - Debian Developer はメンターになってパッケージをDebianにインストールするまで面倒をみる。
+   （このへんが道場っぽいはず。）
+   - できれば参加者はGPGキーサインをする。GPG鍵、公的な身分証明書(運転免許証、パスポートなど)を持ってきてください。
+ 5. 作業内容発表
+   - できたパッケージ、作業内容を発表
+
+その他Debianのバグ修正をしたい人やもくもくと開発したい人も歓迎します。
+こんなことやりたい！、こんなこと教えて！とかいろいろコメントに書いてください。
+
+** 道場参加する前に準備しておくこと
+  - パソコンを使うので、各自パソコンを持ってきてください。
+  - 使うパソコンで無線LAN、有線LAN が動作する環境を整えてください。
+  - 使うパソコンで Debian / unstable が動作する環境を整えてください。
+    VirtualBox 等で大丈夫です。
+  - Debian / unstable に 最低限のビルド環境を構築してください。
+    sudo apt-get install packaging-dev
+  - パッケージにしたいソフトウェアを見つけておいてください。こちらではパッケージング方法について教えることはできますが、ネタは提供できません。
+
+** 先に読んでおいた方良いドキュメント等
+  - [[Debian 新メンテナーガイ][http://www.debian.org/doc/manuals/maint-guide/]]
+  - [[Debian 開発者リファレン][http://www.debian.org/doc/manuals/developers-reference/]]
+
+** メモ
+  - 当日の作業メモ用 titanpad: http://debian-pkg-dojo.titanpad.com/2
+  - [[保守担当者のいないパッケージ、パッケージ化して欲しいソフトウェア一覧][http://wnpp.debian.net]]
+  - [[Debian RC bug一覧][http://udd.debian.org/bugs.cgi?release=wheezy_and_sid&patch=ign&pending=ign&unreproducible=ign&merged=ign&done=ign&fnewer=ign&fnewerval=7&rc=1&sortby=last_modified&sorto=asc&cpopcon=1]]
+
+* 想定されそうな質問
+ - パッケージング道場だけ参加したいのですが、可能でしょうか。
+   はい可能です。登録時にその旨をお書きください。
+ - 勉強会だけ参加したいのですが、可能でしょうか。
+   はい可能です。登録時にその旨をお書きください。
+ - 開催時間に間に合いそうにないのですが、どうしたらいいですか。
+   twtitter で @iwamatsu に連絡してください。
+ - 飲み物とか、食べ物とかありますか？
+   無いよ。
+ - タバコ吸う所ありますか？
+   基本的にありません。
+ - ネットワークはありますか？
+   はい、あります。HTTP, SSH などは利用できます。無線LAN、有線LAN共にあります。
+ - 電源はありますか。
+   はい、あります。電源タップを持っている人は持ってきたほうがよいかもしれません。
+ - CAcert のサインもして欲しいのですが。
+   当日は数名の CAcert Assurer がいます。声を掛けてください。
 
 * 事前課題
-
-（...iwatsuさんにて修正があれば変更願います...)
 
 参加の条件ですので提出お願いします。
 
