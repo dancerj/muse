@@ -11,8 +11,8 @@
 
 * パッケージング道場形式と持ち物について
 
- Debian パッケージの作り方を教える道場です。
- 丸一日、Debian漬けでDebianパッケージを作ってみましょう。
+Debian パッケージの作り方を教える道場です。
+丸一日、Debian漬けでDebianパッケージを作ってみましょう。
 
  - あのソフトウェアがDebianパッケージになっていないので、パッケージにしてみたい。
  - 普段使っているDebianパッケージに修正を加えて、利用したい。
@@ -29,12 +29,12 @@ Debian Developer と Debian Maintainer が パッケージの作成をサポートします。
   4. パッケージ作成作業開始
    - 参加者は何かパッケージにしたいものを持ってきて、それをパッケージ化する。
    - 参加者は弄りたいまたは修正したい既存のパッケージを見つけてくる。そしてそれをいじる。
-   - [[担当者のいないパッケージ、パッケージ化して欲しいソフトウェア 一覧][http://wnpp.debian.net]]から気になるソフトウェアを探してみるのもいいでしょう。（要するにパッケージするテーマを持って参加してみましょうということです。）
-   - わからないところがあったら、遠慮無くその辺にいるDebian Developerを捕まえて聞いてください。
+   - [[http://wnpp.debian.net][担当者のいないパッケージ、パッケージ化して欲しいソフトウェア 一覧]]から気になるソフトウェアを探してみるのもいいでしょう。（要するにパッケージするテーマを持って参加してみましょうということです。）
+   - わからないところがあったら、遠慮無く周りにいるDebian Developerを捕まえて聞いてください。
    - Debian Developer はメンターになってパッケージをDebianにインストールするまで面倒をみる。
    （このへんが道場っぽいはず。）
-   - できれば参加者はGPGキーサインをする。GPG鍵、公的な身分証明書(運転免許証、パスポートなど)を持ってきてください。
- 5. 作業内容発表
+   - できれば参加者はGPGキーサインをする。GPG鍵、公的な身分証明書(運転免許証、パスポートなど)を持ってきてください。<br>
+  5. 作業内容発表
    - できたパッケージ、作業内容を発表
 
 その他Debianのバグ修正をしたい人やもくもくと開発したい人も歓迎します。
@@ -50,31 +50,40 @@ Debian Developer と Debian Maintainer が パッケージの作成をサポートします。
   - パッケージにしたいソフトウェアを見つけておいてください。こちらではパッケージング方法について教えることはできますが、ネタは提供できません。
 
 ** 先に読んでおいた方良いドキュメント等
-  - [[Debian 新メンテナーガイ][http://www.debian.org/doc/manuals/maint-guide/]]
-  - [[Debian 開発者リファレン][http://www.debian.org/doc/manuals/developers-reference/]]
+  - [[http://www.debian.org/doc/manuals/maint-guide/][Debian 新メンテナーガイド]]
+  - [[http://www.debian.org/doc/manuals/developers-reference/][Debian 開発者リファレンス]]
 
 ** メモ
-  - 当日の作業メモ用 titanpad: http://debian-pkg-dojo.titanpad.com/2
-  - [[保守担当者のいないパッケージ、パッケージ化して欲しいソフトウェア一覧][http://wnpp.debian.net]]
-  - [[Debian RC bug一覧][http://udd.debian.org/bugs.cgi?release=wheezy_and_sid&patch=ign&pending=ign&unreproducible=ign&merged=ign&done=ign&fnewer=ign&fnewerval=7&rc=1&sortby=last_modified&sorto=asc&cpopcon=1]]
+  - [[http://debian-pkg-dojo.titanpad.com/2][当日の作業メモ用 titanpad]]
+  - [[http://wnpp.debian.net][保守担当者のいないパッケージ、パッケージ化して欲しいソフトウェア一覧]]
+  - [[http://udd.debian.org/bugs.cgi?release=wheezy_and_sid&patch=ign&pending=ign&unreproducible=ign&merged=ign&done=ign&fnewer=ign&fnewerval=7&rc=1&sortby=last_modified&sorto=asc&cpopcon=1][Debian RC bug一覧]]
 
 * 想定されそうな質問
  - パッケージング道場だけ参加したいのですが、可能でしょうか。
+
    はい可能です。登録時にその旨をお書きください。
  - 勉強会だけ参加したいのですが、可能でしょうか。
+
    はい可能です。登録時にその旨をお書きください。
  - 開催時間に間に合いそうにないのですが、どうしたらいいですか。
+
    twtitter で @iwamatsu に連絡してください。
+
  - 飲み物とか、食べ物とかありますか？
-   無いよ。
+
+   まだわかりません（更新します）。昼ごはんは皆で買い出しに行くと思います。お菓子などを持ってくるとよいかもしれません。
  - タバコ吸う所ありますか？
+
    基本的にありません。
  - ネットワークはありますか？
+
    はい、あります。HTTP, SSH などは利用できます。無線LAN、有線LAN共にあります。
  - 電源はありますか。
+
    はい、あります。電源タップを持っている人は持ってきたほうがよいかもしれません。
  - CAcert のサインもして欲しいのですが。
-   当日は数名の CAcert Assurer がいます。声を掛けてください。
+
+   当日はCAcert Assurer が数名います。声を掛けてください。
 
 * 事前課題
 
