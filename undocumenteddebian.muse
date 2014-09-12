@@ -7,6 +7,21 @@
 有志で紙媒体に印刷して有償で配布していますが、PDF形式でも配布しており、
 ここからダウンロードできます。
 
+** 2014年夏号
+
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2014-natsu.pdf][2014年夏号PDF]] 
+
+ - Introduction
+ - Debian GNU/Hurd 2013
+ - Debian Pure Blend
+ - debianでdocker.io
+ - Debianでdnsmasqを使う
+ - Debianでiphone5を繋ぐ
+ - 自宅サーバにKVMを導入してみよう
+ - Golangで書かれたツールをDebianパッケージにする
+ - Debian Trivia Quiz
+ - Debian Trivia Quiz 問題回答
+
 ** 2013年冬号
 
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2013-fuyu.pdf][2013年冬号PDF]] 
