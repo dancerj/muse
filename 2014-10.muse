@@ -5,13 +5,13 @@
 東京エリアDebian勉強会は、<lisp>year</lisp> OSC Tokyo/Fallに参加します。
 
 日時    | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日)
-会場案内 | [[http://www.ospn.jp/osc2013-fall/][OSC <lisp>year</lisp> Tokyo/Fall 会場(明星大学 日野キャンパス 28号館)]]
+会場案内 | [[http://www.ospn.jp/osc2014-fall/][OSC <lisp>year</lisp> Tokyo/Fall 会場(明星大学 日野キャンパス 28号館)]]
 
 * 当日のagenda
 
 時間 || 内容 || 概要 || 発表者
-<lisp>month</lisp>/<lisp>day</lisp>(日) 10:00-10:45 | Debian update | 11月5日にフリーズ予定である次期リリース Debian 8.0 (コードネームJessie) の話題を中心に、最近のDebian Projectのトピックを紹介します。 | 岩松
-<lisp>month</lisp>/<lisp>day</lisp>(日) 終日 | Debianブース出展中 | Debianブースを出しています。Debian稼働マシンや過去勉強会資料の展示等を行います。 | 岩松、野島
+<lisp>month</lisp>/<lisp>day</lisp>(土) 10:00-10:45 | Debian update | 11月5日にフリーズ予定である次期リリース Debian 8.0 (コードネームJessie) の話題を中心に、最近のDebian Projectのトピックを紹介します。 | 岩松
+<lisp>month</lisp>/<lisp>day</lisp>(土) 終日 | Debianブース出展 | Debianブースを出しています。Debian稼働マシンや過去勉強会資料の展示等を行います。 | 岩松、野島
 
  - 注意：<lisp>month</lisp>/<lisp>day</lisp>(土)のみ発表及び出展となります。10/19(日)の方は当勉強会は出展していませんので、ご注意ください。
 
