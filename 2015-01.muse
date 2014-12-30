@@ -1,0 +1,21 @@
+#title 第<lisp> number</lisp>回東京エリアDebian勉強会、<lisp>year</lisp>年<lisp>month</lisp>月勉強会
+<lisp>(progn (setq year 2015) (setq month 1) (setq day 17) (setq number 122) (setq eventid "") nil) </lisp>
+* 開催概要
+
+日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 14:00-19:00 
+参加登録方法 | [[http://debianjp.connpass.com/event/10944/][connpass上での案内]]の掲示を見て参加申し込みをおねがいします。
+
+* 会合の詳細
+
+ 今回試験的にconnpassに掲示をしています。詳しくは、
+[[http://debianjp.connpass.com/event/10944/][connpass上での案内]]
+を参照ください。
+
+* 資料
+
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
+
+* 参加報告
+
+

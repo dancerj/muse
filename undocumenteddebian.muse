@@ -7,6 +7,23 @@
 有志で紙媒体に印刷して有償で配布していますが、PDF形式でも配布しており、
 ここからダウンロードできます。
 
+** 2014年冬号
+
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2014-fuyu.pdf][2014年冬号PDF]] 
+
+ - Introduction
+ - Debian Updates
+ - Debian での systemd とのつきあい方
+ - Debian x LibreOffice
+ - DebianからみたArch Linux
+ - Debianでタイルマップサービス作ってみた
+ - Linuxのドライバメンテナになった体験記
+ - GPG 秘密鍵取り扱い方法の提案
+ - JenkinsでのDebianパッケージ自動化
+ - DebConf14のビデオ紹介
+ - Debian Trivia Quiz
+ - Debian Trivia Quiz 問題回答
+
 ** 2014年夏号
 
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2014-natsu.pdf][2014年夏号PDF]] 
