@@ -16,6 +16,7 @@
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation-sugimoto.pdf][Debian GNU/kFreeBSDにおけるJail構築を試してみた]]
+ - [[http://www.slideshare.net/YujiImai/debian-tokyo2015022401][LT:Gnukと私]]
 
 * 参加報告
 
