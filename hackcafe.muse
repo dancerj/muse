@@ -8,24 +8,12 @@
 Debian 関係者 / 既婚者 / 社会人に限らず誰でも参加できます。
 気軽に参加してください。異種交流、相談等歓迎します。
 
-* 東京エリア
-** 開催日
-基本的に毎週水曜日の19:00-21:00までです。
+* 開催日
+
 遅刻とか気にする必要はありません。来たいときに来て、帰りたいときに帰るスタイルです。
 
 ** 場所
-新宿駅近辺のどこかです。[[http://twitter.com/debian_hackcafe][twitter]] で流されます。
-
-* 関西エリア
-* 開催日
-基本的に毎週金曜日の19:00-22:30までです。
-遅刻や早退などに気にする必要はありません。
-
-** 場所
-関西にある駅の近くです。[[http://twitter.com/debian_hackcafe][twitter]] で流されます。
-
-* twitter
-開催日、場所は [[http://twitter.com/debian_hackcafe][twitter]] で流されます。
+[[http://twitter.com/debian_hackcafe][twitter]] で流されます。
 
 ** twitter へのつぶやき
 Debain Hack Cafe に参加して、GPG鍵交換をした人は 以下のコマンドで twitter へ書き込むことが
