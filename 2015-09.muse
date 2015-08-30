@@ -1,0 +1,20 @@
+#title 第<lisp> number</lisp>回東京エリアDebian勉強会 with 第3回 Debianパッケージング道場、<lisp>year</lisp>年<lisp>month</lisp>月勉強会
+<lisp>(progn (setq year 2015) (setq month 9) (setq day 12) (setq number 130) (setq eventid "") nil) </lisp>
+* 開催概要
+
+日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 10:00-18:00 
+参加登録方法 | [[http://eventdots.jp/event/568568][dots.上での案内]]の掲示を見て参加申し込みをおねがいします。
+
+* 会合の詳細
+
+ dots.に掲示をしています。詳しくは、
+[[http://eventdots.jp/event/568568][dots.上での案内]]
+を参照ください。
+
+* 資料
+
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
+
+* 参加報告
+

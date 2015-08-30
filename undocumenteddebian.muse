@@ -7,6 +7,23 @@
 有志で紙媒体に印刷して有償で配布していますが、PDF形式でも配布しており、
 ここからダウンロードできます。
 
+** 2015年夏号
+
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2015-natsu.pdf][2015年夏号PDF]] 
+
+ - Introduction
+ - Wheezy から Jessie まで
+ - Debian からみた Linux Mint
+ - Raspberry Pi 2 Model B に Debian Jessie / armhf をインストールする
+ - 自然言語処理チーム(pkg-nlp-ja)とパッケージ
+ - .debから Python パッケージへの変遷
+ - Emacs 関連パッケージの Debian パッケージ作成
+ - Debian GNU/kFreeBSD における Jail 構築を試してみた
+ - DPN で振り返る 2014
+ - 2014 年の振り返りと 2015 年の企画
+ - Debian Trivia Quiz
+ - Debian Trivia Quiz 問題回答
+
 ** 2014年冬号
 
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2014-fuyu.pdf][2014年冬号PDF]] 
@@ -15,12 +32,12 @@
  - Debian Updates
  - Debian での systemd とのつきあい方
  - Debian x LibreOffice
- - DebianからみたArch Linux
- - Debianでタイルマップサービス作ってみた
- - Linuxのドライバメンテナになった体験記
+ - Debian からみた Arch Linux
+ - Debian でタイルマップサービス作ってみた
+ - Linux のドライバメンテナになった体験記
  - GPG 秘密鍵取り扱い方法の提案
- - JenkinsでのDebianパッケージ自動化
- - DebConf14のビデオ紹介
+ - Jenkins での Debian パッケージ自動化
+ - DebConf14 のビデオ紹介
  - Debian Trivia Quiz
  - Debian Trivia Quiz 問題回答
 
@@ -31,11 +48,11 @@
  - Introduction
  - Debian GNU/Hurd 2013
  - Debian Pure Blend
- - debianでdocker.io
- - Debianでdnsmasqを使う
- - Debianでiphone5を繋ぐ
- - 自宅サーバにKVMを導入してみよう
- - Golangで書かれたツールをDebianパッケージにする
+ - debian で docker.io
+ - Debian で dnsmasq を使う
+ - Debian で iphone5 を繋ぐ
+ - 自宅サーバに KVM を導入してみよう
+ - Golang で書かれたツールを Debian パッケージにする
  - Debian Trivia Quiz
  - Debian Trivia Quiz 問題回答
 
@@ -251,7 +268,6 @@
 ** 2010年夏号
 
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2010-natsu.pdf][2010年夏号PDF]] 
-
 
  - Introduction
  - Debian の紹介
