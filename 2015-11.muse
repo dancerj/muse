@@ -2,7 +2,7 @@
 <lisp>(progn (setq year 2015) (setq month 11) (setq day 21) (setq number 133) (setq eventid "") nil) </lisp>
 * 開催概要
 
-日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(日曜日) 14:00-19:00 
+日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 14:00-19:00 
 参加登録方法 | [[http://eventdots.jp/event/571062][dots上での案内]]の掲示を見て参加申し込みをおねがいします。
 
 * 会合の詳細
