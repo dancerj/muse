@@ -15,6 +15,6 @@
 
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
-
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation-roger.pdf][毎日使えるIPv6ネットワークの構築]]
 * 参加報告
 
