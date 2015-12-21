@@ -1,7 +1,6 @@
-#title 東京エリアDebian勉強会 課題提出方法
+#title 東京エリアDebian勉強会 発表資料更新/提出方法
 
-この資料は Debian 勉強会予約システム導入以前の手順を説明しています。
-2010年以降はDebian 勉強会予約システム (http://debianmeeting.appspot.com/) を利用してください。
+ 本ドキュメントは、Debian Jessieを用いて東京エリアDebian勉強会資料を更新/提出する方法となります。また、紹介されるgitのリポジトリに対してコミット権を持っていない人を対象に記載しております。すでにコミット権をお持ちの方は直接コミット出来ますし、慣れているかと思いますので、git pushなど、うまいことやって下さい。
 
 * 更新方法
 
@@ -11,8 +10,8 @@
 /etc/apt/sources.listの該当する行を次のように編集してください。
 
 <example>
-deb http://ftp.jp.debian.org/debian/ lenny main contrib non-free
-deb-src http://ftp.jp.debian.org/debian/ lenny main contrib non-free
+deb http://ftp.jp.debian.org/debian/ jessie main contrib non-free
+deb-src http://ftp.jp.debian.org/debian/ jessie main contrib non-free
 </example>
 
 編集後、rootに移行しaptを更新します。
@@ -24,18 +23,19 @@ deb-src http://ftp.jp.debian.org/debian/ lenny main contrib non-free
 *** 課題作成に必要なパッケージを導入します。
 
 <example>
-# apt-get install git-core make lv ptex-bin okumura-clsfiles \
-xpdf xpdf-japanese texlive-latex-extra \
-ghostscript dvipdfmx latex-beamer ttf-sazanami-mincho \
-ttf-mona ttf-vlgothic gs-cjk-resource
+# apt-get install git make lv \
+texlive-base texlive-latex-base texlive-latex-extra \
+texlive-lang-japanese latex-beamer poppler-data \
+evince
 </example>
 
-
-*** 新クラスファイルを追加します。
+*** フォントマップの更新を行います。
 
 <example>
-# jisftconfig add
+# updmap-setup-kanji-sys ipaex
 </example>
+
+※なお、udpmap-setup-kanji-sysがNot Foundになるようでしたら、一旦無視にて。
 
 *** gitを設定します。
 
@@ -69,7 +69,7 @@ $ make
 ** 3. 現在チェックアウトしているローカルブランチを確認します。
 <example>
 $ git branch
-* 200904
+* 201511
   master
 </example>
 もし、master に前にアスタリスク( * )がついていない場合、masterローカルブランチをチェックアウトします。
@@ -80,7 +80,7 @@ $ git checkout master
 再度、masterローカルブランチをチェックアウトしているか確認します。
 <example>
 $ git branch
-  200904
+  201511
 * master
 </example>
 
@@ -89,63 +89,51 @@ $ git branch
 $ git pull
 </example>
 
-** 5. 課題を作成する年月(2009年11月の場合は200911) のローカルブランチを作成します。
+** 5. 発表資料を作成する年月(2015年12月の場合は201512) のローカルブランチを作成します。
 <example>
-$ git branch 200911
+$ git branch 201512
 </example>
 
 ** 6. 作成したローカルブランチをチェックアウトします。
 <example>
-$ git checkout 200911
-Switched to branch '200911'
+$ git checkout 201512
+Switched to branch '201512'
 </example>
 
-** 7. 課題を作成する年月用のディレクトリ(2009年11月の場合はimage200911)にあるprework.texに自分の課題を追加します。
-利用するエディタはお好きなものをどうぞ。
-
-debianmeetingresume<YYYYMM>.texが勉強会資料で、事前課題はこのファ
-イルから読み込まれているimage<YYYYMM>/prework.texにお好みのエディ
-タを使用して追記します。
+** 7. 発表予定の資料に発表内容を記載します。
+資料はdebianmeetingresume<YYYYMM>.tex(事前資料）、debianmeetingresume<YYYYMM>-presentation.tex(当日プレゼン用資料）となります。
+利用するエディタはお好きなものをどうぞ。また、画像はimage<YYYYMM>/以下に置いて下さい。
 
 <example>
-$ gnuclient images200911/prework.tex
-$ vi images200911/prework.tex
+$ vi debianmeetingresume201512.tex
+$ git add image201512/foo.png (画像を登録などあったら）
 </example>
 
-image<YYYYMM>/prework.texはMakefileの依存対象となっていないため、
-debianmeetingresume<YYYYMM>.texの日付を変更するなりしてビルドし
-ます。
+image<YYYYMM>/以下のファイルはMakefileの依存対象となっていないため、
+対応するdebianmeetingresume<YYYYMM>.texの更新日付など変更して再コンパイルしてください。
 
 <example>
-$ touch debianmeetingresume200911.tex
+$ touch debianmeetingresume201512.tex
 $ make
 </example>
 
-まれにdebianmeetingresume<YYYYMM>.texのimage<YYYYMM>/prework.tex
-を読み込んでいる箇所がコメントアウトされている場合がありますので、
-結果が反映されない場合はご確認ください。
-
-
-** 8. 課題を書いたら、変更をローカルブランチにコミットします。
+** 8. 発表資料を書いたら、変更をローカルブランチにコミットします。
 <example>
-$ git commit -m "Add iwamatsu prework" images200911/prework.tex
-[master 0b0f025] images200911/prework.tex
- 1 files changed, 3 insertions(+), 0 deletions(-)
+$ git commit -m "Add nozzy article" -a
 </example>
 
 ** 9. 変更をパッチで出力します。
 <example>
 $ git format-patch -o /tmp HEAD~
-/tmp/0001-Add-iwamatsu-prework.patch
+/tmp/0001-Add-nozzy-article.patch
 </example>
 
-/tmp/0001-Add-iwamatsu-prework.patch がパッチです。
+/tmp/0001-Add-nozzy-article.patch がパッチです。
 
-** 10. パッチを課題用メーリングリストに投稿します。
+** 10. パッチをdebian-devel@debian.or.jpメーリングリストに投稿します。
 
 真のgit使いは git send-email コマンドを使いますが、各々が使っている
 MUA を使って送るのがいいでしょう。
-2009年度向けのメーリングリストは http://lists.alioth.debian.org/mailman/listinfo/tokyodebian-2009 です。
 
 ** 11 . メーリングリストに投稿できたら、masterローカルブランチをチェックアウトします。
 
