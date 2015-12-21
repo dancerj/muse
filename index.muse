@@ -12,14 +12,15 @@ Debian 勉強会を開催します。
 
 * 次回の勉強会
 
- - [[2015-12][2015年12月勉強会 (第134回東京エリアDebian勉強会)]]
+ - [[2016-01][2016年1月勉強会 (第135回東京エリアDebian勉強会)]]
 
 * 未来の勉強会
 
- - [[2016-01][2015年1月勉強会 (第135回東京エリアDebian勉強会)]]
+ - [[2016-02][2016年2月勉強会 (第136回東京エリアDebian勉強会)]]
 
 * 過去の勉強会
 
+ - [[2015-12][2015年12月勉強会 (第134回東京エリアDebian勉強会)]]
  - [[2015-11][2015年11月勉強会 (第133回東京エリアDebian勉強会)]]
  - [[2015-10-osc][2015年10月OSC2015 Tokyo/Fall 出張勉強会 (第132回東京エリアDebian勉強会)]]
  - [[2015-10][2015年10月勉強会 (第131回東京エリアDebian勉強会)]]
@@ -46,15 +47,15 @@ Debian 勉強会を開催します。
 * 連絡先
 
  - ウェブマスター: 上川純一 dancer@debian.org
- - 日本語での相談先: [[http://www.debian.or.jp/community/ml/openml.html#usersML][debian-users@lists.debian.or.jp]]
+ - 日本語での相談先: [[http://www.debian.or.jp/community/ml/openml.html][debian-devel@lists.debian.or.jp]]
 
 * 運営用ML
 
-google group上で行っています。勉強会運営に興味がある方は ウェブマスター、勉強会運営メンバー または [[http://www.debian.or.jp/community/ml/openml.html#usersML][debian-users@lists.debian.or.jp]] に連絡ください。
+google group上で行っています。勉強会運営に興味がある方は ウェブマスター、勉強会運営メンバー または [[http://www.debian.or.jp/community/ml/openml.html][debian-devel@lists.debian.or.jp]] に連絡ください。
 
 * 勉強会資料提出方法
 
- 発表したい方は2009年までの [[prework-update][課題提出方法]]を元に原稿を作成して下さい。Gitのワークフロー紹介の例としてもご参照ください。
+ 発表したい方は [[prework-update][発表資料提出方法]]を元に原稿を作成して下さい。Gitのワークフロー紹介の例としてもご参照ください。
 
 * 関連記事など
 
