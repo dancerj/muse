@@ -7,6 +7,23 @@
 有志で紙媒体に印刷して有償で配布していますが、PDF形式でも配布しており、
 ここからダウンロードできます。
 
+** 2015年冬号
+
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2015-fuyu.pdf][2015年冬号PDF]]
+
+ - Introduction
+ - Debian update
+ - Debianと脆弱性対応のあれこれをまとめてみた
+ - Debian GNU/kFreeBSD セットアップガイド 2015年版
+ - APT1.1 超☆牛さんパワー炸裂!
+ - DebianでHTTP/2を試す
+ - NTT フレッツ網経由でNative IPv6
+ - wiki:Subkeys
+ - DebConf15 ビデオ紹介
+ - Debian パッケージング道場 git buildpackageの使い方
+ - Debian Trivia Quiz
+ - Debian Trivia Quiz 問題回答
+
 ** 2015年夏号
 
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2015-natsu.pdf][2015年夏号PDF]] 
