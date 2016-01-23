@@ -17,7 +17,6 @@ body
 
 h1
 {
-  background-image: url(http://www.debian.org/logos/openlogo-nd-50.png);
   background-repeat: no-repeat;
   background-position: top right;
   background-color: #fff;
@@ -28,8 +27,8 @@ h1
   padding: 20px 0px 20px 0px;
   font-size: 16pt;
   text-align: center;
-  margin: 15pt 10% 35pt 10%;
-  }
+  margin: 15pt 5% 20pt 5%;
+}
 
 h2 
 {
@@ -83,6 +82,7 @@ tt {
     border: ridge;
 }
 
+/*
 div.toplinks
 {
   width: 20%;
@@ -94,12 +94,13 @@ div.toplinks
   background-color: #fff;
   margin: 20pt 3% 8pt 10pt;
 }
+*/
 
 div.bodydiv 
 {
-  width: 70%;
+  width: 96%;
   float: left;
-  margin: 0pt 0pt 0pt 3%;
+  margin: 0pt 0pt 0pt 1%;
   background-color: #fff;
 }
 

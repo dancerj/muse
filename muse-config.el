@@ -12,17 +12,18 @@
 
 (setq muse-html-header
       (concat 
-"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\">
-<html>
+"<!DOCTYPE html>
+<html lang=\"ja\">
   <head>
     <title><lisp>
   (concat (muse-publishing-directive \"title\")
           (let ((author (muse-publishing-directive \"author\")))
             (if (not (string= author (user-full-name)))
                 (concat \" (by \" author \")\"))))</lisp></title>
+    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">
+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">
+    <meta charset=\"EUC-JP\">
     <meta name=\"generator\" content=\"muse.el\">
-    <meta http-equiv=\"<lisp>muse-html-meta-http-equiv</lisp>\"
-          content=\"<lisp>muse-html-meta-content-type</lisp>\">
     <lisp>
       (let ((maintainer (muse-style-element :maintainer)))
         (when maintainer
@@ -31,6 +32,7 @@
     <lisp>muse-html-style-sheet</lisp>
   </head>
   <body>
+    <p><a href=\"index.html\"><img src=\"http://www.debian.org/logos/openlogo-nd-25.png\" alt=\"debian-open-logo-nd\">東京エリアDebian勉強会</a></p>
     <h1><lisp>
   (concat (muse-publishing-directive \"title\")
           (let ((author (muse-publishing-directive \"author\")))
@@ -43,12 +45,5 @@
 (setq muse-html-footer (concat 
 "<!-- Page published by Emacs Muse ends here -->
     </div>
-    <div class=\"toplinks\">
-      <a class=\"toplinks\" href=\"index.html\">Index</a><br>
-      <a class=\"toplinks\" href=\""
-(format-time-string "%Y-%m")
-".html\">Current</a><br>
-    </div>    
-
   </body>
 </html>\n"))
