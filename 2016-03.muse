@@ -1,5 +1,5 @@
 #title 第<lisp> number</lisp>回東京エリアDebian勉強会、<lisp>year</lisp>年<lisp>month</lisp>月勉強会
-<lisp>(progn (setq year 2016) (setq month 3) (setq day 5) (setq number 137) (setq eventid 27574) nil) </lisp>
+<lisp>(progn (setq year 2016) (setq month 3) (setq day 5) (setq number 138) (setq eventid 27574) nil) </lisp>
 * 開催概要
 
 日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 14:00-19:00 
