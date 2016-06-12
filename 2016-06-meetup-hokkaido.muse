@@ -1,0 +1,15 @@
+#title Debian / Ubuntu ユーザーミートアップ in 札幌
+<lisp>(progn (setq year 2016) (setq month 6) (setq day 17) (setq number "") (setq eventid 46366) nil) </lisp>
+* 開催概要
+
+日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(金曜日) 18:45-20:55
+参加登録方法 | [[https://debianjp.doorkeeper.jp/events/<lisp>(format "%.5d" eventid)</lisp>/][Doorkeeper上での案内]]の掲示を見て参加申し込みをお願いします。
+
+* 勉強会の詳細
+
+ 勉強会の詳細は イベント管理サービスである [[https://debianjp.doorkeeper.jp/events/<lisp>(format "%.5d" eventid)</lisp>/][Doorkeeper]]に掲示しています。申し訳ございませんが、詳細はこちらをを参照ください。
+
+* 資料
+
+* 参加報告
+
