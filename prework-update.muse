@@ -6,20 +6,6 @@
 
 ** 0.  Git と Latex の設定をします。
 
-*** apt-lineにcontrib non-freeを追加します。
-/etc/apt/sources.listの該当する行を次のように編集してください。
-
-<example>
-deb http://ftp.jp.debian.org/debian/ jessie main contrib non-free
-deb-src http://ftp.jp.debian.org/debian/ jessie main contrib non-free
-</example>
-
-編集後、rootに移行しaptを更新します。
-
-<example>
-# apt-get update && apt-get upgrade
-</example>
-
 *** 課題作成に必要なパッケージを導入します。
 
 <example>
