@@ -10,7 +10,7 @@
 
 <example>
 # apt-get install git make lv \
-texlive-base texlive-latex-base texlive-latex-extra \
+texlive-latex-extra \
 texlive-lang-japanese latex-beamer poppler-data \
 evince
 </example>
