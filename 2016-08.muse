@@ -7,7 +7,7 @@
 
 * 勉強会の詳細
 
- 勉強会の詳細は イベント管理サービスである [[http://debianjp.connpass.com/event/<lisp>(format "%.5d" eventid)</lisp>/][connpass]]に掲示しています。申し訳ございませんが、詳細はこちらをを参照ください。
+ 勉強会の詳細は イベント管理サービスである [[http://debianjp.connpass.com/event/<lisp>(format "%.5d" eventid)</lisp>/][connpass]]に掲示しています。申し訳ございませんが、詳細はこちらを参照ください。
 
 * 資料
 
