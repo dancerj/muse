@@ -1,0 +1,27 @@
+#title 第<lisp> number</lisp>回東京エリアDebian勉強会、<lisp>year</lisp>年<lisp>month</lisp>月勉強会 OSC <lisp>year</lisp> Tokyo/Fall出張
+<lisp>(progn (setq year 2016) (setq month 11) (setq day 5) (setq day2 6) (setq number 145) (setq eventid "") "") </lisp>
+* 開催概要
+
+東京エリアDebian勉強会は、OSC <lisp>year</lisp> Tokyo/Fallに参加します。
+
+日時    | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日)、<lisp>day2</lisp>日(日曜日)
+会場案内 | [[http://www.ospn.jp/osc2016-spring/][OSC <lisp>year</lisp> Tokyo/Fall 会場(明星大学 日野キャンパス 28号館)]]
+
+* 当日のagenda
+
+時間 || 内容 || 概要 || 発表者
+<lisp>month</lisp>/<lisp>day</lisp>(土) 12:00-12:45 | Debian updates | 最近のDebian Projectのトピックを紹介します | 岩松
+<lisp>month</lisp>/<lisp>day</lisp>(土) 終日 | Debianブース出展 | Debianブースを出しています。Debian稼働マシンや過去勉強会資料の展示等を行います。 | 岩松、杉本
+<lisp>month</lisp>/<lisp>day2</lisp>(日) 終日 | Debianブース出展 | Debianブースを出しています。過去勉強会資料の展示等を行います。 | 吉田
+
+ - 注意：展示の都合上、Debianがインストールされた機械は<lisp>month</lisp>/<lisp>day</lisp>(土)のみ展示する可能性があります。
+
+* 懇親会
+
+なし
+
+* 資料
+
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-osc2016-presentation.pdf][PDFプレゼンテーション資料]]
+
+* 参加報告
