@@ -1,0 +1,22 @@
+#title 東京エリアDebian勉強会 OSC 2016 Gunma出張版
+<lisp>(progn (setq year 2016) (setq month 5) (setq day 14) (setq number "") (setq eventid "") nil) </lisp>
+* 開催概要
+
+日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 10:20-17:40 (展示は10:30-17:00)
+場所 | [[http://www.ospn.jp/osc2016-gunma/][オープンソースカンファレンス 2016 Gunma]]
+* 当日のagenda
+
+時間 || 内容 || 概要 || 発表者
+<lisp>month</lisp>/<lisp>day</lisp>(土) 15:00-15:45 | Debian Updates | Debian 8.0 (コードネームJessie) の話題を中心に、最近のDebian Projectのトピックを紹介します。 | 岩松
+<lisp>month</lisp>/<lisp>day</lisp>(土) 終日 | Debianブース出展 | Debianブースを出しています。Debian GNU/Linuxの紹介/DebianJP/東京エリアDebian勉強会の紹介をします。 | 
+
+ OSC 2016 Gunmaに掲示をしています。詳しくは、
+[[http://www.ospn.jp/osc2016-gunma/][オープンソースカンファレンス 2016 Gunma]]
+を参照ください。
+
+* 資料
+
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-osc-presentation.pdf][PDFプレゼンテーション資料]]
+
+* 参加報告
+
