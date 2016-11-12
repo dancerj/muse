@@ -12,17 +12,17 @@ Debian 勉強会を開催します。
 
 * 次回の勉強会
 
- - [[2016-11-osc][2016年11月OSC 2016 Tokyo/Fall 出張勉強会 (第145回東京エリアDebian勉強会)]]
  - [[2016-11][2016年11月勉強会 (第146回東京エリアDebian勉強会)]]
+ - [[http://miniconf.debian.or.jp/][Mini Debian Conference Japan 2016]]
 
 * 未来の勉強会
 
- - [[http://miniconf.debian.or.jp/][Mini Debian Conference Japan 2016]]
  - 2016年12月の東京エリアDebian勉強会はお休みとなります。
  - [[2017-01][2017年1月勉強会 (第147回東京エリアDebian勉強会)]]
 
 * 過去の勉強会
 
+ - [[2016-11-osc][2016年11月OSC 2016 Tokyo/Fall 出張勉強会 (第145回東京エリアDebian勉強会)]]
  - [[2016-10][2016年10月勉強会 (第144回東京エリアDebian勉強会)]]
  - [[2016-09][2016年9月勉強会 (第143回東京エリアDebian勉強会)]]
  - [[2016-08][2016年8月勉強会 (第142回東京エリアDebian勉強会)]]
