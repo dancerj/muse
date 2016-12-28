@@ -7,6 +7,24 @@
 有志で紙媒体に印刷して有償で配布していますが、PDF形式でも配布しており、
 ここからダウンロードできます。
 
+** 2016年夏号
+
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2016-natsu.pdf][2016年夏号PDF]] 
+
+ - Introduction
+ - systemdに浸ってみた
+ - Debian GNU/Linux 上での省電力設定について
+ - LibreOfficeの最近の動向とDebianでのLibreOfficeパッケージについて
+ - Debian モバイル wifi ルータ化
+ - VyOSを入れてAPを構築してみた。
+ - Buffalo Linkstation 向け Debian Installer
+ - tilegxというCPUアーキテクチャ向けのDebianパッケージ移植
+ - Debianの移植作業用のインフラを借りるには
+ - Debianで、Linux ftraceまわりをいじってみた
+ - 勉強会資料の歩き方
+ - Debian Trivia Quiz
+ - Debian Trivia Quiz 問題回答
+
 ** 2015年冬号
 
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2015-fuyu.pdf][2015年冬号PDF]]
