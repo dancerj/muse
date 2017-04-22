@@ -7,6 +7,24 @@
 有志で紙媒体に印刷して有償で配布していますが、PDF形式でも配布しており、
 ここからダウンロードできます。
 
+** 2016年冬号
+
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2016-fuyu.pdf][2016年冬号PDF]]
+
+ - Introduction
+ - Debianでlxcをセットアップしてみよう
+ - preseedでDebianを自動インストールをしてみよう
+ - Let's Encrypt のススメ
+ - OpenFOAM で数値流体解析
+ - Debianパッケージの “説明文” について
+ - go-apt-cacher/mirror
+ - sbuild と debci を触ってみた
+ - debexpo(mentors.d.n)をハックするには
+ - dh\_strip\_nondeterminism について
+ - DEP5/Machine-readable debian/copyright 再考
+ - Debian Trivia Quiz
+ - Debian Trivia Quiz 問題回答
+
 ** 2016年夏号
 
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2016-natsu.pdf][2016年夏号PDF]] 
