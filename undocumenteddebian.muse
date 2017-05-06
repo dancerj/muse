@@ -20,7 +20,7 @@
  - go-apt-cacher/mirror
  - sbuild と debci を触ってみた
  - debexpo(mentors.d.n)をハックするには
- - dh\_strip\_nondeterminism について
+ - dh_strip_nondeterminism について
  - DEP5/Machine-readable debian/copyright 再考
  - Debian Trivia Quiz
  - Debian Trivia Quiz 問題回答
