@@ -478,10 +478,10 @@
  - あなたの知らないかもしれない apt-xxx
  - DebTorrent に触ってみた
  - live-helper
- - Debian パッケージの作り方 (1) – 20 分で作る Debian パッケージ –
- - Debian パッケージの作り方 (2) – debian/rules を読む –
- - Debian パッケージの作り方 (3) – dpatch の使い方 –
- - Debian パッケージの作り方 (4) – ライブラリ編 –
+ - Debian パッケージの作り方 (1)  20 分で作る Debian パッケージ 
+ - Debian パッケージの作り方 (2)  debian/rules を読む 
+ - Debian パッケージの作り方 (3)  dpatch の使い方 
+ - Debian パッケージの作り方 (4)  ライブラリ編 
  - HP ML350G5 Debian etch 動作確認
  - HP ML110G4 Debian etch 動作確認
  - Debian Weekly News trivia quiz
