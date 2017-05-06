@@ -1,588 +1,588 @@
-#title ã‚ã‚“ã©ãã‚…ã‚ã‚“ã¦ã£ã©ã§ã³ã‚ã‚“
+#title ¤¢¤ó¤É¤­¤å¤á¤ó¤Æ¤Ã¤É¤Ç¤Ó¤¢¤ó
 
-* ã€ã‚ã‚“ã©ãã‚…ã‚ã‚“ã¦ã£ã© ã§ã³ã‚ã‚“ã€ã«ã¤ã„ã¦
+* ¡Ø¤¢¤ó¤É¤­¤å¤á¤ó¤Æ¤Ã¤É ¤Ç¤Ó¤¢¤ó¡Ù¤Ë¤Ä¤¤¤Æ
 
-æœ¬æ›¸ã¯ã€æ±äº¬ã‚¨ãƒªã‚¢ãŠã‚ˆã³é–¢è¥¿ã‚¨ãƒªã‚¢å‘¨è¾ºã§æ¯æœˆè¡Œãªã‚ã‚Œã¦ã„ã‚‹ã€æ±äº¬ã‚¨ãƒªã‚¢/é–¢è¥¿ã‚¨ãƒªã‚¢ Debian å‹‰å¼·ä¼šã€ã§ä½¿ç”¨
-ã•ã‚ŒãŸè³‡æ–™ãƒ»å°ãƒã‚¿ãƒ»å¿…æ®ºæŠ€ãªã©ã‚’åŠå¹´ã«ä¸€å›ä¸€å†Šã«ã¾ã¨ã‚ã¦ã„ã‚‹ã‚‚ã®ã§ã™ã€‚
-æœ‰å¿—ã§ç´™åª’ä½“ã«å°åˆ·ã—ã¦æœ‰å„Ÿã§é…å¸ƒã—ã¦ã„ã¾ã™ãŒã€PDFå½¢å¼ã§ã‚‚é…å¸ƒã—ã¦ãŠã‚Šã€
-ã“ã“ã‹ã‚‰ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰ã§ãã¾ã™ã€‚
+ËÜ½ñ¤Ï¡¢Åìµş¥¨¥ê¥¢¤ª¤è¤Ó´ØÀ¾¥¨¥ê¥¢¼şÊÕ¤ÇËè·î¹Ô¤Ê¤ï¤ì¤Æ¤¤¤ë¡ØÅìµş¥¨¥ê¥¢/´ØÀ¾¥¨¥ê¥¢ Debian ÊÙ¶¯²ñ¡Ù¤Ç»ÈÍÑ
+¤µ¤ì¤¿»ñÎÁ¡¦¾®¥Í¥¿¡¦É¬»¦µ»¤Ê¤É¤òÈ¾Ç¯¤Ë°ì²ó°ìºı¤Ë¤Ş¤È¤á¤Æ¤¤¤ë¤â¤Î¤Ç¤¹¡£
+Í­»Ö¤Ç»æÇŞÂÎ¤Ë°õºş¤·¤ÆÍ­½ş¤ÇÇÛÉÛ¤·¤Æ¤¤¤Ş¤¹¤¬¡¢PDF·Á¼°¤Ç¤âÇÛÉÛ¤·¤Æ¤ª¤ê¡¢
+¤³¤³¤«¤é¥À¥¦¥ó¥í¡¼¥É¤Ç¤­¤Ş¤¹¡£
 
-** 2016å¹´å†¬å·
+** 2016Ç¯Åß¹æ
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2016-fuyu.pdf][2016å¹´å†¬å·PDF]]
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2016-fuyu.pdf][2016Ç¯Åß¹æPDF]]
 
  - Introduction
- - Debianã§lxcã‚’ã‚»ãƒƒãƒˆã‚¢ãƒƒãƒ—ã—ã¦ã¿ã‚ˆã†
- - preseedã§Debianã‚’è‡ªå‹•ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã‚’ã—ã¦ã¿ã‚ˆã†
- - Let's Encrypt ã®ã‚¹ã‚¹ãƒ¡
- - OpenFOAM ã§æ•°å€¤æµä½“è§£æ
- - Debianãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã® â€œèª¬æ˜æ–‡â€ ã«ã¤ã„ã¦
+ - Debian¤Çlxc¤ò¥»¥Ã¥È¥¢¥Ã¥×¤·¤Æ¤ß¤è¤¦
+ - preseed¤ÇDebian¤ò¼«Æ°¥¤¥ó¥¹¥È¡¼¥ë¤ò¤·¤Æ¤ß¤è¤¦
+ - Let's Encrypt ¤Î¥¹¥¹¥á
+ - OpenFOAM ¤Ç¿ôÃÍÎ®ÂÎ²òÀÏ
+ - Debian¥Ñ¥Ã¥±¡¼¥¸¤Î ¡ÈÀâÌÀÊ¸¡É ¤Ë¤Ä¤¤¤Æ
  - go-apt-cacher/mirror
- - sbuild ã¨ debci ã‚’è§¦ã£ã¦ã¿ãŸ
- - debexpo(mentors.d.n)ã‚’ãƒãƒƒã‚¯ã™ã‚‹ã«ã¯
- - dh\_strip\_nondeterminism ã«ã¤ã„ã¦
- - DEP5/Machine-readable debian/copyright å†è€ƒ
+ - sbuild ¤È debci ¤ò¿¨¤Ã¤Æ¤ß¤¿
+ - debexpo(mentors.d.n)¤ò¥Ï¥Ã¥¯¤¹¤ë¤Ë¤Ï
+ - dh\_strip\_nondeterminism ¤Ë¤Ä¤¤¤Æ
+ - DEP5/Machine-readable debian/copyright ºÆ¹Í
  - Debian Trivia Quiz
- - Debian Trivia Quiz å•é¡Œå›ç­”
+ - Debian Trivia Quiz ÌäÂê²óÅú
 
-** 2016å¹´å¤å·
+** 2016Ç¯²Æ¹æ
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2016-natsu.pdf][2016å¹´å¤å·PDF]] 
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2016-natsu.pdf][2016Ç¯²Æ¹æPDF]] 
 
  - Introduction
- - systemdã«æµ¸ã£ã¦ã¿ãŸ
- - Debian GNU/Linux ä¸Šã§ã®çœé›»åŠ›è¨­å®šã«ã¤ã„ã¦
- - LibreOfficeã®æœ€è¿‘ã®å‹•å‘ã¨Debianã§ã®LibreOfficeãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã«ã¤ã„ã¦
- - Debian ãƒ¢ãƒã‚¤ãƒ« wifi ãƒ«ãƒ¼ã‚¿åŒ–
- - VyOSã‚’å…¥ã‚Œã¦APã‚’æ§‹ç¯‰ã—ã¦ã¿ãŸã€‚
- - Buffalo Linkstation å‘ã‘ Debian Installer
- - tilegxã¨ã„ã†CPUã‚¢ãƒ¼ã‚­ãƒ†ã‚¯ãƒãƒ£å‘ã‘ã®Debianãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ç§»æ¤
- - Debianã®ç§»æ¤ä½œæ¥­ç”¨ã®ã‚¤ãƒ³ãƒ•ãƒ©ã‚’å€Ÿã‚Šã‚‹ã«ã¯
- - Debianã§ã€Linux ftraceã¾ã‚ã‚Šã‚’ã„ã˜ã£ã¦ã¿ãŸ
- - å‹‰å¼·ä¼šè³‡æ–™ã®æ­©ãæ–¹
+ - systemd¤Ë¿»¤Ã¤Æ¤ß¤¿
+ - Debian GNU/Linux ¾å¤Ç¤Î¾ÊÅÅÎÏÀßÄê¤Ë¤Ä¤¤¤Æ
+ - LibreOffice¤ÎºÇ¶á¤ÎÆ°¸ş¤ÈDebian¤Ç¤ÎLibreOffice¥Ñ¥Ã¥±¡¼¥¸¤Ë¤Ä¤¤¤Æ
+ - Debian ¥â¥Ğ¥¤¥ë wifi ¥ë¡¼¥¿²½
+ - VyOS¤òÆş¤ì¤ÆAP¤ò¹½ÃÛ¤·¤Æ¤ß¤¿¡£
+ - Buffalo Linkstation ¸ş¤± Debian Installer
+ - tilegx¤È¤¤¤¦CPU¥¢¡¼¥­¥Æ¥¯¥Á¥ã¸ş¤±¤ÎDebian¥Ñ¥Ã¥±¡¼¥¸°Ü¿¢
+ - Debian¤Î°Ü¿¢ºî¶ÈÍÑ¤Î¥¤¥ó¥Õ¥é¤ò¼Ú¤ê¤ë¤Ë¤Ï
+ - Debian¤Ç¡¢Linux ftrace¤Ş¤ï¤ê¤ò¤¤¤¸¤Ã¤Æ¤ß¤¿
+ - ÊÙ¶¯²ñ»ñÎÁ¤ÎÊâ¤­Êı
  - Debian Trivia Quiz
- - Debian Trivia Quiz å•é¡Œå›ç­”
+ - Debian Trivia Quiz ÌäÂê²óÅú
 
-** 2015å¹´å†¬å·
+** 2015Ç¯Åß¹æ
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2015-fuyu.pdf][2015å¹´å†¬å·PDF]]
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2015-fuyu.pdf][2015Ç¯Åß¹æPDF]]
 
  - Introduction
  - Debian update
- - Debianã¨è„†å¼±æ€§å¯¾å¿œã®ã‚ã‚Œã“ã‚Œã‚’ã¾ã¨ã‚ã¦ã¿ãŸ
- - Debian GNU/kFreeBSD ã‚»ãƒƒãƒˆã‚¢ãƒƒãƒ—ã‚¬ã‚¤ãƒ‰ 2015å¹´ç‰ˆ
- - APT1.1 è¶…â˜†ç‰›ã•ã‚“ãƒ‘ãƒ¯ãƒ¼ç‚¸è£‚!
- - Debianã§HTTP/2ã‚’è©¦ã™
- - NTT ãƒ•ãƒ¬ãƒƒãƒ„ç¶²çµŒç”±ã§Native IPv6
+ - Debian¤ÈÀÈ¼åÀ­ÂĞ±ş¤Î¤¢¤ì¤³¤ì¤ò¤Ş¤È¤á¤Æ¤ß¤¿
+ - Debian GNU/kFreeBSD ¥»¥Ã¥È¥¢¥Ã¥×¥¬¥¤¥É 2015Ç¯ÈÇ
+ - APT1.1 Ä¶¡ùµí¤µ¤ó¥Ñ¥ï¡¼ßÚÎö!
+ - Debian¤ÇHTTP/2¤ò»î¤¹
+ - NTT ¥Õ¥ì¥Ã¥ÄÌÖ·ĞÍ³¤ÇNative IPv6
  - wiki:Subkeys
- - DebConf15 ãƒ“ãƒ‡ã‚ªç´¹ä»‹
- - Debian ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ãƒ³ã‚°é“å ´ git buildpackageã®ä½¿ã„æ–¹
+ - DebConf15 ¥Ó¥Ç¥ª¾Ò²ğ
+ - Debian ¥Ñ¥Ã¥±¡¼¥¸¥ó¥°Æ»¾ì git buildpackage¤Î»È¤¤Êı
  - Debian Trivia Quiz
- - Debian Trivia Quiz å•é¡Œå›ç­”
+ - Debian Trivia Quiz ÌäÂê²óÅú
 
-** 2015å¹´å¤å·
+** 2015Ç¯²Æ¹æ
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2015-natsu.pdf][2015å¹´å¤å·PDF]] 
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2015-natsu.pdf][2015Ç¯²Æ¹æPDF]] 
 
  - Introduction
- - Wheezy ã‹ã‚‰ Jessie ã¾ã§
- - Debian ã‹ã‚‰ã¿ãŸ Linux Mint
- - Raspberry Pi 2 Model B ã« Debian Jessie / armhf ã‚’ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã™ã‚‹
- - è‡ªç„¶è¨€èªå‡¦ç†ãƒãƒ¼ãƒ (pkg-nlp-ja)ã¨ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸
- - .debã‹ã‚‰ Python ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã¸ã®å¤‰é·
- - Emacs é–¢é€£ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã® Debian ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ä½œæˆ
- - Debian GNU/kFreeBSD ã«ãŠã‘ã‚‹ Jail æ§‹ç¯‰ã‚’è©¦ã—ã¦ã¿ãŸ
- - DPN ã§æŒ¯ã‚Šè¿”ã‚‹ 2014
- - 2014 å¹´ã®æŒ¯ã‚Šè¿”ã‚Šã¨ 2015 å¹´ã®ä¼ç”»
+ - Wheezy ¤«¤é Jessie ¤Ş¤Ç
+ - Debian ¤«¤é¤ß¤¿ Linux Mint
+ - Raspberry Pi 2 Model B ¤Ë Debian Jessie / armhf ¤ò¥¤¥ó¥¹¥È¡¼¥ë¤¹¤ë
+ - ¼«Á³¸À¸ì½èÍı¥Á¡¼¥à(pkg-nlp-ja)¤È¥Ñ¥Ã¥±¡¼¥¸
+ - .deb¤«¤é Python ¥Ñ¥Ã¥±¡¼¥¸¤Ø¤ÎÊÑÁ«
+ - Emacs ´ØÏ¢¥Ñ¥Ã¥±¡¼¥¸¤Î Debian ¥Ñ¥Ã¥±¡¼¥¸ºîÀ®
+ - Debian GNU/kFreeBSD ¤Ë¤ª¤±¤ë Jail ¹½ÃÛ¤ò»î¤·¤Æ¤ß¤¿
+ - DPN ¤Ç¿¶¤êÊÖ¤ë 2014
+ - 2014 Ç¯¤Î¿¶¤êÊÖ¤ê¤È 2015 Ç¯¤Î´ë²è
  - Debian Trivia Quiz
- - Debian Trivia Quiz å•é¡Œå›ç­”
+ - Debian Trivia Quiz ÌäÂê²óÅú
 
-** 2014å¹´å†¬å·
+** 2014Ç¯Åß¹æ
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2014-fuyu.pdf][2014å¹´å†¬å·PDF]] 
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2014-fuyu.pdf][2014Ç¯Åß¹æPDF]] 
 
  - Introduction
  - Debian Updates
- - Debian ã§ã® systemd ã¨ã®ã¤ãã‚ã„æ–¹
+ - Debian ¤Ç¤Î systemd ¤È¤Î¤Ä¤­¤¢¤¤Êı
  - Debian x LibreOffice
- - Debian ã‹ã‚‰ã¿ãŸ Arch Linux
- - Debian ã§ã‚¿ã‚¤ãƒ«ãƒãƒƒãƒ—ã‚µãƒ¼ãƒ“ã‚¹ä½œã£ã¦ã¿ãŸ
- - Linux ã®ãƒ‰ãƒ©ã‚¤ãƒãƒ¡ãƒ³ãƒ†ãƒŠã«ãªã£ãŸä½“é¨“è¨˜
- - GPG ç§˜å¯†éµå–ã‚Šæ‰±ã„æ–¹æ³•ã®ææ¡ˆ
- - Jenkins ã§ã® Debian ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸è‡ªå‹•åŒ–
- - DebConf14 ã®ãƒ“ãƒ‡ã‚ªç´¹ä»‹
+ - Debian ¤«¤é¤ß¤¿ Arch Linux
+ - Debian ¤Ç¥¿¥¤¥ë¥Ş¥Ã¥×¥µ¡¼¥Ó¥¹ºî¤Ã¤Æ¤ß¤¿
+ - Linux ¤Î¥É¥é¥¤¥Ğ¥á¥ó¥Æ¥Ê¤Ë¤Ê¤Ã¤¿ÂÎ¸³µ­
+ - GPG ÈëÌ©¸°¼è¤ê°·¤¤ÊıË¡¤ÎÄó°Æ
+ - Jenkins ¤Ç¤Î Debian ¥Ñ¥Ã¥±¡¼¥¸¼«Æ°²½
+ - DebConf14 ¤Î¥Ó¥Ç¥ª¾Ò²ğ
  - Debian Trivia Quiz
- - Debian Trivia Quiz å•é¡Œå›ç­”
+ - Debian Trivia Quiz ÌäÂê²óÅú
 
-** 2014å¹´å¤å·
+** 2014Ç¯²Æ¹æ
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2014-natsu.pdf][2014å¹´å¤å·PDF]] 
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2014-natsu.pdf][2014Ç¯²Æ¹æPDF]] 
 
  - Introduction
  - Debian GNU/Hurd 2013
  - Debian Pure Blend
- - debian ã§ docker.io
- - Debian ã§ dnsmasq ã‚’ä½¿ã†
- - Debian ã§ iphone5 ã‚’ç¹‹ã
- - è‡ªå®…ã‚µãƒ¼ãƒã« KVM ã‚’å°å…¥ã—ã¦ã¿ã‚ˆã†
- - Golang ã§æ›¸ã‹ã‚ŒãŸãƒ„ãƒ¼ãƒ«ã‚’ Debian ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã«ã™ã‚‹
+ - debian ¤Ç docker.io
+ - Debian ¤Ç dnsmasq ¤ò»È¤¦
+ - Debian ¤Ç iphone5 ¤ò·Ò¤°
+ - ¼«Âğ¥µ¡¼¥Ğ¤Ë KVM ¤òÆ³Æş¤·¤Æ¤ß¤è¤¦
+ - Golang ¤Ç½ñ¤«¤ì¤¿¥Ä¡¼¥ë¤ò Debian ¥Ñ¥Ã¥±¡¼¥¸¤Ë¤¹¤ë
  - Debian Trivia Quiz
- - Debian Trivia Quiz å•é¡Œå›ç­”
+ - Debian Trivia Quiz ÌäÂê²óÅú
 
-** 2013å¹´å†¬å·
+** 2013Ç¯Åß¹æ
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2013-fuyu.pdf][2013å¹´å†¬å·PDF]] 
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2013-fuyu.pdf][2013Ç¯Åß¹æPDF]] 
 
  - Introduction
  - Debian topic update
- - git-buildpackage å…¥é–€ again
+ - git-buildpackage ÆşÌç again
  - raspbian on raspberry pi
- - Debian linux kernel / armmp ãƒ•ãƒ¬ãƒ¼ãƒ
- - puppet ã«ã‚ˆã‚‹æ§‹æˆç®¡ç†ã®å®Ÿè·µ
- - tramp å…¥é–€
- - Linux ã¨ã‚µã‚¦ãƒ³ãƒ‰ã‚·ã‚¹ãƒ†ãƒ 
- - ALSAã® ãƒ¦ãƒ¼ã‚¶ãƒ¼ãƒ©ãƒ³ãƒ‰è§£èª¬
- - OpenVPN ã‚’ä½¿ã£ã¦ã¿ãŸ
- - wayland ã‚’å‹•ã‹ã™
- - æœˆåˆŠ Debhelper dh_strip
- - Debian å‹‰å¼·ä¼šã®è³‡æ–™ã® ePUB åŒ–ã‚’è©¦ã¿ãŸ
+ - Debian linux kernel / armmp ¥Õ¥ì¡¼¥Ğ
+ - puppet ¤Ë¤è¤ë¹½À®´ÉÍı¤Î¼ÂÁ©
+ - tramp ÆşÌç
+ - Linux ¤È¥µ¥¦¥ó¥É¥·¥¹¥Æ¥à
+ - ALSA¤Î ¥æ¡¼¥¶¡¼¥é¥ó¥É²òÀâ
+ - OpenVPN ¤ò»È¤Ã¤Æ¤ß¤¿
+ - wayland ¤òÆ°¤«¤¹
+ - ·î´© Debhelper dh_strip
+ - Debian ÊÙ¶¯²ñ¤Î»ñÎÁ¤Î ePUB ²½¤ò»î¤ß¤¿
  - Debian Trivia Quiz
- - Debian Trivia Quiz å•é¡Œå›ç­”
+ - Debian Trivia Quiz ÌäÂê²óÅú
 
-** 2013å¹´å¤å·
+** 2013Ç¯²Æ¹æ
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2013-natsu.pdf][2013å¹´å¤å·PDF]] 
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2013-natsu.pdf][2013Ç¯²Æ¹æPDF]] 
 
  - Introduction
- - Debian ã¨ Ubuntu ã®é•ã„ã‚’çŸ¥ã‚ã†
- - ãƒªãƒªãƒ¼ã‚¹ãƒãƒ¼ãƒˆã‚’èª­ã‚“ã§ã¿ã‚ˆã†
- - Android ç«¯æœ« ï¼ˆAsus Transformer TF201ï¼‰ ã¸ã® Debian ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«å¥®é—˜è¨˜
- - ã‚¯ãƒ©ã‚¦ãƒ‰åˆå¿ƒè€…ãŒ AWS ã« Debian ã‚’ã®ã£ã‘ã¦ç¿»è¨³ã‚µãƒ¼ãƒ“ã‚¹ã®è©¦è¡Œã«æŒ‘æˆ¦ã—ã¦ã¿ãŸ
- - Debian Installer ãƒˆãƒ©ãƒ–ãƒ«ã‚·ãƒ¥ãƒ¼ãƒ†ã‚£ãƒ³ã‚°
- - Debian æ—¥æœ¬èªå…¥åŠ›ã®é¸æŠè‚¢: im-config é–¢é€£
- - debootstrap ã‚’æœ‰åŠ¹æ´»ç”¨ã—ã¦ã¿ã‚ˆã†
- - Using Drupal on Debian âˆ’ CMS ã‹ã‚‰å…¥ã£ãŸäººã® Debian ä½“é¨“
- - ldapvi &amp python-ldap ã§ stress-free life
- - Samba ã§ Linux ã®èªè¨¼ã‚’ Windows ã«çµ±åˆã—ã¦ã¿ãŸã‚Š
+ - Debian ¤È Ubuntu ¤Î°ã¤¤¤òÃÎ¤í¤¦
+ - ¥ê¥ê¡¼¥¹¥Î¡¼¥È¤òÆÉ¤ó¤Ç¤ß¤è¤¦
+ - Android Ã¼Ëö ¡ÊAsus Transformer TF201¡Ë ¤Ø¤Î Debian ¥¤¥ó¥¹¥È¡¼¥ëÊ³Æ®µ­
+ - ¥¯¥é¥¦¥É½é¿´¼Ô¤¬ AWS ¤Ë Debian ¤ò¤Î¤Ã¤±¤ÆËİÌõ¥µ¡¼¥Ó¥¹¤Î»î¹Ô¤ËÄ©Àï¤·¤Æ¤ß¤¿
+ - Debian Installer ¥È¥é¥Ö¥ë¥·¥å¡¼¥Æ¥£¥ó¥°
+ - Debian ÆüËÜ¸ìÆşÎÏ¤ÎÁªÂò»è: im-config ´ØÏ¢
+ - debootstrap ¤òÍ­¸ú³èÍÑ¤·¤Æ¤ß¤è¤¦
+ - Using Drupal on Debian ¡İ CMS ¤«¤éÆş¤Ã¤¿¿Í¤Î Debian ÂÎ¸³
+ - ldapvi &amp python-ldap ¤Ç stress-free life
+ - Samba ¤Ç Linux ¤ÎÇ§¾Ú¤ò Windows ¤ËÅı¹ç¤·¤Æ¤ß¤¿¤ê
  - Ruby In Wheezy
- - gdb python æ‹¡å¼µ ãã® 1
- - æ—¥æœ¬ã«ãŠã‘ã‚‹ DFSG ã®æ±‚ã‚ã‚‹è‡ªç”±ã¨ ï¼’ï¼ï¼‘ï¼’ å¹´æ”¹æ­£è‘—ä½œæ¨©æ³•
- - æœˆåˆŠ Debian Policy ã€Œãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ç®¡ç†ã‚¹ã‚¯ãƒªãƒ—ãƒˆã¨ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã®æ‰‹é †ã€
- - æœˆåˆŠ Debian Policy ã€Œã‚ªãƒšãƒ¬ãƒ¼ãƒ†ã‚£ãƒ³ã‚°ã‚·ã‚¹ãƒ†ãƒ ã€ãã®1
- - æœˆåˆŠDebhelper dh_auto_install dh_install
- - æœˆåˆŠDebhelper dh_gencontrol dh_listpackages
- - æ±äº¬ã‚¨ãƒªã‚¢ Debian å‹‰å¼·ä¼šè³‡æ–™ã®æº–å‚™ã®æ–¹æ³•
- - Debian å‹‰å¼·ä¼šäºˆç´„ã‚·ã‚¹ãƒ†ãƒ å¤‰æ›´å±¥æ­´
- - Debian å‹‰å¼·ä¼šäºˆç´„ã‚·ã‚¹ãƒ†ãƒ ã‚¢ãƒ³ã‚±ãƒ¼ãƒˆé›†è¨ˆ
- - 2012 å¹´ã®æŒ¯ã‚Šè¿”ã‚Šã¨ 2013 å¹´ã®ä¼ç”»
- - 2012 å¹´åº¦æ±äº¬ã‚¨ãƒªã‚¢ Debian å‹‰å¼·ä¼šã®æŒ¯ã‚Šè¿”ã‚Š
- - Debian å‹‰å¼·ä¼š 2013 å¹´åº¦è¨ˆç”»
+ - gdb python ³ÈÄ¥ ¤½¤Î 1
+ - ÆüËÜ¤Ë¤ª¤±¤ë DFSG ¤Îµá¤á¤ë¼«Í³¤È £²£°£±£² Ç¯²şÀµÃøºî¸¢Ë¡
+ - ·î´© Debian Policy ¡Ö¥Ñ¥Ã¥±¡¼¥¸´ÉÍı¥¹¥¯¥ê¥×¥È¤È¥¤¥ó¥¹¥È¡¼¥ë¤Î¼ê½ç¡×
+ - ·î´© Debian Policy ¡Ö¥ª¥Ú¥ì¡¼¥Æ¥£¥ó¥°¥·¥¹¥Æ¥à¡×¤½¤Î1
+ - ·î´©Debhelper dh_auto_install dh_install
+ - ·î´©Debhelper dh_gencontrol dh_listpackages
+ - Åìµş¥¨¥ê¥¢ Debian ÊÙ¶¯²ñ»ñÎÁ¤Î½àÈ÷¤ÎÊıË¡
+ - Debian ÊÙ¶¯²ñÍ½Ìó¥·¥¹¥Æ¥àÊÑ¹¹ÍúÎò
+ - Debian ÊÙ¶¯²ñÍ½Ìó¥·¥¹¥Æ¥à¥¢¥ó¥±¡¼¥È½¸·×
+ - 2012 Ç¯¤Î¿¶¤êÊÖ¤ê¤È 2013 Ç¯¤Î´ë²è
+ - 2012 Ç¯ÅÙÅìµş¥¨¥ê¥¢ Debian ÊÙ¶¯²ñ¤Î¿¶¤êÊÖ¤ê
+ - Debian ÊÙ¶¯²ñ 2013 Ç¯ÅÙ·×²è
  - Debian Trivia Quiz
- - Debian Trivia Quiz å•é¡Œå›ç­”
+ - Debian Trivia Quiz ÌäÂê²óÅú
 
-** 2012å¹´å†¬å·
+** 2012Ç¯Åß¹æ
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2012-fuyu.pdf][2012å¹´å†¬å·PDF]] 
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2012-fuyu.pdf][2012Ç¯Åß¹æPDF]] 
 
  - Introduction
- - MacBook Air 4,1 (Mid 2011) ã« Debian ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã—ã¦ã¿ãŸ
+ - MacBook Air 4,1 (Mid 2011) ¤Ë Debian ¥¤¥ó¥¹¥È¡¼¥ë¤·¤Æ¤ß¤¿
  - xserver-xorg-input-mtrack
- - ãƒ¬ã‚´ã§ãªã‚ã“åç©«æ©Ÿã‚’ä½œã£ã¦ã¿ãŸ
- - Android æºå¸¯ã§ Bluetooth Tethering
- - perf ã§ãƒ‘ãƒ•ã‚©ãƒ¼ãƒãƒ³ã‚¹ãƒãƒ¥ãƒ¼ãƒ‹ãƒ³ã‚°
+ - ¥ì¥´¤Ç¤Ê¤á¤³¼ı³Ïµ¡¤òºî¤Ã¤Æ¤ß¤¿
+ - Android ·ÈÂÓ¤Ç Bluetooth Tethering
+ - perf ¤Ç¥Ñ¥Õ¥©¡¼¥Ş¥ó¥¹¥Á¥å¡¼¥Ë¥ó¥°
  - systemd
- - Debian ã§ä½œã‚‹ LDAP ã‚µãƒ¼ãƒ
- - Debian ã§ã¯ã˜ã‚ã‚‹ Kerberos èªè¨¼
- - Debian ã§ã® C++11 é–‹ç™ºç’°å¢ƒ
- - clang ã«ã‚ˆã‚‹ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ãƒ“ãƒ«ãƒ‰
- - Haskell ã® Debian packaging
- - åŸºæœ¬çš„ãªãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã®ä½œæˆæ–¹æ³•æ‰‹å¼•æ›¸
- - æœ€æ–°ã®ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ãƒ³ã‚°äº‹æƒ…ã®èª¬æ˜ã¨ä½¿ã„æ–¹
- - æœˆåˆŠ Debhelper dh_makeshlibs,dh_shlibdeps
- - æœˆåˆŠ Debian Policy ç¬¬5å› ã€Œã‚½ãƒ¼ã‚¹ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã€
- - æœˆåˆŠ Debian Policy ç¬¬6å› ã€Œæ–‡æ›¸ã€
- - ã‚½ãƒ•ãƒˆé–‹ç™ºä»¥å¤–ã®ç°¡å˜ Debian contribution
- - æœ¬æ°—ã§ ``ä½¿ãˆã‚‹'' ç¿»è¨³ç’°å¢ƒã‚’æ§‹ç¯‰ã—ã¦ã¿ãŸ
- - Debian ã‚»ã‚­ãƒ¥ãƒªãƒ†ã‚£å‹§å‘Šç¿»è¨³ã®èˆå°è£
- - å¤§çµ±ä¸€ Debian å‹‰å¼·ä¼š 2012 å‚åŠ å ±å‘Š
- - Debian Conference 2012å‚åŠ å ±å‘Š
+ - Debian ¤Çºî¤ë LDAP ¥µ¡¼¥Ğ
+ - Debian ¤Ç¤Ï¤¸¤á¤ë Kerberos Ç§¾Ú
+ - Debian ¤Ç¤Î C++11 ³«È¯´Ä¶­
+ - clang ¤Ë¤è¤ë¥Ñ¥Ã¥±¡¼¥¸¥Ó¥ë¥É
+ - Haskell ¤Î Debian packaging
+ - ´ğËÜÅª¤Ê¥Ñ¥Ã¥±¡¼¥¸¤ÎºîÀ®ÊıË¡¼ê°ú½ñ
+ - ºÇ¿·¤Î¥Ñ¥Ã¥±¡¼¥¸¥ó¥°»ö¾ğ¤ÎÀâÌÀ¤È»È¤¤Êı
+ - ·î´© Debhelper dh_makeshlibs,dh_shlibdeps
+ - ·î´© Debian Policy Âè5²ó ¡Ö¥½¡¼¥¹¥Ñ¥Ã¥±¡¼¥¸¡×
+ - ·î´© Debian Policy Âè6²ó ¡ÖÊ¸½ñ¡×
+ - ¥½¥Õ¥È³«È¯°Ê³°¤Î´ÊÃ± Debian contribution
+ - ËÜµ¤¤Ç ``»È¤¨¤ë'' ËİÌõ´Ä¶­¤ò¹½ÃÛ¤·¤Æ¤ß¤¿
+ - Debian ¥»¥­¥å¥ê¥Æ¥£´«¹ğËİÌõ¤ÎÉñÂæÎ¢
+ - ÂçÅı°ì Debian ÊÙ¶¯²ñ 2012 »²²ÃÊó¹ğ
+ - Debian Conference 2012»²²ÃÊó¹ğ
  - Debian Trivia Quiz
- - Debian Trivia Quiz å•é¡Œå›ç­”
+ - Debian Trivia Quiz ÌäÂê²óÅú
 
-** 2012å¹´å¤å·
+** 2012Ç¯²Æ¹æ
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2012-natsu.pdf][2012å¹´å¤å·PDF]] 
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2012-natsu.pdf][2012Ç¯²Æ¹æPDF]] 
 
  - Introduction
  - TeXLive2011(2012/dev) in Debian
- - Linux-PAMã®è¨­å®šã«ã¤ã„ã¦
- - æ•°å­¦ã‚½ãƒ•ãƒˆã‚¦ã‚§ã‚¢ä½¿ã£ã¦ã¾ã™ã‹ï¼Ÿ
- - IPython notebookã¨ãã®å‘¨è¾º
- - Debianã¨LibreOffice
+ - Linux-PAM¤ÎÀßÄê¤Ë¤Ä¤¤¤Æ
+ - ¿ô³Ø¥½¥Õ¥È¥¦¥§¥¢»È¤Ã¤Æ¤Ş¤¹¤«¡©
+ - IPython notebook¤È¤½¤Î¼şÊÕ
+ - Debian¤ÈLibreOffice
  - debug.debian.net
- - Rabbit: æ™‚é–“å†…ã«çµ‚ã‚ã‚Œã‚‹ãƒ—ãƒ¬ã‚¼ãƒ³ãƒ„ãƒ¼ãƒ«
- - U-Bootã«ã¤ã„ã¦ã‚ã‚Œã“ã‚Œ
+ - Rabbit: »ş´ÖÆâ¤Ë½ª¤ï¤ì¤ë¥×¥ì¥¼¥ó¥Ä¡¼¥ë
+ - U-Boot¤Ë¤Ä¤¤¤Æ¤¢¤ì¤³¤ì
  - Debian Multiarch Support
- - å®¶åº­å†…LANã‚’é«˜é€Ÿã«ï¼ - InfiniBand on Debian
+ - ²ÈÄíÆâLAN¤ò¹âÂ®¤Ë¡ª - InfiniBand on Debian
  - Gentoo/Prefix on Debian
- - Debianã§ã‚‚ãƒãƒ«ãƒã‚¿ãƒƒãƒãƒ‡ãƒã‚¤ã‚¹ã‚’ä½¿ã†
- - æ±äº¬ã‚¨ãƒªã‚¢Debianå‹‰å¼·ä¼š 2011å¹´ã®æŒ¯ã‚Šè¿”ã‚Š
- - é–¢è¥¿Debianå‹‰å¼·ä¼š 2011å¹´ã®æŒ¯ã‚Šè¿”ã‚Šã¨2012å¹´ã®ä¼ç”»
- - æ±äº¬ã‚¨ãƒªã‚¢Debianå‹‰å¼·ä¼šã®é–‹å‚¬æ–¹æ³•
- - Debianå‹‰å¼·ä¼šäºˆç´„ã‚·ã‚¹ãƒ†ãƒ å†è¨ª
- - quiltã§portingã—ã¦ã¿ãŸ
- - Debianã®ä½¿ãˆã‚‹VPSã‚’ä½¿ã£ã¦ã¿ãŸ
- - Debianã§twitteré€£æº
- - æœˆåˆŠdebhelper ç¬¬2å›
- - æœˆåˆŠdebhelper ç¬¬3å›
- - æœˆåˆŠdebhelper ç¬¬4å›
- - æœˆåˆŠdebhelper ç¬¬5å›
- - Debiané–‹ç™ºè€…ã®KDEç’°å¢ƒã‚ã‚Œã“ã‚Œ
- - CMakeã‚’ä½¿ã£ã¦ã¿ã‚‹
- - Apache2 / HTTP ã‚µãƒ¼ãƒã‹ã‚‰å§‹ã‚ã‚‹ Debian
- - Debian ã§ã® node å…¥é–€
- - Androidæ©Ÿã§Debian
- - Pythonåˆå¿ƒè€…ãŒ ã€ŒPython ãƒ—ãƒ­ãƒ•ã‚§ãƒƒã‚·ãƒ§ãƒŠãƒ«ãƒ—ãƒ­ã‚°ãƒ©ãƒŸãƒ³ã‚°ã€ ã‚’èª­ã‚“ã§ã¿ãŸ
- - CoffeeScriptã‚’ä½¿ã£ã¦ã¿ãŸ
+ - Debian¤Ç¤â¥Ş¥ë¥Á¥¿¥Ã¥Á¥Ç¥Ğ¥¤¥¹¤ò»È¤¦
+ - Åìµş¥¨¥ê¥¢DebianÊÙ¶¯²ñ 2011Ç¯¤Î¿¶¤êÊÖ¤ê
+ - ´ØÀ¾DebianÊÙ¶¯²ñ 2011Ç¯¤Î¿¶¤êÊÖ¤ê¤È2012Ç¯¤Î´ë²è
+ - Åìµş¥¨¥ê¥¢DebianÊÙ¶¯²ñ¤Î³«ºÅÊıË¡
+ - DebianÊÙ¶¯²ñÍ½Ìó¥·¥¹¥Æ¥àºÆË¬
+ - quilt¤Çporting¤·¤Æ¤ß¤¿
+ - Debian¤Î»È¤¨¤ëVPS¤ò»È¤Ã¤Æ¤ß¤¿
+ - Debian¤ÇtwitterÏ¢·È
+ - ·î´©debhelper Âè2²ó
+ - ·î´©debhelper Âè3²ó
+ - ·î´©debhelper Âè4²ó
+ - ·î´©debhelper Âè5²ó
+ - Debian³«È¯¼Ô¤ÎKDE´Ä¶­¤¢¤ì¤³¤ì
+ - CMake¤ò»È¤Ã¤Æ¤ß¤ë
+ - Apache2 / HTTP ¥µ¡¼¥Ğ¤«¤é»Ï¤á¤ë Debian
+ - Debian ¤Ç¤Î node ÆşÌç
+ - Androidµ¡¤ÇDebian
+ - Python½é¿´¼Ô¤¬ ¡ÖPython ¥×¥í¥Õ¥§¥Ã¥·¥ç¥Ê¥ë¥×¥í¥°¥é¥ß¥ó¥°¡× ¤òÆÉ¤ó¤Ç¤ß¤¿
+ - CoffeeScript¤ò»È¤Ã¤Æ¤ß¤¿
  - Dynamic Kernel Module Support Framework
- - ã•ããŒ(ry NM å¡¾
- - ãƒ•ãƒªãƒ¼ã‚½ãƒ•ãƒˆã‚¦ã‚§ã‚¢ã¨æˆ¯ã‚Œã‚‹ãŸã‚ã®è‘—ä½œæ¨©å…¥é–€
- - ITP ã‹ã‚‰å§‹ã‚ã‚‹ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ãƒ¡ãƒ³ãƒ†ãƒŠã¸ã®é“
- - t-code ã®ãƒã‚°ãƒ¬ãƒãƒ¼ãƒˆã‚’ã—ã¦ã¿ãŸ
- - emacs24ã§å•é¡Œãªãä½¿ãˆã‚‹ t-code.deb ã‚’ä½œã£ãŸè©±
- - æœˆåˆŠ t-code ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ä¿®æ­£
- - ã‚¹ã‚¯ãƒªãƒ—ãƒ†ã‚£ãƒ³ã‚°è¨€èª Konoha ã® Debian ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸åŒ–ã«ã¤ã„ã¦ ãã®ï¼‘
- - ã‚¹ã‚¯ãƒªãƒ—ãƒ†ã‚£ãƒ³ã‚°è¨€èª Konoha ã® Debian ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸åŒ–ã«ã¤ã„ã¦ ãã®ï¼’
- - æœˆåˆŠ Debian Policy ç¬¬1å›ã€Œãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã®ä¾å­˜é–¢ä¿‚ã«ã¤ã„ã¦ã®ãƒ«ãƒ¼ãƒ«ã€
- - æœˆåˆŠ Debian Policy ç¬¬2å› ã€ŒControlãƒ•ã‚¡ã‚¤ãƒ«ã«ã¤ã„ã¦ ã€
- - æœˆåˆŠ Debian Policy ç¬¬3å› ã€ŒDebian ã‚¢ãƒ¼ã‚«ã‚¤ãƒ–ã€
- - æœˆåˆŠ Debian Policy ç¬¬4å› ã€Œãƒã‚¤ãƒŠãƒªãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã€
+ - ¤µ¤­¤¬(ry NM ½Î
+ - ¥Õ¥ê¡¼¥½¥Õ¥È¥¦¥§¥¢¤Èµº¤ì¤ë¤¿¤á¤ÎÃøºî¸¢ÆşÌç
+ - ITP ¤«¤é»Ï¤á¤ë¥Ñ¥Ã¥±¡¼¥¸¥á¥ó¥Æ¥Ê¤Ø¤ÎÆ»
+ - t-code ¤Î¥Ğ¥°¥ì¥İ¡¼¥È¤ò¤·¤Æ¤ß¤¿
+ - emacs24¤ÇÌäÂê¤Ê¤¯»È¤¨¤ë t-code.deb ¤òºî¤Ã¤¿ÏÃ
+ - ·î´© t-code ¥Ñ¥Ã¥±¡¼¥¸½¤Àµ
+ - ¥¹¥¯¥ê¥×¥Æ¥£¥ó¥°¸À¸ì Konoha ¤Î Debian ¥Ñ¥Ã¥±¡¼¥¸²½¤Ë¤Ä¤¤¤Æ ¤½¤Î£±
+ - ¥¹¥¯¥ê¥×¥Æ¥£¥ó¥°¸À¸ì Konoha ¤Î Debian ¥Ñ¥Ã¥±¡¼¥¸²½¤Ë¤Ä¤¤¤Æ ¤½¤Î£²
+ - ·î´© Debian Policy Âè1²ó¡Ö¥Ñ¥Ã¥±¡¼¥¸¤Î°ÍÂ¸´Ø·¸¤Ë¤Ä¤¤¤Æ¤Î¥ë¡¼¥ë¡×
+ - ·î´© Debian Policy Âè2²ó ¡ÖControl¥Õ¥¡¥¤¥ë¤Ë¤Ä¤¤¤Æ ¡×
+ - ·î´© Debian Policy Âè3²ó ¡ÖDebian ¥¢¡¼¥«¥¤¥Ö¡×
+ - ·î´© Debian Policy Âè4²ó ¡Ö¥Ğ¥¤¥Ê¥ê¥Ñ¥Ã¥±¡¼¥¸¡×
  - Debian Trivia Quiz
- - Debian Trivia Quiz å•é¡Œå›ç­”
+ - Debian Trivia Quiz ÌäÂê²óÅú
 
-** 2011å¹´å†¬å·
+** 2011Ç¯Åß¹æ
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2011-fuyu.pdf][2011å¹´å†¬å·PDF]] 
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2011-fuyu.pdf][2011Ç¯Åß¹æPDF]] 
 
  - Introduction
- - Debian ã¨ã¯ãªã«ã‹ï¼Ÿ
- - ç¿»è¨³ã§ Debian ã«è²¢çŒ®ã—ã‚ˆã†
- - Debian JP å®šä¾‹ä¼šè­°å‡¦ç†ç³»ã«XSLTã‚’ä½¿ã£ã¦ã¿ãŸ
- - Debianã§Sphinxã¨Doxygenã‚’ä½¿ã£ã¦ã¿ãŸ
- - IPv6 ã®ãƒˆãƒ³ãƒãƒ«æ¥ç¶šã‚’è©¦ã—ã¦ã¿ãŸè©±
- - Haskellã¨Debianã®è¾›ãã¦ç”˜ã„é–¢ä¿‚
- - Emacs, Vim ã®æ‹¡å¼µæ©Ÿèƒ½ã§å­¦ã¶ Debian ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸
- - æœˆåˆŠ debhelper ç¬¬1å›
- - aufsbuilder - cowbuilderã«ãŸãŸã‹ã„ã‚’ã„ã©ã‚€
- - vcs-buildpackage: Gitã€svnç·¨
- - vcs-buildpackage: bzrã®å ´åˆ
- - vcs-buildpackage: Gitã®å ´åˆ (again)
- - ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã‚’ä½œã£ãŸã‚‰ã‚¹ãƒãƒ³ã‚µãƒ¼ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰
+ - Debian ¤È¤Ï¤Ê¤Ë¤«¡©
+ - ËİÌõ¤Ç Debian ¤Ë¹×¸¥¤·¤è¤¦
+ - Debian JP ÄêÎã²ñµÄ½èÍı·Ï¤ËXSLT¤ò»È¤Ã¤Æ¤ß¤¿
+ - Debian¤ÇSphinx¤ÈDoxygen¤ò»È¤Ã¤Æ¤ß¤¿
+ - IPv6 ¤Î¥È¥ó¥Í¥ëÀÜÂ³¤ò»î¤·¤Æ¤ß¤¿ÏÃ
+ - Haskell¤ÈDebian¤Î¿É¤¯¤Æ´Å¤¤´Ø·¸
+ - Emacs, Vim ¤Î³ÈÄ¥µ¡Ç½¤Ç³Ø¤Ö Debian ¥Ñ¥Ã¥±¡¼¥¸
+ - ·î´© debhelper Âè1²ó
+ - aufsbuilder - cowbuilder¤Ë¤¿¤¿¤«¤¤¤ò¤¤¤É¤à
+ - vcs-buildpackage: Git¡¢svnÊÔ
+ - vcs-buildpackage: bzr¤Î¾ì¹ç
+ - vcs-buildpackage: Git¤Î¾ì¹ç (again)
+ - ¥Ñ¥Ã¥±¡¼¥¸¤òºî¤Ã¤¿¤é¥¹¥İ¥ó¥µ¡¼¥¢¥Ã¥×¥í¡¼¥É
  - Debian Trivia Quiz
- - Debian Trivia Quiz å•é¡Œå›ç­”
+ - Debian Trivia Quiz ÌäÂê²óÅú
 
 
-** 2011å¹´å¤å·
+** 2011Ç¯²Æ¹æ
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2011-natsu.pdf][2011å¹´å¤å·PDF]] 
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2011-natsu.pdf][2011Ç¯²Æ¹æPDF]] 
 
- - ã€Œãƒ•ãƒªãƒ¼ã€ã£ã¦ã€ã©ã†ã„ã†ã“ã¨?
- - Squeezeã®å¤‰æ›´ç‚¹ã‚’ã¿ã‚“ãªã§è¦‹ã¦ã¿ã‚ˆã†
- - Squeezeã‚’ã¿ã‚“ãªã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã—ãŸçµæœã‚’èªã‚‹ä¼š
- - Debian ã®ãƒ‰ã‚­ãƒ¥ãƒ¡ãƒ³ãƒˆã‚’ã¿ã¦ã¿ã‚ˆã†
- - ãƒãƒƒã‚«ãƒ¼ã«ä¸€æ­©è¿‘ã¥ã Tipsï¼švi ç·¨
- - Debian GNU/kFreeBSD ã§ä¾¿åˆ©ã«æš®ã‚‰ã™ãŸã‚ã® Tips
- - Debian Games Teamä½“é¨“è¨˜
- - Kinectã‚’Debianã§ä½¿ã£ã¦ã¿ãŸ
- - ä¿ºã®libsaneãŒç«ã‚’å™´ããœï¼
- - Proxmox VE ã®ç´¹ä»‹
- - Apache2 ã®ãƒ¢ã‚¸ãƒ¥ãƒ¼ãƒ«ã‚’ã¤ãã£ã¦ã¿ãŸ
- - CAcert ã®æº–å‚™ã«ä½•ãŒå¿…è¦ã‹
+ - ¡Ö¥Õ¥ê¡¼¡×¤Ã¤Æ¡¢¤É¤¦¤¤¤¦¤³¤È?
+ - Squeeze¤ÎÊÑ¹¹ÅÀ¤ò¤ß¤ó¤Ê¤Ç¸«¤Æ¤ß¤è¤¦
+ - Squeeze¤ò¤ß¤ó¤Ê¥¤¥ó¥¹¥È¡¼¥ë¤·¤¿·ë²Ì¤ò¸ì¤ë²ñ
+ - Debian ¤Î¥É¥­¥å¥á¥ó¥È¤ò¤ß¤Æ¤ß¤è¤¦
+ - ¥Ï¥Ã¥«¡¼¤Ë°ìÊâ¶á¤Å¤¯ Tips¡§vi ÊÔ
+ - Debian GNU/kFreeBSD ¤ÇÊØÍø¤ËÊë¤é¤¹¤¿¤á¤Î Tips
+ - Debian Games TeamÂÎ¸³µ­
+ - Kinect¤òDebian¤Ç»È¤Ã¤Æ¤ß¤¿
+ - ²¶¤Îlibsane¤¬²Ğ¤òÊ®¤¯¤¼¡ª
+ - Proxmox VE ¤Î¾Ò²ğ
+ - Apache2 ¤Î¥â¥¸¥å¡¼¥ë¤ò¤Ä¤¯¤Ã¤Æ¤ß¤¿
+ - CAcert ¤Î½àÈ÷¤Ë²¿¤¬É¬Í×¤«
  - CACert Assurance
- - æœˆåˆŠ PPC64ãƒãƒ¼ãƒ†ã‚£ãƒ³ã‚° 2011å¹´04æœˆ, 05æœˆ
- - Debian/m68k é–‹ç™º
- - ãƒã‚°å ±å‘Šã¯ãƒã‚°ã®ãŸã‚ã ã‘ã˜ã‚ƒãªã„ã‚ˆ
- - dpkg ã®ãŠã•ã‚‰ã„
+ - ·î´© PPC64¥İ¡¼¥Æ¥£¥ó¥° 2011Ç¯04·î, 05·î
+ - Debian/m68k ³«È¯
+ - ¥Ğ¥°Êó¹ğ¤Ï¥Ğ¥°¤Î¤¿¤á¤À¤±¤¸¤ã¤Ê¤¤¤è
+ - dpkg ¤Î¤ª¤µ¤é¤¤
  - backports.debian.org
- - pbuilderã‚’ä½¿ã£ã¦ã¿ã‚ˆã†
- - Debianå‹‰å¼·ä¼šäºˆç´„ã‚·ã‚¹ãƒ†ãƒ ã«ã‚¢ãƒ³ã‚±ãƒ¼ãƒˆè¿½åŠ 
- - 2010å¹´ã®æ±äº¬ã‚¨ãƒªã‚¢Debianå‹‰å¼·ä¼šã‚’ãµã‚Šã‹ãˆã£ã¦
- - é–¢è¥¿ Debian å‹‰å¼·ä¼š 2010å¹´åº¦å„ç¨®ã‚¤ãƒ™ãƒ³ãƒˆé–‹å‚¬å®Ÿç¸¾ã¨ç·æ‹¬
- - åŸ·ç­†è€…ç´¹ä»‹
+ - pbuilder¤ò»È¤Ã¤Æ¤ß¤è¤¦
+ - DebianÊÙ¶¯²ñÍ½Ìó¥·¥¹¥Æ¥à¤Ë¥¢¥ó¥±¡¼¥ÈÄÉ²Ã
+ - 2010Ç¯¤ÎÅìµş¥¨¥ê¥¢DebianÊÙ¶¯²ñ¤ò¤Õ¤ê¤«¤¨¤Ã¤Æ
+ - ´ØÀ¾ Debian ÊÙ¶¯²ñ 2010Ç¯ÅÙ³Æ¼ï¥¤¥Ù¥ó¥È³«ºÅ¼ÂÀÓ¤ÈÁí³ç
+ - ¼¹É®¼Ô¾Ò²ğ
  - Debian Trivia Quiz
- - Debian Trivia Quiz å•é¡Œå›ç­”
+ - Debian Trivia Quiz ÌäÂê²óÅú
 
 
-** 2010å¹´å†¬å·
+** 2010Ç¯Åß¹æ
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2010-fuyu.pdf][2010å¹´å†¬å·PDF]] 
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2010-fuyu.pdf][2010Ç¯Åß¹æPDF]] 
 
  - Introduction
- - ã‚ã‚‹Debianãªä¸€æ—¥ ãã®ä¸€
- - ã‚ã‚‹Debianãªä¸€æ—¥ ãã®äºŒ
- - ã‚ã‚‹Debianãªä¸€æ—¥ ãã®ä¸‰
- - ã‚ã‚‹Debianãªä¸€æ—¥ ãã®å››
- - Debian Conference 2010å‚åŠ å ±å‘Š
- - OSC Tokyo 2010/Fall å‚åŠ å ±å‘Š
- - puppetã« $HOME ã‚’ç®¡ç†ã•ã›ã¦ã¿ã‚ˆã†
- - ext4 ãƒ•ã‚¡ã‚¤ãƒ«ã‚·ã‚¹ãƒ†ãƒ ã‚’Debianã§æ´»ç”¨ã—ã¦ã¿ã‚‹
- - NILFSã‚’Debianã§æ´»ç”¨ã—ã¦ã¿ã‚‹
- - Btrfsã‚’Debianã§æ´»ç”¨ã—ã¦ã¿ã‚‹
- - åˆ†æ•£ãƒ•ã‚¡ã‚¤ãƒ«ã‚·ã‚¹ãƒ†ãƒ CEPHã‚’Debianã§æ´»ç”¨ã—ã¦ã¿ã‚‹
- - initramfs ã«ã¤ã„ã¦
- - æœ€è¿‘ã® Debian Live ã®å‹•å‘
- - Debian Backports ã®ä½¿ã„æ–¹
+ - ¤¢¤ëDebian¤Ê°ìÆü ¤½¤Î°ì
+ - ¤¢¤ëDebian¤Ê°ìÆü ¤½¤ÎÆó
+ - ¤¢¤ëDebian¤Ê°ìÆü ¤½¤Î»°
+ - ¤¢¤ëDebian¤Ê°ìÆü ¤½¤Î»Í
+ - Debian Conference 2010»²²ÃÊó¹ğ
+ - OSC Tokyo 2010/Fall »²²ÃÊó¹ğ
+ - puppet¤Ë $HOME ¤ò´ÉÍı¤µ¤»¤Æ¤ß¤è¤¦
+ - ext4 ¥Õ¥¡¥¤¥ë¥·¥¹¥Æ¥à¤òDebian¤Ç³èÍÑ¤·¤Æ¤ß¤ë
+ - NILFS¤òDebian¤Ç³èÍÑ¤·¤Æ¤ß¤ë
+ - Btrfs¤òDebian¤Ç³èÍÑ¤·¤Æ¤ß¤ë
+ - Ê¬»¶¥Õ¥¡¥¤¥ë¥·¥¹¥Æ¥àCEPH¤òDebian¤Ç³èÍÑ¤·¤Æ¤ß¤ë
+ - initramfs ¤Ë¤Ä¤¤¤Æ
+ - ºÇ¶á¤Î Debian Live ¤ÎÆ°¸ş
+ - Debian Backports ¤Î»È¤¤Êı
  - dh - source format 3.0, the magic debhelper rules -
- - Emdebian ã«ã¤ã„ã¦
- - Debian GNU/kFreeBSDã§æš®ã‚‰ã›ã‚‹ç’°å¢ƒã‚’æ§‹ç¯‰ã—ã¦ã¿ã‚‹
- - Debian Miniconf è¨ˆç”»æ¤œè¨
+ - Emdebian ¤Ë¤Ä¤¤¤Æ
+ - Debian GNU/kFreeBSD¤ÇÊë¤é¤»¤ë´Ä¶­¤ò¹½ÃÛ¤·¤Æ¤ß¤ë
+ - Debian Miniconf ·×²è¸¡Æ¤
 
 
-** 2010å¹´å¤å·
+** 2010Ç¯²Æ¹æ
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2010-natsu.pdf][2010å¹´å¤å·PDF]] 
-
- - Introduction
- - Debian ã®ç´¹ä»‹
- - ã¿ã‚“ãªã®Debianãƒ‡ã‚¹ã‚¯ãƒˆãƒƒãƒ—ç’°å¢ƒã‚’è¦‹ã¦ã¿ã‚ˆã†
- - æ¬¡æœŸãƒªãƒªãƒ¼ã‚¹ã® squeeze ã‚’è¦‹ã¦ã¿ã‚ˆã†
- - ãƒ–ãƒ¼ãƒˆæ–¹æ³•ãŒå¤‰ã‚ã‚‹ã‚ˆ
- - upstart å†å…¥é–€
- - Xenã§ä½œã‚‹è‡ªå®…ã‚µãƒ¼ãƒ
- - lxc ã‚³ãƒ³ãƒ†ãƒŠã‚’ä½¿ã£ã¦ã¿ã‚‹ 
- - Debianãƒ¦ãƒ¼ã‚¶ã®ãŸã‚ã® Ubuntu å…¥é–€
- - debtags å…¥é–€
- - Debian ã‚’ä½¿ã£ã¦æ„‰ã—ã‚€ Open Street Map å…¥é–€
- - ãƒãƒ³ãƒ‰ãƒ¡ã‚¤ãƒ‰GPSãƒ­ã‚¬ãƒ¼ã®æ§‹ç¯‰
- - ãƒãƒƒã‚«ãƒ¼ã«ä¸€æ­©è¿‘ã¥ã Tips ã€œæ­£è¦è¡¨ç¾ç·¨ã€œ
- - ãƒ‹ãƒ¥ãƒ¼ãƒ©ãƒ«ãƒãƒƒãƒˆãƒ¯ãƒ¼ã‚¯ã§ç”»åƒèªè­˜ã—ã¦ã¿ãŸ
- - Wekaã‚’ä½¿ã£ã¦ã¿ã‚‹
- - Debian ã§ libfftw ã‚’ä½¿ã£ã¦ã¿ã‚‹
- - man-db ã‚’æ·±è¿½ã„ã—ãŸ
- - Debianã®OCamlç’°å¢ƒã§é–‹ç™ºã™ã‚‹é–¢æ•°å‹è¨€èªã‚¤ãƒ³ã‚¿ãƒ—ãƒªã‚¿
- - Debianã§ã®Linuxã‚«ãƒ¼ãƒãƒ«ã¨ã®ä»˜ãåˆã„æ–¹
- - dpkg ã‚½ãƒ¼ã‚¹å½¢å¼ ``3.0 (quilt)''
- - piuparts ã®ä½¿ã„æ–¹
- - qemubuilder 2009å¹´ã‚¢ãƒƒãƒ—ãƒ‡ãƒ¼ãƒˆ
- - æ±äº¬ã‚¨ãƒªã‚¢Debianå‹‰å¼·ä¼šäºˆç´„ã‚·ã‚¹ãƒ†ãƒ ã®æ§‹æƒ³
- - Pythonã‚‚Google App Engineã‚‚çŸ¥ã‚‰ãªã„äººãŒã€ŒDebianå‹‰å¼·ä¼šäºˆç´„ç®¡ç†ã‚·ã‚¹ãƒ†ãƒ ã€ã®ã‚½ãƒ¼ã‚¹ã‚’è¦‹ã¦ã¿ãŸã‚ˆ
- - æ±äº¬ã‚¨ãƒªã‚¢Debianå‹‰å¼·ä¼šã€€2009å¹´åº¦å„ç¨®ã‚¤ãƒ™ãƒ³ãƒˆé–‹å‚¬å®Ÿç¸¾ã¨ç·æ‹¬
- - é–¢è¥¿ Debian å‹‰å¼·ä¼šã€€2009å¹´åº¦å„ç¨®ã‚¤ãƒ™ãƒ³ãƒˆé–‹å‚¬å®Ÿç¸¾ã¨ç·æ‹¬
- - 2009å¹´ã‚’æŒ¯ã‚Šè¿”ã£ã¦ã¿ã‚‹
- - Debian Trivia Quiz
- - Debian Trivia Quiz å•é¡Œå›ç­”
-
-** 2009å¹´å†¬å·
-
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2009-fuyu.pdf][2009å¹´å†¬å·PDF]] 
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2010-natsu.pdf][2010Ç¯²Æ¹æPDF]] 
 
  - Introduction
- - Debian Conference 2009å‚åŠ å ±å‘Š
- - Debian GNU/kFreeBSD ã‚’ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã—ã¦ã¿ã‚ˆã†
- - ã€CD/DVD/USBãƒ¡ãƒ¢ãƒªã€‘Debian JPç‰ˆ Debian Liveã‚’ä½œã‚‹ã‚ˆã€netbootã‚‚ã€‘
- - ãƒãƒƒã‚«ãƒ¼ã«ä¸€æ­©è¿‘ã¥ã Tipsï¼šBash ç·¨
- - Debianã§ã®æ•°å­¦ã“ã¨ã¯ã˜ã‚ã€‚
- - ãƒ‡ãƒãƒƒã‚°ã®ãŠä¾›ï¼š"gdbã®ã‚¹ã‚¹ãƒ¡"
- - GPG ã‚­ãƒ¼ã‚µã‚¤ãƒ³ãƒ‘ãƒ¼ãƒ†ã‚£ã®èª¬æ˜
- - DDTSS ã‚’ä½¿ã£ã¦ã¿ã‚ˆã†
- - DDTP ç¿»è¨³ä½œæ¥­ã§ã® TIPS
- - DDTSS ã®åˆ©ç”¨æ–¹æ³•ã®ç´¹ä»‹
- - GUIãŒã¤ã„ã¦æ ¼å¥½è‰¯ããªã£ãŸreportbugã‚’ä½¿ã£ã¦ã¿ã‚ˆã†
- - Debian ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã®ä½œã‚Šæ–¹ã€‚æœ€åˆã‹ã‚‰æœ€å¾Œã¾ã§
- - lintian ã§ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã‚’ãƒã‚§ãƒƒã‚¯ã™ã‚‹
- - Debian Mentors ã£ã¦ã”å­˜çŸ¥ã§ã™ã‹
- - Debian Autobuilder ãƒãƒƒãƒˆãƒ¯ãƒ¼ã‚¯
+ - Debian ¤Î¾Ò²ğ
+ - ¤ß¤ó¤Ê¤ÎDebian¥Ç¥¹¥¯¥È¥Ã¥×´Ä¶­¤ò¸«¤Æ¤ß¤è¤¦
+ - ¼¡´ü¥ê¥ê¡¼¥¹¤Î squeeze ¤ò¸«¤Æ¤ß¤è¤¦
+ - ¥Ö¡¼¥ÈÊıË¡¤¬ÊÑ¤ï¤ë¤è
+ - upstart ºÆÆşÌç
+ - Xen¤Çºî¤ë¼«Âğ¥µ¡¼¥Ğ
+ - lxc ¥³¥ó¥Æ¥Ê¤ò»È¤Ã¤Æ¤ß¤ë 
+ - Debian¥æ¡¼¥¶¤Î¤¿¤á¤Î Ubuntu ÆşÌç
+ - debtags ÆşÌç
+ - Debian ¤ò»È¤Ã¤ÆÌû¤·¤à Open Street Map ÆşÌç
+ - ¥Ï¥ó¥É¥á¥¤¥ÉGPS¥í¥¬¡¼¤Î¹½ÃÛ
+ - ¥Ï¥Ã¥«¡¼¤Ë°ìÊâ¶á¤Å¤¯ Tips ¡ÁÀµµ¬É½¸½ÊÔ¡Á
+ - ¥Ë¥å¡¼¥é¥ë¥Í¥Ã¥È¥ï¡¼¥¯¤Ç²èÁüÇ§¼±¤·¤Æ¤ß¤¿
+ - Weka¤ò»È¤Ã¤Æ¤ß¤ë
+ - Debian ¤Ç libfftw ¤ò»È¤Ã¤Æ¤ß¤ë
+ - man-db ¤ò¿¼ÄÉ¤¤¤·¤¿
+ - Debian¤ÎOCaml´Ä¶­¤Ç³«È¯¤¹¤ë´Ø¿ô·¿¸À¸ì¥¤¥ó¥¿¥×¥ê¥¿
+ - Debian¤Ç¤ÎLinux¥«¡¼¥Í¥ë¤È¤ÎÉÕ¤­¹ç¤¤Êı
+ - dpkg ¥½¡¼¥¹·Á¼° ``3.0 (quilt)''
+ - piuparts ¤Î»È¤¤Êı
+ - qemubuilder 2009Ç¯¥¢¥Ã¥×¥Ç¡¼¥È
+ - Åìµş¥¨¥ê¥¢DebianÊÙ¶¯²ñÍ½Ìó¥·¥¹¥Æ¥à¤Î¹½ÁÛ
+ - Python¤âGoogle App Engine¤âÃÎ¤é¤Ê¤¤¿Í¤¬¡ÖDebianÊÙ¶¯²ñÍ½Ìó´ÉÍı¥·¥¹¥Æ¥à¡×¤Î¥½¡¼¥¹¤ò¸«¤Æ¤ß¤¿¤è
+ - Åìµş¥¨¥ê¥¢DebianÊÙ¶¯²ñ¡¡2009Ç¯ÅÙ³Æ¼ï¥¤¥Ù¥ó¥È³«ºÅ¼ÂÀÓ¤ÈÁí³ç
+ - ´ØÀ¾ Debian ÊÙ¶¯²ñ¡¡2009Ç¯ÅÙ³Æ¼ï¥¤¥Ù¥ó¥È³«ºÅ¼ÂÀÓ¤ÈÁí³ç
+ - 2009Ç¯¤ò¿¶¤êÊÖ¤Ã¤Æ¤ß¤ë
  - Debian Trivia Quiz
- - Debian Trivia Quiz å•é¡Œå›ç­”
+ - Debian Trivia Quiz ÌäÂê²óÅú
 
-** 2009å¹´å¤å·
+** 2009Ç¯Åß¹æ
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2009-natsu.pdf][2009å¹´å¤å·PDF]] 
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2009-fuyu.pdf][2009Ç¯Åß¹æPDF]] 
 
  - Introduction
- - sqlite3 ã¨ python ã§ csv ãƒ•ã‚¡ã‚¤ãƒ«ã‚’åˆ†æã™ã‚‹
- - Debian JP å®šä¾‹ä¼šè­° on IAX
- - Git+ãƒ¡ãƒ¼ãƒ«ã§ã®äº‹å‰èª²é¡Œæå‡ºã«ã¾ã¤ã‚ã‚‹èª²é¡Œ
- - Namazuã¿ãŸã„ã«Google AJAX Search API
- - AspireOneã§Debian sidã‚µãƒ¼ãƒãƒ¼
- - Debian GNU/Linux 2ch ãƒ–ãƒ©ã‚¦ã‚¶æ™®åŠè¨ˆç”»
- - Linuxã‚«ãƒ¼ãƒãƒ«ã‚³ãƒ³ãƒ•ã‚£ã‚°å¤‰æ›ãƒ„ãƒ¼ãƒ«ã‚’ä½œã£ã¦ã¿ãŸ
- - é»’ MacBook ã® Lenny/Sid 64bit åŒ–ã§ã®ãƒãƒã‚Šãƒã‚¤ãƒ³ãƒˆ
- - Debian ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ãƒ³ã‚°ãƒãƒ³ã‚ºã‚ªãƒ³ã®æ‰‹å¼•æ›¸
- - Debianã«ãŠã‘ã‚‹Common Lispãƒ—ãƒ­ã‚°ãƒ©ãƒŸãƒ³ã‚°ç’°å¢ƒ
- - Debian on chumbyã®ä½œã‚Šæ–¹ 
- - Java ãƒãƒªã‚·ãƒ¼ã‚’èª­ã‚“ã§ã¿ãŸ
- - adviã‚’ãƒ‡ãƒãƒƒã‚°ã—ã¦ã¿ãŸ
- - ocamlã«å…¥é–€ã—ã¦ã¿ãŸ
- - Erlang ã‚³ãƒ¼ãƒ‰ã‚’Debianãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã«ã—ã¦ã¿ãŸ
- - ç ”ç©¶å®¤ã®ã‚½ãƒ•ãƒˆã‚¦ã‚§ã‚¢ã‚’ Debian ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã«ã—ã¦ã¿ã‚‹
- - MC-MPI/GXP å…¬å¼ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã¸ã®é“
- - Debian GNU/Linux ä¸Šã§ Android SDK ã‚’ä½¿ã£ã¦ã¿ãŸ
- - DDTSSæ´»ç”¨
- - ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã®ä¾å­˜æ€§ã‚’è§£ãï¼šEDOS ã‹ã‚‰ Mancoosi ã¾ã§
- - Debian å‹‰å¼·ä¼šã®è³‡æ–™ã‚’ä½œæˆã—ã‚ˆã†
- - LaTeX beamer ã§ãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³
- - å„ç¨®ã‚¤ãƒ™ãƒ³ãƒˆé–‹å‚¬å®Ÿç¸¾
- - 2008å¹´ã‚’æŒ¯ã‚Šè¿”ã£ã¦ã¿ã‚‹
+ - Debian Conference 2009»²²ÃÊó¹ğ
+ - Debian GNU/kFreeBSD ¤ò¥¤¥ó¥¹¥È¡¼¥ë¤·¤Æ¤ß¤è¤¦
+ - ¡ÚCD/DVD/USB¥á¥â¥ê¡ÛDebian JPÈÇ Debian Live¤òºî¤ë¤è¡Únetboot¤â¡Û
+ - ¥Ï¥Ã¥«¡¼¤Ë°ìÊâ¶á¤Å¤¯ Tips¡§Bash ÊÔ
+ - Debian¤Ç¤Î¿ô³Ø¤³¤È¤Ï¤¸¤á¡£
+ - ¥Ç¥Ğ¥Ã¥°¤Î¤ª¶¡¡§"gdb¤Î¥¹¥¹¥á"
+ - GPG ¥­¡¼¥µ¥¤¥ó¥Ñ¡¼¥Æ¥£¤ÎÀâÌÀ
+ - DDTSS ¤ò»È¤Ã¤Æ¤ß¤è¤¦
+ - DDTP ËİÌõºî¶È¤Ç¤Î TIPS
+ - DDTSS ¤ÎÍøÍÑÊıË¡¤Î¾Ò²ğ
+ - GUI¤¬¤Ä¤¤¤Æ³Ê¹¥ÎÉ¤¯¤Ê¤Ã¤¿reportbug¤ò»È¤Ã¤Æ¤ß¤è¤¦
+ - Debian ¥Ñ¥Ã¥±¡¼¥¸¤Îºî¤êÊı¡£ºÇ½é¤«¤éºÇ¸å¤Ş¤Ç
+ - lintian ¤Ç¥Ñ¥Ã¥±¡¼¥¸¤ò¥Á¥§¥Ã¥¯¤¹¤ë
+ - Debian Mentors ¤Ã¤Æ¤´Â¸ÃÎ¤Ç¤¹¤«
+ - Debian Autobuilder ¥Í¥Ã¥È¥ï¡¼¥¯
  - Debian Trivia Quiz
- - Debian Trivia Quiz å•é¡Œå›ç­”
+ - Debian Trivia Quiz ÌäÂê²óÅú
 
-** 2008å¹´å†¬å·
+** 2009Ç¯²Æ¹æ
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2008-fuyu.pdf][2008å¹´å†¬å·PDF]] 
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2009-natsu.pdf][2009Ç¯²Æ¹æPDF]] 
 
- - 2008å¹´åº¦ Debian å‹‰å¼·ä¼šä¼ç”»
- - ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ä½œæˆ(debhelperã€CDBSã€dpatchã€quiltã‚’ç”¨ã„ãŸãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ä½œæˆ)
- - Linux ã‚«ãƒ¼ãƒãƒ«ãƒ‘ãƒƒãƒ ã® Debian ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ä½œæˆ
- - Linux ã‚«ãƒ¼ãƒãƒ«ãƒ¢ã‚¸ãƒ¥ãƒ¼ãƒ«ã® Debian ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ä½œæˆ
- - ã¿ã‚“ãªã‚‚ Debian GNU/Hurd ã‚’ä½¿ãŠã†ã‚ˆï¼
+ - Introduction
+ - sqlite3 ¤È python ¤Ç csv ¥Õ¥¡¥¤¥ë¤òÊ¬ÀÏ¤¹¤ë
+ - Debian JP ÄêÎã²ñµÄ on IAX
+ - Git+¥á¡¼¥ë¤Ç¤Î»öÁ°²İÂêÄó½Ğ¤Ë¤Ş¤Ä¤ï¤ë²İÂê
+ - Namazu¤ß¤¿¤¤¤ËGoogle AJAX Search API
+ - AspireOne¤ÇDebian sid¥µ¡¼¥Ğ¡¼
+ - Debian GNU/Linux 2ch ¥Ö¥é¥¦¥¶ÉáµÚ·×²è
+ - Linux¥«¡¼¥Í¥ë¥³¥ó¥Õ¥£¥°ÊÑ´¹¥Ä¡¼¥ë¤òºî¤Ã¤Æ¤ß¤¿
+ - ¹õ MacBook ¤Î Lenny/Sid 64bit ²½¤Ç¤Î¥Ï¥Ş¤ê¥İ¥¤¥ó¥È
+ - Debian ¥Ñ¥Ã¥±¡¼¥¸¥ó¥°¥Ï¥ó¥º¥ª¥ó¤Î¼ê°ú½ñ
+ - Debian¤Ë¤ª¤±¤ëCommon Lisp¥×¥í¥°¥é¥ß¥ó¥°´Ä¶­
+ - Debian on chumby¤Îºî¤êÊı 
+ - Java ¥İ¥ê¥·¡¼¤òÆÉ¤ó¤Ç¤ß¤¿
+ - advi¤ò¥Ç¥Ğ¥Ã¥°¤·¤Æ¤ß¤¿
+ - ocaml¤ËÆşÌç¤·¤Æ¤ß¤¿
+ - Erlang ¥³¡¼¥É¤òDebian¥Ñ¥Ã¥±¡¼¥¸¤Ë¤·¤Æ¤ß¤¿
+ - ¸¦µæ¼¼¤Î¥½¥Õ¥È¥¦¥§¥¢¤ò Debian ¥Ñ¥Ã¥±¡¼¥¸¤Ë¤·¤Æ¤ß¤ë
+ - MC-MPI/GXP ¸ø¼°¥Ñ¥Ã¥±¡¼¥¸¤Ø¤ÎÆ»
+ - Debian GNU/Linux ¾å¤Ç Android SDK ¤ò»È¤Ã¤Æ¤ß¤¿
+ - DDTSS³èÍÑ
+ - ¥Ñ¥Ã¥±¡¼¥¸¤Î°ÍÂ¸À­¤ò²ò¤¯¡§EDOS ¤«¤é Mancoosi ¤Ş¤Ç
+ - Debian ÊÙ¶¯²ñ¤Î»ñÎÁ¤òºîÀ®¤·¤è¤¦
+ - LaTeX beamer ¤Ç¥×¥ì¥¼¥ó¥Æ¡¼¥·¥ç¥ó
+ - ³Æ¼ï¥¤¥Ù¥ó¥È³«ºÅ¼ÂÀÓ
+ - 2008Ç¯¤ò¿¶¤êÊÖ¤Ã¤Æ¤ß¤ë
+ - Debian Trivia Quiz
+ - Debian Trivia Quiz ÌäÂê²óÅú
+
+** 2008Ç¯Åß¹æ
+
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2008-fuyu.pdf][2008Ç¯Åß¹æPDF]] 
+
+ - 2008Ç¯ÅÙ Debian ÊÙ¶¯²ñ´ë²è
+ - ¥Ñ¥Ã¥±¡¼¥¸ºîÀ®(debhelper¡¢CDBS¡¢dpatch¡¢quilt¤òÍÑ¤¤¤¿¥Ñ¥Ã¥±¡¼¥¸ºîÀ®)
+ - Linux ¥«¡¼¥Í¥ë¥Ñ¥Ã¥Á ¤Î Debian ¥Ñ¥Ã¥±¡¼¥¸ºîÀ®
+ - Linux ¥«¡¼¥Í¥ë¥â¥¸¥å¡¼¥ë¤Î Debian ¥Ñ¥Ã¥±¡¼¥¸ºîÀ®
+ - ¤ß¤ó¤Ê¤â Debian GNU/Hurd ¤ò»È¤ª¤¦¤è¡ª
  - Debconf 8
- - Debian æ¸©æ³‰
- - Po4a ã§ãƒ‰ã‚­ãƒ¥ãƒ¡ãƒ³ãƒˆç¿»è¨³ã®ä¿å®ˆã‚’æ¥½ã«ã—ã‚ˆã†
- - ã€ã§ã³ã‚ã‚“ã€‘Debian ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ãƒ¡ãƒ³ãƒ†ãƒŠã¨ã„ã†ãŠä»•äº‹ã€ç¾åœ¨å‹Ÿé›†ä¸­ã€‘
- - Debconf8 å‚åŠ å ±å‘Š
- - ã€Œãã®å ´ã§å‹‰å¼·ä¼šè³‡æ–™ã‚’ä½œæˆã—ã¡ã‚ƒãˆã€ Debian ã‚’ä½¿ã£ãŸ \LaTeX åŸç¨¿ä½œæˆåˆå®¿
- - Debianã‚’WindowsãªPCã§ã‚‚æ¥½ã—ã‚‚ã† --å¿œç”¨ç·¨
- - Debian Live ã« Ubiquity ã‚’ç§»æ¤ã§ãã‚‹ã‹ï¼Ÿ
- - 10åˆ†ã§ã‚ã‹ã‚‹ Debianãƒ•ãƒªãƒ¼ã‚½ãƒ•ãƒˆã‚¦ã‚§ã‚¢ã‚¬ã‚¤ãƒ‰ãƒ©ã‚¤ãƒ³ (DFSG)
- - ã¯ã˜ã‚ã¦ã® CDBS
- - cdn.debian.or.jp, cdn.debian.netã«ãŠã‘ã‚‹å–ã‚Šçµ„ã¿
+ - Debian ²¹Àô
+ - Po4a ¤Ç¥É¥­¥å¥á¥ó¥ÈËİÌõ¤ÎÊİ¼é¤ò³Ú¤Ë¤·¤è¤¦
+ - ¡Ú¤Ç¤Ó¤¢¤ó¡ÛDebian ¥Ñ¥Ã¥±¡¼¥¸¥á¥ó¥Æ¥Ê¤È¤¤¤¦¤ª»Å»ö¡Ú¸½ºßÊç½¸Ãæ¡Û
+ - Debconf8 »²²ÃÊó¹ğ
+ - ¡Ö¤½¤Î¾ì¤ÇÊÙ¶¯²ñ»ñÎÁ¤òºîÀ®¤·¤Á¤ã¤¨¡× Debian ¤ò»È¤Ã¤¿ \LaTeX ¸¶¹ÆºîÀ®¹ç½É
+ - Debian¤òWindows¤ÊPC¤Ç¤â³Ú¤·¤â¤¦ --±şÍÑÊÔ
+ - Debian Live ¤Ë Ubiquity ¤ò°Ü¿¢¤Ç¤­¤ë¤«¡©
+ - 10Ê¬¤Ç¤ï¤«¤ë Debian¥Õ¥ê¡¼¥½¥Õ¥È¥¦¥§¥¢¥¬¥¤¥É¥é¥¤¥ó (DFSG)
+ - ¤Ï¤¸¤á¤Æ¤Î CDBS
+ - cdn.debian.or.jp, cdn.debian.net¤Ë¤ª¤±¤ë¼è¤êÁÈ¤ß
  - Debian Trivia Quiz
- - Debian Trivia Quiz å•é¡Œå›ç­”
+ - Debian Trivia Quiz ÌäÂê²óÅú
 
 
-** 2008å¹´å¤å·
+** 2008Ç¯²Æ¹æ
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2008-natsu.pdf][2008å¹´å¤å·PDF]] 
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2008-natsu.pdf][2008Ç¯²Æ¹æPDF]] 
 
- - 2008å¹´åº¦ Debian å‹‰å¼·ä¼šä¼ç”»
- - Debian ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ ç®¡ç†ã®æµã‚Œ
- - Debianãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã«ãŠã„ã¦ã®ãƒ©ã‚¤ã‚»ãƒ³ã‚¹ã®å–æ‰±ã„
- - Debianãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ä½œæˆï¼šãƒ‡ãƒ¼ã‚¿ã ã‘ã®ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸
- - ãƒã‚¤ãƒŠãƒªä¸€ã¤ã ã‘ã®ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã‚’ä½œæˆã—ã¦ã¿ã‚‹
- - ãƒã‚¤ãƒŠãƒªã‚’ã‚ã‘ãŸãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã®æ‰±ã„
- - ãƒãƒ¼ã‚¸ãƒ§ãƒ³ç®¡ç†ãƒ„ãƒ¼ãƒ«ã‚’ä½¿ã„ Debian ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã‚’ç®¡ç†ã™ã‚‹ Gitç·¨
- - ã‚¢ãƒƒãƒ—ã‚¹ãƒˆãƒªãƒ¼ãƒ ã® VCS ã¨ä»˜ãåˆã†
- - æ±äº¬ã‚¨ãƒªã‚¢Debianå‹‰å¼·ä¼šã®è¨­è¨ˆ
- - æ±äº¬ã‚¨ãƒªã‚¢ Debian å‹‰å¼·ä¼šã®ãƒ¯ãƒ¼ã‚¯ãƒ•ãƒ­ãƒ¼
- - æ±äº¬ã‚¨ãƒªã‚¢ Debian å‹‰å¼·ä¼šè³‡æ–™ã®æº–å‚™ã®æ–¹æ³•
- - é–¢è¥¿ Debian å‹‰å¼·ä¼š
- - å„ç¨®ã‚¤ãƒ™ãƒ³ãƒˆé–‹å‚¬å®Ÿç¸¾
- - Open Source Conference 2008 Spring å ±å‘Š
- - Nexenta Core Platformã‚’ä½¿ã£ã¦ã¿ã‚‹
+ - 2008Ç¯ÅÙ Debian ÊÙ¶¯²ñ´ë²è
+ - Debian ¥Ñ¥Ã¥±¡¼¥¸ ´ÉÍı¤ÎÎ®¤ì
+ - Debian¥Ñ¥Ã¥±¡¼¥¸¤Ë¤ª¤¤¤Æ¤Î¥é¥¤¥»¥ó¥¹¤Î¼è°·¤¤
+ - Debian¥Ñ¥Ã¥±¡¼¥¸ºîÀ®¡§¥Ç¡¼¥¿¤À¤±¤Î¥Ñ¥Ã¥±¡¼¥¸
+ - ¥Ğ¥¤¥Ê¥ê°ì¤Ä¤À¤±¤Î¥Ñ¥Ã¥±¡¼¥¸¤òºîÀ®¤·¤Æ¤ß¤ë
+ - ¥Ğ¥¤¥Ê¥ê¤ò¤ï¤±¤¿¥Ñ¥Ã¥±¡¼¥¸¤Î°·¤¤
+ - ¥Ğ¡¼¥¸¥ç¥ó´ÉÍı¥Ä¡¼¥ë¤ò»È¤¤ Debian ¥Ñ¥Ã¥±¡¼¥¸¤ò´ÉÍı¤¹¤ë GitÊÔ
+ - ¥¢¥Ã¥×¥¹¥È¥ê¡¼¥à¤Î VCS ¤ÈÉÕ¤­¹ç¤¦
+ - Åìµş¥¨¥ê¥¢DebianÊÙ¶¯²ñ¤ÎÀß·×
+ - Åìµş¥¨¥ê¥¢ Debian ÊÙ¶¯²ñ¤Î¥ï¡¼¥¯¥Õ¥í¡¼
+ - Åìµş¥¨¥ê¥¢ Debian ÊÙ¶¯²ñ»ñÎÁ¤Î½àÈ÷¤ÎÊıË¡
+ - ´ØÀ¾ Debian ÊÙ¶¯²ñ
+ - ³Æ¼ï¥¤¥Ù¥ó¥È³«ºÅ¼ÂÀÓ
+ - Open Source Conference 2008 Spring Êó¹ğ
+ - Nexenta Core Platform¤ò»È¤Ã¤Æ¤ß¤ë
  - GIS on Debian GNU/Linux!
- - Debianã§PCã‚¯ãƒ©ã‚¹ã‚¿ã‚’ä½œã£ã¦ã¿ã‚ˆã†
- - è³‡æ–™ä½œæˆåŸºç¤(TeX)
- - ãƒã‚°ãƒ¬ãƒãƒ¼ãƒˆã‹ã‚‰å‚åŠ ã™ã‚‹Debianãƒ‘ãƒƒã‚±ãƒ¼ã‚¸é–‹ç™º
- - GPG æœ€åˆã®ä¸€æ­©
- - Debian é–‹ç™ºè€…ã®ã‚³ãƒ¼ãƒŠãƒ¼ã®æ­©ãæ–¹
- - WindowsãªPCã§ã‚‚Debianã‚’æ¥½ã—ã‚‚ã†
+ - Debian¤ÇPC¥¯¥é¥¹¥¿¤òºî¤Ã¤Æ¤ß¤è¤¦
+ - »ñÎÁºîÀ®´ğÁÃ(TeX)
+ - ¥Ğ¥°¥ì¥İ¡¼¥È¤«¤é»²²Ã¤¹¤ëDebian¥Ñ¥Ã¥±¡¼¥¸³«È¯
+ - GPG ºÇ½é¤Î°ìÊâ
+ - Debian ³«È¯¼Ô¤Î¥³¡¼¥Ê¡¼¤ÎÊâ¤­Êı
+ - Windows¤ÊPC¤Ç¤âDebian¤ò³Ú¤·¤â¤¦
  - Debian GNU/kFreeBSD
- - chrootã‹ã‚‰ã¯ã˜ã‚ã‚‹ sid
- - ustream.tvã‚’ä½¿ã£ãŸé–¢è¥¿Debianå‹‰å¼·ä¼šä¸­ç¶™ã®è£å´
- - Debian ã§å§‹ã‚ã‚‹ Emacs ã‚¨ãƒ‡ã‚£ã‚¿
+ - chroot¤«¤é¤Ï¤¸¤á¤ë sid
+ - ustream.tv¤ò»È¤Ã¤¿´ØÀ¾DebianÊÙ¶¯²ñÃæ·Ñ¤ÎÎ¢Â¦
+ - Debian ¤Ç»Ï¤á¤ë Emacs ¥¨¥Ç¥£¥¿
  - Debian Trivia Quiz
- - Debian Trivia Quiz å•é¡Œå›ç­”
+ - Debian Trivia Quiz ÌäÂê²óÅú
 
-** 2007å¹´å†¬å·
+** 2007Ç¯Åß¹æ
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2007-fuyu.pdf][2007å¹´å†¬å·PDF]] 
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2007-fuyu.pdf][2007Ç¯Åß¹æPDF]] 
 
- - Debconf å‚åŠ å ±å‘Š
- - Debconf 2007 å„ç¨®è¨è­°å†…å®¹
- - OSC-Kansai å‚åŠ å ±å‘Š
- - å°†æ¥ã® Debconf
- - cdn.debian.or.jp ã®ç´¹ä»‹
- - Debian GNU/kFreeBSD ã®ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«
- - Exim å†ç™ºè¦‹
- - ã‚ãªãŸã®çŸ¥ã‚‰ãªã„ã‹ã‚‚ã—ã‚Œãªã„ apt-xxx
- - DebTorrent ã«è§¦ã£ã¦ã¿ãŸ
+ - Debconf »²²ÃÊó¹ğ
+ - Debconf 2007 ³Æ¼ïÆ¤µÄÆâÍÆ
+ - OSC-Kansai »²²ÃÊó¹ğ
+ - ¾­Íè¤Î Debconf
+ - cdn.debian.or.jp ¤Î¾Ò²ğ
+ - Debian GNU/kFreeBSD ¤Î¥¤¥ó¥¹¥È¡¼¥ë
+ - Exim ºÆÈ¯¸«
+ - ¤¢¤Ê¤¿¤ÎÃÎ¤é¤Ê¤¤¤«¤â¤·¤ì¤Ê¤¤ apt-xxx
+ - DebTorrent ¤Ë¿¨¤Ã¤Æ¤ß¤¿
  - live-helper
- - Debian ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã®ä½œã‚Šæ–¹ (1)  20 åˆ†ã§ä½œã‚‹ Debian ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ 
- - Debian ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã®ä½œã‚Šæ–¹ (2)  debian/rules ã‚’èª­ã‚€ 
- - Debian ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã®ä½œã‚Šæ–¹ (3)  dpatch ã®ä½¿ã„æ–¹ 
- - Debian ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã®ä½œã‚Šæ–¹ (4)  ãƒ©ã‚¤ãƒ–ãƒ©ãƒªç·¨ 
- - HP ML350G5 Debian etch å‹•ä½œç¢ºèª
- - HP ML110G4 Debian etch å‹•ä½œç¢ºèª
+ - Debian ¥Ñ¥Ã¥±¡¼¥¸¤Îºî¤êÊı (1)  20 Ê¬¤Çºî¤ë Debian ¥Ñ¥Ã¥±¡¼¥¸ 
+ - Debian ¥Ñ¥Ã¥±¡¼¥¸¤Îºî¤êÊı (2)  debian/rules ¤òÆÉ¤à 
+ - Debian ¥Ñ¥Ã¥±¡¼¥¸¤Îºî¤êÊı (3)  dpatch ¤Î»È¤¤Êı 
+ - Debian ¥Ñ¥Ã¥±¡¼¥¸¤Îºî¤êÊı (4)  ¥é¥¤¥Ö¥é¥êÊÔ 
+ - HP ML350G5 Debian etch Æ°ºî³ÎÇ§
+ - HP ML110G4 Debian etch Æ°ºî³ÎÇ§
  - Debian Weekly News trivia quiz
- - Debian Weekly News å•é¡Œå›ç­”
+ - Debian Weekly News ÌäÂê²óÅú
 
-** 2007å¹´å¤å·
+** 2007Ç¯²Æ¹æ
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2007-natsu.pdf][2007å¹´å¤å·PDF]] 
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2007-natsu.pdf][2007Ç¯²Æ¹æPDF]] 
 
- - ãƒ‘ãƒƒãƒç®¡ç†ãƒ„ãƒ¼ãƒ« quilt ã®ä½¿ã„æ–¹
- - dpatch ã«ã¤ã„ã¦ã®å°ãƒã‚¿
+ - ¥Ñ¥Ã¥Á´ÉÍı¥Ä¡¼¥ë quilt ¤Î»È¤¤Êı
+ - dpatch ¤Ë¤Ä¤¤¤Æ¤Î¾®¥Í¥¿
  - dbs
- - darcs ä½¿ã„ã‹ãŸ
- - git-buildpackage ã®ä½¿ã„ã‹ãŸ
- - git ã®å®Ÿè£…æŠ€è¡“çš„è§£èª¬
- - ä»®æƒ³ãƒã‚·ãƒ³ãƒ¢ãƒ‹ã‚¿ KVM
+ - darcs »È¤¤¤«¤¿
+ - git-buildpackage ¤Î»È¤¤¤«¤¿
+ - git ¤Î¼ÂÁõµ»½ÑÅª²òÀâ
+ - ²¾ÁÛ¥Ş¥·¥ó¥â¥Ë¥¿ KVM
  - Bug Squashing Party 
  - apt-torrent
- - ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆãƒˆãƒ©ãƒƒã‚«ãƒ¼ã®å‹§ã‚
- - ã‚µãƒ¼ãƒã‚’ã‚¨ãƒƒãƒã«ã—ã¦ã¿ã¾ã—ãŸ
- - æœ€è¿‘ pbuilder ã£ã¦ã©ã†ã‚ˆ?
+ - ¥×¥í¥¸¥§¥¯¥È¥È¥é¥Ã¥«¡¼¤Î´«¤á
+ - ¥µ¡¼¥Ğ¤ò¥¨¥Ã¥Á¤Ë¤·¤Æ¤ß¤Ş¤·¤¿
+ - ºÇ¶á pbuilder ¤Ã¤Æ¤É¤¦¤è?
  - Debian on SuperH
- - Debian ã®æƒ…å ±ãƒ•ãƒ­ãƒ¼
- - Debian å‹‰å¼·ä¼šè³‡æ–™ã®ä½œæˆæ–¹æ³•
- - Debian å‹‰å¼·ä¼š 2006 å¹´çµæœçµ±è¨ˆ
- - Debian å‹‰å¼·ä¼š 2006 å¹´ã€ä½œæ¥­ãƒ•ãƒ­ãƒ¼
- - Debian å‹‰å¼·ä¼š 2007 å¹´åº¦è¨ˆç”»æ¤œè¨çµæœ
+ - Debian ¤Î¾ğÊó¥Õ¥í¡¼
+ - Debian ÊÙ¶¯²ñ»ñÎÁ¤ÎºîÀ®ÊıË¡
+ - Debian ÊÙ¶¯²ñ 2006 Ç¯·ë²ÌÅı·×
+ - Debian ÊÙ¶¯²ñ 2006 Ç¯¡¢ºî¶È¥Õ¥í¡¼
+ - Debian ÊÙ¶¯²ñ 2007 Ç¯ÅÙ·×²è¸¡Æ¤·ë²Ì
  - Debian Weekly News trivia quiz
- - ä»®æƒ³åŒ–å‹ã®ä¼šã¨ã®åˆåŒã‚¯ã‚¤ã‚º
- - Debian Weekly News å•é¡Œå›ç­”
+ - ²¾ÁÛ²½Í§¤Î²ñ¤È¤Î¹çÆ±¥¯¥¤¥º
+ - Debian Weekly News ÌäÂê²óÅú
 
-** 2006å¹´å†¬å·
+** 2006Ç¯Åß¹æ
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2006-fuyu.pdf][2006å¹´å†¬å·PDF]] 
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2006-fuyu.pdf][2006Ç¯Åß¹æPDF]] 
 
- - MacBook ã« Debian ã‚’ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«
- - ã‚ãªãŸãŒçŸ¥ã‚‰ãªã„ã†ã¡ã«ä½¿ã£ã¦ã„ã‚‹Debian specific
- - ç¿»è¨³ã¸ã®ã•ãã„
- - dpkg, apt ã®ãƒ—ãƒ­ãƒ•ã‚¡ã‚¤ãƒªãƒ³ã‚°
- - aptã‚’æœ€é©åŒ–ã—ã¦ã¿ã‚‹
- - Jamon, tinto vino, por favor. ã€œã‚¹ãƒšã‚¤ãƒ³Extremaduraå·Debian i18nä¼šè­°å ±å‘Š
- - Debianã§Flashã—ãŸã„
- - rpmstrapã‚’æ´»ç”¨ã™ã‚‹
+ - MacBook ¤Ë Debian ¤ò¥¤¥ó¥¹¥È¡¼¥ë
+ - ¤¢¤Ê¤¿¤¬ÃÎ¤é¤Ê¤¤¤¦¤Á¤Ë»È¤Ã¤Æ¤¤¤ëDebian specific
+ - ËİÌõ¤Ø¤Î¤µ¤½¤¤
+ - dpkg, apt ¤Î¥×¥í¥Õ¥¡¥¤¥ê¥ó¥°
+ - apt¤òºÇÅ¬²½¤·¤Æ¤ß¤ë
+ - Jamon, tinto vino, por favor. ¡Á¥¹¥Ú¥¤¥óExtremadura½£Debian i18n²ñµÄÊó¹ğ
+ - Debian¤ÇFlash¤·¤¿¤¤
+ - rpmstrap¤ò³èÍÑ¤¹¤ë
  - gentoo chroot
- - ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ãƒ³ã‚°ã«ã¤ã„ã¦
- - sid ã‚’æ—¥å¸¸ç’°å¢ƒã¨ã—ã¦ä½¿ã†ãŸã‚ã®æ³¨æ„
- - bugreport è«–
+ - ¥Ñ¥Ã¥±¡¼¥¸¥ó¥°¤Ë¤Ä¤¤¤Æ
+ - sid ¤òÆü¾ï´Ä¶­¤È¤·¤Æ»È¤¦¤¿¤á¤ÎÃí°Õ
+ - bugreport ÏÀ
  - Debian Weekly News trivia quiz
- - Debian Weekly News å•é¡Œå›ç­”
+ - Debian Weekly News ÌäÂê²óÅú
 
-** 2006å¹´å¤å·
+** 2006Ç¯²Æ¹æ
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2006-natsu.pdf][2006å¹´å¤å·PDF]] 
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2006-natsu.pdf][2006Ç¯²Æ¹æPDF]] 
 
- - Debian Policy å…¥é–€ ç¬¬1å›
- - Debian Policy å…¥é–€ ç¬¬2å›
- - Debian Policy å…¥é–€ ç¬¬3å›
+ - Debian Policy ÆşÌç Âè1²ó
+ - Debian Policy ÆşÌç Âè2²ó
+ - Debian Policy ÆşÌç Âè3²ó
  - Debian multimedia project
- - Debian Multimedia Audio applicationæ¦‚è¦³
+ - Debian Multimedia Audio application³µ´Ñ
  - Debian TeX
- - Debian latexã®ç¾çŠ¶èª¿æŸ»
- - ä¸€å¹´é–“Debianå‹‰å¼·ä¼šã‚’ã‚„ã£ã¦ã¿ã¦
- - Debianå‹‰å¼·ä¼šã®äº‹å‰è³‡æ–™ã®ä½œæˆã¯ã©ã†ã‚„ã£ã¦ã‚„ã£ãŸã‹
- - ä¸€å¹´é–“Debianå‹‰å¼·ä¼šã‚’ã‚„ã£ã¦ã¿ã¦
- - Debconfã§é–‹å‚¬ã•ã‚ŒãŸä¼šè­°æ¦‚è¦
+ - Debian latex¤Î¸½¾õÄ´ºº
+ - °ìÇ¯´ÖDebianÊÙ¶¯²ñ¤ò¤ä¤Ã¤Æ¤ß¤Æ
+ - DebianÊÙ¶¯²ñ¤Î»öÁ°»ñÎÁ¤ÎºîÀ®¤Ï¤É¤¦¤ä¤Ã¤Æ¤ä¤Ã¤¿¤«
+ - °ìÇ¯´ÖDebianÊÙ¶¯²ñ¤ò¤ä¤Ã¤Æ¤ß¤Æ
+ - Debconf¤Ç³«ºÅ¤µ¤ì¤¿²ñµÄ³µÍ×
  - pbuilder cowdancer cowbuilder
  - Debian Weekly News trivia quiz
- - Debian Weekly News å•é¡Œå›ç­”
+ - Debian Weekly News ÌäÂê²óÅú
 
-** 2005å¹´å†¬å·
+** 2005Ç¯Åß¹æ
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2005-fuyu.pdf][2005å¹´å†¬å·PDF]] 
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2005-fuyu.pdf][2005Ç¯Åß¹æPDF]] 
 
- - ITPã®ä»•æ–¹ã‹ã‚‰ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰ã¾ã§ã®æµã‚Œ
- - debconfè«–
- - apt-listbugs ã®ç”Ÿã„ç«‹ã¡ã¨å®Ÿè£…
+ - ITP¤Î»ÅÊı¤«¤é¥¢¥Ã¥×¥í¡¼¥É¤Ş¤Ç¤ÎÎ®¤ì
+ - debconfÏÀ
+ - apt-listbugs ¤ÎÀ¸¤¤Î©¤Á¤È¼ÂÁõ
  - ``claim'' makes Debian better
  - Starting debconf translation
  - debbugs internal
- - Debianã¨ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹
- - Debian Weekly News ç¿»è¨³ãƒ•ãƒ­ãƒ¼
+ - Debian¤È¥¹¥Æ¡¼¥¿¥¹
+ - Debian Weekly News ËİÌõ¥Õ¥í¡¼
  - Debian Weekly News trivia quiz
 
-** 2005å¹´å¤å·
+** 2005Ç¯²Æ¹æ
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2005-natsu.pdf][2005å¹´å¤å·PDF]] 
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2005-natsu.pdf][2005Ç¯²Æ¹æPDF]] 
 
- - Debian Social Contractã«ã¤ã„ã¦
- - debhelperè«– ãã®1 Debhelperã¨ã¯ä½•ã‹ï¼å­˜åœ¨æ„ç¾©ã¯ä½•ã‹ï¼
- - debhelperè«– ãã®2 Debhelperã®å„ã‚³ãƒãƒ³ãƒ‰ã¯ä½•è€…ã‹ï¼
- - debhelperè«– ãã®3 Debhelperã®å‡¦ç†ã®æµã‚Œï¼
- - DFSGæ•™
+ - Debian Social Contract¤Ë¤Ä¤¤¤Æ
+ - debhelperÏÀ ¤½¤Î1 Debhelper¤È¤Ï²¿¤«¡¥Â¸ºß°ÕµÁ¤Ï²¿¤«¡¥
+ - debhelperÏÀ ¤½¤Î2 Debhelper¤Î³Æ¥³¥Ş¥ó¥É¤Ï²¿¼Ô¤«¡¥
+ - debhelperÏÀ ¤½¤Î3 Debhelper¤Î½èÍı¤ÎÎ®¤ì¡¥
+ - DFSG¶µ
  - dpkg-cross
- - alternatives -é¸æŠã›ã‚ˆ-
+ - alternatives -ÁªÂò¤»¤è-
  - Inside Debian-Installer
- - dpatchã‚’ã¤ã‹ã£ã¦ã¿ã‚ˆã†
+ - dpatch¤ò¤Ä¤«¤Ã¤Æ¤ß¤è¤¦
  - ``claim'' makes Debian better
  - Stating debconf translation
  - Debian Weekly News trivia quiz
 
 
-** ã“ã®ãƒšãƒ¼ã‚¸ã®ä½œæˆæ–¹æ³•
+** ¤³¤Î¥Ú¡¼¥¸¤ÎºîÀ®ÊıË¡
 
- make listtopic ã§ã§ã¦ããŸã‚‚ã®ã‚’é©å½“ã«ç·¨é›†
+ make listtopic ¤Ç¤Ç¤Æ¤­¤¿¤â¤Î¤òÅ¬Åö¤ËÊÔ½¸
