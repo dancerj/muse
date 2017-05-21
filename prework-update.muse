@@ -11,7 +11,7 @@
 <example>
 # apt-get install git make lv \
 texlive-latex-extra \
-texlive-lang-japanese latex-beamer poppler-data \
+texlive-lang-japanese latex-beamer poppler-data python-pygments \
 evince
 </example>
 
