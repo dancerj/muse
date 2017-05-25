@@ -57,7 +57,7 @@ google group¾å¤Ç¹Ô¤Ã¤Æ¤¤¤Ş¤¹¡£ÊÙ¶¯²ñ±¿±Ä¤Ë¶½Ì£¤¬¤¢¤ëÊı¤Ï ¥¦¥§¥Ö¥Ş¥¹¥¿¡¼¡¢ÊÙ¶¯²ñ±
 * ¥ê¥ó¥¯¤Ê¤É
 
  - [[hackcafe][ÉÔÄê´ü³«ºÅ¤Î¥Ï¥Ã¥¯¥«¥Õ¥§]]
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume200712.pdf][»ñÎÁ¤ÎÊÔ½¸Êı¿Ë¤Ê¤É¡Ê2007Ç¯12·îÍÑ»ñÎÁ¡Ë]]
+ - [[https://tokyodebian.alioth.debian.org/pdf/debianmeetingresume200712.pdf][»ñÎÁ¤ÎÊÔ½¸Êı¿Ë¤Ê¤É¡Ê2007Ç¯12·îÍÑ»ñÎÁ¡Ë]]
  - [[editing][¤³¤Î¥Ú¡¼¥¸¤ÎÊÔ½¸ÊıË¡]]
  - [[enkai][ÊÙ¶¯²ñ²ñ¾ì¶á¤¯¤Î±ã²ñ¾ğÊó]]
  - [[meetingroom][Èæ³ÓÅªÀ©¸Â¤¬¾¯¤Ê¤¤²ñµÄ¼¼¤Î¾ğÊó]]
