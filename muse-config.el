@@ -32,7 +32,7 @@
     <lisp>muse-html-style-sheet</lisp>
   </head>
   <body>
-    <p><a href=\"index.html\"><img src=\"http://www.debian.org/logos/openlogo-nd-25.png\" alt=\"debian-open-logo-nd\">æ±äº¬ã‚¨ãƒªã‚¢Debianå‹‰å¼·ä¼š</a></p>
+    <p><a href=\"index.html\"><img src=\"http://www.debian.org/logos/openlogo-nd-25.png\" alt=\"debian-open-logo-nd\">Åìµş¥¨¥ê¥¢DebianÊÙ¶¯²ñ</a></p>
     <h1><lisp>
   (concat (muse-publishing-directive \"title\")
           (let ((author (muse-publishing-directive \"author\")))
