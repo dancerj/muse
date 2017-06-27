@@ -1,0 +1,15 @@
+#title Debian / Ubuntu ユーザーミートアップ in 札幌 <lisp>year</lisp>.0<lisp>month</lisp>
+<lisp>(progn (setq year 2017) (setq month 7) (setq day 14)(setq eventid 60850) nil) </lisp>
+* 開催概要
+
+日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(金曜日) 19:00-21:00
+参加登録方法 | [[https://debianjp.connpass.com/event/<lisp>(format "%.5d" eventid)</lisp>/][connpass上での案内]]の掲示を見て参加申し込みをお願いします。
+
+* 勉強会の詳細
+
+ 勉強会の詳細は イベント管理サービスである [[http://debianjp.connpass.com/event/<lisp>(format "%.5d" eventid)</lisp>/][connpass]]に掲示しています。詳細はこちらを参照ください。
+
+* 資料
+
+* 参加報告
+
