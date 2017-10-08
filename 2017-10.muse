@@ -2,7 +2,7 @@
 <lisp>(progn (setq year 2017) (setq month 10) (setq day 21) (setq number 156) (setq eventid 69009) nil) </lisp>
 * 開催概要
 
-日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 13:00-18:00
+日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 14:00-19:00 <br>【注意】前回の開催時間から1時間後ろにずれています。
 参加登録方法 | [[https://debianjp.connpass.com/event/<lisp>(format "%.5d" eventid)</lisp>/][connpass上での案内]]の掲示を見て参加申し込みをお願いします。
 
 * 勉強会の詳細
