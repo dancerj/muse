@@ -13,6 +13,7 @@
 
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
+ - [[https://wiki.debian.org/HidekiYamane/material?action=AttachFile&do=get&target=Rethinking-debian-release.pdf][PDFプレゼンテーション資料「Rethinking Debian release」やまねひできさん]]
 
 * 参加報告
 
