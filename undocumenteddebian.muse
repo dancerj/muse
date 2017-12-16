@@ -7,6 +7,39 @@
 有志で紙媒体に印刷して有償で配布していますが、PDF形式でも配布しており、
 ここからダウンロードできます。
 
+** 2017年冬号
+
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2017-fuyu.pdf][2017年冬号PDF]]
+
+ - Introduction
+ - Debian で Lisp を動かす
+ - 初めてのキーサインパーティ
+ - caffとmail-transport-agent
+ - lxcについて
+ - Debian Strech で LXC を使う
+ - Debian on Pomera DM200 どのようにDebianマシンとして動くようにしたか
+ - Debian 9 Stretchのネットワークインターフェース名について
+ - Debian Stretchのインプットメソッドの現状
+ - Rethinking Debian release
+ - Debian Trivia Quiz
+ - Debian Trivia Quiz 問題回答
+
+** 2017年夏号
+
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2017-natsu.pdf][2017年夏号PDF]]
+
+ - Introduction
+ - Debian Updates
+ - debhepler 10の新機能を確認してみよう
+ - qmakeなQtアプリのdebを作ろうとして試行錯誤した話」
+ - Debianパッケージのカスタマイズについて
+ - Debbugsとのつきあいかた:SOAP編
+ - Debian Continuous Integration
+ - challenge: convert debian-policy doc from docbook to Sphinx
+ - 2016年の振り返りと2017年の企画
+ - Debian Trivia Quiz
+ - Debian Trivia Quiz 問題回答
+
 ** 2016年冬号
 
  - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2016-fuyu.pdf][2016年冬号PDF]]
