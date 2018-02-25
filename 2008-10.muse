@@ -1,53 +1,53 @@
-#title Âè<lisp> number</lisp>²óÅìµş¥¨¥ê¥¢DebianÊÙ¶¯²ñ¡¤<lisp>year</lisp>Ç¯<lisp>month</lisp>·îÊÙ¶¯²ñ 
+#title ç¬¬<lisp> number</lisp>å›æ±äº¬ã‚¨ãƒªã‚¢Debianå‹‰å¼·ä¼šï¼Œ<lisp>year</lisp>å¹´<lisp>month</lisp>æœˆå‹‰å¼·ä¼š 
 <lisp>(progn  (setq year 2008) (setq month 10) (setq day 4) (setq number 45) "") </lisp>
-* ³«ºÅ³µÍ×
+* é–‹å‚¬æ¦‚è¦
 
-Æü»ş | <lisp>year</lisp>Ç¯<lisp>month</lisp>·î<lisp>day</lisp>Æü(ÅÚÍËÆü) 18:00-21:00
-¾ì½ê | [[http://www.ospn.jp/osc2008-fall/][OSC 2008 Tokyo Fall]] ²ñ¾ì
-Äê°÷ | ¥»¥ß¥Ê¡¼:87Ì¾ / ¥ß¥Ë¥»¥ß¥Ê¡¼:ÉÔÌÀ
-»²²ÃÅĞÏ¿ÊıË¡ | OSC2008 Tokyo Fall ¤ÎWeb¥µ¥¤¥È¤«¤é¹Ô¤Ã¤Æ¤¯¤À¤µ¤¤(http://www.ospn.jp/osc2008-fall/)
-»²²ÃÈñÍÑ | ¤Ê¤·
+æ—¥æ™‚ | <lisp>year</lisp>å¹´<lisp>month</lisp>æœˆ<lisp>day</lisp>æ—¥(åœŸæ›œæ—¥) 18:00-21:00
+å ´æ‰€ | [[http://www.ospn.jp/osc2008-fall/][OSC 2008 Tokyo Fall]] ä¼šå ´
+å®šå“¡ | ã‚»ãƒŸãƒŠãƒ¼:87å / ãƒŸãƒ‹ã‚»ãƒŸãƒŠãƒ¼:ä¸æ˜
+å‚åŠ ç™»éŒ²æ–¹æ³• | OSC2008 Tokyo Fall ã®Webã‚µã‚¤ãƒˆã‹ã‚‰è¡Œã£ã¦ãã ã•ã„(http://www.ospn.jp/osc2008-fall/)
+å‚åŠ è²»ç”¨ | ãªã—
 
-* »öÁ°²İÂê
-¤Ê¤·
+* äº‹å‰èª²é¡Œ
+ãªã—
 
-* Å¸¼¨
-OSC 2008 Tokyo Fall ¤Ç¤ÏÅ¸¼¨¤ò¹Ô¤¤¤Ş¤¹¡£
- - Debian ¥¤¥ó¥¹¥È¡¼¥ëCD/Live-CD ¤ÎÇÛÉÛ
- - Debian ²ÄÆ°¥Ş¥·¥ó¤ÎÅ¸¼¨
- - Debian ÊÙ¶¯²ñ»ñÎÁ¤ÎÅ¸¼¨
- - Debian ´ØÏ¢½ñÀÒ¤ÎÅ¸¼¨
- - Debian ¼ÁÌäÈ¢
+* å±•ç¤º
+OSC 2008 Tokyo Fall ã§ã¯å±•ç¤ºã‚’è¡Œã„ã¾ã™ã€‚
+ - Debian ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«CD/Live-CD ã®é…å¸ƒ
+ - Debian å¯å‹•ãƒã‚·ãƒ³ã®å±•ç¤º
+ - Debian å‹‰å¼·ä¼šè³‡æ–™ã®å±•ç¤º
+ - Debian é–¢é€£æ›¸ç±ã®å±•ç¤º
+ - Debian è³ªå•ç®±
 
-* ÅöÆü¤Îagenda
+* å½“æ—¥ã®agenda
 
-»ş´Ö || ¥¿¥¤¥È¥ë || ÆâÍÆ || È¯É½¼Ô
-10:40-10:50 | ¥ß¥Ë¥»¥ß¥Ê¡¼: ¥ª¡¼¥×¥ó¥½¡¼¥¹¤Ç¤Î Flash ºÆÀ¸´Ä¶­ | ¼«Í³¤Ê¥½¥Õ¥È¥¦¥§¥¢¤Ç¹½À®¤µ¤ì¤ë Debian GNU/Linux¡£¥×¥í¥×¥é¥¨¥¿¥ê¤Ê¥½¥Õ¥È¥¦¥§¥¢¤ÎÂåÉ½¤Ç¤¢¤ë Adobe Flash-plugin ¤ò»È¤ï¤º¤Ë GNU/Linux ¾å¤ÇÀ¸¤­±ä¤Ó¤ëÊıË¡¤òÏÃ¤·¤·¤Ş¤¹¡£ | ´ä¾¾ ¿®ÍÎ
-11:15-12:00 | [[http://www.ospn.jp/osc2008-fall/modules/eguide/event.php?eid=17][¡Ö¤¢¤Ê¤¿¡×¤È¥ª¡¼¥×¥ó¥½¡¼¥¹¡¿¥Õ¥ê¡¼¥½¥Õ¥È¥¦¥§¥¢¡¢¤½¤·¤Æ¡ÖDebian¡×]] | ¥ª¡¼¥×¥ó¥½¡¼¥¹¡¿¥Õ¥ê¡¼¥½¥Õ¥È¥¦¥§¥¢¤Ï¡¢¡Ö¤¢¤Ê¤¿¡×¤Ë¤È¤Ã¤Æ¤É¤ó¤Ê²ÁÃÍ¤¬¤¢¤ë¤Î¤Ç¤·¤ç¤¦¤«¡©ÉÔÍø±×¤ò¤â¤¿¤é¤¹¤â¤Î¤Ê¤Î¤Ç¤·¤ç¤¦¤«¡©°ì¿Í¤Î¥Ü¥é¥ó¥Æ¥£¥¢³«È¯¼Ô¡¢¤½¤·¤Æ²ñ¼ÒÅù¤Ç¤ÎÍøÍÑ¼Ô¤È¤·¤Æ¤³¤ì¤é¤ËÀÜ¤¹¤ëÎ©¾ì¤«¤é²ş¤á¤Æ¹Í¤¨¤¿¤³¤È¤òÅÁ¤¨¤Ş¤¹¡£ | ¤ä¤Ş¤Í ¤Ò¤Ç¤­
-13:00-14:15 | [[http://www.ospn.jp/osc2008-fall/modules/eguide/event.php?eid=46][ÊÙ¶¯²ñÂç½¸¹ç Åìµş¥¨¥ê¥¢DebianÊÙ¶¯²ñ¤Î¾Ò²ğ]] | Åìµş¥¨¥ê¥¢DebianÊÙ¶¯²ñ¤Î¾Ò²ğ¤ÈÊÙ¶¯²ñ¤Î±¿±ÄÊıË¡¤Ê¤É¤Ë¤Ä¤¤¤Æ¤ªÏÃ¤·¤·¤Ş¤¹¡£ | ´ä¾¾ ¿®ÍÎ
+æ™‚é–“ || ã‚¿ã‚¤ãƒˆãƒ« || å†…å®¹ || ç™ºè¡¨è€…
+10:40-10:50 | ãƒŸãƒ‹ã‚»ãƒŸãƒŠãƒ¼: ã‚ªãƒ¼ãƒ—ãƒ³ã‚½ãƒ¼ã‚¹ã§ã® Flash å†ç”Ÿç’°å¢ƒ | è‡ªç”±ãªã‚½ãƒ•ãƒˆã‚¦ã‚§ã‚¢ã§æ§‹æˆã•ã‚Œã‚‹ Debian GNU/Linuxã€‚ãƒ—ãƒ­ãƒ—ãƒ©ã‚¨ã‚¿ãƒªãªã‚½ãƒ•ãƒˆã‚¦ã‚§ã‚¢ã®ä»£è¡¨ã§ã‚ã‚‹ Adobe Flash-plugin ã‚’ä½¿ã‚ãšã« GNU/Linux ä¸Šã§ç”Ÿãå»¶ã³ã‚‹æ–¹æ³•ã‚’è©±ã—ã—ã¾ã™ã€‚ | å²©æ¾ ä¿¡æ´‹
+11:15-12:00 | [[http://www.ospn.jp/osc2008-fall/modules/eguide/event.php?eid=17][ã€Œã‚ãªãŸã€ã¨ã‚ªãƒ¼ãƒ—ãƒ³ã‚½ãƒ¼ã‚¹ï¼ãƒ•ãƒªãƒ¼ã‚½ãƒ•ãƒˆã‚¦ã‚§ã‚¢ã€ãã—ã¦ã€ŒDebianã€]] | ã‚ªãƒ¼ãƒ—ãƒ³ã‚½ãƒ¼ã‚¹ï¼ãƒ•ãƒªãƒ¼ã‚½ãƒ•ãƒˆã‚¦ã‚§ã‚¢ã¯ã€ã€Œã‚ãªãŸã€ã«ã¨ã£ã¦ã©ã‚“ãªä¾¡å€¤ãŒã‚ã‚‹ã®ã§ã—ã‚‡ã†ã‹ï¼Ÿä¸åˆ©ç›Šã‚’ã‚‚ãŸã‚‰ã™ã‚‚ã®ãªã®ã§ã—ã‚‡ã†ã‹ï¼Ÿä¸€äººã®ãƒœãƒ©ãƒ³ãƒ†ã‚£ã‚¢é–‹ç™ºè€…ã€ãã—ã¦ä¼šç¤¾ç­‰ã§ã®åˆ©ç”¨è€…ã¨ã—ã¦ã“ã‚Œã‚‰ã«æ¥ã™ã‚‹ç«‹å ´ã‹ã‚‰æ”¹ã‚ã¦è€ƒãˆãŸã“ã¨ã‚’ä¼ãˆã¾ã™ã€‚ | ã‚„ã¾ã­ ã²ã§ã
+13:00-14:15 | [[http://www.ospn.jp/osc2008-fall/modules/eguide/event.php?eid=46][å‹‰å¼·ä¼šå¤§é›†åˆ æ±äº¬ã‚¨ãƒªã‚¢Debianå‹‰å¼·ä¼šã®ç´¹ä»‹]] | æ±äº¬ã‚¨ãƒªã‚¢Debianå‹‰å¼·ä¼šã®ç´¹ä»‹ã¨å‹‰å¼·ä¼šã®é‹å–¶æ–¹æ³•ãªã©ã«ã¤ã„ã¦ãŠè©±ã—ã—ã¾ã™ã€‚ | å²©æ¾ ä¿¡æ´‹
 
-* È¯É½»ñÎÁ
- - [[http://tokyodebian.alioth.debian.org/pdf/osc2008tokyo-fall-flash.pdf][¥ß¥Ë¥»¥ß¥Ê¡¼: ¥ª¡¼¥×¥ó¥½¡¼¥¹¤Ç¤Î Flash ºÆÀ¸´Ä¶­]]
- - [[http://wiki.debian.org/HidekiYamane?action=AttachFile&do=get&target=20081004_OSC-tokyo_fall.pdf][¡Ö¤¢¤Ê¤¿¡×¤È¥ª¡¼¥×¥ó¥½¡¼¥¹¡¿¥Õ¥ê¡¼¥½¥Õ¥È¥¦¥§¥¢¡¢¤½¤·¤Æ¡ÖDebian¡×]]
+* ç™ºè¡¨è³‡æ–™
+ - [[http://tokyodebian.alioth.debian.org/pdf/osc2008tokyo-fall-flash.pdf][ãƒŸãƒ‹ã‚»ãƒŸãƒŠãƒ¼: ã‚ªãƒ¼ãƒ—ãƒ³ã‚½ãƒ¼ã‚¹ã§ã® Flash å†ç”Ÿç’°å¢ƒ]]
+ - [[http://wiki.debian.org/HidekiYamane?action=AttachFile&do=get&target=20081004_OSC-tokyo_fall.pdf][ã€Œã‚ãªãŸã€ã¨ã‚ªãƒ¼ãƒ—ãƒ³ã‚½ãƒ¼ã‚¹ï¼ãƒ•ãƒªãƒ¼ã‚½ãƒ•ãƒˆã‚¦ã‚§ã‚¢ã€ãã—ã¦ã€ŒDebianã€]]
 
-* º©¿Æ²ñ
+* æ‡‡è¦ªä¼š
 
-²ñ¾ì | ³äË£ ÆóÍÕ http://portal.nifty.com/2007/02/20/a/
-»ş´Ö | 17:30-22:00
-²ñÈñ | 5000
-»²²ÃÅĞÏ¿ÊıË¡ | [[http://utage.org/enkai][±ã²ñ¤¯¤ó]]¤ËÅĞÏ¿¡¤±ã²ñ¥³¡¼¥É¤Ï debi-m<lisp>(format "%.4d%.2d" year month)</lisp>, <lisp>month</lisp>·î<lisp>(- day 2)</lisp>Æü¤Ş¤Ç¤ËÅĞÏ¿¤¯¤À¤µ¤¤¡¥
+ä¼šå ´ | å‰²çƒ¹ äºŒè‘‰ http://portal.nifty.com/2007/02/20/a/
+æ™‚é–“ | 17:30-22:00
+ä¼šè²» | 5000
+å‚åŠ ç™»éŒ²æ–¹æ³• | [[http://utage.org/enkai][å®´ä¼šãã‚“]]ã«ç™»éŒ²ï¼Œå®´ä¼šã‚³ãƒ¼ãƒ‰ã¯ debi-m<lisp>(format "%.4d%.2d" year month)</lisp>, <lisp>month</lisp>æœˆ<lisp>(- day 2)</lisp>æ—¥ã¾ã§ã«ç™»éŒ²ãã ã•ã„ï¼
 
 
-* »ñÎÁ
+* è³‡æ–™
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF»öÁ°ÇÛÉÛ»ñÎÁ]]¡¡(Ì¤´°À®)
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDF¥×¥ì¥¼¥ó¥Æ¡¼¥·¥ç¥ó»ñÎÁ]]¡¡(Ì¤´°À®)
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDFäº‹å‰é…å¸ƒè³‡æ–™]]ã€€(æœªå®Œæˆ)
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³è³‡æ–™]]ã€€(æœªå®Œæˆ)
 
-* »²²ÃÊó¹ğ
- - [[http://taka.no32.tk/diary/20081004.html#p03][¤¿¤«¤Î¤µ¤ó]]
- - [[http://popowa.com/nik/?date=20081004#p01][¤¢¤ä¤µ¤ó]]
- - [[http://blog.goo.ne.jp/ikunya/e/b38a2c5dbc678d27d191bcd7733de3e4][¤¤¤¯¤ä¤µ¤ó]]
- - [[http://d.hatena.ne.jp/mkouhei/20081005#1223132524][Á°ÅÄ¤µ¤ó]]
- - [[http://d.hatena.ne.jp/Megumi221/20081004][megumi211¤µ¤ó]]
- - [[http://d.hatena.ne.jp/haray/20081006#1223695065][haray¤µ¤ó]]
- - [[http://nigauri.org/~iwamatsu/d/?date=20081004#p01][´ä¾¾]]
+* å‚åŠ å ±å‘Š
+ - [[http://taka.no32.tk/diary/20081004.html#p03][ãŸã‹ã®ã•ã‚“]]
+ - [[http://popowa.com/nik/?date=20081004#p01][ã‚ã‚„ã•ã‚“]]
+ - [[http://blog.goo.ne.jp/ikunya/e/b38a2c5dbc678d27d191bcd7733de3e4][ã„ãã‚„ã•ã‚“]]
+ - [[http://d.hatena.ne.jp/mkouhei/20081005#1223132524][å‰ç”°ã•ã‚“]]
+ - [[http://d.hatena.ne.jp/Megumi221/20081004][megumi211ã•ã‚“]]
+ - [[http://d.hatena.ne.jp/haray/20081006#1223695065][harayã•ã‚“]]
+ - [[http://nigauri.org/~iwamatsu/d/?date=20081004#p01][å²©æ¾]]

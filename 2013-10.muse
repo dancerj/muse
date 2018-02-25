@@ -1,26 +1,26 @@
-#title Âè<lisp> number</lisp>²óÅìµş¥¨¥ê¥¢DebianÊÙ¶¯²ñ¡¢<lisp>year</lisp>Ç¯<lisp>month</lisp>·îÊÙ¶¯²ñ  <lisp>year</lisp> OSC½ĞÄ¥
+#title ç¬¬<lisp> number</lisp>å›æ±äº¬ã‚¨ãƒªã‚¢Debianå‹‰å¼·ä¼šã€<lisp>year</lisp>å¹´<lisp>month</lisp>æœˆå‹‰å¼·ä¼š  <lisp>year</lisp> OSCå‡ºå¼µ
 <lisp>(progn (setq year 2013) (setq month 10) (setq day 20) (setq number 105) (setq eventid "") "") </lisp>
-* ³«ºÅ³µÍ×
+* é–‹å‚¬æ¦‚è¦
 
-Åìµş¥¨¥ê¥¢DebianÊÙ¶¯²ñ¤Ï¡¢<lisp>year</lisp> OSC Tokyo/Fall¤Ë»²²Ã¤·¤Ş¤¹¡£
+æ±äº¬ã‚¨ãƒªã‚¢Debianå‹‰å¼·ä¼šã¯ã€<lisp>year</lisp> OSC Tokyo/Fallã«å‚åŠ ã—ã¾ã™ã€‚
 
-Æü»ş    | <lisp>year</lisp>Ç¯<lisp>month</lisp>·î<lisp>day</lisp>Æü(ÆüÍËÆü)
-²ñ¾ì°ÆÆâ | [[http://www.ospn.jp/osc2013-fall/][OSC <lisp>year</lisp> Tokyo/Fall ²ñ¾ì(ÌÀÀ±Âç³Ø ÆüÌî¥­¥ã¥ó¥Ñ¥¹ 28¹æ´Û)]]
+æ—¥æ™‚    | <lisp>year</lisp>å¹´<lisp>month</lisp>æœˆ<lisp>day</lisp>æ—¥(æ—¥æ›œæ—¥)
+ä¼šå ´æ¡ˆå†… | [[http://www.ospn.jp/osc2013-fall/][OSC <lisp>year</lisp> Tokyo/Fall ä¼šå ´(æ˜æ˜Ÿå¤§å­¦ æ—¥é‡ã‚­ãƒ£ãƒ³ãƒ‘ã‚¹ 28å·é¤¨)]]
 
-* ÅöÆü¤Îagenda
+* å½“æ—¥ã®agenda
 
-»ş´Ö || ÆâÍÆ || ³µÍ× || È¯É½¼Ô
-<lisp>month</lisp>/<lisp>day</lisp>(Æü) 10:00-10:45 | Debian ºÇ¶á¤Îupdate | Debian¤ÎºÇ¿·¾ğÊó¤Ë¤Ä¤¤¤Æ | ÌîÅç
-<lisp>month</lisp>/<lisp>day</lisp>(Æü) ½ªÆü | Debian¥Ö¡¼¥¹½ĞÅ¸Ãæ | Debian¥Ö¡¼¥¹¤ò½Ğ¤·¤Æ¤¤¤Ş¤¹ | µÈÅÄ¡¢ÌîÅç
+æ™‚é–“ || å†…å®¹ || æ¦‚è¦ || ç™ºè¡¨è€…
+<lisp>month</lisp>/<lisp>day</lisp>(æ—¥) 10:00-10:45 | Debian æœ€è¿‘ã®update | Debianã®æœ€æ–°æƒ…å ±ã«ã¤ã„ã¦ | é‡å³¶
+<lisp>month</lisp>/<lisp>day</lisp>(æ—¥) çµ‚æ—¥ | Debianãƒ–ãƒ¼ã‚¹å‡ºå±•ä¸­ | Debianãƒ–ãƒ¼ã‚¹ã‚’å‡ºã—ã¦ã„ã¾ã™ | å‰ç”°ã€é‡å³¶
 
- - Ãí°Õ¡§<lisp>month</lisp>/<lisp>day</lisp>(Æü)¤Î¤ßÈ¯É½µÚ¤Ó½ĞÅ¸¤È¤Ê¤ê¤Ş¤¹¡£Á°Æü¤ÎOSC¼çºÅÆü¤Ç¤¢¤ë10/19(ÅÚ)¤ÎÊı¤ÏÅöÊÙ¶¯²ñ¤ÏÁ´¤¯½ĞÅ¸¤·¤Æ¤¤¤Ş¤»¤ó¤Î¤Ç¡¢¤´Ãí°Õ¤¯¤À¤µ¤¤¡£
+ - æ³¨æ„ï¼š<lisp>month</lisp>/<lisp>day</lisp>(æ—¥)ã®ã¿ç™ºè¡¨åŠã³å‡ºå±•ã¨ãªã‚Šã¾ã™ã€‚å‰æ—¥ã®OSCä¸»å‚¬æ—¥ã§ã‚ã‚‹10/19(åœŸ)ã®æ–¹ã¯å½“å‹‰å¼·ä¼šã¯å…¨ãå‡ºå±•ã—ã¦ã„ã¾ã›ã‚“ã®ã§ã€ã”æ³¨æ„ãã ã•ã„ã€‚
 
-* º©¿Æ²ñ
+* æ‡‡è¦ªä¼š
 
-Ì¤Äê
+æœªå®š
 
-* »ñÎÁ
+* è³‡æ–™
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDF¥×¥ì¥¼¥ó¥Æ¡¼¥·¥ç¥ó»ñÎÁ]]
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³è³‡æ–™]]
 
-* »²²ÃÊó¹ğ
+* å‚åŠ å ±å‘Š

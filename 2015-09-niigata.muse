@@ -1,18 +1,18 @@
-#title Åìµş¥¨¥ê¥¢DebianÊÙ¶¯²ñ OSC 2015 Niigata½ĞÄ¥ÈÇ
+#title æ±äº¬ã‚¨ãƒªã‚¢Debianå‹‰å¼·ä¼š OSC 2015 Niigataå‡ºå¼µç‰ˆ
 <lisp>(progn (setq year 2015) (setq month 9) (setq day 5) (setq number 130) (setq eventid "") nil) </lisp>
-* ³«ºÅ³µÍ×
+* é–‹å‚¬æ¦‚è¦
 
-Æü»ş | <lisp>year</lisp>Ç¯<lisp>month</lisp>·î<lisp>day</lisp>Æü(ÅÚÍËÆü) 10:30-17:30 
-¾ì½ê | [[http://www.ospn.jp/osc2015-niigata/][¥ª¡¼¥×¥ó¥½¡¼¥¹¥«¥ó¥Õ¥¡¥ì¥ó¥¹ 2015 Niigata (¤Û¤ó¤İ¡¼¤È¿·³ã»ÔÎ©Ãæ±û¿Ş½ñ´Û 3F Â¿ÌÜÅª¥Û¡¼¥ë)]]
-* ¥Ö¡¼¥¹¤È¥»¥ß¥Ê¤Î¾ÜºÙ
+æ—¥æ™‚ | <lisp>year</lisp>å¹´<lisp>month</lisp>æœˆ<lisp>day</lisp>æ—¥(åœŸæ›œæ—¥) 10:30-17:30 
+å ´æ‰€ | [[http://www.ospn.jp/osc2015-niigata/][ã‚ªãƒ¼ãƒ—ãƒ³ã‚½ãƒ¼ã‚¹ã‚«ãƒ³ãƒ•ã‚¡ãƒ¬ãƒ³ã‚¹ 2015 Niigata (ã»ã‚“ã½ãƒ¼ã¨æ–°æ½Ÿå¸‚ç«‹ä¸­å¤®å›³æ›¸é¤¨ 3F å¤šç›®çš„ãƒ›ãƒ¼ãƒ«)]]
+* ãƒ–ãƒ¼ã‚¹ã¨ã‚»ãƒŸãƒŠã®è©³ç´°
 
- OSC 2015 Niigata¤Ë·Ç¼¨¤ò¤·¤Æ¤¤¤Ş¤¹¡£¾Ü¤·¤¯¤Ï¡¢
-[[http://www.ospn.jp/osc2015-niigata/][¥ª¡¼¥×¥ó¥½¡¼¥¹¥«¥ó¥Õ¥¡¥ì¥ó¥¹ 2015 Niigata]]
-¤ò»²¾È¤¯¤À¤µ¤¤¡£
+ OSC 2015 Niigataã«æ²ç¤ºã‚’ã—ã¦ã„ã¾ã™ã€‚è©³ã—ãã¯ã€
+[[http://www.ospn.jp/osc2015-niigata/][ã‚ªãƒ¼ãƒ—ãƒ³ã‚½ãƒ¼ã‚¹ã‚«ãƒ³ãƒ•ã‚¡ãƒ¬ãƒ³ã‚¹ 2015 Niigata]]
+ã‚’å‚ç…§ãã ã•ã„ã€‚
 
-* »ñÎÁ
+* è³‡æ–™
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d" year)</lisp>-osc2015-niigata-presentation.pdf][PDF¥×¥ì¥¼¥ó¥Æ¡¼¥·¥ç¥ó»ñÎÁ]]
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d" year)</lisp>-osc2015-niigata-presentation.pdf][PDFãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³è³‡æ–™]]
 
-* »²²ÃÊó¹ğ
+* å‚åŠ å ±å‘Š
 

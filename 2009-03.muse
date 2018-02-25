@@ -1,45 +1,45 @@
-#title Âè<lisp> number</lisp>²óÅìµş¥¨¥ê¥¢DebianÊÙ¶¯²ñ¡¢<lisp>year</lisp>Ç¯<lisp>month</lisp>·îÊÙ¶¯²ñ
+#title ç¬¬<lisp> number</lisp>å›æ±äº¬ã‚¨ãƒªã‚¢Debianå‹‰å¼·ä¼šã€<lisp>year</lisp>å¹´<lisp>month</lisp>æœˆå‹‰å¼·ä¼š
 <lisp>(progn  (setq year 2009) (setq month 3) (setq day 21) (setq number 50) "") </lisp>
-* ³«ºÅ³µÍ×
+* é–‹å‚¬æ¦‚è¦
 
-Æü»ş | <lisp>year</lisp>Ç¯<lisp>month</lisp>·î<lisp>day</lisp>Æü(ÅÚÍËÆü) 15:00-19:00
-¾ì½ê | [[http://www.u-tokyo.ac.jp/campusmap/cam01_04_03_j.html][ÅìµşÂç³Ø ¹©³ØÉô2¹æ´Û 211¹æ¹ÖµÁ¼¼]] 2 ¹æ´ÛÀ¾Â¦¤Î¥²¡¼¥È, ¤ª¤è¤ÓÆş¤Ã¤Æº¸¼ê¤Î¥É¥¢¤«¤éÆş´Û
-Äê°÷ | 30¿Í
-»²²ÃÅĞÏ¿ÊıË¡ | [[http://utage.org/enkai][±ã²ñ¤¯¤ó]]¤ËÅĞÏ¿¡¢±ã²ñ¥³¡¼¥É¤Ï debi-m<lisp>(format "%.4d%.2d" year month)</lisp>¡¢ <lisp>month</lisp>·î<lisp>(- day 2)</lisp>Æü¤Ş¤Ç¤ËÅĞÏ¿¤¯¤À¤µ¤¤¡£¿½¹ş¤Îºİ¤Ë»öÁ°²İÂê¤òÄó½Ğ¤¯¤À¤µ¤¤¡£¤Ş¤¿¡¢¤½¤Î¸å¤Î±ã²ñ¤Ë»²²Ã¤µ¤ì¤¿¤¤¤«¤¿¤Ï¡¢¥³¥á¥ó¥ÈÍó¤Ë¡Ö±ã²ñ»²²Ã¤¹¤ë¡×¤Èµ­½Ò¤¯¤À¤µ¤¤¡£
+æ—¥æ™‚ | <lisp>year</lisp>å¹´<lisp>month</lisp>æœˆ<lisp>day</lisp>æ—¥(åœŸæ›œæ—¥) 15:00-19:00
+å ´æ‰€ | [[http://www.u-tokyo.ac.jp/campusmap/cam01_04_03_j.html][æ±äº¬å¤§å­¦ å·¥å­¦éƒ¨2å·é¤¨ 211å·è¬›ç¾©å®¤]] 2 å·é¤¨è¥¿å´ã®ã‚²ãƒ¼ãƒˆ, ãŠã‚ˆã³å…¥ã£ã¦å·¦æ‰‹ã®ãƒ‰ã‚¢ã‹ã‚‰å…¥é¤¨
+å®šå“¡ | 30äºº
+å‚åŠ ç™»éŒ²æ–¹æ³• | [[http://utage.org/enkai][å®´ä¼šãã‚“]]ã«ç™»éŒ²ã€å®´ä¼šã‚³ãƒ¼ãƒ‰ã¯ debi-m<lisp>(format "%.4d%.2d" year month)</lisp>ã€ <lisp>month</lisp>æœˆ<lisp>(- day 2)</lisp>æ—¥ã¾ã§ã«ç™»éŒ²ãã ã•ã„ã€‚ç”³è¾¼ã®éš›ã«äº‹å‰èª²é¡Œã‚’æå‡ºãã ã•ã„ã€‚ã¾ãŸã€ãã®å¾Œã®å®´ä¼šã«å‚åŠ ã•ã‚ŒãŸã„ã‹ãŸã¯ã€ã‚³ãƒ¡ãƒ³ãƒˆæ¬„ã«ã€Œå®´ä¼šå‚åŠ ã™ã‚‹ã€ã¨è¨˜è¿°ãã ã•ã„ã€‚
 
 
 
-* »öÁ°²İÂê
+* äº‹å‰èª²é¡Œ
 
-º£²ó¤Ï¤¢¤ê¤Ş¤»¤ó¡£
+ä»Šå›ã¯ã‚ã‚Šã¾ã›ã‚“ã€‚
 
-* ÅöÆü¤Îagenda
+* å½“æ—¥ã®agenda
 
-»ş´Ö || ÆâÍÆ || ³µÍ× || È¯É½¼Ô
-15:10- | DWN trivia quiz | Debian ´ØÏ¢¤Î¥Ë¥å¡¼¥¹¤Ë¤ª¤¤¤Ä¤¤¤Æ¤¤¤Ş¤¹¤«? ´ÊÃ±¤Ê¥¯¥¤¥º¤ÇDebian¾ï¼±¥Æ¥¹¥È¤·¤Á¤ã¤¤¤Ş¤¹ | ¾åÀî ½ã°ì
-16:00- | ¸¦µæ¼¼¤Î¥½¥Õ¥È¥¦¥§¥¢¤ò Debian ¥Ñ¥Ã¥±¡¼¥¸¤Ë¤·¤Æ¤ß¤ë | ¸¦µæ¼¼¤Ç»È¤ï¤ì¤Æ¤¤¤ë¥Õ¥ê¡¼¥½¥Õ¥È¥¦¥§¥¢¤ò Debian ¥Ñ¥Ã¥±¡¼¥¸¤Ë¤·¤Æ¤ß¤¿¤Î¤Ç¡¢¤½¤Î²áÄø¤òÀâÌÀ¤·¤Ş¤¹ | Æ£ß· Å°
-17:00- | Debian ¤Ç¤Î Common Lisp¥×¥í¥°¥é¥ß¥ó¥°´Ä¶­ | Debian ¤Ç¤Î Common Lisp À¸³èÊıË¡¤Ë¤Ä¤¤¤ÆÀâÌÀ¤·¤Ş¤¹ | ÆüÈæÌî ·¼
+æ™‚é–“ || å†…å®¹ || æ¦‚è¦ || ç™ºè¡¨è€…
+15:10- | DWN trivia quiz | Debian é–¢é€£ã®ãƒ‹ãƒ¥ãƒ¼ã‚¹ã«ãŠã„ã¤ã„ã¦ã„ã¾ã™ã‹? ç°¡å˜ãªã‚¯ã‚¤ã‚ºã§Debianå¸¸è­˜ãƒ†ã‚¹ãƒˆã—ã¡ã‚ƒã„ã¾ã™ | ä¸Šå· ç´”ä¸€
+16:00- | ç ”ç©¶å®¤ã®ã‚½ãƒ•ãƒˆã‚¦ã‚§ã‚¢ã‚’ Debian ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã«ã—ã¦ã¿ã‚‹ | ç ”ç©¶å®¤ã§ä½¿ã‚ã‚Œã¦ã„ã‚‹ãƒ•ãƒªãƒ¼ã‚½ãƒ•ãƒˆã‚¦ã‚§ã‚¢ã‚’ Debian ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã«ã—ã¦ã¿ãŸã®ã§ã€ãã®éç¨‹ã‚’èª¬æ˜ã—ã¾ã™ | è—¤æ¾¤ å¾¹
+17:00- | Debian ã§ã® Common Lispãƒ—ãƒ­ã‚°ãƒ©ãƒŸãƒ³ã‚°ç’°å¢ƒ | Debian ã§ã® Common Lisp ç”Ÿæ´»æ–¹æ³•ã«ã¤ã„ã¦èª¬æ˜ã—ã¾ã™ | æ—¥æ¯”é‡ å•“
 
-* º©¿Æ²ñ
+* æ‡‡è¦ªä¼š
 
-²ñ¾ì | ²ñ¾ì¶áÊÕ¤Ç¾ì½ê¤ò³ÎÊİ¤¹¤ëÍ½Äê¤Ç¤¹¡¢Ä¾Á°¤Ë·èÄê¤·¤Ş¤¹
-»ş´Ö | 19:00-21:00
-²ñÈñ | 5000 (³ØÀ¸¤Î»²²ÃÈñÍÑ¤Ï¸ºÌÈ¤·¤Ş¤¹)
-»²²ÃÅĞÏ¿ | ±ã²ñ¤¯¤ó¤ËÅĞÏ¿¤¹¤ëºİ¤ËÉ½ÌÀ¤·¤Æ¤¯¤À¤µ¤¤
+ä¼šå ´ | ä¼šå ´è¿‘è¾ºã§å ´æ‰€ã‚’ç¢ºä¿ã™ã‚‹äºˆå®šã§ã™ã€ç›´å‰ã«æ±ºå®šã—ã¾ã™
+æ™‚é–“ | 19:00-21:00
+ä¼šè²» | 5000 (å­¦ç”Ÿã®å‚åŠ è²»ç”¨ã¯æ¸›å…ã—ã¾ã™)
+å‚åŠ ç™»éŒ² | å®´ä¼šãã‚“ã«ç™»éŒ²ã™ã‚‹éš›ã«è¡¨æ˜ã—ã¦ãã ã•ã„
 
-* »ñÎÁ
+* è³‡æ–™
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF»öÁ°ÇÛÉÛ»ñÎÁ]]
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDF¥×¥ì¥¼¥ó¥Æ¡¼¥·¥ç¥ó»ñÎÁ]]
- - [[http://tokyodebian.alioth.debian.org/pdf/hibono-commonlisp-200903.odp][Common-Lisp ¥×¥ì¥¼¥ó¥Æ¡¼¥·¥ç¥ó»ñÎÁ]]
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDFäº‹å‰é…å¸ƒè³‡æ–™]]
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³è³‡æ–™]]
+ - [[http://tokyodebian.alioth.debian.org/pdf/hibono-commonlisp-200903.odp][Common-Lisp ãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³è³‡æ–™]]
 
-* »²²ÃÊó¹ğ
+* å‚åŠ å ±å‘Š
 
- - [[http://www.netfort.gr.jp/~dancer/diary/daily/2009-Mar-22.html.ja#2009-Mar-22-10:06:01][¾åÀî]]
+ - [[http://www.netfort.gr.jp/~dancer/diary/daily/2009-Mar-22.html.ja#2009-Mar-22-10:06:01][ä¸Šå·]]
  - [[http://blog.livedoor.jp/tyamada22/archives/779483.html][tyamada]]
  - [[http://d.hatena.ne.jp/mkouhei/20090322/1237688647][mkouhei]]
  - [[http://d.hatena.ne.jp/jitsu102/20090321/1237643841][jitsu]]
- - [[http://d.hatena.ne.jp/gunshot/20090321/p1][µÈÅÄ@ÈÄ¶¶]]
+ - [[http://d.hatena.ne.jp/gunshot/20090321/p1][å‰ç”°@æ¿æ©‹]]
  - [[http://www.nigauri.org/~iwamatsu/d/?date=20090322#p01][iwamatsu]]
  - [[http://d.hatena.ne.jp/risouf/20090322/debianmeeting][risou]]
- - [[http://d.hatena.ne.jp/sasakyh/20090321][¤µ¤µ¤­]]
+ - [[http://d.hatena.ne.jp/sasakyh/20090321][ã•ã•ã]]

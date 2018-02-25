@@ -1,26 +1,26 @@
-#title Âè<lisp> number</lisp>²óÅìµş¥¨¥ê¥¢DebianÊÙ¶¯²ñ¡¢<lisp>year</lisp>Ç¯<lisp>month</lisp>·îÊÙ¶¯²ñ OSC <lisp>year</lisp> Tokyo/Fall½ĞÄ¥
+#title ç¬¬<lisp> number</lisp>å›æ±äº¬ã‚¨ãƒªã‚¢Debianå‹‰å¼·ä¼šã€<lisp>year</lisp>å¹´<lisp>month</lisp>æœˆå‹‰å¼·ä¼š OSC <lisp>year</lisp> Tokyo/Fallå‡ºå¼µ
 <lisp>(progn (setq year 2017) (setq month 9) (setq day 10) (setq number 154) (setq eventid "") "") </lisp>
-* ³«ºÅ³µÍ×
+* é–‹å‚¬æ¦‚è¦
 
-Åìµş¥¨¥ê¥¢DebianÊÙ¶¯²ñ¤Ï¡¢OSC <lisp>year</lisp> Tokyo/Fall¤Ë»²²Ã¤·¤Ş¤¹¡£
+æ±äº¬ã‚¨ãƒªã‚¢Debianå‹‰å¼·ä¼šã¯ã€OSC <lisp>year</lisp> Tokyo/Fallã«å‚åŠ ã—ã¾ã™ã€‚
 
-Æü»ş    | <lisp>year</lisp>Ç¯<lisp>month</lisp>·î<lisp>day</lisp>Æü(ÆüÍËÆü)
-²ñ¾ì°ÆÆâ | [[http://www.ospn.jp/osc2017-fall/][OSC <lisp>year</lisp> Tokyo/Fall ²ñ¾ì(ÌÀÀ±Âç³Ø ÆüÌî¥­¥ã¥ó¥Ñ¥¹ 28¹æ´Û)]]
+æ—¥æ™‚    | <lisp>year</lisp>å¹´<lisp>month</lisp>æœˆ<lisp>day</lisp>æ—¥(æ—¥æ›œæ—¥)
+ä¼šå ´æ¡ˆå†… | [[http://www.ospn.jp/osc2017-fall/][OSC <lisp>year</lisp> Tokyo/Fall ä¼šå ´(æ˜æ˜Ÿå¤§å­¦ æ—¥é‡ã‚­ãƒ£ãƒ³ãƒ‘ã‚¹ 28å·é¤¨)]]
 
-* ÅöÆü¤Îagenda
+* å½“æ—¥ã®agenda
 
-»ş´Ö || ÆâÍÆ || ³µÍ× || È¯É½¼Ô
-<lisp>month</lisp>/<lisp>day</lisp>(Æü) 15:15-16:00 | Debian updates | 6·î¤Ë¥ê¥ê¡¼¥¹¤·¤¿Debian 9 (¥³¡¼¥É¥Í¡¼¥à Stretch¡Ë¤ÎÏÃÂê¤òÃæ¿´¤ËºÇ¶á¤ÎDebian Project ³¦·¨¤Î¥È¥Ô¥Ã¥¯¤ò¾Ò²ğ¤·¤Ş¤¹¡£ | ¿ùËÜ
-<lisp>month</lisp>/<lisp>day</lisp>(Æü) ½ªÆü | Debian¥Ö¡¼¥¹½ĞÅ¸ | Debian¥Ö¡¼¥¹¤ò½Ğ¤·¤Æ¤¤¤Ş¤¹¡£Debian²ÔÆ¯¥Ş¥·¥ó¤ä²áµîÊÙ¶¯²ñ»ñÎÁ¤ÎÅ¸¼¨Åù¤ò¹Ô¤¤¤Ş¤¹¡£ | ´ä¾¾¡¢¿ùËÜ
+æ™‚é–“ || å†…å®¹ || æ¦‚è¦ || ç™ºè¡¨è€…
+<lisp>month</lisp>/<lisp>day</lisp>(æ—¥) 15:15-16:00 | Debian updates | 6æœˆã«ãƒªãƒªãƒ¼ã‚¹ã—ãŸDebian 9 (ã‚³ãƒ¼ãƒ‰ãƒãƒ¼ãƒ  Stretchï¼‰ã®è©±é¡Œã‚’ä¸­å¿ƒã«æœ€è¿‘ã®Debian Project ç•Œéšˆã®ãƒˆãƒ”ãƒƒã‚¯ã‚’ç´¹ä»‹ã—ã¾ã™ã€‚ | æ‰æœ¬
+<lisp>month</lisp>/<lisp>day</lisp>(æ—¥) çµ‚æ—¥ | Debianãƒ–ãƒ¼ã‚¹å‡ºå±• | Debianãƒ–ãƒ¼ã‚¹ã‚’å‡ºã—ã¦ã„ã¾ã™ã€‚Debianç¨¼åƒãƒã‚·ãƒ³ã‚„éå»å‹‰å¼·ä¼šè³‡æ–™ã®å±•ç¤ºç­‰ã‚’è¡Œã„ã¾ã™ã€‚ | å²©æ¾ã€æ‰æœ¬
 
- - Ãí°Õ¡§OSC¤Ï2Æü´Ö¤Î³«ºÅ¤Ç¤¹¤¬¡¢Åìµş¥¨¥ê¥¢DebianÊÙ¶¯²ñ¤Î½ĞÅ¸¤Ï9/10(Æü)¤Î¤ß¤È¤Ê¤ê¤Ş¤¹¡£
+ - æ³¨æ„ï¼šOSCã¯2æ—¥é–“ã®é–‹å‚¬ã§ã™ãŒã€æ±äº¬ã‚¨ãƒªã‚¢Debianå‹‰å¼·ä¼šã®å‡ºå±•ã¯9/10(æ—¥)ã®ã¿ã¨ãªã‚Šã¾ã™ã€‚
 
-* º©¿Æ²ñ
+* æ‡‡è¦ªä¼š
 
-¤Ê¤·
+ãªã—
 
-* »ñÎÁ
+* è³‡æ–™
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-osc2017fall-presentation.pdf][PDF¥×¥ì¥¼¥ó¥Æ¡¼¥·¥ç¥ó»ñÎÁ]]
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-osc2017fall-presentation.pdf][PDFãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³è³‡æ–™]]
 
-* »²²ÃÊó¹ğ
+* å‚åŠ å ±å‘Š

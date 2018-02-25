@@ -1,19 +1,19 @@
-#title Âè<lisp> number</lisp>²óÅìµş¥¨¥ê¥¢DebianÊÙ¶¯²ñ¡¢<lisp>year</lisp>Ç¯<lisp>month</lisp>·îÊÙ¶¯²ñ<br>µÚ¤ÓDebian 9 (stretch) ¥ê¥ê¡¼¥¹¥Ñ¡¼¥Æ¥£
+#title ç¬¬<lisp> number</lisp>å›æ±äº¬ã‚¨ãƒªã‚¢Debianå‹‰å¼·ä¼šã€<lisp>year</lisp>å¹´<lisp>month</lisp>æœˆå‹‰å¼·ä¼š<br>åŠã³Debian 9 (stretch) ãƒªãƒªãƒ¼ã‚¹ãƒ‘ãƒ¼ãƒ†ã‚£
 <lisp>(progn (setq year 2017) (setq month 6) (setq day 18) (setq number 152) (setq eventid 58439) nil) </lisp>
-* ³«ºÅ³µÍ×
+* é–‹å‚¬æ¦‚è¦
 
-Æü»ş | <lisp>year</lisp>Ç¯<lisp>month</lisp>·î<lisp>day</lisp>Æü(ÆüÍËÆü) 10:00-17:00<br> **º£²ó¤Ï³«ºÅÆü¤¬ÆüÍËÆü¤ØÊÑ¹¹¤È¤Ê¤Ã¤Æ¤¤¤Ş¤¹¡£¤´Ãí°Õ¤¯¤À¤µ¤¤¡£**
-»²²ÃÅĞÏ¿ÊıË¡ | [[http://debianjp.connpass.com/event/<lisp>(format "%.5d" eventid)</lisp>/][connpass¾å¤Ç¤Î°ÆÆâ]]¤Î·Ç¼¨¤ò¸«¤Æ»²²Ã¿½¤·¹ş¤ß¤ò¤ª´ê¤¤¤·¤Ş¤¹¡£
+æ—¥æ™‚ | <lisp>year</lisp>å¹´<lisp>month</lisp>æœˆ<lisp>day</lisp>æ—¥(æ—¥æ›œæ—¥) 10:00-17:00<br> **ä»Šå›ã¯é–‹å‚¬æ—¥ãŒæ—¥æ›œæ—¥ã¸å¤‰æ›´ã¨ãªã£ã¦ã„ã¾ã™ã€‚ã”æ³¨æ„ãã ã•ã„ã€‚**
+å‚åŠ ç™»éŒ²æ–¹æ³• | [[http://debianjp.connpass.com/event/<lisp>(format "%.5d" eventid)</lisp>/][connpassä¸Šã§ã®æ¡ˆå†…]]ã®æ²ç¤ºã‚’è¦‹ã¦å‚åŠ ç”³ã—è¾¼ã¿ã‚’ãŠé¡˜ã„ã—ã¾ã™ã€‚
 
-* ÊÙ¶¯²ñ¤Î¾ÜºÙ
+* å‹‰å¼·ä¼šã®è©³ç´°
 
- ÊÙ¶¯²ñ¤Î¾ÜºÙ¤Ï ¥¤¥Ù¥ó¥È´ÉÍı¥µ¡¼¥Ó¥¹¤Ç¤¢¤ë [[http://debianjp.connpass.com/event/<lisp>(format "%.5d" eventid)</lisp>/][connpass]]¤Ë·Ç¼¨¤·¤Æ¤¤¤Ş¤¹¡£¾ÜºÙ¤Ï¥ê¥ó¥¯Àè¤ò»²¾È¤¯¤À¤µ¤¤¡£
+ å‹‰å¼·ä¼šã®è©³ç´°ã¯ ã‚¤ãƒ™ãƒ³ãƒˆç®¡ç†ã‚µãƒ¼ãƒ“ã‚¹ã§ã‚ã‚‹ [[http://debianjp.connpass.com/event/<lisp>(format "%.5d" eventid)</lisp>/][connpass]]ã«æ²ç¤ºã—ã¦ã„ã¾ã™ã€‚è©³ç´°ã¯ãƒªãƒ³ã‚¯å…ˆã‚’å‚ç…§ãã ã•ã„ã€‚
 
-* »ñÎÁ
+* è³‡æ–™
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF»öÁ°ÇÛÉÛ»ñÎÁ]]
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDF¥×¥ì¥¼¥ó¥Æ¡¼¥·¥ç¥ó»ñÎÁ]]
- - [[https://docs.google.com/presentation/d/1gQfk8hXHimfU8bJFuKjhu9VH9vbU0_4CJu9mSh9Dmiw/edit#slide=id.p][¡Öchallenge:  convert policy doc from docbook to Sphinx¡× ¥×¥ì¥¼¥ó¥Æ¡¼¥·¥ç¥ó»ñÎÁ(henrich¤µ¤ó)]]
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDFäº‹å‰é…å¸ƒè³‡æ–™]]
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³è³‡æ–™]]
+ - [[https://docs.google.com/presentation/d/1gQfk8hXHimfU8bJFuKjhu9VH9vbU0_4CJu9mSh9Dmiw/edit#slide=id.p][ã€Œchallenge:  convert policy doc from docbook to Sphinxã€ ãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³è³‡æ–™(henrichã•ã‚“)]]
 
-* »²²ÃÊó¹ğ
+* å‚åŠ å ±å‘Š
 

@@ -1,26 +1,26 @@
-#title OSC 2010 ËÌ³¤Æ» / Åìµş¥¨¥ê¥¢Debian½ĞÄ¥ÊÙ¶¯²ñ
+#title OSC 2010 åŒ—æµ·é“ / æ±äº¬ã‚¨ãƒªã‚¢Debianå‡ºå¼µå‹‰å¼·ä¼š
 <lisp>(progn (setq year 2010) (setq month 6) (setq day 26) (setq number 65) (setq eventid "") "") </lisp>
-* ³«ºÅ³µÍ×
+* é–‹å‚¬æ¦‚è¦
 
-Æü»ş | <lisp>year</lisp>Ç¯<lisp>month</lisp>·î<lisp>day</lisp>Æü(ÅÚÍËÆü) 10:15 - 11:00
-¾ì½ê | [[http://www.sapporosansin.jp/access/][»¥ËÚ»Ô»º¶È¿¶¶½¥»¥ó¥¿¡¼ »º¶È¿¶¶½Åï2F(Áí¹ç¼õÉÕ)]] 
-Äê°÷ | 20Ì¾
-»²²ÃÅĞÏ¿ÊıË¡ | OSC 2010 ËÌ³¤Æ»¤Î ¥»¥ß¥ÊÅĞÏ¿¤ò¤·¤Æ¤¯¤À¤µ¤¤¡£
-»²²ÃÅĞÏ¿ | [[http://www.ospn.jp/osc2010-do/modules/eguide/event.php?eid=22][Debian ÊÙ¶¯²ñ½ĞÄ¥ÈÇ ¥»¥ß¥Ê¡¼]]
+æ—¥æ™‚ | <lisp>year</lisp>å¹´<lisp>month</lisp>æœˆ<lisp>day</lisp>æ—¥(åœŸæ›œæ—¥) 10:15 - 11:00
+å ´æ‰€ | [[http://www.sapporosansin.jp/access/][æœ­å¹Œå¸‚ç”£æ¥­æŒ¯èˆˆã‚»ãƒ³ã‚¿ãƒ¼ ç”£æ¥­æŒ¯èˆˆæ£Ÿ2F(ç·åˆå—ä»˜)]] 
+å®šå“¡ | 20å
+å‚åŠ ç™»éŒ²æ–¹æ³• | OSC 2010 åŒ—æµ·é“ã® ã‚»ãƒŸãƒŠç™»éŒ²ã‚’ã—ã¦ãã ã•ã„ã€‚
+å‚åŠ ç™»éŒ² | [[http://www.ospn.jp/osc2010-do/modules/eguide/event.php?eid=22][Debian å‹‰å¼·ä¼šå‡ºå¼µç‰ˆ ã‚»ãƒŸãƒŠãƒ¼]]
 
 
-ÊÙ¶¯²ñ»²²ÃÈñÍÑ | ¤Ê¤·
+å‹‰å¼·ä¼šå‚åŠ è²»ç”¨ | ãªã—
 
-* »öÁ°²İÂê
-º£²ó¤Ï¤¢¤ê¤Ş¤»¤ó¡£
+* äº‹å‰èª²é¡Œ
+ä»Šå›ã¯ã‚ã‚Šã¾ã›ã‚“ã€‚
 
-* ÅöÆü¤Îagenda
-»ş´Ö || ÆâÍÆ || ³µÍ× || È¯É½¼Ô
-10:15 | Debian¤ÈDebian JP¥¢¥Ã¥×¥Ç¡¼¥È | Debian JP Project / Debian Project ¤Î¾Ò²ğ¤ª¤è¤Ó¥¢¥Ã¥×¥Ç¡¼¥È¤Ë¤Ä¤¤¤Æ¤ªÏÃ¤·¤Ş¤¹¡£ | ¹ÓÌÚÌ÷¹¨
-10:20 | ¤¢¤Ê¤¿¤Ï¤É¤Ã¤Á¡¤Cloud¤ÇDebian, Debian¤ÇCloud | Debian¤Ç¤ÎCloud, Cloud¤ÇDebian¤ò°·¤¦ÊıË¡¤Ë¤Ä¤¤¤Æ¤ªÏÃ¤·¤Ş¤¹¡£ | ¹ÓÌÚÌ÷¹¨
-10:40 | squeeze ¤Ë¸ş¤±¤¿ Debian GNU/kFreeBSD ÆşÌç | ¼¡´ü¥ê¥ê¡¼¥¹¤Ç¥µ¥İ¡¼¥È¤µ¤ì¤ëÍ½Äê¤Î Debian GNU/kFreeBSD¤Î¥Ğ¥Ã¥¯¥°¥é¥¦¥ó¥É¤Ë¤Ä¤¤¤Æ¤ªÏÃ¤·¤Ş¤¹¡£ | ´ä¾¾¿®ÍÎ
+* å½“æ—¥ã®agenda
+æ™‚é–“ || å†…å®¹ || æ¦‚è¦ || ç™ºè¡¨è€…
+10:15 | Debianã¨Debian JPã‚¢ãƒƒãƒ—ãƒ‡ãƒ¼ãƒˆ | Debian JP Project / Debian Project ã®ç´¹ä»‹ãŠã‚ˆã³ã‚¢ãƒƒãƒ—ãƒ‡ãƒ¼ãƒˆã«ã¤ã„ã¦ãŠè©±ã—ã¾ã™ã€‚ | è’æœ¨é–å®
+10:20 | ã‚ãªãŸã¯ã©ã£ã¡ï¼ŒCloudã§Debian, Debianã§Cloud | Debianã§ã®Cloud, Cloudã§Debianã‚’æ‰±ã†æ–¹æ³•ã«ã¤ã„ã¦ãŠè©±ã—ã¾ã™ã€‚ | è’æœ¨é–å®
+10:40 | squeeze ã«å‘ã‘ãŸ Debian GNU/kFreeBSD å…¥é–€ | æ¬¡æœŸãƒªãƒªãƒ¼ã‚¹ã§ã‚µãƒãƒ¼ãƒˆã•ã‚Œã‚‹äºˆå®šã® Debian GNU/kFreeBSDã®ãƒãƒƒã‚¯ã‚°ãƒ©ã‚¦ãƒ³ãƒ‰ã«ã¤ã„ã¦ãŠè©±ã—ã¾ã™ã€‚ | å²©æ¾ä¿¡æ´‹
 
-* »ñÎÁ
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume201006-iwamatsu-presentation.pdf][PDF¥×¥ì¥¼¥ó¥Æ¡¼¥·¥ç¥ó»ñÎÁ]]
+* è³‡æ–™
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume201006-iwamatsu-presentation.pdf][PDFãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³è³‡æ–™]]
 
-* »²²ÃÊó¹ğ
+* å‚åŠ å ±å‘Š

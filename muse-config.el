@@ -22,7 +22,7 @@
                 (concat \" (by \" author \")\"))))</lisp></title>
     <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">
     <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">
-    <meta charset=\"EUC-JP\">
+    <meta charset=\"UTF-8\">
     <meta name=\"generator\" content=\"muse.el\">
     <lisp>
       (let ((maintainer (muse-style-element :maintainer)))
@@ -32,7 +32,7 @@
     <lisp>muse-html-style-sheet</lisp>
   </head>
   <body>
-    <p><a href=\"index.html\"><img src=\"https://www.debian.org/logos/openlogo-nd-25.png\" alt=\"debian-open-logo-nd\">Åìµş¥¨¥ê¥¢DebianÊÙ¶¯²ñ</a></p>
+    <p><a href=\"index.html\"><img src=\"https://www.debian.org/logos/openlogo-nd-25.png\" alt=\"debian-open-logo-nd\">æ±äº¬ã‚¨ãƒªã‚¢Debianå‹‰å¼·ä¼š</a></p>
     <h1><lisp>
   (concat (muse-publishing-directive \"title\")
           (let ((author (muse-publishing-directive \"author\")))

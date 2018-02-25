@@ -1,6 +1,6 @@
-#title Âè<lisp> number</lisp>²óÅìµş¥¨¥ê¥¢DebianÊÙ¶¯²ñ¡¢<lisp>year</lisp>Ç¯<lisp>month</lisp>·îÊÙ¶¯²ñ
+#title ç¬¬<lisp> number</lisp>å›æ±äº¬ã‚¨ãƒªã‚¢Debianå‹‰å¼·ä¼šã€<lisp>year</lisp>å¹´<lisp>month</lisp>æœˆå‹‰å¼·ä¼š
 <lisp>(progn (setq year 2012) (setq month 6) (setq day 16) (setq number 89) (setq eventid "") "") </lisp>
-* ³«ºÅ³µÍ×
+* é–‹å‚¬æ¦‚è¦
 
-ÂçÅı°ìDebianÊÙ¶¯²ñ¤Ë¤Ê¤ëÍ½Äê¤Ç¤¹¡£
+å¤§çµ±ä¸€Debianå‹‰å¼·ä¼šã«ãªã‚‹äºˆå®šã§ã™ã€‚
 

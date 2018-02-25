@@ -1,40 +1,40 @@
-#title Âè<lisp> number</lisp>²óÅìµş¥¨¥ê¥¢DebianÊÙ¶¯²ñ¡¤<lisp>year</lisp>Ç¯ OSC½Õ½ĞÄ¥
+#title ç¬¬<lisp> number</lisp>å›æ±äº¬ã‚¨ãƒªã‚¢Debianå‹‰å¼·ä¼šï¼Œ<lisp>year</lisp>å¹´ OSCæ˜¥å‡ºå¼µ
 <lisp>(progn  (setq year 2008) (setq month 3) (setq day 1) (setq number 37) "") </lisp>
-* ³«ºÅ³µÍ×
+* é–‹å‚¬æ¦‚è¦
 
-Æü»ş | <lisp>year</lisp>Ç¯<lisp>month</lisp>·î<lisp>day</lisp>Æü(ÅÚÍËÆü)
-¾ì½ê | OSC 2008 spring ²ñ¾ì
-Äê°÷ | ¥»¥ß¥Ê¡¼:40Ì¾ / ¥Ï¥ó¥º¥ª¥ó:38Ì¾
-»²²ÃÅĞÏ¿ÊıË¡ | OSC2008 spring ¤ÎWeb¥µ¥¤¥È¤«¤é¹Ô¤Ã¤Æ¤¯¤À¤µ¤¤(http://www.ospn.jp/osc2008-spring/)
-»²²ÃÈñÍÑ | ¤Ê¤·
+æ—¥æ™‚ | <lisp>year</lisp>å¹´<lisp>month</lisp>æœˆ<lisp>day</lisp>æ—¥(åœŸæ›œæ—¥)
+å ´æ‰€ | OSC 2008 spring ä¼šå ´
+å®šå“¡ | ã‚»ãƒŸãƒŠãƒ¼:40å / ãƒãƒ³ã‚ºã‚ªãƒ³:38å
+å‚åŠ ç™»éŒ²æ–¹æ³• | OSC2008 spring ã®Webã‚µã‚¤ãƒˆã‹ã‚‰è¡Œã£ã¦ãã ã•ã„(http://www.ospn.jp/osc2008-spring/)
+å‚åŠ è²»ç”¨ | ãªã—
 
-* ÅöÆü¤Îagenda
+* å½“æ—¥ã®agenda
 
-»ş´Ö || ÆâÍÆ || È¯É½¼Ô
-15:15-16:00 | [[http://www.ospn.jp/osc2008-spring/modules/eguide/event.php?eid=52][Debian Package ¥Ï¥ó¥º¥ª¥ó]] | ´ä¾¾ ¿®ÍÎ
-14:00-14:45 | [[http://www.ospn.jp/osc2008-spring/modules/eguide/event.php?eid=46][Debian Overview]] | ¤ä¤Ş¤Í¤Ò¤Ç¤­
+æ™‚é–“ || å†…å®¹ || ç™ºè¡¨è€…
+15:15-16:00 | [[http://www.ospn.jp/osc2008-spring/modules/eguide/event.php?eid=52][Debian Package ãƒãƒ³ã‚ºã‚ªãƒ³]] | å²©æ¾ ä¿¡æ´‹
+14:00-14:45 | [[http://www.ospn.jp/osc2008-spring/modules/eguide/event.php?eid=46][Debian Overview]] | ã‚„ã¾ã­ã²ã§ã
 
-* Debian Package ¥Ï¥ó¥º¥ª¥ó¤ÎÏ¢Íí
+* Debian Package ãƒãƒ³ã‚ºã‚ªãƒ³ã®é€£çµ¡
 
-Debian Package ¤Î¥Ï¥ó¥º¥ª¥ó¤Ç¤Ï¡¢³«È¯´Ä¶­¤¬É¬Í×¤Ç¤¹¡£
-¥Î¡¼¥ÈPC¤ò¤ª»ı¤Á¤³¤ß¤Î¾ì¹ç¤Ï°Ê²¼¤Î´Ä¶­¤ò¤´ÍÑ°Õ¤·¤Æ¤´»²²Ã¤¯¤À¤µ¤¤¡£
+Debian Package ã®ãƒãƒ³ã‚ºã‚ªãƒ³ã§ã¯ã€é–‹ç™ºç’°å¢ƒãŒå¿…è¦ã§ã™ã€‚
+ãƒãƒ¼ãƒˆPCã‚’ãŠæŒã¡ã“ã¿ã®å ´åˆã¯ä»¥ä¸‹ã®ç’°å¢ƒã‚’ã”ç”¨æ„ã—ã¦ã”å‚åŠ ãã ã•ã„ã€‚
 
-ÂĞ¾İOS | Debian GNU/Linux Etch
-É¬Í×¤Ê¥Ñ¥Ã¥±¡¼¥¸  | gcc binutils libc6-dev devscripts debhelper lintian dh-make apt-file pbuilder
+å¯¾è±¡OS | Debian GNU/Linux Etch
+å¿…è¦ãªãƒ‘ãƒƒã‚±ãƒ¼ã‚¸  | gcc binutils libc6-dev devscripts debhelper lintian dh-make apt-file pbuilder
 
 
-¥Î¡¼¥ÈPC¤ò¤ª»È¤¤¤ÎÊı¤Ï°Ê²¼¤Îchroot¥¤¥á¡¼¥¸¤ò»È¤Ã¤Æ¤¯¤À¤µ¤¤¡Ê¤Á¤ç¤Ã¤È»Å¹ş¤ß¤ò¤¤¤ì¤Æ¤¤¤ë¤Î¤Ç¡£¡Ë
+ãƒãƒ¼ãƒˆPCã‚’ãŠä½¿ã„ã®æ–¹ã¯ä»¥ä¸‹ã®chrootã‚¤ãƒ¡ãƒ¼ã‚¸ã‚’ä½¿ã£ã¦ãã ã•ã„ï¼ˆã¡ã‚‡ã£ã¨ä»•è¾¼ã¿ã‚’ã„ã‚Œã¦ã„ã‚‹ã®ã§ã€‚ï¼‰
 http://tokyodebian.alioth.debian.org/etch-chroot-osc2008.tar.gz
-http://www.nigauri.org/~iwamatsu/osc2008/etch-chroot-osc2008.tar.gz(¥ß¥é¡¼)
+http://www.nigauri.org/~iwamatsu/osc2008/etch-chroot-osc2008.tar.gz(ãƒŸãƒ©ãƒ¼)
 
-¤Ş¤¿¡¢ÅöÆü¤ÏLive-CD¤òÍÑ°Õ¤·¤Ş¤¹¡£¥Î¡¼¥ÈPC¤Î¤Ê¤¤Êı¤Î»²²Ã¤â²ÃÇ½¤Ç¤¹¡£
-PCÂæÊ¬ÍÑ°Õ¤·¤Ş¤¹¤Î¤Ç¡¢¥Î¡¼¥ÈPC»ı»²¤ÎÊı¤âLive-CD¤ò»È¤Ã¤Æ»²²Ã¤¹¤ë¤³¤È¤¬¤Ç¤­¤Ş¤¹¡£
+ã¾ãŸã€å½“æ—¥ã¯Live-CDã‚’ç”¨æ„ã—ã¾ã™ã€‚ãƒãƒ¼ãƒˆPCã®ãªã„æ–¹ã®å‚åŠ ã‚‚åŠ èƒ½ã§ã™ã€‚
+PCå°åˆ†ç”¨æ„ã—ã¾ã™ã®ã§ã€ãƒãƒ¼ãƒˆPCæŒå‚ã®æ–¹ã‚‚Live-CDã‚’ä½¿ã£ã¦å‚åŠ ã™ã‚‹ã“ã¨ãŒã§ãã¾ã™ã€‚
 
-* »ñÎÁ
+* è³‡æ–™
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume200802-hanson.pdf][¥Ï¥ó¥º¥ª¥óPDF¥×¥ì¥¼¥ó¥Æ¡¼¥·¥ç¥ó»ñÎÁ]]
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume200802-hanson.pdf][ãƒãƒ³ã‚ºã‚ªãƒ³PDFãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³è³‡æ–™]]
 
-* »²²ÃÊó¹ğ
+* å‚åŠ å ±å‘Š
 
  - http://d.hatena.ne.jp/akuwano/20080303#1204560082
  - http://d.hatena.ne.jp/ichii386/20080303/1204484511

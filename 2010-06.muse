@@ -1,39 +1,39 @@
-#title Âè<lisp> number</lisp>²óÅìµş¥¨¥ê¥¢DebianÊÙ¶¯²ñ¡¢<lisp>year</lisp>Ç¯<lisp>month</lisp>·îÊÙ¶¯²ñ 
+#title ç¬¬<lisp> number</lisp>å›æ±äº¬ã‚¨ãƒªã‚¢Debianå‹‰å¼·ä¼šã€<lisp>year</lisp>å¹´<lisp>month</lisp>æœˆå‹‰å¼·ä¼š 
 <lisp>(progn (setq year 2010) (setq month 6) (setq day 19) (setq number 65) (setq eventid "") "") </lisp>
-* ³«ºÅ³µÍ×
+* é–‹å‚¬æ¦‚è¦
 
-Æü»ş | <lisp>year</lisp>Ç¯<lisp>month</lisp>·î<lisp>day</lisp>Æü(ÅÚÍËÆü) 
-¾ì½ê | ¥ª¥ê¥ó¥Ô¥Ã¥¯¥»¥ó¥¿¡¼¤À¤Ã¤¿¤Ã¤±?
-Äê°÷ | Ì¤Äê¿Í
-»²²ÃÅĞÏ¿ÊıË¡ | DebianÊÙ¶¯²ñÍ½Ìó¥·¥¹¥Æ¥à¤Ø¤ÎÅĞÏ¿¤ò¤ª´ê¤¤¤·¤Ş¤¹¡£¿½¹ş¤Îºİ¤Ë»öÁ°²İÂê¤òÄó½Ğ¤¯¤À¤µ¤¤¡£¤Ş¤¿¡¢¤½¤Î¸å¤Î±ã²ñ¤Ë»²²Ã¤µ¤ì¤¿¤¤Êı¤Ï¡¢¡Ö±ã²ñ»²²Ã¡×¤ò¥Á¥§¥Ã¥¯¤·¤Æ¤¯¤À¤µ¤¤¡£
-»²²ÃÅĞÏ¿ | [[http://debianmeeting.appspot.com/event?eventid=<lisp>eventid</lisp>][DebianÊÙ¶¯²ñÍ½Ìó¥·¥¹¥Æ¥à]] X·îXÆü¤Ş¤Ç¤ËÅĞÏ¿¤¯¤À¤µ¤¤¡£
-ÊÙ¶¯²ñ»²²ÃÈñÍÑ | 500±ß(²¾)
+æ—¥æ™‚ | <lisp>year</lisp>å¹´<lisp>month</lisp>æœˆ<lisp>day</lisp>æ—¥(åœŸæ›œæ—¥) 
+å ´æ‰€ | ã‚ªãƒªãƒ³ãƒ”ãƒƒã‚¯ã‚»ãƒ³ã‚¿ãƒ¼ã ã£ãŸã£ã‘?
+å®šå“¡ | æœªå®šäºº
+å‚åŠ ç™»éŒ²æ–¹æ³• | Debianå‹‰å¼·ä¼šäºˆç´„ã‚·ã‚¹ãƒ†ãƒ ã¸ã®ç™»éŒ²ã‚’ãŠé¡˜ã„ã—ã¾ã™ã€‚ç”³è¾¼ã®éš›ã«äº‹å‰èª²é¡Œã‚’æå‡ºãã ã•ã„ã€‚ã¾ãŸã€ãã®å¾Œã®å®´ä¼šã«å‚åŠ ã•ã‚ŒãŸã„æ–¹ã¯ã€ã€Œå®´ä¼šå‚åŠ ã€ã‚’ãƒã‚§ãƒƒã‚¯ã—ã¦ãã ã•ã„ã€‚
+å‚åŠ ç™»éŒ² | [[http://debianmeeting.appspot.com/event?eventid=<lisp>eventid</lisp>][Debianå‹‰å¼·ä¼šäºˆç´„ã‚·ã‚¹ãƒ†ãƒ ]] XæœˆXæ—¥ã¾ã§ã«ç™»éŒ²ãã ã•ã„ã€‚
+å‹‰å¼·ä¼šå‚åŠ è²»ç”¨ | 500å††(ä»®)
 
-¥¤¥Ù¥ó¥ÈÅĞÏ¿: (Gmail ¥¢¥«¥¦¥ó¥È¤òÎ®ÍÑ¤·¤ÆÇ§¾Ú¤·¤Ş¤¹)
+ã‚¤ãƒ™ãƒ³ãƒˆç™»éŒ²: (Gmail ã‚¢ã‚«ã‚¦ãƒ³ãƒˆã‚’æµç”¨ã—ã¦èªè¨¼ã—ã¾ã™)
 <literal style="html">
 <iframe src="http://debianmeeting.appspot.com/event?eventid=<lisp>eventid</lisp>&ui=simple" width="100%" height="500">
 </iframe>
 </literal>
 
 
-* ÅöÆü¤Îagenda
+* å½“æ—¥ã®agenda
 
-»ş´Ö || ÆâÍÆ || ³µÍ× || È¯É½¼Ô
-18:00 | º£¸å¤ÎÍ½Äê¤ò·×²è¤¹¤ë | º£¸å¤ÎÊÙ¶¯²ñ¤ÎÍ½Äê¤ò¹Í¤¨¤Ş¤¹ | ¾åÀî
-18:40 | Debian Cloud | Debian¤ÇCloud¤ò¤¹¤ë¤Ë¤Ï¤É¤¦¤·¤¿¤â¤ó¤«¤È¤¤¤¦¤³¤È¤Ë¤Ä¤¤¤Æ¤ÎÏÃ | ¹ÓÌÚ
-19:20 | Debian GNU/kFreeBSD | ¼¡²óDebian¤ÎÀµ¼°¥ê¥ê¡¼¥¹¥¢¡¼¥­¥Æ¥¯¥Á¥ã¤Ë´Ş¤Ş¤ì¤ëÍ½Äê¤ÎDebian GNU/kFreeBSD ¤Ë¤Ä¤¤¤Æ¾Ò²ğ¤·¤Ş¤¹¡£ | ´ä¾¾
-20:00 | ¼«¸Ê¾Ò²ğ | | Á´°÷
+æ™‚é–“ || å†…å®¹ || æ¦‚è¦ || ç™ºè¡¨è€…
+18:00 | ä»Šå¾Œã®äºˆå®šã‚’è¨ˆç”»ã™ã‚‹ | ä»Šå¾Œã®å‹‰å¼·ä¼šã®äºˆå®šã‚’è€ƒãˆã¾ã™ | ä¸Šå·
+18:40 | Debian Cloud | Debianã§Cloudã‚’ã™ã‚‹ã«ã¯ã©ã†ã—ãŸã‚‚ã‚“ã‹ã¨ã„ã†ã“ã¨ã«ã¤ã„ã¦ã®è©± | è’æœ¨
+19:20 | Debian GNU/kFreeBSD | æ¬¡å›Debianã®æ­£å¼ãƒªãƒªãƒ¼ã‚¹ã‚¢ãƒ¼ã‚­ãƒ†ã‚¯ãƒãƒ£ã«å«ã¾ã‚Œã‚‹äºˆå®šã®Debian GNU/kFreeBSD ã«ã¤ã„ã¦ç´¹ä»‹ã—ã¾ã™ã€‚ | å²©æ¾
+20:00 | è‡ªå·±ç´¹ä»‹ | | å…¨å“¡
 
-* º©¿Æ²ñ
+* æ‡‡è¦ªä¼š
 
-²ñ¾ì | Ì¤Äê
-»ş´Ö | Ì¤Äê
-²ñÈñ | ¼ÂÈñ¡¢5000±ßÄøÅÙÍ½Äê
-»²²ÃÅĞÏ¿ | DebianÊÙ¶¯²ñÍ½Ìó¥·¥¹¥Æ¥à¤ËÅĞÏ¿¤¹¤ëºİ¤ËÉ½ÌÀ¤·¤Æ¤¯¤À¤µ¤¤
+ä¼šå ´ | æœªå®š
+æ™‚é–“ | æœªå®š
+ä¼šè²» | å®Ÿè²»ã€5000å††ç¨‹åº¦äºˆå®š
+å‚åŠ ç™»éŒ² | Debianå‹‰å¼·ä¼šäºˆç´„ã‚·ã‚¹ãƒ†ãƒ ã«ç™»éŒ²ã™ã‚‹éš›ã«è¡¨æ˜ã—ã¦ãã ã•ã„
 
-* »ñÎÁ
+* è³‡æ–™
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF»öÁ°ÇÛÉÛ»ñÎÁ]] (¿·´©Íî¤Á¤Ş¤·¤¿)
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDF¥×¥ì¥¼¥ó¥Æ¡¼¥·¥ç¥ó»ñÎÁ]] (Ì¤´°À®)
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDFäº‹å‰é…å¸ƒè³‡æ–™]] (æ–°åˆŠè½ã¡ã¾ã—ãŸ)
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³è³‡æ–™]] (æœªå®Œæˆ)
 
-* »²²ÃÊó¹ğ
+* å‚åŠ å ±å‘Š

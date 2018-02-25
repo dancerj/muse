@@ -1,12 +1,12 @@
-#title ������ꥢDebian�ٶ���
+#title 東京エリアDebian勉強会
 
-Debian�ٶ���Ǥ������ٸ��경����Ƥ�������դξ����ޤȤ�Ƥ��ޤ���
+Debian勉強会である程度固定化されている会場近辺の情報をまとめています。
 
-* ��������ԥå����󥿡�
- - [[http://r.gnavi.co.jp/g024906/][Ļ�� ���ܶ����Ź]]
- ���ä��Τۤ�������
- - [[http://r.gnavi.co.jp/g024905/][Ļ�� ���ܶ�Ź]]
- - [[http://rp.gnavi.co.jp/5145292/][���� ���ܶ�Ź]]
+* 東京オリンピックセンター
+ - [[http://r.gnavi.co.jp/g024906/][鳥一 参宮橋二号店]]
+ こっちのほうが広い
+ - [[http://r.gnavi.co.jp/g024905/][鳥一 参宮橋店]]
+ - [[http://rp.gnavi.co.jp/5145292/][庄や 参宮橋店]]
 
 
-* ���󤵤�֤벮��
+* あんさんぶる荻窪

@@ -1,20 +1,20 @@
-#title Âè<lisp> number</lisp>²óÅìµş¥¨¥ê¥¢DebianÊÙ¶¯²ñ¡¢<lisp>year</lisp>Ç¯<lisp>month</lisp>·îÊÙ¶¯²ñ
+#title ç¬¬<lisp> number</lisp>å›æ±äº¬ã‚¨ãƒªã‚¢Debianå‹‰å¼·ä¼šã€<lisp>year</lisp>å¹´<lisp>month</lisp>æœˆå‹‰å¼·ä¼š
 <lisp>(progn (setq year 2015) (setq month 10) (setq day 18) (setq number 131) (setq eventid "") nil) </lisp>
-* ³«ºÅ³µÍ×
+* é–‹å‚¬æ¦‚è¦
 
-Æü»ş | <lisp>year</lisp>Ç¯<lisp>month</lisp>·î<lisp>day</lisp>Æü(ÆüÍËÆü) 14:00-19:00 
-»²²ÃÅĞÏ¿ÊıË¡ | [[http://eventdots.jp/event/570999][dots¾å¤Ç¤Î°ÆÆâ]]¤Î·Ç¼¨¤ò¸«¤Æ»²²Ã¿½¤·¹ş¤ß¤ò¤ª¤Í¤¬¤¤¤·¤Ş¤¹¡£
+æ—¥æ™‚ | <lisp>year</lisp>å¹´<lisp>month</lisp>æœˆ<lisp>day</lisp>æ—¥(æ—¥æ›œæ—¥) 14:00-19:00 
+å‚åŠ ç™»éŒ²æ–¹æ³• | [[http://eventdots.jp/event/570999][dotsä¸Šã§ã®æ¡ˆå†…]]ã®æ²ç¤ºã‚’è¦‹ã¦å‚åŠ ç”³ã—è¾¼ã¿ã‚’ãŠã­ãŒã„ã—ã¾ã™ã€‚
 
-* ²ñ¹ç¤Î¾ÜºÙ
+* ä¼šåˆã®è©³ç´°
 
- dots¤Ë·Ç¼¨¤ò¤·¤Æ¤¤¤Ş¤¹¡£¾Ü¤·¤¯¤Ï¡¢
-[[http://eventdots.jp/event/570999][dots¾å¤Ç¤Î°ÆÆâ]]
-¤ò»²¾È¤¯¤À¤µ¤¤¡£
+ dotsã«æ²ç¤ºã‚’ã—ã¦ã„ã¾ã™ã€‚è©³ã—ãã¯ã€
+[[http://eventdots.jp/event/570999][dotsä¸Šã§ã®æ¡ˆå†…]]
+ã‚’å‚ç…§ãã ã•ã„ã€‚
 
-* »ñÎÁ
+* è³‡æ–™
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF»öÁ°ÇÛÉÛ»ñÎÁ]]
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDF¥×¥ì¥¼¥ó¥Æ¡¼¥·¥ç¥ó»ñÎÁ]]
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation-roger.pdf][ËèÆü»È¤¨¤ëIPv6¥Í¥Ã¥È¥ï¡¼¥¯¤Î¹½ÃÛ]]
-* »²²ÃÊó¹ğ
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDFäº‹å‰é…å¸ƒè³‡æ–™]]
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³è³‡æ–™]]
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation-roger.pdf][æ¯æ—¥ä½¿ãˆã‚‹IPv6ãƒãƒƒãƒˆãƒ¯ãƒ¼ã‚¯ã®æ§‹ç¯‰]]
+* å‚åŠ å ±å‘Š
 

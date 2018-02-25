@@ -1,46 +1,46 @@
-#title ��<lisp> number</lisp>��������ꥢDebian�ٶ���<lisp>year</lisp>ǯ<lisp>month</lisp>���ٶ���
+#title 第<lisp> number</lisp>回東京エリアDebian勉強会、<lisp>year</lisp>年<lisp>month</lisp>月勉強会
 <lisp>(progn (setq year 2012) (setq month 10) (setq day 20) (setq number 93) (setq eventid "91465c37ffffe065d01bf8c9965b3d7e955b9b89") "") </lisp>
-* ���ų���
+* 開催概要
 
-���� | <lisp>year</lisp>ǯ<lisp>month</lisp>��<lisp>day</lisp>��(������) 15:00-18:00
-��� | [[http://asahi-net.co.jp/jp/location/][ī���ͥå� ��ļ� ������������6-6-7 ī���ӥ�9F]] ����١�������9F�ޤǾ夬�äƤ�������
-��� | 30
-������Ͽ��ˡ | Debian�ٶ���ͽ�󥷥��ƥ�ؤ���Ͽ�򤪴ꤤ���ޤ��������κݤ˻����������Ф����������ޤ������θ�α��˻��ä��줿�����ϡ��ֱ�񻲲áפ�����å����Ƥ���������
-������Ͽ | [[http://debianmeeting.appspot.com/event?eventid=<lisp>eventid</lisp>][Debian�ٶ���ͽ�󥷥��ƥ�]] <lisp>month</lisp>��<lisp>(- day 2)</lisp>���ޤǤ���Ͽ����������
-�ٶ��񻲲����� | 500��(��)
+日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 15:00-18:00
+場所 | [[http://asahi-net.co.jp/jp/location/][朝日ネット 会議室 東京都中央区銀座6-6-7 朝日ビル9F]] エレベーターで9Fまで上がってください
+定員 | 30
+参加登録方法 | Debian勉強会予約システムへの登録をお願いします。申込の際に事前課題を提出ください。また、その後の宴会に参加されたい方は、「宴会参加」をチェックしてください。
+参加登録 | [[http://debianmeeting.appspot.com/event?eventid=<lisp>eventid</lisp>][Debian勉強会予約システム]] <lisp>month</lisp>月<lisp>(- day 2)</lisp>日までに登録ください。
+勉強会参加費用 | 500円(仮)
 
-* ��������
+* 事前課題
 
-���äξ��Ǥ��Τ���Ф��ꤤ���ޤ���
+参加の条件ですので提出お願いします。
 
-|���� | ������Ŭ��������������Ƥ��������� (1)Debian �Ǥδؿ����ץ�����ߥ󥰸�������ѷи��Ȥ��λ��˴�����������Lisp, Emacs Lisp, OCaml, Haskell ���� (2) �ؿ����ץ�����ߥ󥰸���鿴�Ԥ˸�������������ҤȤ��Υ���ξҲ�, (3) �ؿ�������Ǽ�������Ƥ��롢�ȤäƤߤ������եȤ򤢤��Ƥ�������
-|������ | �������Ƥμ»ܤˤĤ��Ƥʤˤ�����С�[[http://lists.debian.or.jp/debian-users/][debian-users@debian.or.jp Debian�桼���Ѹ����᡼��󥰥ꥹ��]] �ˤƤ����䤯��������
-|���� | ������Ͽ���¤�Ʊ��
-|�饤���� | ��Ф������������������������ۤ��뤳�ȡ��ޤ����Ƥκ����Ѥ�»ܤ��뤳�Ȥ�λ������������ Debian�ٶ��������GPL�Ǹ������ޤ��� (Web�Ǥθ�������ǽ�����Ƥˤ��Ƥ���������) 
+|お題 | 次から適当に選んで答えてください： (1)Debian での関数型プログラミング言語の利用経験とその時に感じた事柄（Lisp, Emacs Lisp, OCaml, Haskell 等） (2) 関数型プログラミング言語初心者に向けたお勧め書籍とそのウリの紹介, (3) 関数型言語で実装されている、使ってみたいソフトをあげてください
+|質問先 | 課題内容の実施についてなにかあれば、[[http://lists.debian.or.jp/debian-users/][debian-users@debian.or.jp Debianユーザ用公開メーリングリスト]] にてご質問ください。
+|期限 | 参加登録期限と同じ
+|ライセンス | 提出いただいた資料は全員に配布すること、また内容の再利用を実施することを了承ください。 Debian勉強会資料はGPLで公開します。 (Webでの公開が可能な内容にしてください。) 
 
-* ������agenda
+* 当日のagenda
 
-���� || ���� || ���� || ȯɽ��
-15:10- |  ����߱� | �����߱Ĥ򤷤ޤ� | ����
-15:10-15:30 | Debian trivia quiz | Debian ��Ϣ�Υ˥塼���ˤ����Ĥ��Ƥ��ޤ���? ��ñ�ʥ�������Debian���μ���ƥ��Ȥ����㤤�ޤ��� | �侾
-15:30-15:50 | ��������ȯɽ | ��������ˤĤ��Ƹ��ޤ��� | ������
-16:00- | Haskell �� Debian packaging ���դˤĤ��Ƹ��ޤ� | Haskell �Υѥå���������Ӱ�¸�ط��λ��ȤߤǤ��� Cabal, Hackage,  ���ξ�������Ѥ��� Debian �ѥå��������� cabal-debian ���ޥ�ɤ���� debian �饤�֥��,  Debhelper �Ȥ�Ϣ�ȤΤ���Υ�����ץȤǤ��� haskell-devscripts, �ˤĤ��ƾҲ𤷤ޤ� | ������
-16:40- | �쥴�Ǥʤᤳ���ϴ� | nxt-python�ˤĤ��Ƹ��ޤ� | �ܾ�
-17:20- | xf86-input-mtrack | xf86-input-mtrack �ˤĤ��� | �侾
+時間 || 内容 || 概要 || 発表者
+15:10- |  会場設営 | 会場の設営をします | 全員
+15:10-15:30 | Debian trivia quiz | Debian 関連のニュースにおいついていますか? 簡単なクイズでDebianの知識をテストしちゃいます。 | 岩松
+15:30-15:50 | 事前課題発表 | 事前課題について語ります。 | 日比野
+16:00- | Haskell の Debian packaging 周辺について語ります | Haskell のパッケージおよび依存関係の仕組みである Cabal, Hackage,  その情報を利用して Debian パッケージを作る cabal-debian コマンドおよび debian ライブラリ,  Debhelper との連携のためのスクリプトである haskell-devscripts, について紹介します | 日比野
+16:40- | レゴでなめこ収穫期 | nxt-pythonについて語ります | 本庄
+17:20- | xf86-input-mtrack | xf86-input-mtrack について | 岩松
 
-* ���Ʋ�
+* 懇親会
 
-��� | �����դ�ͽ��
-���� | ??:??-
-���� | 5000��
-������Ͽ | Debian�ٶ���ͽ�󥷥��ƥ����Ͽ����ݤ�ɽ�����Ƥ�������
+会場 | 会場近辺の予定
+時間 | ??:??-
+会費 | 5000円
+参加登録 | Debian勉強会予約システムに登録する際に表明してください
 
-* ����
+* 資料
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF�������ۻ���]]
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDF�ץ쥼��ơ���������]]
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
 
-* �������
+* 参加報告
 
 
 

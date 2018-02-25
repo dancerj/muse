@@ -1,46 +1,46 @@
-#title Âè<lisp> number</lisp>²óÅìµş¥¨¥ê¥¢DebianÊÙ¶¯²ñ¡¤<lisp>year</lisp>Ç¯<lisp>month</lisp>·îÊÙ¶¯²ñ
+#title ç¬¬<lisp> number</lisp>å›æ±äº¬ã‚¨ãƒªã‚¢Debianå‹‰å¼·ä¼šï¼Œ<lisp>year</lisp>å¹´<lisp>month</lisp>æœˆå‹‰å¼·ä¼š
 <lisp>(progn  (setq year 2008) (setq month 8) (setq day 11) (setq number 43) "") </lisp>
 
-£¸·î¤Ï¥¤¥Ù¥ó¥È¤¬£²²ó¤¢¤ê¤Ş¤¹¡£
+ï¼˜æœˆã¯ã‚¤ãƒ™ãƒ³ãƒˆãŒï¼’å›ã‚ã‚Šã¾ã™ã€‚
 
-* Âè<lisp> number</lisp>²óÅìµş¥¨¥ê¥¢DebianÊÙ¶¯²ñ¡¤<lisp>year</lisp>Ç¯<lisp>month</lisp>·îÊÙ¶¯²ñ
+* ç¬¬<lisp> number</lisp>å›æ±äº¬ã‚¨ãƒªã‚¢Debianå‹‰å¼·ä¼šï¼Œ<lisp>year</lisp>å¹´<lisp>month</lisp>æœˆå‹‰å¼·ä¼š
 
-** ³«ºÅ³µÍ×
+** é–‹å‚¬æ¦‚è¦
 
-Æü»ş | <lisp>year</lisp>Ç¯<lisp>month</lisp>·î<lisp>day</lisp>Æü(·îÍËÆü) 22:00-24:00¡ÊÆüËÜ»ş´Ö¡Ë
-¾ì½ê | ¥Ş¥ë¥Ç¥ë¥×¥é¥¿ Debconf8 ²ñ¾ì¡¢¤â¤·¤¯¤Ï IRC irc.debian.or.jp #debconf8 ¥Á¥ã¥ó¥Í¥ë(Ê¸»ú¥³¡¼¥É: iso-2022-jp)
-Äê°÷ | IRC¤Î¸Â³¦ÎÌ
-»²²ÃÅĞÏ¿ÊıË¡ | IRC¥Á¥ã¥ó¥Í¥ë¤Ë¥í¥°¥¤¥ó¤·¤Æ¤¯¤À¤µ¤¤¡£
-»²²ÃÈñÍÑ | ¤Ê¤·
+æ—¥æ™‚ | <lisp>year</lisp>å¹´<lisp>month</lisp>æœˆ<lisp>day</lisp>æ—¥(æœˆæ›œæ—¥) 22:00-24:00ï¼ˆæ—¥æœ¬æ™‚é–“ï¼‰
+å ´æ‰€ | ãƒãƒ«ãƒ‡ãƒ«ãƒ—ãƒ©ã‚¿ Debconf8 ä¼šå ´ã€ã‚‚ã—ãã¯ IRC irc.debian.or.jp #debconf8 ãƒãƒ£ãƒ³ãƒãƒ«(æ–‡å­—ã‚³ãƒ¼ãƒ‰: iso-2022-jp)
+å®šå“¡ | IRCã®é™ç•Œé‡
+å‚åŠ ç™»éŒ²æ–¹æ³• | IRCãƒãƒ£ãƒ³ãƒãƒ«ã«ãƒ­ã‚°ã‚¤ãƒ³ã—ã¦ãã ã•ã„ã€‚
+å‚åŠ è²»ç”¨ | ãªã—
 
-** ÅöÆü¤Îagenda
+** å½“æ—¥ã®agenda
 
-»ş´Ö || ÆâÍÆ || È¯É½¼Ô
-18:00- | º£²ó¤Î°Õµ¤¹ş¤ß | Debconf »²²Ã¼Ô
-18:30- | Debconf ¼ÁÌä¥³¡¼¥Ê¡¼ | Debconf »²²Ã¼Ô
+æ™‚é–“ || å†…å®¹ || ç™ºè¡¨è€…
+18:00- | ä»Šå›ã®æ„æ°—è¾¼ã¿ | Debconf å‚åŠ è€…
+18:30- | Debconf è³ªå•ã‚³ãƒ¼ãƒŠãƒ¼ | Debconf å‚åŠ è€…
 
-* Debian ²¹Àô( onsen.deb )
-** ³«ºÅ³µÍ×
-Æü»ş | <lisp>year</lisp>Ç¯<lisp>month</lisp>·î16Æü - 17Æü(ÅÚ¡¢ÆüÍËÆü) 
-¾ì½ê | ÁğÄÅ²¹Àô¡Ê·²ÇÏ¡Ë[[http://wiki.debian.org/ja/Debian-Onsen][onsen.deb wiki]]
-Äê°÷ | 10Ì¾(Äù¤á¤­¤ê¤Ş¤·¤¿)
-»²²ÃÅĞÏ¿ÊıË¡ | iwamatsu _at_ debian.or.jp ¤Ë Ï¢Íí
-»²²ÃÈñÍÑ | ½ÉÇñÈñ 8000±ß/¸òÄÌÈñ¡Ê¼«Èñ¡Ë
+* Debian æ¸©æ³‰( onsen.deb )
+** é–‹å‚¬æ¦‚è¦
+æ—¥æ™‚ | <lisp>year</lisp>å¹´<lisp>month</lisp>æœˆ16æ—¥ - 17æ—¥(åœŸã€æ—¥æ›œæ—¥) 
+å ´æ‰€ | è‰æ´¥æ¸©æ³‰ï¼ˆç¾¤é¦¬ï¼‰[[http://wiki.debian.org/ja/Debian-Onsen][onsen.deb wiki]]
+å®šå“¡ | 10å(ç· ã‚ãã‚Šã¾ã—ãŸ)
+å‚åŠ ç™»éŒ²æ–¹æ³• | iwamatsu _at_ debian.or.jp ã« é€£çµ¡
+å‚åŠ è²»ç”¨ | å®¿æ³Šè²» 8000å††/äº¤é€šè²»ï¼ˆè‡ªè²»ï¼‰
 
-** ÅöÆü¤Îagenda
+** å½“æ—¥ã®agenda
 
-»ş´Ö || ÆâÍÆ 
-- | ²¹Àô ¤Ë¤Ï¤¤¤ë
-- | Debian 15¼¹Ç°¥Ñ¡¼¥Æ¥£
-- | Debian ³«È¯ 
-- | Debian ÊÙ¶¯²ñ ¥ï¡¼¥¯¥·¥ç¥Ã¥×
+æ™‚é–“ || å†…å®¹ 
+- | æ¸©æ³‰ ã«ã¯ã„ã‚‹
+- | Debian 15åŸ·å¿µãƒ‘ãƒ¼ãƒ†ã‚£
+- | Debian é–‹ç™º 
+- | Debian å‹‰å¼·ä¼š ãƒ¯ãƒ¼ã‚¯ã‚·ãƒ§ãƒƒãƒ—
 
-* »ñÎÁ
+* è³‡æ–™
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF»öÁ°ÇÛÉÛ»ñÎÁ]]
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDFäº‹å‰é…å¸ƒè³‡æ–™]]
 
-* »²²ÃÊó¹ğ
- - [[http://d.hatena.ne.jp/aked0n/20080817/1219253701][¤¢¤±¤É¤µ¤ó]]
- - [[http://d.hatena.ne.jp/BlueSkyDetector/20080818][ÎëÌÚ¤µ¤ó]]
- - [[http://d.hatena.ne.jp/mkouhei/20080817#1218984451][Á°ÅÄ¤µ¤ó]]
- - [[http://www.nigauri.org/~iwamatsu/d/?date=20080818][´ä¾¾]]
+* å‚åŠ å ±å‘Š
+ - [[http://d.hatena.ne.jp/aked0n/20080817/1219253701][ã‚ã‘ã©ã•ã‚“]]
+ - [[http://d.hatena.ne.jp/BlueSkyDetector/20080818][éˆ´æœ¨ã•ã‚“]]
+ - [[http://d.hatena.ne.jp/mkouhei/20080817#1218984451][å‰ç”°ã•ã‚“]]
+ - [[http://www.nigauri.org/~iwamatsu/d/?date=20080818][å²©æ¾]]

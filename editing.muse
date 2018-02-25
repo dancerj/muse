@@ -1,45 +1,45 @@
-#title ���Υڡ������Խ�������ˡ�ˤĤ���
+#title このページを編集する方法について
 
-* �оݼ�
+* 対象者
 
-�Խ�����ô���Ԥ�Debian�ٶ����΢���Ǥ������Υڡ����ϰ��̤Υ桼�����ɼԤȤ����оݤˤ��Ƥ��ޤ���
+編集する担当者はDebian勉強会の裏方です．このページは一般のユーザを読者として対象にしていません．
 
-* ɬ�ץġ���
+* 必要ツール
 
-Debian�ٶ���Υڡ������Խ�����ˤϡ�emacs-muse�����Ѥ��Ƥ��ޤ���
-Debian�Ǥ���С�muse-el�ѥå����������Ѥ��Ƥ���������
+Debian勉強会のページを編集するには，emacs-museを利用しています．
+Debianであれば，muse-elパッケージを利用してください．
 
-���åץ����ɤΥġ���Ȥ���scp�����Ѥ��Ƥ��ޤ���
+アップロードのツールとしてscpを利用しています。
 
-*  �ǥ��쥯�ȥ깽��
+*  ディレクトリ構成
 
-alioth �� tokyodebian ��  muse.git �Ȥ��� git ��ݥ��ȥ����˥������������Ƥ���ޤ���
-�ǥ��쥯�ȥ�ȥե�����ι����ϲ����ΤȤ���Ǥ���
+alioth の tokyodebian の  muse.git という git レポジトリの中にソースがおいてあります。
+ディレクトリとファイルの構成は下記のとおりです．
 
-�ե����� || ��̣ 
-=muse-config.el= | emacs�Ѥ�����ե����롤������muse�ѤΥѥ�᡼�������ꤷ�Ƥ��ޤ���
-=Makefile= | ��ư�����ѤΥ롼��򵭽� (emacs��wiki�ץ����å����Ȥ��ƻȤäƤ��ޤ�)
-=*.muse= | Muse �ѤΥե����롤 wiki�� markup �Ǥ���
-=html/debianmeeting.css= | ��������ե�����Ǥ�
-=html/*.html= | ��ư���������HTML�Ǥ�
-git-pre-commit.sh | cp -p git-pre-commit.sh .git/hooks/pre-commit �Ȥ������Ѥ�������å��ѥ�����ץȤǤ�
+ファイル || 意味 
+=muse-config.el= | emacs用の設定ファイル，ここでmuse用のパラメータを設定しています．
+=Makefile= | 自動生成用のルールを記述 (emacsをwikiプロセッサーとして使っています)
+=*.muse= | Muse 用のファイル， wiki風 markup です．
+=html/debianmeeting.css= | スタイルファイルです
+=html/*.html= | 自動生成されるHTMLです
+git-pre-commit.sh | cp -p git-pre-commit.sh .git/hooks/pre-commit として利用するチェック用スクリプトです
 
-* ����ѥ�����ˡ
+* コンパイル方法
 
-git commit �򤹤�ݤ� git-pre-commit.sh �����Ѥ���ȼ�ư�� make preview ���Ƥ����褦�ˤʤ�ޤ���
-make publish �ǥ�꡼���Ǥ���
+git commit をする際に git-pre-commit.sh を利用すると自動で make preview してくれるようになります。
+make publish でリリースです。
 
-���ޥ�� || ����
-make  | html/ �ʲ���html�ե���������� 
-make preview | iceweasel ��ư���ơ��ץ�ӥ塼
-make publish | alioth�˥ե������ž�� [[http://tokyodebian.alioth.debian.org/][alioth �� �ץ��������ȥڡ���]]�Ȥ��Ƹ����褦�ˤʤ�ޤ���
+コマンド || 内容
+make  | html/ 以下にhtmlファイルを生成 
+make preview | iceweasel を起動して、プリビュー
+make publish | aliothにファイルを転送 [[http://tokyodebian.alioth.debian.org/][alioth の プロジェクトページ]]として見れるようになります．
 
 * TIPS
 
-ssh ������ǡ� ssh alioth.debian.org ������ alioth ����³�Ǥ���褦�ˤ���ˤϡ� ~/.ssh/config ���Խ�����������Ǥ���
-��Host alioth.debian.org git.debian.org�� ���ܤ�������ơ���User �桼��̾�פ���ꤹ��Ф褤�Ǥ��礦��
+ssh の設定で、 ssh alioth.debian.org だけで alioth に接続できるようにするには、 ~/.ssh/config を編集すると便利です。
+「Host alioth.debian.org git.debian.org」 項目を作成して、「User ユーザ名」を指定すればよいでしょう。
 
-��:
+例:
 
 <verse>
 Host alioth.debian.org git.debian.org

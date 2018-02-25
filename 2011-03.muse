@@ -1,32 +1,32 @@
-#title Âè<lisp> number</lisp>²óÅìµş¥¨¥ê¥¢DebianÊÙ¶¯²ñ¡¤<lisp>year</lisp>Ç¯<lisp>month</lisp>·îÊÙ¶¯²ñ / ¥ª¡¼¥×¥ó¥½¡¼¥¹¥«¥ó¥Õ¥¡¥ì¥ó¥¹2011 Tokyo/Spring
+#title ç¬¬<lisp> number</lisp>å›æ±äº¬ã‚¨ãƒªã‚¢Debianå‹‰å¼·ä¼šï¼Œ<lisp>year</lisp>å¹´<lisp>month</lisp>æœˆå‹‰å¼·ä¼š / ã‚ªãƒ¼ãƒ—ãƒ³ã‚½ãƒ¼ã‚¹ã‚«ãƒ³ãƒ•ã‚¡ãƒ¬ãƒ³ã‚¹2011 Tokyo/Spring
 <lisp>(progn  (setq year 2011) (setq month 3) (setq day 5) (setq number 74) "") </lisp>
-* ³«ºÅ³µÍ×
+* é–‹å‚¬æ¦‚è¦
 
-Æü»ş | <lisp>year</lisp>Ç¯<lisp>month</lisp>·î<lisp>day</lisp>Æü(ÅÚÍËÆü) [[http://www.ospn.jp/osc2011-spring/modules/eguide/event.php?eid=11][11:00-11:45]]
-¾ì½ê | [[http://www.waseda.jp/jp/campus/okubo.html][OSC ²ñ¾ì / Áá°ğÅÄÂç³Ø¡ÊÀ¾Áá°ğÅÄ¥­¥ã¥ó¥Ñ¥¹63¹æ´Û¡¢61¹æ´Û¡Ë]] (61¹æ´Û 214)
-Äê°÷ | 60
-»²²ÃÅĞÏ¿ÊıË¡ | [[http://www.ospn.jp/osc2011/][OSCÅĞÏ¿¥Ú¡¼¥¸¤«¤é]]
-»²²ÃÈñÍÑ | ¤Ê¤·
+æ—¥æ™‚ | <lisp>year</lisp>å¹´<lisp>month</lisp>æœˆ<lisp>day</lisp>æ—¥(åœŸæ›œæ—¥) [[http://www.ospn.jp/osc2011-spring/modules/eguide/event.php?eid=11][11:00-11:45]]
+å ´æ‰€ | [[http://www.waseda.jp/jp/campus/okubo.html][OSC ä¼šå ´ / æ—©ç¨²ç”°å¤§å­¦ï¼ˆè¥¿æ—©ç¨²ç”°ã‚­ãƒ£ãƒ³ãƒ‘ã‚¹63å·é¤¨ã€61å·é¤¨ï¼‰]] (61å·é¤¨ 214)
+å®šå“¡ | 60
+å‚åŠ ç™»éŒ²æ–¹æ³• | [[http://www.ospn.jp/osc2011/][OSCç™»éŒ²ãƒšãƒ¼ã‚¸ã‹ã‚‰]]
+å‚åŠ è²»ç”¨ | ãªã—
 
-* »öÁ°²İÂê
+* äº‹å‰èª²é¡Œ
 
 
-¤ªÂê | ¤Ê¤·
-Äó½ĞÀè | tokyodebian-<lisp>year</lisp>@lists.alioth.debian.org (¥Ç¥Ó¥¢¥óÊÙ¶¯²ñ»öÁ°»ñÎÁÁ÷ÉÕÍÑ¥á¡¼¥ê¥ó¥°¥ê¥¹¥È°¸) Subject:¡ÖDebianÊÙ¶¯²ñ<lisp>number</lisp>»öÁ°²İÂê¡× ¤È¤·¤Æ¥á¡¼¥ë¤ÎËÜÊ¸¤È¤·¤ÆÄó½Ğ¤·¤Æ¤¯¤À¤µ¤¤
-´ü¸Â | »²²ÃÅĞÏ¿´ü¸Â¤ÈÆ±¤¸
-¥é¥¤¥»¥ó¥¹ | Äó½Ğ¤¤¤¿¤À¤¤¤¿»ñÎÁ¤ÏÁ´°÷¤ËÇÛÉÛ¤¹¤ë¤³¤È¡¤¤Ş¤¿ÆâÍÆ¤ÎºÆÍøÍÑ¤ò¼Â»Ü¤¹¤ë¤³¤È¤òÎ»¾µ¤¯¤À¤µ¤¤¡¥ DebianÊÙ¶¯²ñ»ñÎÁ¤ÏGPL¤Ç¸ø³«¤·¤Ş¤¹¡¥ (Web¤Ç¤Î¸ø³«¤¬²ÄÇ½¤ÊÆâÍÆ¤Ë¤·¤Æ¤¯¤À¤µ¤¤¡¥) 
+ãŠé¡Œ | ãªã—
+æå‡ºå…ˆ | tokyodebian-<lisp>year</lisp>@lists.alioth.debian.org (ãƒ‡ãƒ“ã‚¢ãƒ³å‹‰å¼·ä¼šäº‹å‰è³‡æ–™é€ä»˜ç”¨ãƒ¡ãƒ¼ãƒªãƒ³ã‚°ãƒªã‚¹ãƒˆå®›) Subject:ã€ŒDebianå‹‰å¼·ä¼š<lisp>number</lisp>äº‹å‰èª²é¡Œã€ ã¨ã—ã¦ãƒ¡ãƒ¼ãƒ«ã®æœ¬æ–‡ã¨ã—ã¦æå‡ºã—ã¦ãã ã•ã„
+æœŸé™ | å‚åŠ ç™»éŒ²æœŸé™ã¨åŒã˜
+ãƒ©ã‚¤ã‚»ãƒ³ã‚¹ | æå‡ºã„ãŸã ã„ãŸè³‡æ–™ã¯å…¨å“¡ã«é…å¸ƒã™ã‚‹ã“ã¨ï¼Œã¾ãŸå†…å®¹ã®å†åˆ©ç”¨ã‚’å®Ÿæ–½ã™ã‚‹ã“ã¨ã‚’äº†æ‰¿ãã ã•ã„ï¼ Debianå‹‰å¼·ä¼šè³‡æ–™ã¯GPLã§å…¬é–‹ã—ã¾ã™ï¼ (Webã§ã®å…¬é–‹ãŒå¯èƒ½ãªå†…å®¹ã«ã—ã¦ãã ã•ã„ï¼) 
 
-* ÅöÆü¤Îagenda
+* å½“æ—¥ã®agenda
 
-»ş´Ö || ÆâÍÆ || È¯É½¼Ô
-11:00- | Debian 6.0 ¤Î¾Ò²ğ | ´ä¾¾¿®ÍÎ
-11:20- | Debian 7.0(²¾) ¤Ç¤Î¥¢¥Ã¥×¥Ç¡¼¥ÈÍ½Äê¤Ë¤Ä¤¤¤Æ | ´ä¾¾¿®ÍÎ
-11:35- | ¼Áµ¿±şÅú | ´ä¾¾¿®ÍÎ
+æ™‚é–“ || å†…å®¹ || ç™ºè¡¨è€…
+11:00- | Debian 6.0 ã®ç´¹ä»‹ | å²©æ¾ä¿¡æ´‹
+11:20- | Debian 7.0(ä»®) ã§ã®ã‚¢ãƒƒãƒ—ãƒ‡ãƒ¼ãƒˆäºˆå®šã«ã¤ã„ã¦ | å²©æ¾ä¿¡æ´‹
+11:35- | è³ªç–‘å¿œç­” | å²©æ¾ä¿¡æ´‹
 
-* ¤½¤ÎÂ¾ Debian ´Ø·¸¼Ô¤Ë¤è¤ë¥¤¥Ù¥ó¥È
- - [[http://www.ospn.jp/osc2011-spring/modules/eguide/event.php?eid=60][GPG/CAcert ¥­¡¼¥µ¥¤¥ó¥Ñ¡¼¥Æ¥£]] (10:00 - 10:45)
- - [[http://www.ospn.jp/osc2011-spring/modules/eguide/event.php?eid=58][ÆüËÜ½é¡ªCAcert ¸ø¼°¥È¥ì¡¼¥Ë¥ó¥°¡ÊATE Tokyo¡Ë ¥­¡¼¥µ¥¤¥ó²ñ]] (12:00 - 12:45)
-* »²²ÃÊó¹ğ
+* ãã®ä»– Debian é–¢ä¿‚è€…ã«ã‚ˆã‚‹ã‚¤ãƒ™ãƒ³ãƒˆ
+ - [[http://www.ospn.jp/osc2011-spring/modules/eguide/event.php?eid=60][GPG/CAcert ã‚­ãƒ¼ã‚µã‚¤ãƒ³ãƒ‘ãƒ¼ãƒ†ã‚£]] (10:00 - 10:45)
+ - [[http://www.ospn.jp/osc2011-spring/modules/eguide/event.php?eid=58][æ—¥æœ¬åˆï¼CAcert å…¬å¼ãƒˆãƒ¬ãƒ¼ãƒ‹ãƒ³ã‚°ï¼ˆATE Tokyoï¼‰ ã‚­ãƒ¼ã‚µã‚¤ãƒ³ä¼š]] (12:00 - 12:45)
+* å‚åŠ å ±å‘Š
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDF¥×¥ì¥¼¥ó¥Æ¡¼¥·¥ç¥ó»ñÎÁ]]
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF»öÁ°ÇÛÉÛ»ñÎÁ(»²¹Í)]]
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³è³‡æ–™]]
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDFäº‹å‰é…å¸ƒè³‡æ–™(å‚è€ƒ)]]

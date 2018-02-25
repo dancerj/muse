@@ -1,79 +1,79 @@
 #title Debian Hack Cafe
 
-* ��Ū
-�뺧 / �������� Debian JP Project ���Ф�
-�����ҡ�����ߤʤ���ϥå�������֤����Ū�˳��ݤ���ƥ��ȥץ��������ȤǤ���
+* 目的
+結婚 / 就職した Debian JP Project メンバが
+コーヒーを飲みながらハックする時間を定期的に確保するテストプロジェクトです。
 
-* �оݼ�
-Debian �ط��� / ������ / �Ҳ�ͤ˸¤餺ï�Ǥ⻲�äǤ��ޤ���
-���ڤ˻��ä��Ƥ����������ۼ��ή�����������ޤ��ޤ���
+* 対象者
+Debian 関係者 / 既婚者 / 社会人に限らず誰でも参加できます。
+気軽に参加してください。異種交流、相談等歓迎します。
 
-* ������
+* 開催日
 
-�ٹ�Ȥ����ˤ���ɬ�פϤ���ޤ����褿���Ȥ�����ơ����ꤿ���Ȥ��˵��륹������Ǥ���
+遅刻とか気にする必要はありません。来たいときに来て、帰りたいときに帰るスタイルです。
 
-** ���
-[[http://twitter.com/debian_hackcafe][twitter]] ��ή����ޤ���
+** 場所
+[[http://twitter.com/debian_hackcafe][twitter]] で流されます。
 
-** twitter �ؤΤĤ֤䤭
-Debain Hack Cafe �˻��ä��ơ�GPG���򴹤򤷤��ͤ� �ʲ��Υ��ޥ�ɤ� twitter �ؽ񤭹��ळ�Ȥ�
-�Ǥ��ޤ���
+** twitter へのつぶやき
+Debain Hack Cafe に参加して、GPG鍵交換をした人は 以下のコマンドで twitter へ書き込むことが
+できます。
 
 <example>
 $ sudo apt-get install libwww-perl
-$ echo "�Ĥ֤䤭" | gpg --clearsign | lwp-request -m POST http://www.nigauri.org/debian_hackcafe_post
+$ echo "つぶやき" | gpg --clearsign | lwp-request -m POST http://www.nigauri.org/debian_hackcafe_post
 </example>
 
-* ������
-��������ɬ�פǤ��������ä��������ޤȤ�ޤ���
-�����ˤ� Git ��Ȥ��ޤ���
+* 作業報告
+毎回作業報告が必要です。何をやったかを毎回まとめます。
+管理には Git を使います。
 
-* ������ꥢ
-** ���ޤޤǤγ��ž��
- - [[http://maps.google.co.jp/maps?hl=ja&lr=lang_ja&ie=UTF8&q=%E3%83%9E%E3%82%AF%E3%83%89+%E6%96%B0%E5%AE%BF&fb=1&split=1&gl=jp&ei=IL6kSZiNAZTq6QOD2bHPAg&ll=35.69526,139.70026&spn=0.015579,0.038323&z=15&iwloc=D][�ޥ��ɥʥ�ɡ�������������Ź]]
-    �Ÿ������롣�����ҡ����狼�꼫ͳ��
- - [[http://www.cybac.com/information/nakano/index.html][�����Хå������ץ饶Ź]]
-    �ͥåȡ��Ÿ����ꡣ�ɥ�󥯥С����ꡣ
- - [[http://www.kadoya-hotel.co.jp/la_voie/][���ե� �� ������]]
-    ���������ʥ��ե��������ʤ��Ÿ����ꡣ2���֤ǣ��ɥ�󥯡�
+* 東京エリア
+** いままでの開催場所
+ - [[http://maps.google.co.jp/maps?hl=ja&lr=lang_ja&ie=UTF8&q=%E3%83%9E%E3%82%AF%E3%83%89+%E6%96%B0%E5%AE%BF&fb=1&split=1&gl=jp&ei=IL6kSZiNAZTq6QOD2bHPAg&ll=35.69526,139.70026&spn=0.015579,0.038323&z=15&iwloc=D][マクドナルド・新宿西口駅前店]]
+    電源がある。コーヒーおわかり自由。
+ - [[http://www.cybac.com/information/nakano/index.html][サイバック中野サンプラザ店]]
+    ネット、電源あり。ドリンクバーあり。
+ - [[http://www.kadoya-hotel.co.jp/la_voie/][カフェ ラ ヴォワ]]
+    ヴォシャレなカフェ。奥の席に電源あり。2時間で１ドリンク。
  - [[http://www.transit-web.com/shop/cafe/blue-square-cafe/][BLUE SQUARE CAFE]]
-    ���ե����ͥåȤ��Ȥ��롣Ź���˥ѥ���ɤ�ʹ��ɬ�פ����롣
-    ������¿�����Ƕ�Ϥ������濴��
-    �Ÿ����Ȥ��ʤ��ʤä��褦����2009/08����)��
- - [[http://www.italiantomato.co.jp][�����ꥢ�󡦥ȥޥ� ���ե�����˥� �������Ź]]
-    ����äȥ��������ʥ��ե����Ÿ��ʤ���
- - [[http://vip.mapion.co.jp/c/f?uc=4&pg=1&grp=misterdonut&ino=BA389146][�ߥ������ɡ��ʥ� ���������̤� ����å�]]
-    �Ÿ����ꡣ�����ҡ�������꼫ͳ��
- - [[http://www.metro-net.co.jp/][�ե꡼���ե����С���mixing cafe��]]
-    ���߲������ݡ��ĥ��ե������뤵���餷����
- - [[http://tinyurl.com/cjspgu][CafeMiyama �����������Ź]]
-    �Ÿ����ꡣ��Υ����롣
- - [[http://bit.ly/pm4Dt][���ر���ؤ��ϲ�]]
-    �Ÿ����ꡣ������¿���ΤǤ��뤵�����ѥ󤬿����롣
- - [[http://www.marunouchicafe.com/index.html][�ݤ��⥫�ե�]]
-    �Ÿ����ꡣ�Ť������٥�Ȥ�Ǥ���褦����
- - [[http://www.alternativecafe.jp/][���륿�ͥ��ƥ��֥��ե�]]
-    ���̤Υ��ե����Ǵ��ؤ���Ϥ���äȱ󤤡�
- - [[http://www.hotpepper.jp/strJ000760916/][Brooklyn Parlor/�֥�å���󡡥ѡ��顼]]
-    �Ÿ��ʤ����ͥåȥ�����ꡣ�������ʥ��ե������ʤ��⤤�����������ơ��֥뤬����Τǡ�
-    ��ȤϤ��䤹�����⡣�ͤ����ä���¿���Τ����ˤ�������ͽ�󤷤��ۤ���������
- - [[http://r.gnavi.co.jp/a616414/][�顦�ƥ�åĥ� ���롦�С��롦�ǥ������ե�������]]
-    �����ģ<����>�κǾ峬�ˤ��륫�ե����ʤˤ�äƤ��Ÿ����Ȥ��롣��졣
+    カフェ。ネットが使える。店員にパスワードを聞く必要がある。
+    学生が多い。最近はここが中心。
+    電源が使えなくなったようだ（2009/08から)。
+ - [[http://www.italiantomato.co.jp][イタリアン・トマト カフェジュニア 新宿東口店]]
+    ちょっとヴォシャレなカフェ。電源なし。
+ - [[http://vip.mapion.co.jp/c/f?uc=4&pg=1&grp=misterdonut&ino=BA389146][ミスタードーナツ 新宿靖国通り ショップ]]
+    電源あり。コーヒーおかわり自由。
+ - [[http://www.metro-net.co.jp/][フリーカフェ＆バー「mixing cafe」]]
+    飲み屋。スポーツカフェ？うるさいらしい。
+ - [[http://tinyurl.com/cjspgu][CafeMiyama 新宿南口駅前店]]
+    電源あり。ルノアール。
+ - [[http://bit.ly/pm4Dt][工学院大学の地下]]
+    電源あり。学生が多いのでうるさい。パンが食える。
+ - [[http://www.marunouchicafe.com/index.html][丸の内カフェ]]
+    電源あり。静か。イベントもできるようだ。
+ - [[http://www.alternativecafe.jp/][オルタネイティブカフェ]]
+    普通のカフェ。最寄り駅からはちょっと遠い。
+ - [[http://www.hotpepper.jp/strJ000760916/][Brooklyn Parlor/ブルックリン　パーラー]]
+    電源なし。ネットワークあり。おしゃれなカフェで値段が高い。おおきいテーブルがあるので、
+    作業はしやすいかも。人がけっこう多いので早めにいくか、予約したほうがいい。
+ - [[http://r.gnavi.co.jp/a616414/][ラ・テラッツァ イル・バール・ディ・オフィチーナ]]
+    東京都庁<北塔>の最上階にあるカフェ。席によっては電源が使える。穴場。
 
  - [[http://www.facebook.com/Cafe.CONCENT.tas.jp][Cafe Concent]]
-    �Ÿ���̵��LAN���ꡣ1����500�ߡ��ɥ�󥯥С��դ���19���ʹߤ�500�ߤǲ����֤����Ѳ�ǽ��
+    電源、無線LANあり。1時間500円。ドリンクバー付き。19時以降は500円で何時間も利用可能。
 
-** ���ˤʤ�Ȥ���
+** 気になるところ
  - [[http://theterminal.jp/][Terminal]]
- - [[http://www.timeoutcafe.jp/][�����ॢ���ȥ��ե�]]
- - [[http://ascii.jp/elem/000/000/677/677502/][��Cafe]]
+ - [[http://www.timeoutcafe.jp/][タイムアウトカフェ]]
+ - [[http://ascii.jp/elem/000/000/677/677502/][＠Cafe]]
 
-* �������ꥢ
-** ���ޤޤǤγ��ž��
- - [[http://r.tabelog.com/osaka/A2701/A270101/27019188/dtlmap/][Seattle's Best Coffee ����DT���Ź]]
-    �Ÿ����ꡣ�ʱ졣FREESPOT�˷Ҥ����롣
- - [[http://www.yodobashi-umeda.com/cafe/cafe_soft.html][����ޥ륯���ե� ��好�եȥХ󥯥�ɥХ�����Ź]]
-    �Ÿ����ꡣ�ر졣FREESPOT�Ϥ��뤬�褯�ڤ�롣����äȤ��뤵����
+* 関西エリア
+** いままでの開催場所
+ - [[http://r.tabelog.com/osaka/A2701/A270101/27019188/dtlmap/][Seattle's Best Coffee 梅田DTタワー店]]
+    電源あり。喫煙。FREESPOTに繋げられる。
+ - [[http://www.yodobashi-umeda.com/cafe/cafe_soft.html][サンマルクカフェ 大阪ソフトバンクヨドバシ梅田店]]
+    電源あり。禁煙。FREESPOTはあるがよく切れる。ちょっとうるさい。
 
-** ���ˤʤ�Ȥ���
- - [[http://www.cafe-eikokuya.jp/store/partyroom.html][�ļ��ߤ��ڤ�ץ�󡧵���� ��Ԣ��]]
+** 気になるところ
+ - [[http://www.cafe-eikokuya.jp/store/partyroom.html][個室貸し切りプラン：喫茶館 英國屋]]

@@ -1,22 +1,22 @@
-#title Åìµş¥¨¥ê¥¢DebianÊÙ¶¯²ñ OSC 2016 Gunma½ĞÄ¥ÈÇ
+#title æ±äº¬ã‚¨ãƒªã‚¢Debianå‹‰å¼·ä¼š OSC 2016 Gunmaå‡ºå¼µç‰ˆ
 <lisp>(progn (setq year 2016) (setq month 5) (setq day 14) (setq number "") (setq eventid "") nil) </lisp>
-* ³«ºÅ³µÍ×
+* é–‹å‚¬æ¦‚è¦
 
-Æü»ş | <lisp>year</lisp>Ç¯<lisp>month</lisp>·î<lisp>day</lisp>Æü(ÅÚÍËÆü) 10:20-17:40 (Å¸¼¨¤Ï10:30-17:00)
-¾ì½ê | [[http://www.ospn.jp/osc2016-gunma/][¥ª¡¼¥×¥ó¥½¡¼¥¹¥«¥ó¥Õ¥¡¥ì¥ó¥¹ 2016 Gunma]]
-* ÅöÆü¤Îagenda
+æ—¥æ™‚ | <lisp>year</lisp>å¹´<lisp>month</lisp>æœˆ<lisp>day</lisp>æ—¥(åœŸæ›œæ—¥) 10:20-17:40 (å±•ç¤ºã¯10:30-17:00)
+å ´æ‰€ | [[http://www.ospn.jp/osc2016-gunma/][ã‚ªãƒ¼ãƒ—ãƒ³ã‚½ãƒ¼ã‚¹ã‚«ãƒ³ãƒ•ã‚¡ãƒ¬ãƒ³ã‚¹ 2016 Gunma]]
+* å½“æ—¥ã®agenda
 
-»ş´Ö || ÆâÍÆ || ³µÍ× || È¯É½¼Ô
-<lisp>month</lisp>/<lisp>day</lisp>(ÅÚ) 15:00-15:45 | Debian Updates | Debian 8.0 (¥³¡¼¥É¥Í¡¼¥àJessie) ¤ÎÏÃÂê¤òÃæ¿´¤Ë¡¢ºÇ¶á¤ÎDebian Project¤Î¥È¥Ô¥Ã¥¯¤ò¾Ò²ğ¤·¤Ş¤¹¡£ | ´ä¾¾
-<lisp>month</lisp>/<lisp>day</lisp>(ÅÚ) ½ªÆü | Debian¥Ö¡¼¥¹½ĞÅ¸ | Debian¥Ö¡¼¥¹¤ò½Ğ¤·¤Æ¤¤¤Ş¤¹¡£Debian GNU/Linux¤Î¾Ò²ğ/DebianJP/Åìµş¥¨¥ê¥¢DebianÊÙ¶¯²ñ¤Î¾Ò²ğ¤ò¤·¤Ş¤¹¡£ | 
+æ™‚é–“ || å†…å®¹ || æ¦‚è¦ || ç™ºè¡¨è€…
+<lisp>month</lisp>/<lisp>day</lisp>(åœŸ) 15:00-15:45 | Debian Updates | Debian 8.0 (ã‚³ãƒ¼ãƒ‰ãƒãƒ¼ãƒ Jessie) ã®è©±é¡Œã‚’ä¸­å¿ƒã«ã€æœ€è¿‘ã®Debian Projectã®ãƒˆãƒ”ãƒƒã‚¯ã‚’ç´¹ä»‹ã—ã¾ã™ã€‚ | å²©æ¾
+<lisp>month</lisp>/<lisp>day</lisp>(åœŸ) çµ‚æ—¥ | Debianãƒ–ãƒ¼ã‚¹å‡ºå±• | Debianãƒ–ãƒ¼ã‚¹ã‚’å‡ºã—ã¦ã„ã¾ã™ã€‚Debian GNU/Linuxã®ç´¹ä»‹/DebianJP/æ±äº¬ã‚¨ãƒªã‚¢Debianå‹‰å¼·ä¼šã®ç´¹ä»‹ã‚’ã—ã¾ã™ã€‚ | 
 
- OSC 2016 Gunma¤Ë·Ç¼¨¤ò¤·¤Æ¤¤¤Ş¤¹¡£¾Ü¤·¤¯¤Ï¡¢
-[[http://www.ospn.jp/osc2016-gunma/][¥ª¡¼¥×¥ó¥½¡¼¥¹¥«¥ó¥Õ¥¡¥ì¥ó¥¹ 2016 Gunma]]
-¤ò»²¾È¤¯¤À¤µ¤¤¡£
+ OSC 2016 Gunmaã«æ²ç¤ºã‚’ã—ã¦ã„ã¾ã™ã€‚è©³ã—ãã¯ã€
+[[http://www.ospn.jp/osc2016-gunma/][ã‚ªãƒ¼ãƒ—ãƒ³ã‚½ãƒ¼ã‚¹ã‚«ãƒ³ãƒ•ã‚¡ãƒ¬ãƒ³ã‚¹ 2016 Gunma]]
+ã‚’å‚ç…§ãã ã•ã„ã€‚
 
-* »ñÎÁ
+* è³‡æ–™
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-osc-presentation.pdf][PDF¥×¥ì¥¼¥ó¥Æ¡¼¥·¥ç¥ó»ñÎÁ]]
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-osc-presentation.pdf][PDFãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³è³‡æ–™]]
 
-* »²²ÃÊó¹ğ
+* å‚åŠ å ±å‘Š
 

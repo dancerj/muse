@@ -1,25 +1,25 @@
-#title Âè<lisp> number</lisp>²óÅìµş¥¨¥ê¥¢DebianÊÙ¶¯²ñ¡¢<lisp>year</lisp>Ç¯<lisp>month</lisp>·îÊÙ¶¯²ñ
+#title ç¬¬<lisp> number</lisp>å›æ±äº¬ã‚¨ãƒªã‚¢Debianå‹‰å¼·ä¼šã€<lisp>year</lisp>å¹´<lisp>month</lisp>æœˆå‹‰å¼·ä¼š
 <lisp>(progn (setq year 2012) (setq month 9) (setq day 8) (setq number 92) (setq eventid "") "") </lisp>
-* ³«ºÅ³µÍ×
+* é–‹å‚¬æ¦‚è¦
 
-OSC Tokyo Fall ¤Ë»²²Ã¤·¤Ş¤¹¡£ÄÌ¾ï·îÎã¥ß¡¼¥Æ¥£¥ó¥°¤Ç¤Ï¤Ê¤¯OSC Tokyo Fall¤Ç²ñ¤¤¤Ş¤·¤ç¤¦¡£
+OSC Tokyo Fall ã«å‚åŠ ã—ã¾ã™ã€‚é€šå¸¸æœˆä¾‹ãƒŸãƒ¼ãƒ†ã‚£ãƒ³ã‚°ã§ã¯ãªãOSC Tokyo Fallã§ä¼šã„ã¾ã—ã‚‡ã†ã€‚
 
-Æü»ş | <lisp>year</lisp>Ç¯<lisp>month</lisp>·î<lisp>day</lisp>Æü(ÅÚÍËÆü) 
-¾ì½ê | 
-Äê°÷ | 
+æ—¥æ™‚ | <lisp>year</lisp>å¹´<lisp>month</lisp>æœˆ<lisp>day</lisp>æ—¥(åœŸæ›œæ—¥) 
+å ´æ‰€ | 
+å®šå“¡ | 
 
-* ÅöÆü¤Îagenda
+* å½“æ—¥ã®agenda
 
-»ş´Ö || ÆâÍÆ || ³µÍ× || È¯É½¼Ô
-11:00 - 11:45 | ¼¡´ü°ÂÄêÈÇ Debian 7.0 "Wheezy" ¤Î¾Ò²ğ | ¼¡´ü°ÂÄêÈÇ Debian 7.0 "Wheezy" ¤Ë¤Ä¤¤¤ÆºÇ¿·¾ğÊó¤ò¤ªÅÁ¤¨¤·¤Ş¤¹ | ´ä¾¾
+æ™‚é–“ || å†…å®¹ || æ¦‚è¦ || ç™ºè¡¨è€…
+11:00 - 11:45 | æ¬¡æœŸå®‰å®šç‰ˆ Debian 7.0 "Wheezy" ã®ç´¹ä»‹ | æ¬¡æœŸå®‰å®šç‰ˆ Debian 7.0 "Wheezy" ã«ã¤ã„ã¦æœ€æ–°æƒ…å ±ã‚’ãŠä¼ãˆã—ã¾ã™ | å²©æ¾
 
-* º©¿Æ²ñ
+* æ‡‡è¦ªä¼š
 
-º£²ó¤Ï¤¢¤ê¤Ş¤»¤ó¡£
+ä»Šå›ã¯ã‚ã‚Šã¾ã›ã‚“ã€‚
 
-* »ñÎÁ
+* è³‡æ–™
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDF¥×¥ì¥¼¥ó¥Æ¡¼¥·¥ç¥ó»ñÎÁ]]
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³è³‡æ–™]]
 
 
 

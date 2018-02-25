@@ -1,20 +1,20 @@
-#title Âè<lisp> number</lisp>²óÅìµş¥¨¥ê¥¢DebianÊÙ¶¯²ñ¡¤<lisp>year</lisp>Ç¯<lisp>month</lisp>·îÊÙ¶¯²ñ
+#title ç¬¬<lisp> number</lisp>å›æ±äº¬ã‚¨ãƒªã‚¢Debianå‹‰å¼·ä¼šï¼Œ<lisp>year</lisp>å¹´<lisp>month</lisp>æœˆå‹‰å¼·ä¼š
 <lisp>(progn  (setq year 2007) (setq month 6) (setq day 16) (setq number 29) "") </lisp>
-* ³«ºÅ³µÍ×
+* é–‹å‚¬æ¦‚è¦
 
-Æü»ş | <lisp>year</lisp>Ç¯<lisp>month</lisp>·î<lisp>day</lisp>Æü(ÅÚÍËÆü) 18:00-21:00
-¾ì½ê | ¥¨¥¸¥ó¥Ğ¥é Debconf ²ñ¾ì¡¢¤â¤·¤¯¤Ï IRC irc.debian.or.jp #debconf7 ¥Á¥ã¥ó¥Í¥ë(Ê¸»ú¥³¡¼¥É: iso-2022-jp)
-Äê°÷ | IRC¤Î¸Â³¦ÎÌ
+æ—¥æ™‚ | <lisp>year</lisp>å¹´<lisp>month</lisp>æœˆ<lisp>day</lisp>æ—¥(åœŸæ›œæ—¥) 18:00-21:00
+å ´æ‰€ | ã‚¨ã‚¸ãƒ³ãƒãƒ© Debconf ä¼šå ´ã€ã‚‚ã—ãã¯ IRC irc.debian.or.jp #debconf7 ãƒãƒ£ãƒ³ãƒãƒ«(æ–‡å­—ã‚³ãƒ¼ãƒ‰: iso-2022-jp)
+å®šå“¡ | IRCã®é™ç•Œé‡
 
-* ÅöÆü¤Îagenda
+* å½“æ—¥ã®agenda
 
-»ş´Ö || ÆâÍÆ || È¯É½¼Ô
-18:00-23:00 | Debconf7¥­¥Ã¥¯¥ª¥Õ | Á´°÷
+æ™‚é–“ || å†…å®¹ || ç™ºè¡¨è€…
+18:00-23:00 | Debconf7ã‚­ãƒƒã‚¯ã‚ªãƒ• | å…¨å“¡
 
-¤Ş¤¿¡¢²ñ´üÃæ¿ï»ş¥ß¡¼¥Æ¥£¥ó¥°¤ò¹Ô¤¤¤Ş¤¹¡£IRC¥Á¥ã¥ó¥Í¥ë¤Ë»²²Ã¤¹¤ë¤È»²²Ã¼Ô¤¬È¿±ş¤¹¤ë²ÄÇ½À­¤¬¤¢¤ê¤Ş¤¹¡£
+ã¾ãŸã€ä¼šæœŸä¸­éšæ™‚ãƒŸãƒ¼ãƒ†ã‚£ãƒ³ã‚°ã‚’è¡Œã„ã¾ã™ã€‚IRCãƒãƒ£ãƒ³ãƒãƒ«ã«å‚åŠ ã™ã‚‹ã¨å‚åŠ è€…ãŒåå¿œã™ã‚‹å¯èƒ½æ€§ãŒã‚ã‚Šã¾ã™ã€‚
 
-* »²²ÃÊó¹ğ
+* å‚åŠ å ±å‘Š
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF»öÁ°ÇÛÉÛ»ñÎÁ]]
- - [[http://www.netfort.gr.jp/~dancer/diary/daily/2007-Jun-16.html.ja#2007-Jun-16-22:44:10][¾åÀî½ã°ì]]
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDFäº‹å‰é…å¸ƒè³‡æ–™]]
+ - [[http://www.netfort.gr.jp/~dancer/diary/daily/2007-Jun-16.html.ja#2007-Jun-16-22:44:10][ä¸Šå·ç´”ä¸€]]
 

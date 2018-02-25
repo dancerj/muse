@@ -1,28 +1,28 @@
-#title Âè<lisp> number</lisp>²óÅìµş¥¨¥ê¥¢DebianÊÙ¶¯²ñ¡¢<lisp>year</lisp>Ç¯<lisp>month</lisp>·îÊÙ¶¯²ñ 2013 OSC½ĞÄ¥
+#title ç¬¬<lisp> number</lisp>å›æ±äº¬ã‚¨ãƒªã‚¢Debianå‹‰å¼·ä¼šã€<lisp>year</lisp>å¹´<lisp>month</lisp>æœˆå‹‰å¼·ä¼š 2013 OSCå‡ºå¼µ
 <lisp>(progn (setq year 2013) (setq month 2) (setq day 23) (setq number 97) (setq eventid "") "") </lisp>
-* ³«ºÅ³µÍ×
+* é–‹å‚¬æ¦‚è¦
 
-DebianÊÙ¶¯²ñ¤Ï¡¢OSC Tokyo/Spring¤Ë»²²Ã¤·¤Ş¤¹¡£
+Debianå‹‰å¼·ä¼šã¯ã€OSC Tokyo/Springã«å‚åŠ ã—ã¾ã™ã€‚
 
-Æü»ş    | <lisp>year</lisp>Ç¯<lisp>month</lisp>·î<lisp>day</lisp>Æü(ÅÚÍËÆü)
-²ñ¾ì°ÆÆâ | [[http://www.ospn.jp/osc2013-spring/][OSC Tokyo/Spring ²ñ¾ì(ÌÀÀ±Âç³Ø ÆüÌî¥­¥ã¥ó¥Ñ¥¹ 28¹æ´Û)]]
+æ—¥æ™‚    | <lisp>year</lisp>å¹´<lisp>month</lisp>æœˆ<lisp>day</lisp>æ—¥(åœŸæ›œæ—¥)
+ä¼šå ´æ¡ˆå†… | [[http://www.ospn.jp/osc2013-spring/][OSC Tokyo/Spring ä¼šå ´(æ˜æ˜Ÿå¤§å­¦ æ—¥é‡ã‚­ãƒ£ãƒ³ãƒ‘ã‚¹ 28å·é¤¨)]]
 
-* ÅöÆü¤Îagenda
+* å½“æ—¥ã®agenda
 
-»ş´Ö || ÆâÍÆ || ³µÍ× || È¯É½¼Ô
-10:00-10:45 | Debian update | Debian¤ÎºÇ¿·¾ğÊó¤Ë¤Ä¤¤¤Æ | ÌîÅç
-½ªÆü | Debian¥Ö¡¼¥¹½ĞÅ¸Ãæ | Debian¥Ö¡¼¥¹¤ò½Ğ¤·¤Æ¤¤¤Ş¤¹ | µÈÅÄ¡¢ÌîÅç
+æ™‚é–“ || å†…å®¹ || æ¦‚è¦ || ç™ºè¡¨è€…
+10:00-10:45 | Debian update | Debianã®æœ€æ–°æƒ…å ±ã«ã¤ã„ã¦ | é‡å³¶
+çµ‚æ—¥ | Debianãƒ–ãƒ¼ã‚¹å‡ºå±•ä¸­ | Debianãƒ–ãƒ¼ã‚¹ã‚’å‡ºã—ã¦ã„ã¾ã™ | å‰ç”°ã€é‡å³¶
 
-* º©¿Æ²ñ
+* æ‡‡è¦ªä¼š
 
-Ì¤Äê
+æœªå®š
 
-* »ñÎÁ
+* è³‡æ–™
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDF¥×¥ì¥¼¥ó¥Æ¡¼¥·¥ç¥ó»ñÎÁ]]
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³è³‡æ–™]]
 
-* »²²ÃÊó¹ğ
- - [[http://henrich-on-debian.blogspot.jp/2013/02/open-source-conference-2013-tokyospring.html][henrich¤µ¤ó]]
+* å‚åŠ å ±å‘Š
+ - [[http://henrich-on-debian.blogspot.jp/2013/02/open-source-conference-2013-tokyospring.html][henrichã•ã‚“]]
 
 
 

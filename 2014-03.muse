@@ -1,26 +1,26 @@
-#title Âè<lisp> number</lisp>²óÅìµş¥¨¥ê¥¢DebianÊÙ¶¯²ñ¡¢<lisp>year</lisp>Ç¯<lisp>month</lisp>·îÊÙ¶¯²ñ  <lisp>year</lisp> OSC½ĞÄ¥
+#title ç¬¬<lisp> number</lisp>å›æ±äº¬ã‚¨ãƒªã‚¢Debianå‹‰å¼·ä¼šã€<lisp>year</lisp>å¹´<lisp>month</lisp>æœˆå‹‰å¼·ä¼š  <lisp>year</lisp> OSCå‡ºå¼µ
 <lisp>(progn (setq year 2014) (setq month 3) (setq day 1) (setq number 110) (setq eventid "") "") </lisp>
-* ³«ºÅ³µÍ×
+* é–‹å‚¬æ¦‚è¦
 
-Åìµş¥¨¥ê¥¢DebianÊÙ¶¯²ñ¤Ï¡¢<lisp>year</lisp> OSC Tokyo/Spring¤Ë»²²Ã¤·¤Ş¤¹¡£
+æ±äº¬ã‚¨ãƒªã‚¢Debianå‹‰å¼·ä¼šã¯ã€<lisp>year</lisp> OSC Tokyo/Springã«å‚åŠ ã—ã¾ã™ã€‚
 
-Æü»ş    | <lisp>year</lisp>Ç¯<lisp>month</lisp>·î<lisp>day</lisp>Æü(ÅÚÍËÆü)
-²ñ¾ì°ÆÆâ | [[http://www.ospn.jp/osc2014-spring/][OSC 2014 Tokyo/Spring ²ñ¾ì(ÌÀÀ±Âç³Ø ÆüÌî¥­¥ã¥ó¥Ñ¥¹ 28¹æ´Û)]]
+æ—¥æ™‚    | <lisp>year</lisp>å¹´<lisp>month</lisp>æœˆ<lisp>day</lisp>æ—¥(åœŸæ›œæ—¥)
+ä¼šå ´æ¡ˆå†… | [[http://www.ospn.jp/osc2014-spring/][OSC 2014 Tokyo/Spring ä¼šå ´(æ˜æ˜Ÿå¤§å­¦ æ—¥é‡ã‚­ãƒ£ãƒ³ãƒ‘ã‚¹ 28å·é¤¨)]]
 
-* ÅöÆü¤Îagenda
+* å½“æ—¥ã®agenda
 
-»ş´Ö || ÆâÍÆ || ³µÍ× || È¯É½¼Ô
-<lisp>month</lisp>/<lisp>day</lisp>(ÅÚ) 12:00-12:45 | OSC²ñ¾ì¤Ë¤Æ | Debian Update ¡õ Debian¤ÎEFI/UEFIÂĞ±ş¤Ë¤Ä¤¤¤Æ | ´ä¾¾
-<lisp>month</lisp>/<lisp>day</lisp>(ÅÚ) ½ªÆü | Debian¥Ö¡¼¥¹½ĞÅ¸Ãæ | Debian¥Ö¡¼¥¹¤ò½Ğ¤·¤Æ¤¤¤Ş¤¹ | µÈÅÄ¡¢ÌîÅç
+æ™‚é–“ || å†…å®¹ || æ¦‚è¦ || ç™ºè¡¨è€…
+<lisp>month</lisp>/<lisp>day</lisp>(åœŸ) 12:00-12:45 | OSCä¼šå ´ã«ã¦ | Debian Update ï¼† Debianã®EFI/UEFIå¯¾å¿œã«ã¤ã„ã¦ | å²©æ¾
+<lisp>month</lisp>/<lisp>day</lisp>(åœŸ) çµ‚æ—¥ | Debianãƒ–ãƒ¼ã‚¹å‡ºå±•ä¸­ | Debianãƒ–ãƒ¼ã‚¹ã‚’å‡ºã—ã¦ã„ã¾ã™ | å‰ç”°ã€é‡å³¶
 
- - Ãí°Õ¡§<lisp>month</lisp>/<lisp>day</lisp>(ÅÚ)¤Î¤ßÈ¯É½µÚ¤Ó½ĞÅ¸¤È¤Ê¤ê¤Ş¤¹¡£Á°Æü¤ÎOSC¼çºÅÆü¤Ç¤¢¤ë2/28(¶â)¤ÎÊı¤ÏÅöÊÙ¶¯²ñ¤ÏÁ´¤¯½ĞÅ¸¤·¤Æ¤¤¤Ş¤»¤ó¤Î¤Ç¡¢¤´Ãí°Õ¤¯¤À¤µ¤¤¡£
+ - æ³¨æ„ï¼š<lisp>month</lisp>/<lisp>day</lisp>(åœŸ)ã®ã¿ç™ºè¡¨åŠã³å‡ºå±•ã¨ãªã‚Šã¾ã™ã€‚å‰æ—¥ã®OSCä¸»å‚¬æ—¥ã§ã‚ã‚‹2/28(é‡‘)ã®æ–¹ã¯å½“å‹‰å¼·ä¼šã¯å…¨ãå‡ºå±•ã—ã¦ã„ã¾ã›ã‚“ã®ã§ã€ã”æ³¨æ„ãã ã•ã„ã€‚
 
-* º©¿Æ²ñ
+* æ‡‡è¦ªä¼š
 
-Ì¤Äê
+æœªå®š
 
-* »ñÎÁ
+* è³‡æ–™
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume201402-osc2014-presentation.pdf][PDF¥×¥ì¥¼¥ó¥Æ¡¼¥·¥ç¥ó»ñÎÁ]]
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume201402-osc2014-presentation.pdf][PDFãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³è³‡æ–™]]
 
-* »²²ÃÊó¹ğ
+* å‚åŠ å ±å‘Š

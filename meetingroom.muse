@@ -1,33 +1,33 @@
-#title Åìµş¥¨¥ê¥¢DebianÊÙ¶¯²ñ
+#title æ±äº¬ã‚¨ãƒªã‚¢Debianå‹‰å¼·ä¼š
 
-* ²ñ¾ì¾ğÊó
-Åìµş¶áÊÕ¤Î¥ß¡¼¥Æ¥£¥ó¥°¥ë¡¼¥à¤È¤«¤Î¾ğÊó¤ò¤Ş¤È¤á¤Æ¤¤¤Ş¤¹¡£
-´ğËÜÅª¤Ë°Â¤¤¤È¤³¤í¡£¤¿¤Ş¤Ë¹â¤¤¤Î¤¬¤Ş¤¸¤Ã¤Æ¤¤¤Ş¤¹¡£
+* ä¼šå ´æƒ…å ±
+æ±äº¬è¿‘è¾ºã®ãƒŸãƒ¼ãƒ†ã‚£ãƒ³ã‚°ãƒ«ãƒ¼ãƒ ã¨ã‹ã®æƒ…å ±ã‚’ã¾ã¨ã‚ã¦ã„ã¾ã™ã€‚
+åŸºæœ¬çš„ã«å®‰ã„ã¨ã“ã‚ã€‚ãŸã¾ã«é«˜ã„ã®ãŒã¾ã˜ã£ã¦ã„ã¾ã™ã€‚
 
-* ÊÙ¶¯²ñ¡¢¥ß¡¼¥Æ¥£¥ó¥°¥ë¡¼¥à
+* å‹‰å¼·ä¼šã€ãƒŸãƒ¼ãƒ†ã‚£ãƒ³ã‚°ãƒ«ãƒ¼ãƒ 
 
- - [[http://www.itabashi-kigyou.jp/meeting.html][ÈÄ¶¶¶èÎ©´ë¶È³èÀ­²½¥»¥ó¥¿¡¼]]([[http://www.itabashi-kigyou.jp/meeting_charge.html][ÎÁ¶â]])
- - [[http://www.hataraku.metro.tokyo.jp/sosiki/roseikaikan/nanbu.html][ÆîÉôÏ«À¯²ñ´Û]]
- - [[http://nyc.niye.go.jp/][¹ñÎ©¥ª¥ê¥ó¥Ô¥Ã¥¯µ­Ç°ÀÄ¾¯Ç¯Áí¹ç¥»¥ó¥¿¡¼]]
- - [[http://www.library.chiyoda.tokyo.jp/facilities/trainingroom.html][ÀéÂåÅÄ¶è¿Ş½ñ´Û]](¥á¥â¡§¥Í¥Ã¥È¤¬»È¤¨¤ë¡¢Éô²°¤Ï¾®¤µ¤¤)
- - [[http://www.city.chuo.lg.jp/kurasi/sigoto/kigyonosinko/haitekusentar/][Ãæ±û¶è ¥Ï¥¤¥Æ¥¯¥»¥ó¥¿¡¼]]
- - [[http://www.nices.jp/facility/zero/index.html][¤Ê¤¤¤»¤¹¤Í¤Ã¤È ¤Ê¤«¤ÎZERO]]
- - [[http://www.sunplaza.jp/meeting/index.html][¥µ¥ó¥×¥é¥¶¡Ã¸¦½¤¼¼¡Ê¹â¤¤¡Ë]]
- - [[http://theterminal.jp/][Terminal]](ÎÁ¶âÂÎ·Ï¤¬ÉÔÌÀ¤Ê¤È¤³¤í¤¬¤¢¤ë¡£)
- - [[http://www.yamori.jp/modules/tinyd3/index.php?id=7][¤Á¤è¤À ¥×¥é¥Ã¥È¥Õ¥©¡¼¥à¥¹¥¯¥¨¥¢¡Ê¹â¤¤¡££±»ş´Ö£±£°£°£°±ß¡Ë]]
+ - [[http://www.itabashi-kigyou.jp/meeting.html][æ¿æ©‹åŒºç«‹ä¼æ¥­æ´»æ€§åŒ–ã‚»ãƒ³ã‚¿ãƒ¼]]([[http://www.itabashi-kigyou.jp/meeting_charge.html][æ–™é‡‘]])
+ - [[http://www.hataraku.metro.tokyo.jp/sosiki/roseikaikan/nanbu.html][å—éƒ¨åŠ´æ”¿ä¼šé¤¨]]
+ - [[http://nyc.niye.go.jp/][å›½ç«‹ã‚ªãƒªãƒ³ãƒ”ãƒƒã‚¯è¨˜å¿µé’å°‘å¹´ç·åˆã‚»ãƒ³ã‚¿ãƒ¼]]
+ - [[http://www.library.chiyoda.tokyo.jp/facilities/trainingroom.html][åƒä»£ç”°åŒºå›³æ›¸é¤¨]](ãƒ¡ãƒ¢ï¼šãƒãƒƒãƒˆãŒä½¿ãˆã‚‹ã€éƒ¨å±‹ã¯å°ã•ã„)
+ - [[http://www.city.chuo.lg.jp/kurasi/sigoto/kigyonosinko/haitekusentar/][ä¸­å¤®åŒº ãƒã‚¤ãƒ†ã‚¯ã‚»ãƒ³ã‚¿ãƒ¼]]
+ - [[http://www.nices.jp/facility/zero/index.html][ãªã„ã›ã™ã­ã£ã¨ ãªã‹ã®ZERO]]
+ - [[http://www.sunplaza.jp/meeting/index.html][ã‚µãƒ³ãƒ—ãƒ©ã‚¶ï½œç ”ä¿®å®¤ï¼ˆé«˜ã„ï¼‰]]
+ - [[http://theterminal.jp/][Terminal]](æ–™é‡‘ä½“ç³»ãŒä¸æ˜ãªã¨ã“ã‚ãŒã‚ã‚‹ã€‚)
+ - [[http://www.yamori.jp/modules/tinyd3/index.php?id=7][ã¡ã‚ˆã  ãƒ—ãƒ©ãƒƒãƒˆãƒ•ã‚©ãƒ¼ãƒ ã‚¹ã‚¯ã‚¨ã‚¢ï¼ˆé«˜ã„ã€‚ï¼‘æ™‚é–“ï¼‘ï¼ï¼ï¼å††ï¼‰]]
 
-* ¹ç½É¥×¥é¥ó¤¬¤¢¤ë¥Û¥Æ¥ë¤È¤«
- - [[http://www.ikenotaira-hotel.co.jp/group/index.html][Çò³ò¥ê¥¾¡¼¥È ÃÓ¤ÎÊ¿¥Û¥Æ¥ë]]
- - [[http://www.meikei.or.jp/~center/][ÃŞÇÈ¸¦½¤¥»¥ó¥¿¡¼]]
-* ²ñµÄ¼¼´Ø·¸¤Ş¤È¤á¥µ¥¤¥È
+* åˆå®¿ãƒ—ãƒ©ãƒ³ãŒã‚ã‚‹ãƒ›ãƒ†ãƒ«ã¨ã‹
+ - [[http://www.ikenotaira-hotel.co.jp/group/index.html][ç™½æ¨ºãƒªã‚¾ãƒ¼ãƒˆ æ± ã®å¹³ãƒ›ãƒ†ãƒ«]]
+ - [[http://www.meikei.or.jp/~center/][ç­‘æ³¢ç ”ä¿®ã‚»ãƒ³ã‚¿ãƒ¼]]
+* ä¼šè­°å®¤é–¢ä¿‚ã¾ã¨ã‚ã‚µã‚¤ãƒˆ
  - [[http://d.hatena.ne.jp/dacs/20050610/1118409740][http://d.hatena.ne.jp/dacs/20050610/1118409740]]
 
-* ¾ğÊó¥µ¥¤¥È
+* æƒ…å ±ã‚µã‚¤ãƒˆ
  - [[http://www.meetingplus.net/][http://www.meetingplus.net/]]
  - [[http://www.kaigi-navi.com/link.php?type=4][http://www.kaigi-navi.com]]
  - [[http://www.karirunara.com/space/kaigisitu/tokyo.htm][http://www.karirunara.com]]
- - [[http://www.doorkeeper.jp/%E4%BC%9A%E5%A0%B4][doorkeeper.jp¤Î¤Ş¤È¤á¥µ¥¤¥È(2013/12/11ÄÉ²Ã)]]
+ - [[http://www.doorkeeper.jp/%E4%BC%9A%E5%A0%B4][doorkeeper.jpã®ã¾ã¨ã‚ã‚µã‚¤ãƒˆ(2013/12/11è¿½åŠ )]]
 
-* µ¤¤Ë¤Ê¤ë¤È¤³¤í
+* æ°—ã«ãªã‚‹ã¨ã“ã‚
  - http://www.yotsuya-hiroba.jp/index1.html
  - http://www.toshima.ne.jp/~taimei/index.html

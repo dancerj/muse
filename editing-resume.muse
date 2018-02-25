@@ -1,12 +1,12 @@
-#title �ٶ������������ˡ�ˤĤ���
+#title 勉強会資料作成方法について
 
-* �оݼ�
+* 対象者
 
-Debian�ٶ���λ����ʥ쥸��ᡢ�ץ쥼������ˤ��������͸����Ǥ���
+Debian勉強会の資料（レジュメ、プレゼン資料）を作成する人向けです。
 
-* ɬ�ץġ���
+* 必要ツール
 
-�������Խ��ˤϡ�squeeze �δĶ����Ȱʲ��Υѥå�������ɬ�פˤʤ�ޤ���
+資料の編集には、squeeze の環境だと以下のパッケージが必要になります。
 
 <verse>
 git
@@ -23,17 +23,17 @@ cmap-adobe-japan1
 gs-cjk-resource
 </verse>
 
-* ��ݥ��ȥ�
+* リポジトリ
 
-�����Υ�ݥ��ȥ�ϰʲ��ˤ���ޤ���
+資料のリポジトリは以下にあります。
 
 git://anonscm.debian.org/tokyodebian/monthly-report.git
 
-* �ѥå�������
+* パッチの送信
 
-���Ƥ����˥��ߥåȸ�������櫓�ǤϤʤ��Τǡ����ߥåȸ����ʤ����� git format-patch ���ơ�
-git send-email �ǥѥå����������뤫��Ŭ���ʥ�ݥ��ȥ���äƤ������� pull ���Ƥ�餦�褦��
-pull request �����äƤ���������
+全ての方にコミット権があるわけではないので、コミット権がない方は git format-patch して、
+git send-email でパッチを送信するか、適当なリポジトリを作ってそこから pull してもらうように
+pull request を送ってください。
 
-�ѥå��������ˤϡ��ޡ�������եꥯ�Ȥ�ȯ�����ʤ����Ȥ�����å����Ƥ�������
+パッチ送信前には、マージコンフリクトが発生しないことをチェックしてくだい。
 

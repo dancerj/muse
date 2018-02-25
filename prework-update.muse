@@ -1,12 +1,12 @@
-#title ������ꥢDebian�ٶ��� ȯɽ��������/�����ˡ
+#title 東京エリアDebian勉強会 発表資料更新/提出方法
 
- �ܥɥ�����Ȥϡ�Debian Jessie���Ѥ���������ꥢDebian�ٶ�������򹹿�/��Ф�����ˡ�Ȥʤ�ޤ����ޤ����Ҳ𤵤��git�Υ�ݥ��ȥ���Ф��ƥ��ߥåȸ�����äƤ��ʤ��ͤ��оݤ˵��ܤ��Ƥ���ޤ������Ǥ˥��ߥåȸ��򤪻���������ľ�ܥ��ߥåȽ���ޤ���������Ƥ��뤫�Ȼפ��ޤ��Τǡ�git push�ʤɡ����ޤ����Ȥ�äƲ�������
+ 本ドキュメントは、Debian Jessieを用いて東京エリアDebian勉強会資料を更新/提出する方法となります。また、紹介されるgitのリポジトリに対してコミット権を持っていない人を対象に記載しております。すでにコミット権をお持ちの方は直接コミット出来ますし、慣れているかと思いますので、git pushなど、うまいことやって下さい。
 
-* ������ˡ
+* 更新方法
 
-** 0.  Git �� Latex ������򤷤ޤ���
+** 0.  Git と Latex の設定をします。
 
-*** ���������ɬ�פʥѥå�������Ƴ�����ޤ���
+*** 課題作成に必要なパッケージを導入します。
 
 <example>
 # apt-get install git make lv \
@@ -15,26 +15,26 @@ texlive-lang-japanese latex-beamer poppler-data python-pygments \
 evince
 </example>
 
-*** �ե���ȥޥåפι�����Ԥ��ޤ���
+*** フォントマップの更新を行います。
 
 <example>
 # updmap-setup-kanji-sys ipaex
 </example>
 
-���ʤ���udpmap-setup-kanji-sys��Not Found�ˤʤ�褦�Ǥ����顢��ö̵��ˤơ�
+※なお、udpmap-setup-kanji-sysがNot Foundになるようでしたら、一旦無視にて。
 
-*** git�����ꤷ�ޤ���
+*** gitを設定します。
 
-������������桼������ꡢgit�˥᡼�륢�ɥ쥹��̾�������ꤷ�ޤ���
+課題を作成するユーザに戻り、gitにメールアドレスや名前を設定します。
 
 <example>
 $ git config --global user.email foo@example.com
 $ git config --global user.name "Tarou Debian"
 </example>
 
-** 1. �ٶ�������Υ�ݥ��ȥ����äƤʤ��ͤϡ�git clone ���ޥ�ɤ�Ȥäƥ��ԡ����ޤ���
+** 1. 勉強会資料のリポジトリを持ってない人は、git clone コマンドを使ってコピーします。
 
-(���˻��äƤ���ͤ�2. �����ɤ�Ǥ���������)
+(既に持っている人は2. から読んでください。)
 <example>
 $ git clone git://git.debian.org/git/tokyodebian/monthly-report.git
 Initialized empty Git repository in /tmp/monthly-report/.git/
@@ -44,84 +44,84 @@ remote: Compressing objects: 100% (910/910), done.
 Resolving deltas: 100% (1428/1428), done.
 </example>
 
-** 2. �ǥ��쥯�ȥ�˰�ư�������������ե������ӥ�ɤ��ޤ���
+** 2. ディレクトリに移動し、取得したファイルをビルドします。
 <example>
 $ cd monthly-report
 $ cp -p git-pre-commit.sh .git/hooks/pre-commit
 $ make
 </example>
-�ӥ�ɤ���λ�����100�İʾ��pdf�ե����뤬��������ޤ���
+ビルドが終了すると100個以上のpdfファイルが作成されます。
 
-** 3. ���ߥ����å������Ȥ��Ƥ����������֥������ǧ���ޤ���
+** 3. 現在チェックアウトしているローカルブランチを確認します。
 <example>
 $ git branch
 * 201511
   master
 </example>
-�⤷��master �����˥������ꥹ��( * )���Ĥ��Ƥ��ʤ���硢master��������֥���������å������Ȥ��ޤ���
+もし、master に前にアスタリスク( * )がついていない場合、masterローカルブランチをチェックアウトします。
 <example>
 $ git checkout master
 </example>
 
-���١�master��������֥���������å������Ȥ��Ƥ��뤫��ǧ���ޤ���
+再度、masterローカルブランチをチェックアウトしているか確認します。
 <example>
 $ git branch
   201511
 * master
 </example>
 
-** 4. ��⡼�ȥ�ݥ��ȥ꤫���ݥ��ȥ�����������ޤ���
+** 4. リモートリポジトリからリポジトリ情報を取得します。
 <example>
 $ git pull
 </example>
 
-** 5. ȯɽ�������������ǯ��(2015ǯ12��ξ���201512) �Υ�������֥�����������ޤ���
+** 5. 発表資料を作成する年月(2015年12月の場合は201512) のローカルブランチを作成します。
 <example>
 $ git branch 201512
 </example>
 
-** 6. ����������������֥���������å������Ȥ��ޤ���
+** 6. 作成したローカルブランチをチェックアウトします。
 <example>
 $ git checkout 201512
 Switched to branch '201512'
 </example>
 
-** 7. ȯɽͽ��λ�����ȯɽ���Ƥ򵭺ܤ��ޤ���
-������debianmeetingresume<YYYYMM>.tex(���������ˡ�debianmeetingresume<YYYYMM>-presentation.tex(�����ץ쥼���ѻ����ˤȤʤ�ޤ���
-���Ѥ��륨�ǥ����Ϥ������ʤ�Τ�ɤ������ޤ���������image<YYYYMM>/�ʲ����֤��Ʋ�������
+** 7. 発表予定の資料に発表内容を記載します。
+資料はdebianmeetingresume<YYYYMM>.tex(事前資料）、debianmeetingresume<YYYYMM>-presentation.tex(当日プレゼン用資料）となります。
+利用するエディタはお好きなものをどうぞ。また、画像はimage<YYYYMM>/以下に置いて下さい。
 
 <example>
 $ vi debianmeetingresume201512.tex
-$ git add image201512/foo.png (��������Ͽ�ʤɤ��ä����
+$ git add image201512/foo.png (画像を登録などあったら）
 </example>
 
-image<YYYYMM>/�ʲ��Υե������Makefile�ΰ�¸�оݤȤʤäƤ��ʤ����ᡢ
-�б�����debianmeetingresume<YYYYMM>.tex�ι������դʤ��ѹ����ƺƥ���ѥ��뤷�Ƥ���������
+image<YYYYMM>/以下のファイルはMakefileの依存対象となっていないため、
+対応するdebianmeetingresume<YYYYMM>.texの更新日付など変更して再コンパイルしてください。
 
 <example>
 $ touch debianmeetingresume201512.tex
 $ make
 </example>
 
-** 8. ȯɽ������񤤤��顢�ѹ����������֥����˥��ߥåȤ��ޤ���
+** 8. 発表資料を書いたら、変更をローカルブランチにコミットします。
 <example>
 $ git commit -m "Add nozzy article" -a
 </example>
 
-** 9. �ѹ���ѥå��ǽ��Ϥ��ޤ���
+** 9. 変更をパッチで出力します。
 <example>
 $ git format-patch -o /tmp HEAD~
 /tmp/0001-Add-nozzy-article.patch
 </example>
 
-/tmp/0001-Add-nozzy-article.patch ���ѥå��Ǥ���
+/tmp/0001-Add-nozzy-article.patch がパッチです。
 
-** 10. �ѥå���debian-devel@debian.or.jp�᡼��󥰥ꥹ�Ȥ���Ƥ��ޤ���
+** 10. パッチをdebian-devel@debian.or.jpメーリングリストに投稿します。
 
-����git�Ȥ��� git send-email ���ޥ�ɤ�Ȥ��ޤ������ơ����ȤäƤ���
-MUA ��Ȥä�����Τ������Ǥ��礦��
+真のgit使いは git send-email コマンドを使いますが、各々が使っている
+MUA を使って送るのがいいでしょう。
 
-** 11 . �᡼��󥰥ꥹ�Ȥ���ƤǤ����顢master��������֥���������å������Ȥ��ޤ���
+** 11 . メーリングリストに投稿できたら、masterローカルブランチをチェックアウトします。
 
 <example>
 $ git checkout master

@@ -1,26 +1,26 @@
-#title Âè<lisp> number</lisp>²óÅìµş¥¨¥ê¥¢DebianÊÙ¶¯²ñ¡¢<lisp>year</lisp>Ç¯<lisp>month</lisp>·îÊÙ¶¯²ñ OSC <lisp>year</lisp> Tokyo/Spring½ĞÄ¥
+#title ç¬¬<lisp> number</lisp>å›æ±äº¬ã‚¨ãƒªã‚¢Debianå‹‰å¼·ä¼šã€<lisp>year</lisp>å¹´<lisp>month</lisp>æœˆå‹‰å¼·ä¼š OSC <lisp>year</lisp> Tokyo/Springå‡ºå¼µ
 <lisp>(progn (setq year 2018) (setq month 2) (setq day 24) (setq number 160) (setq eventid "") "") </lisp>
-* ³«ºÅ³µÍ×
+* é–‹å‚¬æ¦‚è¦
 
-Åìµş¥¨¥ê¥¢DebianÊÙ¶¯²ñ¤Ï¡¢OSC <lisp>year</lisp> Tokyo/Spring¤Ë»²²Ã¤·¤Ş¤¹¡£
+æ±äº¬ã‚¨ãƒªã‚¢Debianå‹‰å¼·ä¼šã¯ã€OSC <lisp>year</lisp> Tokyo/Springã«å‚åŠ ã—ã¾ã™ã€‚
 
-Æü»ş    | <lisp>year</lisp>Ç¯<lisp>month</lisp>·î<lisp>day</lisp>Æü(ÅÚÍËÆü)
-²ñ¾ì°ÆÆâ | [[http://www.ospn.jp/osc2018-spring/][OSC <lisp>year</lisp> Tokyo/Spring ²ñ¾ì(ÌÀÀ±Âç³Ø ÆüÌî¥­¥ã¥ó¥Ñ¥¹ 26¹æ´Û)]]
+æ—¥æ™‚    | <lisp>year</lisp>å¹´<lisp>month</lisp>æœˆ<lisp>day</lisp>æ—¥(åœŸæ›œæ—¥)
+ä¼šå ´æ¡ˆå†… | [[http://www.ospn.jp/osc2018-spring/][OSC <lisp>year</lisp> Tokyo/Spring ä¼šå ´(æ˜æ˜Ÿå¤§å­¦ æ—¥é‡ã‚­ãƒ£ãƒ³ãƒ‘ã‚¹ 26å·é¤¨)]]
 
-* ÅöÆü¤Îagenda
+* å½“æ—¥ã®agenda
 
-»ş´Ö || ÆâÍÆ || ³µÍ× || È¯É½¼Ô
-<lisp>month</lisp>/<lisp>day</lisp>(ÅÚ) 10:00-10:45 | apache¤Ëdjango¤Îweb¥¢¥×¥ê¤Ç¥Ç¥×¥í¥¤¤·¤Æ¤ß¤è¤¦ | Debian¤Îapache¤ÎÀßÄê¤Ë¸ÍÏÇ¤Ã¤¿¤³¤È¤Ï¤¢¤ê¤Ş¤»¤ó¤«¡£<br>python¤Îweb¥Õ¥ì¡¼¥à¥ï¡¼¥¯¤Ç¤¢¤ë"django"¤Îweb¥¢¥×¥ê¥±¡¼¥·¥ç¥ó¤òÎã¤Ë¡¢apache¤ËÇÛÈ÷¤·¤Æ¥¢¥¯¥»¥¹¤Ç¤­¤ë¤Ş¤Ç¤ÎÀßÄêÊıË¡¤ò²òÀâ¤·¤Ş¤¹¡£ | ¿ùËÜ
-<lisp>month</lisp>/<lisp>day</lisp>(ÅÚ) ½ªÆü | Debian¥Ö¡¼¥¹½ĞÅ¸ | Debian¥Ö¡¼¥¹¤ò½Ğ¤·¤Æ¤¤¤Ş¤¹¡£Debian²ÔÆ¯¥Ş¥·¥ó¤ä²áµîÊÙ¶¯²ñ»ñÎÁ¤ÎÅ¸¼¨Åù¤ò¹Ô¤¤¤Ş¤¹¡£ | ¿ùËÜ
+æ™‚é–“ || å†…å®¹ || æ¦‚è¦ || ç™ºè¡¨è€…
+<lisp>month</lisp>/<lisp>day</lisp>(åœŸ) 10:00-10:45 | apacheã«djangoã®webã‚¢ãƒ—ãƒªã§ãƒ‡ãƒ—ãƒ­ã‚¤ã—ã¦ã¿ã‚ˆã† | Debianã®apacheã®è¨­å®šã«æˆ¸æƒ‘ã£ãŸã“ã¨ã¯ã‚ã‚Šã¾ã›ã‚“ã‹ã€‚<br>pythonã®webãƒ•ãƒ¬ãƒ¼ãƒ ãƒ¯ãƒ¼ã‚¯ã§ã‚ã‚‹"django"ã®webã‚¢ãƒ—ãƒªã‚±ãƒ¼ã‚·ãƒ§ãƒ³ã‚’ä¾‹ã«ã€apacheã«é…å‚™ã—ã¦ã‚¢ã‚¯ã‚»ã‚¹ã§ãã‚‹ã¾ã§ã®è¨­å®šæ–¹æ³•ã‚’è§£èª¬ã—ã¾ã™ã€‚ | æ‰æœ¬
+<lisp>month</lisp>/<lisp>day</lisp>(åœŸ) çµ‚æ—¥ | Debianãƒ–ãƒ¼ã‚¹å‡ºå±• | Debianãƒ–ãƒ¼ã‚¹ã‚’å‡ºã—ã¦ã„ã¾ã™ã€‚Debianç¨¼åƒãƒã‚·ãƒ³ã‚„éå»å‹‰å¼·ä¼šè³‡æ–™ã®å±•ç¤ºç­‰ã‚’è¡Œã„ã¾ã™ã€‚ | æ‰æœ¬
 
- - Ãí°Õ¡§OSC¤Ï2Æü´Ö¤Î³«ºÅ¤Ç¤¹¤¬¡¢Åìµş¥¨¥ê¥¢DebianÊÙ¶¯²ñ¤Î½ĞÅ¸¤ÏÅÚÍËÆü¤Î¤ß¤È¤Ê¤ê¤Ş¤¹¡£
+ - æ³¨æ„ï¼šOSCã¯2æ—¥é–“ã®é–‹å‚¬ã§ã™ãŒã€æ±äº¬ã‚¨ãƒªã‚¢Debianå‹‰å¼·ä¼šã®å‡ºå±•ã¯åœŸæ›œæ—¥ã®ã¿ã¨ãªã‚Šã¾ã™ã€‚
 
-* º©¿Æ²ñ
+* æ‡‡è¦ªä¼š
 
-¤Ê¤·
+ãªã—
 
-* »ñÎÁ
+* è³‡æ–™
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-osc2018spring-presentation.pdf][PDF¥×¥ì¥¼¥ó¥Æ¡¼¥·¥ç¥ó»ñÎÁ]]
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-osc2018spring-presentation.pdf][PDFãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³è³‡æ–™]]
 
-* »²²ÃÊó¹ğ
+* å‚åŠ å ±å‘Š

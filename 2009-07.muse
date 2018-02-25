@@ -1,19 +1,19 @@
-#title Âè<lisp> number</lisp>²óÅìµş¥¨¥ê¥¢DebianÊÙ¶¯²ñ¡¢<lisp>year</lisp>Ç¯<lisp>month</lisp>·îÊÙ¶¯²ñ 
+#title ç¬¬<lisp> number</lisp>å›æ±äº¬ã‚¨ãƒªã‚¢Debianå‹‰å¼·ä¼šã€<lisp>year</lisp>å¹´<lisp>month</lisp>æœˆå‹‰å¼·ä¼š 
 <lisp>(progn  (setq year 2009) (setq month 7) (setq day 18) (setq number 54) "") </lisp>
-* ³«ºÅ³µÍ×
+* é–‹å‚¬æ¦‚è¦
 
-Æü»ş | <lisp>year</lisp>Ç¯<lisp>month</lisp>·î<lisp>day</lisp>Æü(ÅÚÍËÆü)¤¢¤¿¤ê
-¾ì½ê | ¥¹¥Ú¥¤¥ó¡¦IRC
-Äê°÷ | Ì¤Äê
+æ—¥æ™‚ | <lisp>year</lisp>å¹´<lisp>month</lisp>æœˆ<lisp>day</lisp>æ—¥(åœŸæ›œæ—¥)ã‚ãŸã‚Š
+å ´æ‰€ | ã‚¹ãƒšã‚¤ãƒ³ãƒ»IRC
+å®šå“¡ | æœªå®š
 
-* ÅöÆü¤Îagenda
+* å½“æ—¥ã®agenda
 
-Å¬Åö¤ËIRC¤Ç¤ä¤ê¤Ş¤·¤ç¤¦¡£
+é©å½“ã«IRCã§ã‚„ã‚Šã¾ã—ã‚‡ã†ã€‚
 
-* »ñÎÁ
+* è³‡æ–™
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF»öÁ°ÇÛÉÛ»ñÎÁ]]¡¡(Ì¤´°À®)
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDF¥×¥ì¥¼¥ó¥Æ¡¼¥·¥ç¥ó»ñÎÁ]]¡¡(Ì¤´°À®)
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDFäº‹å‰é…å¸ƒè³‡æ–™]]ã€€(æœªå®Œæˆ)
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³è³‡æ–™]]ã€€(æœªå®Œæˆ)
 
-* »²²ÃÊó¹ğ
+* å‚åŠ å ±å‘Š
 

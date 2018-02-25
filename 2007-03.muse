@@ -1,49 +1,49 @@
-#title Âè<lisp> number</lisp>²óÅìµş¥¨¥ê¥¢DebianÊÙ¶¯²ñ¡¤<lisp>year</lisp>Ç¯<lisp>month</lisp>·îÊÙ¶¯²ñ
+#title ç¬¬<lisp> number</lisp>å›æ±äº¬ã‚¨ãƒªã‚¢Debianå‹‰å¼·ä¼šï¼Œ<lisp>year</lisp>å¹´<lisp>month</lisp>æœˆå‹‰å¼·ä¼š
 <lisp>(progn  (setq year 2007) (setq month 3) (setq day 17) (setq number 26) "") </lisp>
-* ³«ºÅ³µÍ×
+* é–‹å‚¬æ¦‚è¦
 
-Æü»ş | <lisp>year</lisp>Ç¯<lisp>month</lisp>·î<lisp>day</lisp>Æü(ÅÚÍËÆü) 10:00-11:45
-¾ì½ê | OSC ²ñ¾ì
-Äê°÷ | 80
-»²²ÃÅĞÏ¿ÊıË¡ | [[http://www.ospn.jp/osc2007/][OSCÅĞÏ¿¥Ú¡¼¥¸¤«¤é]]
-»²²ÃÈñÍÑ | ¤Ê¤·
+æ—¥æ™‚ | <lisp>year</lisp>å¹´<lisp>month</lisp>æœˆ<lisp>day</lisp>æ—¥(åœŸæ›œæ—¥) 10:00-11:45
+å ´æ‰€ | OSC ä¼šå ´
+å®šå“¡ | 80
+å‚åŠ ç™»éŒ²æ–¹æ³• | [[http://www.ospn.jp/osc2007/][OSCç™»éŒ²ãƒšãƒ¼ã‚¸ã‹ã‚‰]]
+å‚åŠ è²»ç”¨ | ãªã—
 
-* »öÁ°²İÂê
+* äº‹å‰èª²é¡Œ
 
-º£²ó¤ÏOSC³«ºÅ¤Î¤¿¤á¡¢»öÁ°²İÂê¤Ï»²²Ã¤ÎÍ×·ï¤È¤Ï¤·¤Ş¤»¤ó¡£¤¬¡¢¤¢¤ë¤È¤ª¤â¤·¤í¤¤¤Î¤Ç¹­¤¯Êç½¸¤·¤Ş¤¹¡£
+ä»Šå›ã¯OSCé–‹å‚¬ã®ãŸã‚ã€äº‹å‰èª²é¡Œã¯å‚åŠ ã®è¦ä»¶ã¨ã¯ã—ã¾ã›ã‚“ã€‚ãŒã€ã‚ã‚‹ã¨ãŠã‚‚ã—ã‚ã„ã®ã§åºƒãå‹Ÿé›†ã—ã¾ã™ã€‚
 
-¤ªÂê | ¡Ö²¾ÁÛ²½¤ò¼Âºİ¤Ë¤³¤¦¤¤¤¦ÍøÍÑÊıË¡¤Ç³èÍÑ¤·¤Æ¤¤¤Ş¤¹¡×¤È¤¤¤¦¥¿¥¤¥È¥ë¤Ç200-800Ê¸»úÄøÅÙ¤ÎÊ¸¾Ï¤ò½ñ¤¤¤Æ¤¯¤À¤µ¤¤¡£
-Äó½ĞÀè | tokyodebian-<lisp>year</lisp>@lists.alioth.debian.org (¥Ç¥Ó¥¢¥óÊÙ¶¯²ñ»öÁ°»ñÎÁÁ÷ÉÕÍÑ¥á¡¼¥ê¥ó¥°¥ê¥¹¥È°¸) Subject:¡ÖDebianÊÙ¶¯²ñ<lisp>number</lisp>»öÁ°²İÂê¡× ¤È¤·¤Æ¥á¡¼¥ë¤ÎËÜÊ¸¤È¤·¤ÆÄó½Ğ¤·¤Æ¤¯¤À¤µ¤¤
-´ü¸Â | »²²ÃÅĞÏ¿´ü¸Â¤ÈÆ±¤¸
-¥é¥¤¥»¥ó¥¹ | Äó½Ğ¤¤¤¿¤À¤¤¤¿»ñÎÁ¤ÏÁ´°÷¤ËÇÛÉÛ¤¹¤ë¤³¤È¡¤¤Ş¤¿ÆâÍÆ¤ÎºÆÍøÍÑ¤ò¼Â»Ü¤¹¤ë¤³¤È¤òÎ»¾µ¤¯¤À¤µ¤¤¡¥ DebianÊÙ¶¯²ñ»ñÎÁ¤ÏGPL¤Ç¸ø³«¤·¤Ş¤¹¡¥ (Web¤Ç¤Î¸ø³«¤¬²ÄÇ½¤ÊÆâÍÆ¤Ë¤·¤Æ¤¯¤À¤µ¤¤¡¥) 
+ãŠé¡Œ | ã€Œä»®æƒ³åŒ–ã‚’å®Ÿéš›ã«ã“ã†ã„ã†åˆ©ç”¨æ–¹æ³•ã§æ´»ç”¨ã—ã¦ã„ã¾ã™ã€ã¨ã„ã†ã‚¿ã‚¤ãƒˆãƒ«ã§200-800æ–‡å­—ç¨‹åº¦ã®æ–‡ç« ã‚’æ›¸ã„ã¦ãã ã•ã„ã€‚
+æå‡ºå…ˆ | tokyodebian-<lisp>year</lisp>@lists.alioth.debian.org (ãƒ‡ãƒ“ã‚¢ãƒ³å‹‰å¼·ä¼šäº‹å‰è³‡æ–™é€ä»˜ç”¨ãƒ¡ãƒ¼ãƒªãƒ³ã‚°ãƒªã‚¹ãƒˆå®›) Subject:ã€ŒDebianå‹‰å¼·ä¼š<lisp>number</lisp>äº‹å‰èª²é¡Œã€ ã¨ã—ã¦ãƒ¡ãƒ¼ãƒ«ã®æœ¬æ–‡ã¨ã—ã¦æå‡ºã—ã¦ãã ã•ã„
+æœŸé™ | å‚åŠ ç™»éŒ²æœŸé™ã¨åŒã˜
+ãƒ©ã‚¤ã‚»ãƒ³ã‚¹ | æå‡ºã„ãŸã ã„ãŸè³‡æ–™ã¯å…¨å“¡ã«é…å¸ƒã™ã‚‹ã“ã¨ï¼Œã¾ãŸå†…å®¹ã®å†åˆ©ç”¨ã‚’å®Ÿæ–½ã™ã‚‹ã“ã¨ã‚’äº†æ‰¿ãã ã•ã„ï¼ Debianå‹‰å¼·ä¼šè³‡æ–™ã¯GPLã§å…¬é–‹ã—ã¾ã™ï¼ (Webã§ã®å…¬é–‹ãŒå¯èƒ½ãªå†…å®¹ã«ã—ã¦ãã ã•ã„ï¼) 
 
-* ÅöÆü¤Îagenda
+* å½“æ—¥ã®agenda
 
-»ş´Ö || ÆâÍÆ || È¯É½¼Ô
-10:00- | ²¾ÁÛ²½Í§¤Î²ñ¡¢Debian ÊÙ¶¯²ñ¤Î¾Ò²ğ | Ê¿¤µ¤ó¡Ü¾åÀî½ã°ì
-10:10- | ²İÂê¤Î¾Ò²ğ | ¾åÀî½ã°ì
-10:25- | ²¾ÁÛ²½¾ï¼±Quiz | ¾åÀî½ã°ì
-10:45- | Windows¤«¤é¸«¤¨¤ë²¾ÁÛ²½À¤³¦ | »³º¬¤µ¤ó
-11:00- | Debian ¤Ç KVM ¤ò»È¤Ã¤Æ¤ß¤ë | Á°ÅÄ¤µ¤ó+Ê¿¤µ¤ó+¾åÀî½ã°ì
-11:40-11:45 | ºÇ¸å¤Ë | ¾åÀî½ã°ì
+æ™‚é–“ || å†…å®¹ || ç™ºè¡¨è€…
+10:00- | ä»®æƒ³åŒ–å‹ã®ä¼šã€Debian å‹‰å¼·ä¼šã®ç´¹ä»‹ | å¹³ã•ã‚“ï¼‹ä¸Šå·ç´”ä¸€
+10:10- | èª²é¡Œã®ç´¹ä»‹ | ä¸Šå·ç´”ä¸€
+10:25- | ä»®æƒ³åŒ–å¸¸è­˜Quiz | ä¸Šå·ç´”ä¸€
+10:45- | Windowsã‹ã‚‰è¦‹ãˆã‚‹ä»®æƒ³åŒ–ä¸–ç•Œ | å±±æ ¹ã•ã‚“
+11:00- | Debian ã§ KVM ã‚’ä½¿ã£ã¦ã¿ã‚‹ | å‰ç”°ã•ã‚“+å¹³ã•ã‚“+ä¸Šå·ç´”ä¸€
+11:40-11:45 | æœ€å¾Œã« | ä¸Šå·ç´”ä¸€
 
-* »²²ÃÊó¹ğ
+* å‚åŠ å ±å‘Š
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDF¥×¥ì¥¼¥ó¥Æ¡¼¥·¥ç¥ó»ñÎÁ]]
- - [[http://www.palmtb.net/index.php?plugin=attach&refer=PDF&openfile=debian-virt_osc2007spring.pdf][Á°ÅÄ¤µ¤óÈ¯É½»ñÎÁ]]
- - [[http://pantora.net/datapool/osc2007-spring/v-tomo_koibana2_kvm.pdf][Ê¿¤µ¤óÈ¯É½»ñÎÁ]]
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF»öÁ°ÇÛÉÛ»ñÎÁ(»²¹Í)]]
- - [[http://d.hatena.ne.jp/teramako/20070317/p1][teramako¤µ¤ó]]
- - [[http://apribase.sakura.ne.jp/archives/2007/03/17_2103.php][SARIA¤µ¤ó]]
- - [[http://d.hatena.ne.jp/mkouhei/20070318#1174179184][Á°ÅÄ¤µ¤ó]]
- - [[http://www.netfort.gr.jp/~dancer/diary/daily/2007-Mar-18.html.ja#2007-Mar-18-14:35:29][¾åÀî½ã°ì]]
- - [[http://d.hatena.ne.jp/akuwano/20070318#1174234554][akuwano¤µ¤ó]]
- - [[http://d.ma-aya.to/?date=20070317#p01][¤ä¤Ş¤Í¤µ¤ó]] [[http://d.ma-aya.to/?date=20070321#p02][¤ä¤Ş¤Í¤µ¤ó¤ÎÊó¹ğ¤½¤Î£²]]
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³è³‡æ–™]]
+ - [[http://www.palmtb.net/index.php?plugin=attach&refer=PDF&openfile=debian-virt_osc2007spring.pdf][å‰ç”°ã•ã‚“ç™ºè¡¨è³‡æ–™]]
+ - [[http://pantora.net/datapool/osc2007-spring/v-tomo_koibana2_kvm.pdf][å¹³ã•ã‚“ç™ºè¡¨è³‡æ–™]]
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDFäº‹å‰é…å¸ƒè³‡æ–™(å‚è€ƒ)]]
+ - [[http://d.hatena.ne.jp/teramako/20070317/p1][teramakoã•ã‚“]]
+ - [[http://apribase.sakura.ne.jp/archives/2007/03/17_2103.php][SARIAã•ã‚“]]
+ - [[http://d.hatena.ne.jp/mkouhei/20070318#1174179184][å‰ç”°ã•ã‚“]]
+ - [[http://www.netfort.gr.jp/~dancer/diary/daily/2007-Mar-18.html.ja#2007-Mar-18-14:35:29][ä¸Šå·ç´”ä¸€]]
+ - [[http://d.hatena.ne.jp/akuwano/20070318#1174234554][akuwanoã•ã‚“]]
+ - [[http://d.ma-aya.to/?date=20070317#p01][ã‚„ã¾ã­ã•ã‚“]] [[http://d.ma-aya.to/?date=20070321#p02][ã‚„ã¾ã­ã•ã‚“ã®å ±å‘Šãã®ï¼’]]
  - [[http://taka.no32.tk/diary/20070317.html#p0][taka]]
  - [[http://kazuno.biz/2007/03/opensourceconference2007tokyos_1.html][kazuno?]]
  - [[http://d.hatena.ne.jp/jitsu102/20070317/1174141282][jitsu102]]
  - [[http://d.hatena.ne.jp/shingotada/20070317/1174133539][shingotada]]
- - [[http://popowa.blogspot.com/2007/03/osc.html][¤¢¤ä¤µ¤ó]]
- - [[http://blog.zaq.ne.jp/yamataka/article/90/][takaya¤µ¤ó]]
- - [[http://taka.no32.tk/diary/20070317.html#p02][taka¤µ¤ó]]
- - [[http://ivory.ap.teacup.com/omron58/829.html][com4¤µ¤ó]]
+ - [[http://popowa.blogspot.com/2007/03/osc.html][ã‚ã‚„ã•ã‚“]]
+ - [[http://blog.zaq.ne.jp/yamataka/article/90/][takayaã•ã‚“]]
+ - [[http://taka.no32.tk/diary/20070317.html#p02][takaã•ã‚“]]
+ - [[http://ivory.ap.teacup.com/omron58/829.html][com4ã•ã‚“]]

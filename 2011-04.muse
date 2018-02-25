@@ -1,71 +1,71 @@
-#title Âè<lisp> number</lisp>²óÅìµş¥¨¥ê¥¢DebianÊÙ¶¯²ñ¡¢<lisp>year</lisp>Ç¯<lisp>month</lisp>·îÊÙ¶¯²ñ
+#title ç¬¬<lisp> number</lisp>å›æ±äº¬ã‚¨ãƒªã‚¢Debianå‹‰å¼·ä¼šã€<lisp>year</lisp>å¹´<lisp>month</lisp>æœˆå‹‰å¼·ä¼š
 <lisp>(progn (setq year 2011) (setq month 4) (setq day 16) (setq number 75) (setq eventid "") "") </lisp>
-* ³«ºÅ³µÍ×
+* é–‹å‚¬æ¦‚è¦
 
-Æü»ş | <lisp>year</lisp>Ç¯<lisp>month</lisp>·î<lisp>day</lisp>Æü(ÅÚÍËÆü) 13:00-18:00
-¾ì½ê | [[http://www.iij.ad.jp/info/map/head-office.html][IIJ²ñµÄ¼¼]]
-Äê°÷ | 13¿Í
-»²²ÃÅĞÏ¿ÊıË¡ | DebianÊÙ¶¯²ñÍ½Ìó¥·¥¹¥Æ¥à¤Ø¤ÎÅĞÏ¿¤ò¤ª´ê¤¤¤·¤Ş¤¹¡£¿½¹ş¤Îºİ¤Ë»öÁ°²İÂê¤òÄó½Ğ¤¯¤À¤µ¤¤¡£¤Ş¤¿¡¢¤½¤Î¸å¤Î±ã²ñ¤Ë»²²Ã¤µ¤ì¤¿¤¤Êı¤Ï¡¢¡Ö±ã²ñ»²²Ã¡×¤ò¥Á¥§¥Ã¥¯¤·¤Æ¤¯¤À¤µ¤¤¡£
-»²²ÃÅĞÏ¿ | [[http://debianmeeting.appspot.com/event?eventid=7df8f23024a1c9ea51325e3103ae5041dbbb2891][DebianÊÙ¶¯²ñÍ½Ìó¥·¥¹¥Æ¥à]] <lisp>month</lisp>·î<lisp>(- day 2)</lisp>Æü¤Ş¤Ç¤ËÅĞÏ¿¤¯¤À¤µ¤¤¡£
-ÊÙ¶¯²ñ»²²ÃÈñÍÑ | 500±ß(²¾)
+æ—¥æ™‚ | <lisp>year</lisp>å¹´<lisp>month</lisp>æœˆ<lisp>day</lisp>æ—¥(åœŸæ›œæ—¥) 13:00-18:00
+å ´æ‰€ | [[http://www.iij.ad.jp/info/map/head-office.html][IIJä¼šè­°å®¤]]
+å®šå“¡ | 13äºº
+å‚åŠ ç™»éŒ²æ–¹æ³• | Debianå‹‰å¼·ä¼šäºˆç´„ã‚·ã‚¹ãƒ†ãƒ ã¸ã®ç™»éŒ²ã‚’ãŠé¡˜ã„ã—ã¾ã™ã€‚ç”³è¾¼ã®éš›ã«äº‹å‰èª²é¡Œã‚’æå‡ºãã ã•ã„ã€‚ã¾ãŸã€ãã®å¾Œã®å®´ä¼šã«å‚åŠ ã•ã‚ŒãŸã„æ–¹ã¯ã€ã€Œå®´ä¼šå‚åŠ ã€ã‚’ãƒã‚§ãƒƒã‚¯ã—ã¦ãã ã•ã„ã€‚
+å‚åŠ ç™»éŒ² | [[http://debianmeeting.appspot.com/event?eventid=7df8f23024a1c9ea51325e3103ae5041dbbb2891][Debianå‹‰å¼·ä¼šäºˆç´„ã‚·ã‚¹ãƒ†ãƒ ]] <lisp>month</lisp>æœˆ<lisp>(- day 2)</lisp>æ—¥ã¾ã§ã«ç™»éŒ²ãã ã•ã„ã€‚
+å‹‰å¼·ä¼šå‚åŠ è²»ç”¨ | 500å††(ä»®)
 
-** Ãí°Õ
+** æ³¨æ„
 
-²ñ¾ì¤Ï21F¤Ç¤¹¤¬¡¢ÅÚÍËÆü¤Ï¥«¡¼¥É¡¼¥­¡¼¤¬¤Ê¤¤¤È1F¤Ş¤Ç¤·¤«
-Æş¤ì¤Ş¤»¤ó¡£¤³¤Î¤¿¤á¡¢13:00¤Ë1F¤Î¥Û¡¼¥ë¡ÊÆîËÌ¤¢¤ê¤Ş¤¹¤¬¡¢
-¥Ô¥¢¥Î¤¬ÃÖ¤¤¤Æ¤¢¤ëÂç¤­¤ÊÊı¡Ë¤Ë½¸¹ç¤È¤µ¤»¤Æ²¼¤µ¤¤¡£
+ä¼šå ´ã¯21Fã§ã™ãŒã€åœŸæ›œæ—¥ã¯ã‚«ãƒ¼ãƒ‰ãƒ¼ã‚­ãƒ¼ãŒãªã„ã¨1Fã¾ã§ã—ã‹
+å…¥ã‚Œã¾ã›ã‚“ã€‚ã“ã®ãŸã‚ã€13:00ã«1Fã®ãƒ›ãƒ¼ãƒ«ï¼ˆå—åŒ—ã‚ã‚Šã¾ã™ãŒã€
+ãƒ”ã‚¢ãƒãŒç½®ã„ã¦ã‚ã‚‹å¤§ããªæ–¹ï¼‰ã«é›†åˆã¨ã•ã›ã¦ä¸‹ã•ã„ã€‚
 
-²ñ¾ì¤ÏLAN¤¬¤¢¤ë¤Î¤Ç¡¢ÃÙ¤ì¤Æ¤¯¤ë¿Í¤¬¤¤¤ë¾ì¹ç¤Ï¡¢Twitter¡Ê[[http://twitter.com/#!/mkouhei][@mkouhei]]¡¢[[http://twitter.com/#!/tyamadajp][@tyamadajp]]¡Ë¤ä
-¥á¡¼¥ë¤ÇÅşÃåÏ¢Íí¤ò½ñ¤¯¤ÈÅ¬»ş1F¤Ë·Ş¤¨¤Ë¹Ô¤­¤Ş¤¹¡£
+ä¼šå ´ã¯LANãŒã‚ã‚‹ã®ã§ã€é…ã‚Œã¦ãã‚‹äººãŒã„ã‚‹å ´åˆã¯ã€Twitterï¼ˆ[[http://twitter.com/#!/mkouhei][@mkouhei]]ã€[[http://twitter.com/#!/tyamadajp][@tyamadajp]]ï¼‰ã‚„
+ãƒ¡ãƒ¼ãƒ«ã§åˆ°ç€é€£çµ¡ã‚’æ›¸ãã¨é©æ™‚1Fã«è¿ãˆã«è¡Œãã¾ã™ã€‚
 
-¥¤¥Ù¥ó¥ÈÅĞÏ¿: (Gmail ¥¢¥«¥¦¥ó¥È¤òÎ®ÍÑ¤·¤ÆÇ§¾Ú¤·¤Ş¤¹)
+ã‚¤ãƒ™ãƒ³ãƒˆç™»éŒ²: (Gmail ã‚¢ã‚«ã‚¦ãƒ³ãƒˆã‚’æµç”¨ã—ã¦èªè¨¼ã—ã¾ã™)
 <literal style="html">
 <iframe src="http://debianmeeting.appspot.com/event?eventid=7df8f23024a1c9ea51325e3103ae5041dbbb2891&ui=simple" width="100%" height="500">
 </iframe>
 </literal>
 
-* »öÁ°²İÂê
+* äº‹å‰èª²é¡Œ
 
-»²²Ã¤Î¾ò·ï¤Ç¤¹¤Î¤ÇÄó½Ğ¤ª´ê¤¤¤·¤Ş¤¹¡£
+å‚åŠ ã®æ¡ä»¶ã§ã™ã®ã§æå‡ºãŠé¡˜ã„ã—ã¾ã™ã€‚
 
-|¤ªÂê | º£²ó¤Î¿ÌºÒ¤ÇDebian¤ò¤É¤Î¤è¤¦¤Ë³èÍÑ¤·¤Æ¤Ş¤¹¤«¡£
-|Äó½ĞÊıË¡ | DebianÊÙ¶¯²ñÍ½Ìó¥·¥¹¥Æ¥à¤Î²İÂê²óÅú¥Õ¥©¡¼¥à¤ËÆşÎÏ¤·¤Æ¤¯¤À¤µ¤¤¡£
-|¼ÁÌäÀè | ²İÂêÆâÍÆ¤Î¼Â»Ü¤Ë¤Ä¤¤¤Æ¤Ê¤Ë¤«¤¢¤ì¤Ğ¡¢[[http://lists.debian.or.jp/debian-users/][debian-users@debian.or.jp Debian¥æ¡¼¥¶ÍÑ¸ø³«¥á¡¼¥ê¥ó¥°¥ê¥¹¥È]] ¤Ë¤Æ¤´¼ÁÌä¤¯¤À¤µ¤¤¡£
-|´ü¸Â | »²²ÃÅĞÏ¿´ü¸Â¤ÈÆ±¤¸
-|¥é¥¤¥»¥ó¥¹ | Äó½Ğ¤¤¤¿¤À¤¤¤¿»ñÎÁ¤ÏÁ´°÷¤ËÇÛÉÛ¤¹¤ë¤³¤È¡¢¤Ş¤¿ÆâÍÆ¤ÎºÆÍøÍÑ¤ò¼Â»Ü¤¹¤ë¤³¤È¤òÎ»¾µ¤¯¤À¤µ¤¤¡£ DebianÊÙ¶¯²ñ»ñÎÁ¤ÏGPL¤Ç¸ø³«¤·¤Ş¤¹¡£ (Web¤Ç¤Î¸ø³«¤¬²ÄÇ½¤ÊÆâÍÆ¤Ë¤·¤Æ¤¯¤À¤µ¤¤¡£) 
-
-
-* ÅöÆü¤Îagenda
-
-»ş´Ö || ÆâÍÆ || ³µÍ× || È¯É½¼Ô
-13:00- | ²ñ¾ìÀß±Ä | ²ñ¾ì¤ÎÀß±Ä¤ò¤·¤Ş¤¹ | 
-13:10- | 2011Ç¯ÅÙ Debian JP Project ²ñÄ¹¤Î°§»¢ | 2011Ç¯ÅÙ¤ÎDebian JP Project ²ñÄ¹¤«¤é¤Î°§»¢¤ÈÊúÉé | ¤Ş¤¨¤À
-13:20- | DWN trivia quiz | Debian ´ØÏ¢¤Î¥Ë¥å¡¼¥¹¤Ë¤ª¤¤¤Ä¤¤¤Æ¤¤¤Ş¤¹¤«? ´ÊÃ±¤Ê¥¯¥¤¥º¤ÇDebian¾ï¼±¥Æ¥¹¥È¤·¤Á¤ã¤¤¤Ş¤¹¡£ |
-13:40- | »öÁ°²İÂê¾Ò²ğ | »öÁ°²İÂê¤Ë¤Ä¤¤¤Æ¸ì¤ê¤Ş¤¹ | 
-14:20- | backports.debian.org ¤Î³èÍÑ | Debian backports ¥·¥¹¥Æ¥à¤Ë¤Î»ÅÁÈ¤ß¤È»È¤¤Êı¤Ë¤Ä¤¤¤Æ¤ªÏÃ¤·¤Ş¤¹¡£ | ´ä¾¾ ¿®ÍÎ
-15:30- | initramfs »ÅÁÈ¤ß¤È¥Ä¡¼¥ë | initram-tools ¤Î»ÅÁÈ¤ß¤Èdracut ¤Ë¤Ä¤¤¤Æ¤ªÏÃ¤·¤Ş¤¹¡£  | »³ÅÄ
-16:00- | Python¤Î¥Ñ¥Ã¥±¡¼¥¸¤òºî¤Ã¤Æ¤ß¤¿ÏÃ | ¤è¤¦¤ä¤¯¤ä¤ë¤ä¤ëº¾µ½¤òÃ¦¤·¤è¤¦¤È»×¤¦¤Î¤Ç¡¢¥Ñ¥Ã¥±¡¼¥¸ºîÀ®¤Î¥ì¥Ó¥å¡¼¤È¥¹¥İ¥ó¥µ¡¼¤ò¤ª´ê¤¤¤·¤è¤¦¤È¡£ | ¤Ş¤¨¤À
-17:00- | ·î´©PPC64¥İ¡¼¥Æ¥£¥ó¥° |  | »³ËÜ
+|ãŠé¡Œ | ä»Šå›ã®éœ‡ç½ã§Debianã‚’ã©ã®ã‚ˆã†ã«æ´»ç”¨ã—ã¦ã¾ã™ã‹ã€‚
+|æå‡ºæ–¹æ³• | Debianå‹‰å¼·ä¼šäºˆç´„ã‚·ã‚¹ãƒ†ãƒ ã®èª²é¡Œå›ç­”ãƒ•ã‚©ãƒ¼ãƒ ã«å…¥åŠ›ã—ã¦ãã ã•ã„ã€‚
+|è³ªå•å…ˆ | èª²é¡Œå†…å®¹ã®å®Ÿæ–½ã«ã¤ã„ã¦ãªã«ã‹ã‚ã‚Œã°ã€[[http://lists.debian.or.jp/debian-users/][debian-users@debian.or.jp Debianãƒ¦ãƒ¼ã‚¶ç”¨å…¬é–‹ãƒ¡ãƒ¼ãƒªãƒ³ã‚°ãƒªã‚¹ãƒˆ]] ã«ã¦ã”è³ªå•ãã ã•ã„ã€‚
+|æœŸé™ | å‚åŠ ç™»éŒ²æœŸé™ã¨åŒã˜
+|ãƒ©ã‚¤ã‚»ãƒ³ã‚¹ | æå‡ºã„ãŸã ã„ãŸè³‡æ–™ã¯å…¨å“¡ã«é…å¸ƒã™ã‚‹ã“ã¨ã€ã¾ãŸå†…å®¹ã®å†åˆ©ç”¨ã‚’å®Ÿæ–½ã™ã‚‹ã“ã¨ã‚’äº†æ‰¿ãã ã•ã„ã€‚ Debianå‹‰å¼·ä¼šè³‡æ–™ã¯GPLã§å…¬é–‹ã—ã¾ã™ã€‚ (Webã§ã®å…¬é–‹ãŒå¯èƒ½ãªå†…å®¹ã«ã—ã¦ãã ã•ã„ã€‚) 
 
 
+* å½“æ—¥ã®agenda
 
-* º©¿Æ²ñ
+æ™‚é–“ || å†…å®¹ || æ¦‚è¦ || ç™ºè¡¨è€…
+13:00- | ä¼šå ´è¨­å–¶ | ä¼šå ´ã®è¨­å–¶ã‚’ã—ã¾ã™ | 
+13:10- | 2011å¹´åº¦ Debian JP Project ä¼šé•·ã®æŒ¨æ‹¶ | 2011å¹´åº¦ã®Debian JP Project ä¼šé•·ã‹ã‚‰ã®æŒ¨æ‹¶ã¨æŠ±è²  | ã¾ãˆã 
+13:20- | DWN trivia quiz | Debian é–¢é€£ã®ãƒ‹ãƒ¥ãƒ¼ã‚¹ã«ãŠã„ã¤ã„ã¦ã„ã¾ã™ã‹? ç°¡å˜ãªã‚¯ã‚¤ã‚ºã§Debianå¸¸è­˜ãƒ†ã‚¹ãƒˆã—ã¡ã‚ƒã„ã¾ã™ã€‚ |
+13:40- | äº‹å‰èª²é¡Œç´¹ä»‹ | äº‹å‰èª²é¡Œã«ã¤ã„ã¦èªã‚Šã¾ã™ | 
+14:20- | backports.debian.org ã®æ´»ç”¨ | Debian backports ã‚·ã‚¹ãƒ†ãƒ ã«ã®ä»•çµ„ã¿ã¨ä½¿ã„æ–¹ã«ã¤ã„ã¦ãŠè©±ã—ã¾ã™ã€‚ | å²©æ¾ ä¿¡æ´‹
+15:30- | initramfs ä»•çµ„ã¿ã¨ãƒ„ãƒ¼ãƒ« | initram-tools ã®ä»•çµ„ã¿ã¨dracut ã«ã¤ã„ã¦ãŠè©±ã—ã¾ã™ã€‚  | å±±ç”°
+16:00- | Pythonã®ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã‚’ä½œã£ã¦ã¿ãŸè©± | ã‚ˆã†ã‚„ãã‚„ã‚‹ã‚„ã‚‹è©æ¬ºã‚’è„±ã—ã‚ˆã†ã¨æ€ã†ã®ã§ã€ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ä½œæˆã®ãƒ¬ãƒ“ãƒ¥ãƒ¼ã¨ã‚¹ãƒãƒ³ã‚µãƒ¼ã‚’ãŠé¡˜ã„ã—ã‚ˆã†ã¨ã€‚ | ã¾ãˆã 
+17:00- | æœˆåˆŠPPC64ãƒãƒ¼ãƒ†ã‚£ãƒ³ã‚° |  | å±±æœ¬
 
-²ñ¾ì | ²ñ¾ì¶áÊÕ¤ÎÍ½Äê
-»ş´Ö | 18:00-
-²ñÈñ | 5000±ß
-»²²ÃÅĞÏ¿ | DebianÊÙ¶¯²ñÍ½Ìó¥·¥¹¥Æ¥à¤ËÅĞÏ¿¤¹¤ëºİ¤ËÉ½ÌÀ¤·¤Æ¤¯¤À¤µ¤¤
 
-* »ñÎÁ
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF»öÁ°ÇÛÉÛ»ñÎÁ]]
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDF¥×¥ì¥¼¥ó¥Æ¡¼¥·¥ç¥ó»ñÎÁ]]
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation-mkouhei.pdf][2011Ç¯ÅÙ Debian JP Project ²ñÄ¹¤Î°§»¢ PDF¥×¥ì¥¼¥ó¥Æ¡¼¥·¥ç¥ó»ñÎÁ]]
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation-mkouhei2.pdf][ Python¤Î¥Ñ¥Ã¥±¡¼¥¸¤òºî¤Ã¤Æ¤ß¤¿ÏÃ PDF¥×¥ì¥¼¥ó¥Æ¡¼¥·¥ç¥ó»ñÎÁ]]
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation-iwamatsu.pdf][backports.debian.org ¤Î³èÍÑ PDF¥×¥ì¥¼¥ó¥Æ¡¼¥·¥ç¥ó»ñÎÁ]]
- - [[http://www.slideshare.net/tyamadajp/initramfs-intro][initramfs »ÅÁÈ¤ß¤È¥Ä¡¼¥ë(slide share)]]
- * »²²ÃÊó¹ğ
+* æ‡‡è¦ªä¼š
 
- - [[http://d.masterq.net/?date=20110416][²¬Éô¤µ¤ó]]
- - [[http://d.hatena.ne.jp/mkouhei/20110417/1302968563][Á°ÅÄ¤µ¤ó]]
+ä¼šå ´ | ä¼šå ´è¿‘è¾ºã®äºˆå®š
+æ™‚é–“ | 18:00-
+ä¼šè²» | 5000å††
+å‚åŠ ç™»éŒ² | Debianå‹‰å¼·ä¼šäºˆç´„ã‚·ã‚¹ãƒ†ãƒ ã«ç™»éŒ²ã™ã‚‹éš›ã«è¡¨æ˜ã—ã¦ãã ã•ã„
+
+* è³‡æ–™
+
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDFäº‹å‰é…å¸ƒè³‡æ–™]]
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³è³‡æ–™]]
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation-mkouhei.pdf][2011å¹´åº¦ Debian JP Project ä¼šé•·ã®æŒ¨æ‹¶ PDFãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³è³‡æ–™]]
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation-mkouhei2.pdf][ Pythonã®ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã‚’ä½œã£ã¦ã¿ãŸè©± PDFãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³è³‡æ–™]]
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation-iwamatsu.pdf][backports.debian.org ã®æ´»ç”¨ PDFãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³è³‡æ–™]]
+ - [[http://www.slideshare.net/tyamadajp/initramfs-intro][initramfs ä»•çµ„ã¿ã¨ãƒ„ãƒ¼ãƒ«(slide share)]]
+ * å‚åŠ å ±å‘Š
+
+ - [[http://d.masterq.net/?date=20110416][å²¡éƒ¨ã•ã‚“]]
+ - [[http://d.hatena.ne.jp/mkouhei/20110417/1302968563][å‰ç”°ã•ã‚“]]
 

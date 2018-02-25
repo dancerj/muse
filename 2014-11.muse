@@ -1,21 +1,21 @@
-#title Âè<lisp> number</lisp>²óÅìµş¥¨¥ê¥¢DebianÊÙ¶¯²ñ¡¢<lisp>year</lisp>Ç¯<lisp>month</lisp>·îÊÙ¶¯²ñ
+#title ç¬¬<lisp> number</lisp>å›æ±äº¬ã‚¨ãƒªã‚¢Debianå‹‰å¼·ä¼šã€<lisp>year</lisp>å¹´<lisp>month</lisp>æœˆå‹‰å¼·ä¼š
 <lisp>(progn (setq year 2014) (setq month 11) (setq day 29) (setq number 120) (setq eventid "") nil) </lisp>
-* ³«ºÅ³µÍ×
+* é–‹å‚¬æ¦‚è¦
 
-Æü»ş | <lisp>year</lisp>Ç¯<lisp>month</lisp>·î<lisp>day</lisp>Æü(ÅÚÍËÆü) 14:00-19:00 (!!Ãí¡§Âè5ÅÚÍË¤Ç¤¹¡ª¡ª¡ª¡Ë
-»²²ÃÅĞÏ¿ÊıË¡ | [[http://debianjp.doorkeeper.jp/events/17344][Doorkeeper¾å¤Ç¤Î°ÆÆâ]]¤Î·Ç¼¨¤ò¸«¤Æ»²²Ã¿½¤·¹ş¤ß¤ò¤ª¤Í¤¬¤¤¤·¤Ş¤¹¡£<lisp>month</lisp>·î<lisp>(- day 2)</lisp>Æü¤Ş¤Ç¤ËÅĞÏ¿¤¯¤À¤µ¤¤¡£
+æ—¥æ™‚ | <lisp>year</lisp>å¹´<lisp>month</lisp>æœˆ<lisp>day</lisp>æ—¥(åœŸæ›œæ—¥) 14:00-19:00 (!!æ³¨ï¼šç¬¬5åœŸæ›œã§ã™ï¼ï¼ï¼ï¼‰
+å‚åŠ ç™»éŒ²æ–¹æ³• | [[http://debianjp.doorkeeper.jp/events/17344][Doorkeeperä¸Šã§ã®æ¡ˆå†…]]ã®æ²ç¤ºã‚’è¦‹ã¦å‚åŠ ç”³ã—è¾¼ã¿ã‚’ãŠã­ãŒã„ã—ã¾ã™ã€‚<lisp>month</lisp>æœˆ<lisp>(- day 2)</lisp>æ—¥ã¾ã§ã«ç™»éŒ²ãã ã•ã„ã€‚
 
-* ²ñ¹ç¤Î¾ÜºÙ
+* ä¼šåˆã®è©³ç´°
 
- º£²ó»î¸³Åª¤ËDoorkeeper¤Ë·Ç¼¨¤ò¤·¤Æ¤¤¤Ş¤¹¡£¾Ü¤·¤¯¤Ï¡¢
-[[http://debianjp.doorkeeper.jp/events/17344][Doorkeeper¾å¤Ç¤Î°ÆÆâ]]
-¤ò»²¾È¤¯¤À¤µ¤¤¡£
+ ä»Šå›è©¦é¨“çš„ã«Doorkeeperã«æ²ç¤ºã‚’ã—ã¦ã„ã¾ã™ã€‚è©³ã—ãã¯ã€
+[[http://debianjp.doorkeeper.jp/events/17344][Doorkeeperä¸Šã§ã®æ¡ˆå†…]]
+ã‚’å‚ç…§ãã ã•ã„ã€‚
 
-* »ñÎÁ
+* è³‡æ–™
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF»öÁ°ÇÛÉÛ»ñÎÁ]]
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDF¥×¥ì¥¼¥ó¥Æ¡¼¥·¥ç¥ó»ñÎÁ]]
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDFäº‹å‰é…å¸ƒè³‡æ–™]]
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³è³‡æ–™]]
 
-* »²²ÃÊó¹ğ
+* å‚åŠ å ±å‘Š
 
 

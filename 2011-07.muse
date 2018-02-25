@@ -1,19 +1,19 @@
-#title Âè<lisp> number</lisp>²óÅìµş¥¨¥ê¥¢DebianÊÙ¶¯²ñ¡¤<lisp>year</lisp>Ç¯<lisp>month</lisp>·îÊÙ¶¯²ñ
+#title ç¬¬<lisp> number</lisp>å›æ±äº¬ã‚¨ãƒªã‚¢Debianå‹‰å¼·ä¼šï¼Œ<lisp>year</lisp>å¹´<lisp>month</lisp>æœˆå‹‰å¼·ä¼š
 <lisp>(progn  (setq year 2011) (setq month 7) (setq day 23) (setq number 78) "") </lisp>
-* ³«ºÅ³µÍ×
+* é–‹å‚¬æ¦‚è¦
 
-Æü»ş | <lisp>year</lisp>Ç¯<lisp>month</lisp>·î<lisp>day</lisp>Æü(ÅÚÍËÆü) 18:00-23:00
-¾ì½ê | ¥Ü¥¹¥Ë¥¢¡¦¥Ø¥ë¥Ä¥§¥´¥Ó¥Ê Debconf ²ñ¾ì¡¢¤â¤·¤¯¤Ï IRC irc.debian.or.jp #debianjp ¥Á¥ã¥ó¥Í¥ë(Ê¸»ú¥³¡¼¥É: UTF-8)
-Äê°÷ | IRC¤Î¸Â³¦ÎÌ
+æ—¥æ™‚ | <lisp>year</lisp>å¹´<lisp>month</lisp>æœˆ<lisp>day</lisp>æ—¥(åœŸæ›œæ—¥) 18:00-23:00
+å ´æ‰€ | ãƒœã‚¹ãƒ‹ã‚¢ãƒ»ãƒ˜ãƒ«ãƒ„ã‚§ã‚´ãƒ“ãƒŠ Debconf ä¼šå ´ã€ã‚‚ã—ãã¯ IRC irc.debian.or.jp #debianjp ãƒãƒ£ãƒ³ãƒãƒ«(æ–‡å­—ã‚³ãƒ¼ãƒ‰: UTF-8)
+å®šå“¡ | IRCã®é™ç•Œé‡
 
-* ÅöÆü¤Îagenda
+* å½“æ—¥ã®agenda
 
-»ş´Ö || ÆâÍÆ || È¯É½¼Ô
-18:00-23:00 | Debconf11¥­¥Ã¥¯¥ª¥Õ | Á´°÷
+æ™‚é–“ || å†…å®¹ || ç™ºè¡¨è€…
+18:00-23:00 | Debconf11ã‚­ãƒƒã‚¯ã‚ªãƒ• | å…¨å“¡
 
-¤Ş¤¿¡¢²ñ´üÃæ(7/23 - 7/31 )¿ï»ş¥ß¡¼¥Æ¥£¥ó¥°¤ò¹Ô¤¤¤Ş¤¹¡£IRC¥Á¥ã¥ó¥Í¥ë¤Ë»²²Ã¤¹¤ë¤È»²²Ã¼Ô¤¬È¿±ş¤¹¤ë²ÄÇ½À­¤¬¤¢¤ê¤Ş¤¹¡£
+ã¾ãŸã€ä¼šæœŸä¸­(7/23 - 7/31 )éšæ™‚ãƒŸãƒ¼ãƒ†ã‚£ãƒ³ã‚°ã‚’è¡Œã„ã¾ã™ã€‚IRCãƒãƒ£ãƒ³ãƒãƒ«ã«å‚åŠ ã™ã‚‹ã¨å‚åŠ è€…ãŒåå¿œã™ã‚‹å¯èƒ½æ€§ãŒã‚ã‚Šã¾ã™ã€‚
 
-* »²²ÃÊó¹ğ
+* å‚åŠ å ±å‘Š
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF»öÁ°ÇÛÉÛ»ñÎÁ]]
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDFäº‹å‰é…å¸ƒè³‡æ–™]]
 

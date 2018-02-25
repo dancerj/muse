@@ -1,7 +1,7 @@
-#title Âè<lisp> number</lisp>²óÅìµş¥¨¥ê¥¢DebianÊÙ¶¯²ñ¡¢<lisp>year</lisp>Ç¯<lisp>month</lisp>·îÊÙ¶¯²ñ
+#title ç¬¬<lisp> number</lisp>å›æ±äº¬ã‚¨ãƒªã‚¢Debianå‹‰å¼·ä¼šã€<lisp>year</lisp>å¹´<lisp>month</lisp>æœˆå‹‰å¼·ä¼š
 <lisp>(progn (setq year 2013) (setq month 9) (setq day 21) (setq number 104) (setq eventid "30736f6ffc0c418848170d97be7315d1f3242f4f") "") </lisp>
 
-* ³«ºÅ³µÍ×
+* é–‹å‚¬æ¦‚è¦
 
 Canceled
 

@@ -1,31 +1,31 @@
-#title Âè<lisp> number</lisp>²óÅìµş¥¨¥ê¥¢DebianÊÙ¶¯²ñ¡¢<lisp>year</lisp>Ç¯<lisp>month</lisp>·îÊÙ¶¯²ñ 
+#title ç¬¬<lisp> number</lisp>å›æ±äº¬ã‚¨ãƒªã‚¢Debianå‹‰å¼·ä¼šã€<lisp>year</lisp>å¹´<lisp>month</lisp>æœˆå‹‰å¼·ä¼š 
 <lisp>(progn  (setq year 2009) (setq month 10) (setq day 31) (setq number 57) "") </lisp>
-* ³«ºÅ³µÍ×
+* é–‹å‚¬æ¦‚è¦
 
-Æü»ş | <lisp>year</lisp>Ç¯<lisp>month</lisp>·î<lisp>day</lisp>Æü(ÅÚÍËÆü) 18:00-21:00
-¾ì½ê | OSC 2009 Tokyo/Fall
-»²²ÃÅĞÏ¿ÊıË¡ | OSC 2009Tokyo/Fall ¤ËÅĞÏ¿¤·¤Æ¤¯¤À¤µ¤¤
-»²²ÃÈñÍÑ | ¤Ê¤·
-
-
-* ÅöÆü¤Îagenda
-
-º£²ó¤Ï¥Ö¡¼¥¹¤Ç¤ÎÅ¸¼¨¤Î¤ß¤Ç¤¹¡£
+æ—¥æ™‚ | <lisp>year</lisp>å¹´<lisp>month</lisp>æœˆ<lisp>day</lisp>æ—¥(åœŸæ›œæ—¥) 18:00-21:00
+å ´æ‰€ | OSC 2009 Tokyo/Fall
+å‚åŠ ç™»éŒ²æ–¹æ³• | OSC 2009Tokyo/Fall ã«ç™»éŒ²ã—ã¦ãã ã•ã„
+å‚åŠ è²»ç”¨ | ãªã—
 
 
-* º©¿Æ²ñ
+* å½“æ—¥ã®agenda
 
-²ñ¾ì | ½Õ¹á±à
-»ş´Ö | 17:00 - 18:30
-²ñÈñ | 2500
-»²²ÃÅĞÏ¿ | ÅöÆü³ÎÇ§
+ä»Šå›ã¯ãƒ–ãƒ¼ã‚¹ã§ã®å±•ç¤ºã®ã¿ã§ã™ã€‚
 
 
-* »ñÎÁ
+* æ‡‡è¦ªä¼š
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][¥­¡¼¥µ¥¤¥óÍÑÇÛÉÛ»ñÎÁ]]
+ä¼šå ´ | æ˜¥é¦™åœ’
+æ™‚é–“ | 17:00 - 18:30
+ä¼šè²» | 2500
+å‚åŠ ç™»éŒ² | å½“æ—¥ç¢ºèª
 
-* »²²ÃÊó¹ğ
 
- - [[http://d.hatena.ne.jp/mkouhei/20091101/1257043156][¤Ş¤¨¤À¤³¤¦¤Ø¤¤]]
- - [[http://d.ma-aya.to/?date=20091101#p01][¤ä¤Ş¤Í¤Ò¤Ç¤­]]
+* è³‡æ–™
+
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][ã‚­ãƒ¼ã‚µã‚¤ãƒ³ç”¨é…å¸ƒè³‡æ–™]]
+
+* å‚åŠ å ±å‘Š
+
+ - [[http://d.hatena.ne.jp/mkouhei/20091101/1257043156][ã¾ãˆã ã“ã†ã¸ã„]]
+ - [[http://d.ma-aya.to/?date=20091101#p01][ã‚„ã¾ã­ã²ã§ã]]

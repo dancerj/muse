@@ -1,17 +1,17 @@
-#title Debian / Ubuntu ¥æ¡¼¥¶¡¼¥ß¡¼¥È¥¢¥Ã¥× in »¥ËÚ
+#title Debian / Ubuntu ãƒ¦ãƒ¼ã‚¶ãƒ¼ãƒŸãƒ¼ãƒˆã‚¢ãƒƒãƒ— in æœ­å¹Œ
 <lisp>(progn (setq year 2016) (setq month 6) (setq day 17) (setq number "") (setq eventid 46366) nil) </lisp>
-* ³«ºÅ³µÍ×
+* é–‹å‚¬æ¦‚è¦
 
-Æü»ş | <lisp>year</lisp>Ç¯<lisp>month</lisp>·î<lisp>day</lisp>Æü(¶âÍËÆü) 18:45-20:55
-»²²ÃÅĞÏ¿ÊıË¡ | [[https://debianjp.doorkeeper.jp/events/<lisp>(format "%.5d" eventid)</lisp>/][Doorkeeper¾å¤Ç¤Î°ÆÆâ]]¤Î·Ç¼¨¤ò¸«¤Æ»²²Ã¿½¤·¹ş¤ß¤ò¤ª´ê¤¤¤·¤Ş¤¹¡£
+æ—¥æ™‚ | <lisp>year</lisp>å¹´<lisp>month</lisp>æœˆ<lisp>day</lisp>æ—¥(é‡‘æ›œæ—¥) 18:45-20:55
+å‚åŠ ç™»éŒ²æ–¹æ³• | [[https://debianjp.doorkeeper.jp/events/<lisp>(format "%.5d" eventid)</lisp>/][Doorkeeperä¸Šã§ã®æ¡ˆå†…]]ã®æ²ç¤ºã‚’è¦‹ã¦å‚åŠ ç”³ã—è¾¼ã¿ã‚’ãŠé¡˜ã„ã—ã¾ã™ã€‚
 
-* ÊÙ¶¯²ñ¤Î¾ÜºÙ
+* å‹‰å¼·ä¼šã®è©³ç´°
 
- ÊÙ¶¯²ñ¤Î¾ÜºÙ¤Ï ¥¤¥Ù¥ó¥È´ÉÍı¥µ¡¼¥Ó¥¹¤Ç¤¢¤ë [[https://debianjp.doorkeeper.jp/events/<lisp>(format "%.5d" eventid)</lisp>/][Doorkeeper]]¤Ë·Ç¼¨¤·¤Æ¤¤¤Ş¤¹¡£¿½¤·Ìõ¤´¤¶¤¤¤Ş¤»¤ó¤¬¡¢¾ÜºÙ¤Ï¤³¤Á¤é¤ò¤ò»²¾È¤¯¤À¤µ¤¤¡£
+ å‹‰å¼·ä¼šã®è©³ç´°ã¯ ã‚¤ãƒ™ãƒ³ãƒˆç®¡ç†ã‚µãƒ¼ãƒ“ã‚¹ã§ã‚ã‚‹ [[https://debianjp.doorkeeper.jp/events/<lisp>(format "%.5d" eventid)</lisp>/][Doorkeeper]]ã«æ²ç¤ºã—ã¦ã„ã¾ã™ã€‚ç”³ã—è¨³ã”ã–ã„ã¾ã›ã‚“ãŒã€è©³ç´°ã¯ã“ã¡ã‚‰ã‚’ã‚’å‚ç…§ãã ã•ã„ã€‚
 
-* »ñÎÁ
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-rpi3-presentation.pdf][È¯É½¼ÔPDF¥×¥ì¥¼¥ó¥Æ¡¼¥·¥ç¥ó»ñÎÁ¡Ê´ä¾¾¤µ¤ó¡Ë]]
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-sapporo-presentation-yyoshino.pdf][È¯É½¼ÔPDF¥×¥ì¥¼¥ó¥Æ¡¼¥·¥ç¥ó»ñÎÁ¡ÊµÈÌî¤µ¤ó¡Ë]]
+* è³‡æ–™
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-rpi3-presentation.pdf][ç™ºè¡¨è€…PDFãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³è³‡æ–™ï¼ˆå²©æ¾ã•ã‚“ï¼‰]]
+ - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-sapporo-presentation-yyoshino.pdf][ç™ºè¡¨è€…PDFãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³è³‡æ–™ï¼ˆå‰é‡ã•ã‚“ï¼‰]]
 
-* »²²ÃÊó¹ğ
+* å‚åŠ å ±å‘Š
 
