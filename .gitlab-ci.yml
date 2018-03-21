@@ -1,0 +1,21 @@
+stages:
+  - build_html
+  - deploy
+
+pages:
+  stage: deploy
+  artifacts:
+    paths:
+      - "public"
+  script:
+    - mkdir -v .public
+    - cp -fv html/* .public/
+    - mv -v .public public
+
+build_html:
+  stage: build_html
+  artifacts:
+    untracked: false
+    paths:
+      - "html/"
+  script: "./ci_build_html.sh"
