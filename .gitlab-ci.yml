@@ -8,9 +8,8 @@ pages:
     paths:
       - "public"
   script:
-    - mkdir -v .public
-    - cp -fv html/* .public/
-    - mv -v .public public
+    - mkdir -v public
+    - cp -fv html/* public/
 
 build_html:
   stage: build_html
