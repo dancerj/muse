@@ -1,0 +1,7 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine on
+
+    # redirect to salsa from alioth.
+    RewriteRule debianmeetingresume([0-9]{4}).*pdf$  https://tokyodebian-team.pages.debian.net/pdf$1/$0 [last,noescape,redirect=permanent]
+    RewriteRule ^(.*)$  https://tokyodebian-team.pages.debian.net/$1 [last,noescape,redirect=permanent]
+</IfModule>
