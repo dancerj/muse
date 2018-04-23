@@ -1,10 +1,11 @@
 #! /bin/sh
-yyyy="$1"
-if [ x = x"$yyyy" ]; then
-    yyyy=`date +%Y`
-fi
-if ! echo "$yyyy" | grep -q -E '^[0-9]{4,}'; then
-    echo "Usage: $0 [YYYY]"
+name="$1"
+if ! echo "$name" | grep -q -E '^(pdf|html)[0-9]{4,}'; then
+    cat <<EOF
+Usage:
+    $0 pdfYYYY
+    $0 htmlYYYY
+EOF
     exit 1
 fi
 if [ x = x"$private_token" ]; then
@@ -22,10 +23,11 @@ gitlab_api () {
 
 path="tokyodebian-team"
 
-name="pdf${yyyy}"
-description="monthly report pdf files for year ${yyyy}"
+type=`echo "$name" | sed 's/[0-9]*$//'`
+yyyy="${name#${type}}"
+description="monthly report ${type} files for year ${yyyy}"
 visibility="internal"
-import_url="https://salsa.debian.org/tokyodebian-team/pdfyyyy.git"
+import_url="https://salsa.debian.org/tokyodebian-team/${type}yyyy.git"
 
 namespace_id=`gitlab_api GET "/namespaces/${path}" | sed -n 's/^.*"id":\([0-9]*\),.*$/\1/p'`
 
