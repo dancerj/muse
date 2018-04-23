@@ -2,6 +2,11 @@
     RewriteEngine on
 
     # redirect to salsa from alioth.
+    RewriteRule osc2007-cups.pdf$  https://tokyodebian-team.pages.debian.net/pdf2007/$0 [last,noescape,redirect=permanent]
+    RewriteRule debianmeetingresume-meeting-intro.pdf$  https://tokyodebian-team.pages.debian.net/pdf2007/$0 [last,noescape,redirect=permanent]
+    RewriteRule osc2008tokyo-fall-flash.pdf$      https://tokyodebian-team.pages.debian.net/pdf2008/$0 [last,noescape,redirect=permanent]
+    RewriteRule hibono-commonlisp-200903.odp$     https://tokyodebian-team.pages.debian.net/pdf2009/$0 [last,noescape,redirect=permanent]
+    RewriteRule debianmeetingresumecd-label.pdf$  https://tokyodebian-team.pages.debian.net/pdf2015/$0 [last,noescape,redirect=permanent]
     RewriteRule debianmeetingresume([0-9]{4}).*pdf$  https://tokyodebian-team.pages.debian.net/pdf$1/$0 [last,noescape,redirect=permanent]
     RewriteRule ^(.*)$  https://tokyodebian-team.pages.debian.net/$1 [last,noescape,redirect=permanent]
 </IfModule>
