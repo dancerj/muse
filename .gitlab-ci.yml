@@ -4,6 +4,10 @@ stages:
 
 pages:
   stage: deploy
+  tags:
+    - 1GB RAM
+    - debian
+    - stretch 
   artifacts:
     paths:
       - "public"
@@ -13,6 +17,10 @@ pages:
 
 build_html:
   stage: build_html
+  tags:
+    - 1GB RAM
+    - debian
+    - stretch 
   artifacts:
     untracked: false
     paths:
