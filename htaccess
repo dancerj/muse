@@ -8,5 +8,6 @@
     RewriteRule hibono-commonlisp-200903.odp$     https://tokyodebian-team.pages.debian.net/pdf2009/$0 [last,noescape,redirect=permanent]
     RewriteRule debianmeetingresumecd-label.pdf$  https://tokyodebian-team.pages.debian.net/pdf2015/$0 [last,noescape,redirect=permanent]
     RewriteRule debianmeetingresume([0-9]{4}).*pdf$  https://tokyodebian-team.pages.debian.net/pdf$1/$0 [last,noescape,redirect=permanent]
+    RewriteRule debianmeetingresume([0-9]{4}).*html$  https://tokyodebian-team.pages.debian.net/html$1/$0 [last,noescape,redirect=permanent]
     RewriteRule ^(.*)$  https://tokyodebian-team.pages.debian.net/$1 [last,noescape,redirect=permanent]
 </IfModule>
