@@ -9,7 +9,7 @@
 
 ** 2017年冬号
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2017-fuyu.pdf][2017年冬号PDF]]
+ - [[./pdf2017/debianmeetingresume2017-fuyu.pdf][2017年冬号PDF]]
 
  - Introduction
  - Debian で Lisp を動かす
@@ -26,7 +26,7 @@
 
 ** 2017年夏号
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2017-natsu.pdf][2017年夏号PDF]]
+ - [[./pdf2017/debianmeetingresume2017-natsu.pdf][2017年夏号PDF]]
 
  - Introduction
  - Debian Updates
@@ -42,7 +42,7 @@
 
 ** 2016年冬号
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2016-fuyu.pdf][2016年冬号PDF]]
+ - [[./pdf2016/debianmeetingresume2016-fuyu.pdf][2016年冬号PDF]]
 
  - Introduction
  - Debianでlxcをセットアップしてみよう
@@ -60,7 +60,7 @@
 
 ** 2016年夏号
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2016-natsu.pdf][2016年夏号PDF]] 
+ - [[./pdf2016/debianmeetingresume2016-natsu.pdf][2016年夏号PDF]]
 
  - Introduction
  - systemdに浸ってみた
@@ -78,7 +78,7 @@
 
 ** 2015年冬号
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2015-fuyu.pdf][2015年冬号PDF]]
+ - [[./pdf2015/debianmeetingresume2015-fuyu.pdf][2015年冬号PDF]]
 
  - Introduction
  - Debian update
@@ -95,7 +95,7 @@
 
 ** 2015年夏号
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2015-natsu.pdf][2015年夏号PDF]] 
+ - [[./pdf2015/debianmeetingresume2015-natsu.pdf][2015年夏号PDF]]
 
  - Introduction
  - Wheezy から Jessie まで
@@ -112,7 +112,7 @@
 
 ** 2014年冬号
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2014-fuyu.pdf][2014年冬号PDF]] 
+ - [[./pdf2014/debianmeetingresume2014-fuyu.pdf][2014年冬号PDF]]
 
  - Introduction
  - Debian Updates
@@ -129,7 +129,7 @@
 
 ** 2014年夏号
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2014-natsu.pdf][2014年夏号PDF]] 
+ - [[./pdf2014/debianmeetingresume2014-natsu.pdf][2014年夏号PDF]]
 
  - Introduction
  - Debian GNU/Hurd 2013
@@ -144,7 +144,7 @@
 
 ** 2013年冬号
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2013-fuyu.pdf][2013年冬号PDF]] 
+ - [[./pdf2013/debianmeetingresume2013-fuyu.pdf][2013年冬号PDF]]
 
  - Introduction
  - Debian topic update
@@ -164,7 +164,7 @@
 
 ** 2013年夏号
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2013-natsu.pdf][2013年夏号PDF]] 
+ - [[./pdf2013/debianmeetingresume2013-natsu.pdf][2013年夏号PDF]]
 
  - Introduction
  - Debian と Ubuntu の違いを知ろう
@@ -195,7 +195,7 @@
 
 ** 2012年冬号
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2012-fuyu.pdf][2012年冬号PDF]] 
+ - [[./pdf2012/debianmeetingresume2012-fuyu.pdf][2012年冬号PDF]]
 
  - Introduction
  - MacBook Air 4,1 (Mid 2011) に Debian インストールしてみた
@@ -224,7 +224,7 @@
 
 ** 2012年夏号
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2012-natsu.pdf][2012年夏号PDF]] 
+ - [[./pdf2012/debianmeetingresume2012-natsu.pdf][2012年夏号PDF]]
 
  - Introduction
  - TeXLive2011(2012/dev) in Debian
@@ -275,7 +275,7 @@
 
 ** 2011年冬号
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2011-fuyu.pdf][2011年冬号PDF]] 
+ - [[./pdf2011/debianmeetingresume2011-fuyu.pdf][2011年冬号PDF]]
 
  - Introduction
  - Debian とはなにか？
@@ -297,7 +297,7 @@
 
 ** 2011年夏号
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2011-natsu.pdf][2011年夏号PDF]] 
+ - [[./pdf2011/debianmeetingresume2011-natsu.pdf][2011年夏号PDF]]
 
  - 「フリー」って、どういうこと?
  - Squeezeの変更点をみんなで見てみよう
@@ -328,7 +328,7 @@
 
 ** 2010年冬号
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2010-fuyu.pdf][2010年冬号PDF]] 
+ - [[./pdf2010/debianmeetingresume2010-fuyu.pdf][2010年冬号PDF]]
 
  - Introduction
  - あるDebianな一日 その一
@@ -353,7 +353,7 @@
 
 ** 2010年夏号
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2010-natsu.pdf][2010年夏号PDF]] 
+ - [[./pdf2010/debianmeetingresume2010-natsu.pdf][2010年夏号PDF]]
 
  - Introduction
  - Debian の紹介
@@ -387,7 +387,7 @@
 
 ** 2009年冬号
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2009-fuyu.pdf][2009年冬号PDF]] 
+ - [[./pdf2009/debianmeetingresume2009-fuyu.pdf][2009年冬号PDF]]
 
  - Introduction
  - Debian Conference 2009参加報告
@@ -410,7 +410,7 @@
 
 ** 2009年夏号
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2009-natsu.pdf][2009年夏号PDF]] 
+ - [[./pdf2009/debianmeetingresume2009-natsu.pdf][2009年夏号PDF]]
 
  - Introduction
  - sqlite3 と python で csv ファイルを分析する
@@ -442,7 +442,7 @@
 
 ** 2008年冬号
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2008-fuyu.pdf][2008年冬号PDF]] 
+ - [[./pdf2008/debianmeetingresume2008-fuyu.pdf][2008年冬号PDF]]
 
  - 2008年度 Debian 勉強会企画
  - パッケージ作成(debhelper、CDBS、dpatch、quiltを用いたパッケージ作成)
@@ -466,7 +466,7 @@
 
 ** 2008年夏号
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2008-natsu.pdf][2008年夏号PDF]] 
+ - [[./pdf2008/debianmeetingresume2008-natsu.pdf][2008年夏号PDF]]
 
  - 2008年度 Debian 勉強会企画
  - Debian パッケージ 管理の流れ
@@ -499,7 +499,7 @@
 
 ** 2007年冬号
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2007-fuyu.pdf][2007年冬号PDF]] 
+ - [[./pdf2007/debianmeetingresume2007-fuyu.pdf][2007年冬号PDF]]
 
  - Debconf 参加報告
  - Debconf 2007 各種討議内容
@@ -522,7 +522,7 @@
 
 ** 2007年夏号
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2007-natsu.pdf][2007年夏号PDF]] 
+ - [[./pdf2007/debianmeetingresume2007-natsu.pdf][2007年夏号PDF]]
 
  - パッチ管理ツール quilt の使い方
  - dpatch についての小ネタ
@@ -548,7 +548,7 @@
 
 ** 2006年冬号
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2006-fuyu.pdf][2006年冬号PDF]] 
+ - [[./pdf2006/debianmeetingresume2006-fuyu.pdf][2006年冬号PDF]]
 
  - MacBook に Debian をインストール
  - あなたが知らないうちに使っているDebian specific
@@ -567,7 +567,7 @@
 
 ** 2006年夏号
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2006-natsu.pdf][2006年夏号PDF]] 
+ - [[./pdf2006/debianmeetingresume2006-natsu.pdf][2006年夏号PDF]]
 
  - Debian Policy 入門 第1回
  - Debian Policy 入門 第2回
@@ -586,7 +586,7 @@
 
 ** 2005年冬号
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2005-fuyu.pdf][2005年冬号PDF]] 
+ - [[./pdf2005/debianmeetingresume2005-fuyu.pdf][2005年冬号PDF]]
 
  - ITPの仕方からアップロードまでの流れ
  - debconf論
@@ -600,7 +600,7 @@
 
 ** 2005年夏号
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2005-natsu.pdf][2005年夏号PDF]] 
+ - [[./pdf2005/debianmeetingresume2005-natsu.pdf][2005年夏号PDF]]
 
  - Debian Social Contractについて
  - debhelper論 その1 Debhelperとは何か．存在意義は何か．
