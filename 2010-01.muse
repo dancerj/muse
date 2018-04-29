@@ -80,7 +80,7 @@ Debian / オープンソースの開発者が集まりますので、GPGサイ�
 参加の条件ですので提出お願いします。
 
 お題 | 今回の BSP への意気込みを熱く語ってください。
-提出方法 | [[http://tokyodebian.alioth.debian.org/prework-update.html][課題提出方法]] を参考にしてチェックアウト、ビルドしてください。作成した成果を git commit したあと、 git format-patch -o ./ origin コマンドで生成されたパッチファイルを送付してください。
+提出方法 | [[./prework-update.html][課題提出方法]] を参考にしてチェックアウト、ビルドしてください。作成した成果を git commit したあと、 git format-patch -o ./ origin コマンドで生成されたパッチファイルを送付してください。
 提出先 | tokyodebian-<lisp>year</lisp>@lists.alioth.debian.org (デビアン勉強会事前資料送付用メーリングリスト宛) Subject:「Debian勉強会<lisp>number</lisp>事前課題」 としてパッチファイルを添付してください。
 質問先 | 課題内容の実施についてなにかあれば、[[http://lists.debian.or.jp/debian-users/][debian-users@debian.or.jp Debianユーザ用公開メーリングリスト]] にてご質問ください。
 期限 | 参加登録期限と同じ
