@@ -56,8 +56,8 @@ IRCで参加するためには、それぞれのイベントの時間に WIDE
 
 * 参加報告
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume200607.pdf][PDF事前配布資料]] 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume200607-presentation.pdf][PDFプレゼンテーション資料]] 
+ - [[./pdf2006/debianmeetingresume200607.pdf][PDF事前配布資料]] 
+ - [[./pdf2006/debianmeetingresume200607-presentation.pdf][PDFプレゼンテーション資料]] 
  - [[http://www.t-base.ne.jp/~tj/d/?date=20060715#p02][辻田さん]]
  - [[http://www.t-base.ne.jp/~nakajima/diary/?date=20060715#p03][中島さん]]
  - [[http://www.netfort.gr.jp/~dancer/diary/daily/2006-Jul-15.html.ja#2006-Jul-15-17:15:46][上川純一]]

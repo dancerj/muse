@@ -33,7 +33,7 @@
 
 * 資料
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]] (新刊落ちました)
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]] (未完成)
+ - [[./pdf2010/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]] (新刊落ちました)
+ - [[./pdf2010/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]] (未完成)
 
 * 参加報告

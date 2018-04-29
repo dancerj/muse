@@ -37,8 +37,8 @@
 
 * 参加報告
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
+ - [[./pdf2006/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]
+ - [[./pdf2006/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
  - [[http://kmuto.jp/b.cgi/debian/tokyomeeting-200610.htm][kmuto in English]]
  - [[http://kmuto.jp/d/index.cgi/debian/tokyo-debian-200610.htm][kmutoさん]]
  - [[http://www.h7.dion.ne.jp/~matsu/feature/uzumi/ming/debian_study_meeting_21.html][matsuさん]]

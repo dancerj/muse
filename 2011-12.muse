@@ -50,9 +50,9 @@
 
 * 資料
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation-sugimoto.pdf][PDFプレゼンテーション資料 quitでportingしてみた]]
+ - [[./pdf2011/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]
+ - [[./pdf2011/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
+ - [[./pdf2011/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation-sugimoto.pdf][PDFプレゼンテーション資料 quitでportingしてみた]]
 
 * 参加報告
  - [[http://d.hatena.ne.jp/mkouhei/20111217/1324130777][mkouheiさん]]

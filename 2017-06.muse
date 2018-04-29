@@ -11,8 +11,8 @@
 
 * 資料
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
+ - [[./pdf2017/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]
+ - [[./pdf2017/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
  - [[https://docs.google.com/presentation/d/1gQfk8hXHimfU8bJFuKjhu9VH9vbU0_4CJu9mSh9Dmiw/edit#slide=id.p][「challenge:  convert policy doc from docbook to Sphinx」 プレゼンテーション資料(henrichさん)]]
 
 * 参加報告

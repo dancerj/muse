@@ -44,8 +44,8 @@
 
 * 資料
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]] (未完成)
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]] (未完成)
+ - [[./pdf2010/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]] (未完成)
+ - [[./pdf2010/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]] (未完成)
 
 * 参加報告
  - [[http://donrails.araki.net/archives/id/7018][araki]]

@@ -37,8 +37,8 @@
 
 * 参加報告
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
+ - [[./pdf2007/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]
+ - [[./pdf2007/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
  - [[http://d.hatena.ne.jp/mkouhei/20070218#1171736586][前田さん]]
  - [[http://www.netfort.gr.jp/~dancer/diary/daily/2007-Feb-18.html.ja#2007-Feb-18-07:18:16][上川純一]]
  - [[http://www.eto.to/nikki/?date=20070218#p04][えとーさん]]

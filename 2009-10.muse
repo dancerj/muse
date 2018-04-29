@@ -23,7 +23,7 @@
 
 * 資料
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][キーサイン用配布資料]]
+ - [[./pdf2009/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][キーサイン用配布資料]]
 
 * 参加報告
 

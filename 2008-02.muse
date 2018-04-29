@@ -32,7 +32,7 @@ PC台分用意しますので、ノートPC持参の方もLive-CDを使って参
 
 * 資料
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume200802-hanson.pdf][ハンズオンPDFプレゼンテーション資料]]
+ - [[./pdf2008/debianmeetingresume200802-hanson.pdf][ハンズオンPDFプレゼンテーション資料]]
 
 * 参加報告
 

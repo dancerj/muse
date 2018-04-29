@@ -11,8 +11,8 @@
 
 * 資料
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
+ - [[./pdf2016/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]
+ - [[./pdf2016/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
  - [[http://www.slideshare.net/yutannihilation/goaptcachermirror][PDFプレゼンテーション資料(yutannihilationさん)]]
  - [[https://annex.debconf.org/debconf-share/debconf16/slides/86-gnu-screen-comes-to-debian-installer.pdf][PDFプレゼンテーション資料(Rogerさん)]]
 

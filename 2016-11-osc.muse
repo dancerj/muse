@@ -22,6 +22,6 @@
 
 * 資料
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-osc2016fall-presentation.pdf][PDFプレゼンテーション資料]]
+ - [[./pdf2016/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-osc2016fall-presentation.pdf][PDFプレゼンテーション資料]]
 
 * 参加報告

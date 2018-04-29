@@ -21,6 +21,6 @@
 
 * 資料
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume201502-osc2015-presentation.pdf][PDFプレゼンテーション資料]]
+ - [[./pdf2015/debianmeetingresume201502-osc2015-presentation.pdf][PDFプレゼンテーション資料]]
 
 * 参加報告

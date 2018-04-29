@@ -46,7 +46,7 @@ CACertの認証を希望する方は事前に下記をご準備下さい。
 
 ※認証をお願いするassurer人数分の枚数を用意ください。今回参加予定のassurerの方は1名です。
 
-詳しくは、[[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume201012.pdf][2010年12月の事前配布資料]]をご参照下さい。
+詳しくは、[[./pdf2011/debianmeetingresume201012.pdf][2010年12月の事前配布資料]]をご参照下さい。
 
 * 懇親会
 
@@ -57,8 +57,8 @@ CACertの認証を希望する方は事前に下記をご準備下さい。
 
 * 資料
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
+ - [[./pdf2011/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]
+ - [[./pdf2011/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
 
 * 参加報告
 

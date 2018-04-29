@@ -11,9 +11,9 @@
 
 * 資料
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation-yyoshino.pdf][PDFプレゼンテーション資料「caff と mail-transport-agent」yy_y_ja_jpさん]]
+ - [[./pdf2017/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]
+ - [[./pdf2017/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
+ - [[./pdf2017/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation-yyoshino.pdf][PDFプレゼンテーション資料「caff と mail-transport-agent」yy_y_ja_jpさん]]
 
 * 参加報告
 

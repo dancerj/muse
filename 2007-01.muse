@@ -38,8 +38,8 @@
 
 * 参加報告
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
+ - [[./pdf2007/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]
+ - [[./pdf2007/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
  - [[http://palmtb.blogspot.com/2007/01/blog-post_2041.html][mkouheiさん]]
  - [[http://www.popowa.com/nik/?date=20070120#p02][小室さん]]
  - [[http://www.netfort.gr.jp/~dancer/diary/daily/2007-Jan-21.html.ja#2007-Jan-21-20:16:11][上川純一]]

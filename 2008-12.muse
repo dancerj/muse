@@ -13,7 +13,7 @@
 参加の条件ですので提出お願いします。
 
 お題 | 「Debian勉強会で今年やったこと、来年したいこと」というタイトルで200-800文字程度の文章をLaTeX形式で書いてください。もし、課題ができなかった場合には「LaTeX+Gitの事前課題ができなかった、こんなハマり方しました体験記」でもよいです。
-提出方法 | [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume200811.pdf][2008年11月資料]]を参考にしてチェックアウト、ビルドしてください。作成した成果を git commit したあと、 git format-patch -o ./ origin コマンドで生成されたパッチファイルを送付してください。
+提出方法 | [[./pdf2008/debianmeetingresume200811.pdf][2008年11月資料]]を参考にしてチェックアウト、ビルドしてください。作成した成果を git commit したあと、 git format-patch -o ./ origin コマンドで生成されたパッチファイルを送付してください。
 提出先 | tokyodebian-<lisp>year</lisp>@lists.alioth.debian.org (デビアン勉強会事前資料送付用メーリングリスト宛) Subject:「Debian勉強会<lisp>number</lisp>事前課題」 としてパッチファイルを添付してください。
 質問先 | 今回の課題はちょっと難しいので、おそらく何か課題にぶちあたります。課題内容の実施についてなにかあれば、[[http://lists.debian.or.jp/debian-users/][debian-users@debian.or.jp Debianユーザ用公開メーリングリスト]] にてご質問ください。
 期限 | 参加登録期限と同じ
@@ -46,8 +46,8 @@ ustream チャンネル | [[http://www.ustream.tv/channel/tokyo-debian-meeting-2
 
 * 資料
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]　
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]　
+ - [[./pdf2008/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]　
+ - [[./pdf2008/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]　
 
 * 参加報告
 

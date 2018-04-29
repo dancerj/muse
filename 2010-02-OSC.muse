@@ -35,5 +35,5 @@
 
 * 資料
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume201002-OSC.pdf][PDF事前配布資料]]
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume201002-OSC-presentation.pdf][PDFプレゼンテーション資料]]
+ - [[./pdf2010/debianmeetingresume201002-OSC.pdf][PDF事前配布資料]]
+ - [[./pdf2010/debianmeetingresume201002-OSC-presentation.pdf][PDFプレゼンテーション資料]]

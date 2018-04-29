@@ -23,8 +23,8 @@
 
 * 資料
 
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
- - [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF配布資料]]
+ - [[./pdf2009/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
+ - [[./pdf2009/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF配布資料]]
 * 参加報告
 
  - [[http://blog.livedoor.jp/tyamada22/archives/740928.html][tyamada]]
