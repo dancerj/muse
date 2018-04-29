@@ -45,7 +45,7 @@
  - [[http://www.netfort.gr.jp/~dancer/diary/daily/2006-Aug-20.html.ja#2006-Aug-20-12:53:55][上川純一]]
  - [[http://dolphin.c.u-tokyo.ac.jp/~nori1/w/?cmd=view;name=TokyoDebianMeeting20060819][小林儀匡さん]]
  - [[http://www.eto.to/nikki/?date=20060820#p01][えとーさん]]
- - [[http://lists.alioth.debian.org/pipermail/tokyodebian-2006/2006-August/000048.html][前田さん]]
+ - [[https://alioth-lists-archive.debian.net/pipermail/tokyodebian-2006/2006-August/000048.html][前田さん]]
  - [[http://www.daionet.gr.jp/~knok/diary/?200608c#200608211][野首さん]]
  - [[http://www.unixuser.org/~ysjj/diary/?200608b&to=200608192#200608192][ysjjさん]]
  - [[http://www.misao.gr.jp/~mitsuka/d/?date=20060819][みつかさん]]
