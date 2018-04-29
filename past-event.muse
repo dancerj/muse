@@ -74,7 +74,7 @@
  - cancel: [[2013-09][2013年9月勉強会(第104回東京エリアDebian勉強会)]]
  - [[2013-08][2013年8月勉強会(第103回東京エリアDebian勉強会)]]
  - [[2013-07][2013年7月勉強会(第102回東京エリアDebian勉強会)]]
- - 2013/06/29 [[http://gum.debian.or.jp][大統一Debian勉強会2013]] [[http://tokyodebian.alioth.debian.org/pdf/debianmeetingresume2013-gum.pdf][配布資料(PDF)]]
+ - 2013/06/29 [[http://gum.debian.or.jp][大統一Debian勉強会2013]] [[./pdf2013/debianmeetingresume2013-gum.pdf][配布資料(PDF)]]
  - [[2013-05][2013年5月勉強会(第100回東京エリアDebian勉強会)]]
  - [[2013-04][2013年4月勉強会(第99回東京エリアDebian勉強会)]]
  - [[2013-03][2013年3月勉強会(第98回東京エリアDebian勉強会)]]

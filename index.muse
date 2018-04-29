@@ -53,12 +53,11 @@ google group上で行っています。勉強会運営に興味がある方は �
 * リンクなど
 
  - [[hackcafe][不定期開催のハックカフェ]]
- - [[https://tokyodebian.alioth.debian.org/pdf/debianmeetingresume200712.pdf][資料の編集方針など（2007年12月用資料）]]
+ - [[./pdf2007/debianmeetingresume200712.pdf][資料の編集方針など（2007年12月用資料）]]
  - [[editing][このページの編集方法]]
  - [[enkai][勉強会会場近くの宴会情報]]
  - [[meetingroom][比較的制限が少ない会議室の情報]]
- - [[https://alioth.debian.org/projects/tokyodebian/][Alioth でのプロジェクトページ]]
- - [[https://anonscm.debian.org/gitweb/?p=tokyodebian/monthly-report.git][資料のgitレポジトリ]]
- - [[https://anonscm.debian.org/gitweb/?p=tokyodebian/muse.git][ウェブページのgitレポジトリ]]
- - [[https://anonscm.debian.org/cgit/tokyodebian/monthly-report.git/plain/planner/200704-tokyo.ods][準備スケジュール]]
+ - [[https://salsa.debian.org/tokyodebian-team/][Salsa でのプロジェクトページ]]
+ - [[https://salsa.debian.org/tokyodebian-team/monthly-report][資料のgitレポジトリ]]
+ - [[https://salsa.debian.org/tokyodebian-team/tokyodebian-team.pages.debian.net][ウェブページのgitレポジトリ]]
  - [[https://wiki.debian.org/KansaiDebianMeeting][Kansai Debian Meeting]]
