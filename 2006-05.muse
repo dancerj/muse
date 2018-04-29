@@ -26,5 +26,5 @@
 * 参加報告
 
  - [[./pdf2006/debianmeetingresume200605.pdf][PDF事前配布資料]] 
- - [[http://cvs.alioth.debian.org/cgi-bin/cvsweb.cgi/~checkout~/meetinglog/20060514.txt?content-type=text/plain&cvsroot=tokyodebian][IRC議事録]]
+ - [[https://salsa.debian.org/tokyodebian-team/meetinglog/raw/master/20060514.txt][IRC議事録]]
  - [[http://www.netfort.gr.jp/~dancer/diary/daily/2006-May-17.html.ja#2006-May-17-02:13:18][上川純一の報告]]
