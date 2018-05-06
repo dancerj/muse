@@ -38,27 +38,31 @@ Debian 勉強会を開催します。
  - ウェブマスター: 杉本典充 dictoss@live.jp
  - 日本語での相談先: [[http://www.debian.or.jp/community/ml/openml.html][debian-devel@lists.debian.or.jp]]
 
-* 運営用ML
-
-google group上で行っています。勉強会運営に興味がある方は ウェブマスター、勉強会運営メンバー または [[http://www.debian.or.jp/community/ml/openml.html][debian-devel@lists.debian.or.jp]] に連絡ください。
-
 * 勉強会資料提出方法
 
 発表したい方は [[prework-update][発表資料提出方法]]を元に原稿を作成して下さい。Gitのワークフロー紹介の例としてもご参照ください。
 
 * 関連記事など
 
- - 2007/12/27 ＠IT自分戦略研究所 [[http://jibun.atmarkit.co.jp/lcom01/special/comeve01/comeve01.html][積極的な発言が勉強会を盛り上げる]]
  - 2008/2/18 ＠IT自分戦略研究所 [[http://jibun.atmarkit.co.jp/lcom01/special/semi/semi01.html][先達を見つけ、自分なりの勉強会を開催せよ]]
+ - 2007/12/27 ＠IT自分戦略研究所 [[http://jibun.atmarkit.co.jp/lcom01/special/comeve01/comeve01.html][積極的な発言が勉強会を盛り上げる]]
 
 * リンクなど
 
- - [[hackcafe][不定期開催のハックカフェ]]
  - [[./pdf2007/debianmeetingresume200712.pdf][資料の編集方針など（2007年12月用資料）]]
+ - [[https://wiki.debian.org/KansaiDebianMeeting][Kansai Debian Meeting]]
+   - 関西エリアで行っているDebian勉強会のページです。関西方面の方はこちらに参加してみてはいかがでしょうか。
+
+* 運営向けの情報
+
+ - google group上で行っています。勉強会運営に興味がある方は ウェブマスター、勉強会運営メンバー または [[http://www.debian.or.jp/community/ml/openml.html][debian-devel@lists.debian.or.jp]] に連絡ください。
  - [[editing][このページの編集方法]]
+ - [[https://salsa.debian.org/tokyodebian-team/][Salsa でのプロジェクトページ]]
+   - [[https://salsa.debian.org/tokyodebian-team/monthly-report][資料のgitレポジトリ]]
+   - [[https://salsa.debian.org/tokyodebian-team/tokyodebian-team.pages.debian.net][ウェブページのgitレポジトリ]]
+
+* 過去の情報
+
+ - [[hackcafe][不定期開催のハックカフェ]]
  - [[enkai][勉強会会場近くの宴会情報]]
  - [[meetingroom][比較的制限が少ない会議室の情報]]
- - [[https://salsa.debian.org/tokyodebian-team/][Salsa でのプロジェクトページ]]
- - [[https://salsa.debian.org/tokyodebian-team/monthly-report][資料のgitレポジトリ]]
- - [[https://salsa.debian.org/tokyodebian-team/tokyodebian-team.pages.debian.net][ウェブページのgitレポジトリ]]
- - [[https://wiki.debian.org/KansaiDebianMeeting][Kansai Debian Meeting]]
