@@ -24,8 +24,7 @@ Debian Package のハンズオンでは、開発環境が必要です。
 
 
 ノートPCをお使いの方は以下のchrootイメージを使ってください（ちょっと仕込みをいれているので。）
-http://tokyodebian.alioth.debian.org/etch-chroot-osc2008.tar.gz
-http://www.nigauri.org/~iwamatsu/osc2008/etch-chroot-osc2008.tar.gz(ミラー)
+http://pcdennokan.dip.jp/tokyodebian/etch-chroot-osc2008.tar.gz
 
 また、当日はLive-CDを用意します。ノートPCのない方の参加も加能です。
 PC台分用意しますので、ノートPC持参の方もLive-CDを使って参加することができます。
