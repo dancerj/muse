@@ -35,7 +35,7 @@ Debian 勉強会を開催します。
 
 * 連絡先
 
- - ウェブマスター: 上川純一 dancer@debian.org
+ - ウェブマスター: 杉本典充 dictoss@live.jp
  - 日本語での相談先: [[http://www.debian.or.jp/community/ml/openml.html][debian-devel@lists.debian.or.jp]]
 
 * 運営用ML
