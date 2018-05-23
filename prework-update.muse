@@ -1,6 +1,6 @@
 #title 東京エリアDebian勉強会 発表資料更新/提出方法
 
- 本ドキュメントは、Debian Jessieを用いて東京エリアDebian勉強会資料を更新/提出する方法となります。また、紹介されるgitのリポジトリに対してコミット権を持っていない人を対象に記載しております。すでにコミット権をお持ちの方は直接コミット出来ますし、慣れているかと思いますので、git pushなど、うまいことやって下さい。
+ 本ドキュメントは、Debian Stretchを用いて東京エリアDebian勉強会資料を更新/提出する方法となります。また、紹介されるgitのリポジトリに対してコミット権を持っていない人を対象に記載しております。すでにコミット権をお持ちの方は直接コミット出来ますし、慣れているかと思いますので、gitコマンド、publishの実行は適当にお願いします。
 
 * 更新方法
 
@@ -36,12 +36,12 @@ $ git config --global user.name "Tarou Debian"
 
 (既に持っている人は2. から読んでください。)
 <example>
-$ git clone git://git.debian.org/git/tokyodebian/monthly-report.git
-Initialized empty Git repository in /tmp/monthly-report/.git/
-remote: Counting objects: 2100, done.
-remote: Compressing objects: 100% (910/910), done.
+$ git clone https://salsa.debian.org/tokyodebian-team/monthly-report.git
+Cloning into 'monthly-report'...
+remote: Counting objects: 20185, done.
+remote: Compressing objects: 100% (8119/8119), done.
 ......
-Resolving deltas: 100% (1428/1428), done.
+Checking out files: 100% (3480/3480), done.
 </example>
 
 ** 2. ディレクトリに移動し、取得したファイルをビルドします。
@@ -49,8 +49,12 @@ Resolving deltas: 100% (1428/1428), done.
 $ cd monthly-report
 $ cp -p git-pre-commit.sh .git/hooks/pre-commit
 $ make
+$ make clean
 </example>
-ビルドが終了すると100個以上のpdfファイルが作成されます。
+
+makeコマンドを実行すると過去のtexファイルをすべてpdfファイルにビルドします。すべてのpdfファイルをビルドするにはおそらく1時間以上かかるでしょう。
+
+【備考】pdfのリポジトリのコミット権限を持っている場合は、make cleanコマンドを実行しましょう。pdfファイルをコミット済みと同じ状態に設定されます。これで古いpdfファイルをpublishしないようになります。
 
 ** 3. 現在チェックアウトしているローカルブランチを確認します。
 <example>
@@ -58,7 +62,7 @@ $ git branch
 * 201511
   master
 </example>
-もし、master に前にアスタリスク( * )がついていない場合、masterローカルブランチをチェックアウトします。
+もし、master の前にアスタリスク( * )がついていない場合、masterローカルブランチをチェックアウトします。
 <example>
 $ git checkout master
 </example>
