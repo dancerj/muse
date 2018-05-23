@@ -7,13 +7,13 @@
 * 必要ツール
 
 Debian勉強会のページを編集するには，emacs-museを利用しています．
-Debianであれば，muse-elパッケージを利用してください．
+Debianであれば，elpa-muse（旧名：muse-el）パッケージを利用してください．
 
-アップロードのツールとしてscpを利用しています。
+ファイルを編集してcommit後にpushすると、salsaに設定しているCI処理でhtmlが生成されてwebサイトに配置されます。
 
 *  ディレクトリ構成
 
-alioth の tokyodebian の  muse.git という git レポジトリの中にソースがおいてあります。
+[[https://salsa.debian.org/tokyodebian-team/tokyodebian-team.pages.debian.net][salsaサーバのtokyodebian]] の tokyodebian-team.pages.debian.net プロジェクトの git レポジトリの中にソースがおいてあります。
 ディレクトリとファイルの構成は下記のとおりです．
 
 ファイル || 意味 
@@ -31,17 +31,17 @@ make publish でリリースです。
 
 コマンド || 内容
 make  | html/ 以下にhtmlファイルを生成 
-make preview | iceweasel を起動して、プリビュー
-make publish | aliothにファイルを転送 [[http://tokyodebian.alioth.debian.org/][alioth の プロジェクトページ]]として見れるようになります．
+make preview | firefox(cli環境の場合はw3m) を起動して、プリビュー
 
 * TIPS
 
-ssh の設定で、 ssh alioth.debian.org だけで alioth に接続できるようにするには、 ~/.ssh/config を編集すると便利です。
-「Host alioth.debian.org git.debian.org」 項目を作成して、「User ユーザ名」を指定すればよいでしょう。
+ssh の設定で、 ssh salsa.debian.org だけで salsa へ接続できるようにするには、 ~/.ssh/config を編集すると便利です。
+「Host salsa.debian.org」 項目を作成して、「User ユーザ名」を指定すればよいでしょう。
 
 例:
 
 <verse>
-Host alioth.debian.org git.debian.org
+Host salsa.debian.org
   User username-guest
+  IdentityFile ~/.ssh/id_rsa.yourkey
 </verse>
