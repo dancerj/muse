@@ -15,13 +15,11 @@ texlive-lang-japanese latex-beamer poppler-data python-pygments \
 evince
 </example>
 
-*** フォントマップの更新を行います。
+*** （お好みでPDFフォント埋め込みの設定を行います。しなくても動きます）
 
 <example>
-# updmap-setup-kanji-sys ipaex
+# kanji-config-updmap-sys ipaex
 </example>
-
-※なお、udpmap-setup-kanji-sysがNot Foundになるようでしたら、一旦無視にて。
 
 *** gitを設定します。
 
