@@ -13,6 +13,7 @@
 
  - [[./pdf2018/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]
  - [[./pdf2018/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
+ - [[./pdf2018/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation-sugimoto.pdf][PDFプレゼンテーション資料「salsaと東京エリアdebian勉強会のWeb/原稿システムの仕組み」dictossさん]]
 
 * 参加報告
 
