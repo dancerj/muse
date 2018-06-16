@@ -74,6 +74,7 @@ pre {
     color: #000;
     background-color: #fff;
     border-style: ridge;
+    overflow: auto;
 }
 
 tt {
