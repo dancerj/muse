@@ -30,6 +30,7 @@
           (concat \"<link rev=\\\"made\\\" href=\\\"\" maintainer \"\\\">\")))
     </lisp>
     <lisp>muse-html-style-sheet</lisp>
+    <link rel=\"shortcut icon\" href=\"https://www.debian.org/favicon.ico\">
   </head>
   <body>
     <p><a href=\"index.html\"><img src=\"https://www.debian.org/logos/openlogo-nd-25.png\" alt=\"debian-open-logo-nd\">東京エリアDebian勉強会</a></p>
