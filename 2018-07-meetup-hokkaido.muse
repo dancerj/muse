@@ -10,6 +10,8 @@
  勉強会の詳細は イベント管理サービスである [[http://debianjp.connpass.com/event/<lisp>(format "%.5d" eventid)</lisp>/][connpass]]に掲示しています。詳細はこちらを参照ください。
 
 * 資料
+ - [[./pdf2018/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-meetup-sapporo-presentation.pdf][PDFプレゼンテーション資料]]
+ - [[./pdf2018/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-meetup-sapporo-presentation-sugimoto.pdf][PDFプレゼンテーション資料 「Debianで自宅にリモート接続 / OpenVPN編」 杉本さん]]
 
 * 参加報告
 
