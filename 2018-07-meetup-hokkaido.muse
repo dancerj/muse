@@ -12,6 +12,7 @@
 * 資料
  - [[./pdf2018/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-meetup-sapporo-presentation.pdf][PDFプレゼンテーション資料]]
  - [[./pdf2018/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-meetup-sapporo-presentation-sugimoto.pdf][PDFプレゼンテーション資料 「Debianで自宅にリモート接続 / OpenVPN編」 杉本さん]]
+ - [[./pdf2018/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-meetup-sapporo-presentation-yyoshino.pdf][PDFプレゼンテーション資料 「Debian で Atom 、Debian で Visual Studio Code」 吉野さん]]
 
 * 参加報告
 
