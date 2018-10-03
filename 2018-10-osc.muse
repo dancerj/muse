@@ -1,0 +1,26 @@
+#title 第<lisp> number</lisp>回東京エリアDebian勉強会、<lisp>year</lisp>年<lisp>month</lisp>月勉強会 OSC <lisp>year</lisp> Tokyo/Fall出張
+<lisp>(progn (setq year 2018) (setq month 10) (setq day 27) (setq number 167) (setq eventid "") "") </lisp>
+* 開催概要
+
+東京エリアDebian勉強会は、OSC <lisp>year</lisp> Tokyo/Fallに参加します。
+
+日時    | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日)
+会場案内 | [[http://www.ospn.jp/osc2018-fall/][OSC <lisp>year</lisp> Tokyo/Fall 会場(明星大学 日野キャンパス 28号館)]]
+
+* 当日のagenda
+
+時間 || 内容 || 概要 || 発表者
+<lisp>month</lisp>/<lisp>day</lisp>(土) 11:00-11:45 | Debian Updates | 8月に開催されたDebConf18の参加報告の話題を中心に最近のDebian Project 界隈のトピックを紹介します。 | 杉本
+<lisp>month</lisp>/<lisp>day</lisp>(土) 終日 | Debianブース出展 | Debianブースを出しています。Debian稼働マシンや過去勉強会資料の展示等を行います。 | 杉本
+
+ - 注意：OSCは2日間の開催ですが、東京エリアDebian勉強会の出展は土曜日のみとなります。
+
+* 懇親会
+
+なし
+
+* 資料
+
+ - [[./pdf2018/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-osc2018fall-presentation.pdf][PDFプレゼンテーション資料]]
+
+* 参加報告
