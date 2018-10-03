@@ -7,7 +7,7 @@ Debian 勉強会を開催します。
 この勉強会では毎回事前課題を設定しています。その課題を提出することが参加の条件です。
 参加する方は宴会の都合もありますので、事前に登録してください。
 
-現在、 Debian 勉強会は [[http://www.debian.or.jp/][Debian JP Project]] 
+現在、 Debian 勉強会は [[https://www.debian.or.jp/][Debian JP Project]]
 のメンバーが Debian JP の公式なイベントとして運営しています。
 
 * 次回の勉強会
@@ -44,7 +44,7 @@ Debian 勉強会を開催します。
 * 連絡先
 
  - ウェブマスター: 杉本典充 dictoss@live.jp
- - 日本語での相談先: [[http://www.debian.or.jp/community/ml/openml.html][debian-devel@lists.debian.or.jp]]
+ - 日本語での相談先: [[https://www.debian.or.jp/community/ml/openml.html][debian-devel@lists.debian.or.jp]]
 
 * 勉強会資料提出方法
 
@@ -63,7 +63,7 @@ Debian 勉強会を開催します。
 
 * 運営向けの情報
 
- - google group上で行っています。勉強会運営に興味がある方は ウェブマスター、勉強会運営メンバー または [[http://www.debian.or.jp/community/ml/openml.html][debian-devel@lists.debian.or.jp]] に連絡ください。
+ - google group上で行っています。勉強会運営に興味がある方は ウェブマスター、勉強会運営メンバー または [[https://www.debian.or.jp/community/ml/openml.html][debian-devel@lists.debian.or.jp]] に連絡ください。
  - [[editing][このページの編集方法]]
  - [[https://salsa.debian.org/tokyodebian-team/][Salsa でのプロジェクトページ]]
    - [[https://salsa.debian.org/tokyodebian-team/monthly-report][資料のgitレポジトリ]]
