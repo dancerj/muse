@@ -1,0 +1,207 @@
+東京エリアDebian勉強会 debconf18参加リポート
+https://debianjp.connpass.com/event/92372/
+
+# セミナーの参加関連
+Saturday (28 jul)  - Open Day
+ パネルディスカッション参加（やまね）
+ https://debconf18.debconf.org/talks/143-panel-discussion-story-of-debian-contributors-around-the-world/
+
+Sunday (29 jul) 
+- Software transparency: package security beyond signatures and reproducible builds
+   - パッケージにマルウェアが混入しないようにする、入った場合に検出できるようにする試み
+   - Certificate Transparency のソフトウェア版
+   - 標的型バックドアの阻止が目的
+
+- Bits from the DPL
+  - DPLからのこの1年間の報告
+
+- Debian Science BoF
+  - コンピュータサイエンスで利用するパッケージをメンテナンスしているDebianのチームが、興味のある人たちへの導入ガイダンスを行う
+  - 台湾、中国の学生さんの参加が多かった
+　　→理系学生にDebianに興味を持ってもらう方策としてこの辺りを進めて、日本でも理化学系ソフトウェアのパッケージングを進めたりするのは良いかも知れない
+
+- Continuous Key-Signing Party introduction
+  - キーサインの説明、hashチェックを行った。
+  - キーサインの作業自体は個別にやってほしい、というスタンスのやり方だった
+  
+Monday (30 jul) 
+
+- Learn how to triage bugs
+  - Debian BTSの検索の仕方とbug reportメールの書き方の話
+  - ワークショップで2時間枠だったが、通常の発表方式で45分枠の方がよかった気がする
+
+− Tools inside Blends framework
+   - 発表者はDebian Medの人 この人が現状大部分コミットしてる模様
+   - 課題は1人だけで作業しているパッケージが多い点らしい
+
+- Rust packaging BoF
+   - 変換ツールdebcargoを作ったらしいがその依存関係がDebianにまだ入れられてない
+     - cargoはパッケージングはされてるものの 依存関係を別パッケージにできていないのが一因
+
+- Ignoring Negativity
+  - ネガティブな発言を受けたときにどのように受け流していくかの心得
+  - いい内容だと思います
+
+- git-debrebase - new tool for managing Debian packaging in git 
+  gitで管理されているアップストリーム特に/debianディレクトリがあるようなものを
+  修正するのに便利そう
+　→吉田さんが調べて発表する?
+
+- Challenges of GNU Ring - a free and universal distributed communication platform
+   - GNUの分散メッセージングアプリ
+   - アカウント名の共有にブロックチェーンを使ってみているらしい
+   - 中国人はやはり検閲事情に詳しい
+
+- di-netboot-assistant: Install Debian in your LAN
+
+- News from the APT team
+   - dpkgチームから: /var/lib/dpkg/info/ の .list は廃止されて .mtree になるらしい
+　　- パッケージの圧縮フォーマットにzstdを追加する検討について話があったが、結論は出てなかった。
+
+- OpenRC: A Featureful and Hackable Init System
+   - OpenRC をアピール
+   - オフトークでsysvinit語り
+
+Tuesday (31 jul) 
+- Debian Brasil and DebConf19
+  - ポルトガル語で実施されたセッション
+  - ブラジルで開催予定のDebConf19の準備の打ち合わせ
+  - 台湾の会場とブラジル現地をビデオチャットでつないで打ち合わせする会議
+  - 食事、会場、宿泊場、お金、スポンサーなどイベント開催の悩みは多い
+  - ビデオをどうやればうまくできるかは経験値が足りない
+
+- SPI BoF
+   - 特定の人がSPoFにならないようにしたい という話も どこのチームでもそうなんだなあという感想
+
+- Debian Diversity Team discussion session
+   - あらゆる人を受け入れる態勢にしよう という話
+   - 言語が障壁になっている例をnogajunさんと身をもって示すことができた
+
+- Report from the Debian EFI team about the support of Secure Boot on Debian
+   - Microsoftが署名したgrub shim（grubをチェーンロードするだけのEFIブートローダー）を使う
+   - Secure Bootカーネルパッケージで起動すると Debianが署名したカーネルモジュールだけが使える
+     - DKMS使うにはSecure Bootをoffにしないと使えない
+
+- Making Debian more user friendly by changing the web start page (www.debian.org) 
+  - Mr.FAIによるdebianのwebサイトのトップページのみを、まずは他のディストリビューションのよいところを取り込んでサンプルを作ってみた。そのページのレビューや意見を聞きたい、というセッション
+
+- Status of Japanese (and CJK) typesetting with TeX in Debian
+   - 中国語圏からTexLiveに何も意見が来ない... という話だったが やっぱり来なかった
+
+Thursday (02 aug) 
+− Free software wins and losses in numerical methods education for engineers
+   - フリーでないMATLAB捨ててJupyter Notebookで授業の事前課題や宿題を出す話
+
+- Reproducible Buster and beyond
+   - 人件費のための寄附が足りないらしく最近停滞してるらしい...
+
+- Segregated Dynamic Linking (keeping the peace between incompatible dependencies)
+   - リンカの一部機能を切り出してライブラリにした そのためglibcの次期バージョンにパッチが取り込まれないと使えない 内部的に使っていた機能を分割することになってdeadlockしてしまう
+
+- GDPR in Debian
+  - GDPRのdebianのチームがあることの紹介
+
+- Lightning Talk
+  - leeny squeezeでdebconf18のwebサイトが見れない
+  - ビデオに字幕ついけてほしい
+  - arm portの歴史
+
+- Open Hardware
+  - 中国のしんせんの話
+
+- カンファレンスディナーに参加。食べきれないくらいの充実っぷり。
+
+
+Friday (03 aug) 
+
+- Short talkの発表をした(林)
+  - https://debconf18.debconf.org/talks/95-rethinking-of-debianwatch-rule/
+- https://debconf18.debconf.org/talks/66-delta-upgrades-revisited/
+   新しい方式だと容量削減もできとオトクらしい
+
+- My crush on GNU Guix
+   - GNU Guixの紹介 - NixのGNU版 guileで実装されている
+   - Nixと同様 セキュリティアップデートは困難
+   - "guix import ..." で言語モジュールからのパッケージ変換がある程度できるらしい
+
+- The Free Software Foundation, Debian, and the free software movement
+   - non-freeからは逃れられないのだろうか
+   - AI自動生成物のライセンスも課題らしい
+
+- Pocket Debian, in my high school
+  - 教育向けにコンピュータを学習に利用する場合の取り組み
+  - 教師は準備に時間をかけられないし、子どもたちはうまく操作できない。難しい
+  - 元々KNONOPIXを使っていた
+  - OSイメージの開発をやるプロジェクトがある
+
+- Rethinking of debian/watch
+  - watchファイルの現在の使われ方、オプションの統計調査。
+  - 簡単なwatchファイルの書き方をするための提案やgeneratorを作ってみた話
+
+- Delta upgrades revisited
+  - パッケージの更新分を差分(delta)だけ転送できるようにパッケージの構造を変更を加える試み
+
+- DNS Transport Security in Debian 
+  systemd-resolve unstableにある、デフォルト無効
+  - https://packages.debian.org/stretch/dnscrypt-proxy
+  - dnsprivacy.org
+    https://dnsprivacy.org/wiki/
+
+- Gnuk+GnuPG Explained for Debian Developers and Users
+　- 最新の楕円暗号ed25519に対応している唯一のトークン
+　- チップはむき出しであるので、ハードウェア的に強固かと言われるとちょっと…各自でなんとかしましょう、という感じ。
+　- 持っていったトークンはすべて売り切れた
+
+- Debian Go Packaging Team BoF
+   - vgo（セマンティックバージョニング対応go）が次期バージョンで導入されたらパッケージングしやすくなるかも
+   - 共有ライブラリには当面ならなそう
+
+
+Saturday (04 aug) 
+
+- DebConf20: In... your city?
+   - ローカルチームで張り付ける人が4人は必要
+   - vegan、ベジタリアン向け対応が必須
+
+− Build tools for applying Debian to Embedded Systems
+  - mini Debian Conference Japan から少し進展 他の同様なプロジェクトと協調しようとしているところらしい
+  - Deby (meta-debian layer)の話が少し
+
+- Hanjp-IM Project : Building an experimental Input Method for typing Japanese using Korean Hangul
+  ハングル入力かな出力とIMEの話
+
+
+Sunday (05 aug) 
+
+
+
+# イベント開催の運営で気づいたこと（スタッフ、設備など）
+　ビールサーバー重要
+　コーヒーサーバー重要
+　宿泊場所がカンファレンス会場から近くてよかった。　
+　グッズが良かった。コンパクトなカバンに竹のコップ。金属製箸＆スプーン。
+　Tシャツとタオルもあった。
+　Welcome Guide PDFがよかった。地図、困ったときの中国語文例など
+
+　政府関係と協力してやることがイベント開催には重要であることと、参加者情報の提供の話は先に詰めておく必要があったこと
+　カンファレンスブース(FrontDesk)運営はとてもゆるかった。
+　hacklabが程よい広さでよかった。
+　セミナーの時間枠は45分枠はちょうどよかった。
+
+
+# 他の開発者との交流／異文化交流
+　noisy hacklab/quiet hacklabに分けたのは良かった。noisyで皆ビール飲みながら色々話ができた
+  keysignが会話のきっかけになるので良い
+
+# 困ったこと
+　黒い奴（G)に遭遇 部屋とシャワー室
+　英語力が低く会話がうまくできなかった。英語勉強が必要。
+　事前の移動手段を調べること。MRTとHSRはいいけど、市バスはわかりにくい。インターネットで見えるバスロケーションシステムは役立った、が英語で書いてない
+　タクシーとかストリットフードとかために英語や日本語はきけなかった。台湾人と仲良くしたから助かった！
+  easybyke便利
+  easycard便利
+  KSPでhotmailをsmarthostにしていると、メールの中身がおかしくなるようで、受け付けてもらうのにトラブルシュートしてもらった
+   - exchangeの問題らしい?
+
+# 今後取り組んでいきたいこと
+　KSPの結果をcaff等で送る
