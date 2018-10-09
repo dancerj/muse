@@ -1,0 +1,81 @@
+# busterに向けた日本語環境のタスク整理
+
+
+参考: https://wiki.debian.org/ja/L10n/Japanese
+
+
+= 日本語環境で改善しなければならないであろう点をまとめ =
+
+ 1. uimのデスクトップ統合が不十分
+  1. GNOME Shell対応されてない（だれか使ってる人確認を
+  1. xfce4で使っていると、tasktrayが通知領域に昔は出ていた気がするが、unstable(buster)は表示できない。toolbarは動いている
+  1. KDE5で使っていると、tasktray(gtk)が通知領域に出るが超小さい表示になる。toolbar(gtk3)は動いている。toolbar(qt5)は一応動いているがボタンが壊れている。plasma-widgetはKDE5/Qt5未対応で削除された
+  1. アップストリームが停滞しているため、qtやgtkのさらなるバージョンアップに追随するのが大変
+   * [[JapaneseEnvironment/IbusSupportforBuster|Debian 10 / Buster でuim からIBus or fcitx に移行するためのメモ]]
+    * im-configでdconfに値がなければ初期設定する？
+  
+ 1. Anthyの辞書が古い 最近の単語が出てこない
+
+ 1. 一部の絵文字が表示されない？
+  1. もっと文字の多いフォントをデフォルトに加えるor変更する？
+   1. fonts-droid は中華系グリフだから使いたくない(yyoshino)
+
+ 1. skk アップストリームがいないが、課題はある？
+
+ 1. GNOME3のメニューが日本語への翻訳がされてないのが多く残っている。
+  1. GNOME端末のメニュー日本語への翻訳がされてないのが多く残っている。
+ 1. gobby,GNOME terminalで日本語が入力できない。GNOME3 + ibus-mozcの環境。変換が終わって確定すると文字が消える。
+  1. gedit, firefoxは日本語入力できる。
+
+ 1. unzip で日本語 Windows 環境で作られた日本語文字ファイル名が sjis のため文字化けする。なお、同様のバグが他国語（中国、ロシア）複数報告されていたのでマージしておいた。(henrich/200903)
+  || {{attachment:debian-hiragana-mojibake.png}} || unwanted result (mojibake) ||
+  || {{attachment:debian-hiragana.png}} || expected result (correct filename) ||
+  * メンテナは Debian での解決には乗り気ではない。(henrich/200903)
+   . 一応、意図を汲み取れてないのかも、ということで Ubuntu 側では対処してるようだし、マージできないの？とは聞いたが、lenny frozen で無理そうではあるが、Ubuntu 側の見解なども引き出した。なんとか対処まで持っていきたい。ただし、リリースに間に合うかは微妙。 (henrich)
+  * see [[DebianBug:483290|#483290]] →なんと、upstream のバージョンアップでクローズの対応をされた。が、もちろん直ってはいない。→[[http://sourceforge.net/projects/infozip/|upstream]] での対応が必須の模様。誰が突撃する？？？（大変そうだ…）
+
+（以下 [[ja/L10n/Japanese]] からコピー 要整理）
+
+ 1. 完了したことは[[ja/L10n/Japanese-done|移動しました]]。
+ 1. [[http://bugs.debian.org/cgi-bin/pkgreport.cgi?tag=debianjp;users=debian-devel@debian.or.jp|Debian JP Project 会員パッケージ対象のBTSトラッキング]]
+ 1. [[https://wiki.ubuntulinux.jp/Develop/|Ubuntu 側の作業]]も参考にしてみる
+ 1. Liveイメージからインストールをすると[[http://www.nofuture.tv/diary/20120514.html#p01|日本語環境が適切に導入されない]]
+    1. WheezyのGNOME3Liveイメージでは、依存関係でfonts-droidが入るので文字が読めない(豆腐になる)ことはありませんが、日本語環境のtaskがインストールされないので、現状としてはあまり変わってません。(nogajun/201303)
+ 1. フォントヒンティングをubuntuのを参考にしてみる？(henrich/201109)
+ 1. 中国語のフォントをインストールすると、漢字などの表示が中国語のフォントになってしまい、見づらい状況になる。/etc/fonts/conf.d/65-nonlatin.conf が原因。(henrich/201111)
+    1. fontconfigの設定について調べてみました 「[[http://www.nofuture.tv/diary/20121221.html#p01|Wheezyのデフォルトのフォント設定がヘンな気がするので調べてみた]]」 fontconfigとフォント、どっちのパッケージで設定を持つのが良いのだろう? (nogajun/201212)
+ 1. flash で日本語表示が□の豆腐表記になる→Adobeのbugtrackingに登録してみた(henrich)
+ 1. GNOME3 へ移行すると、システムのログイン言語が強制的にシステムデフォルトなロケールへフォールバックされてJapaneseではなくなる？ 結果、英語表記のデスクトップが表示される。(henrich/201110)
+ 1. GNOME3 へ移行後？、gdm3 のメニューなどが英語表記になる。
+ 1. aptitude/apt の翻訳/査読作業者募集中。
+ 1. iceweasel の表示も一部英語で表記が出る場合がある
+  ||{{attachment:CloseIceweasel.png}}|| ||
+  . →[[DebianBug:503628|xulrunner-1.9 のバグ]]らしい。[[DebianBug:503595|その他]]のは修正取り込み予定 (henrich/200810)
+ 1. Input Methodについて
+  1. [[JapaneseEnvironment/Uim|uim]]
+   * pros) 現在も開発が継続して行われている(henrich/201109)
+   * pros) 日本語でupstreamと確認がとれる(henrich/201109)
+   * cons) ATOKやMSIMEなど他のIMキーバインドを模したテンプレート設定がない(機能としてない)ので、他のIMになれた人にとっては使いにくい。(nogajun/201002)
+   * GNOME3 時に uim のステータス見えない疑惑。
+   . →uim-toolbar-gtk3-systray (uim-gtk3) or uim-toolbar-gtk-systray (uim-gtk2.0) or uim-toolbar-qt4 (uim-qt) のいずれかでステータスは見える (dai/201208)
+   . →uim-applet-gnome は通常の GNOME3 で動作しない？ (dai/201208)
+   . →uim-applet-gnome は GNOME3 classic mode (要 gnome-session-fallback パッケージ) ならば、手動でパネルに追加できる (dai/201208)
+   * [[JapaneseEnvironment/IbusSupportforBuster|Debian 10 / Buster でuim からIBus or fcitx に移行するためのメモ]]
+  1. SCIM
+   * scim-anthy設定画面のメッセージカタログが英語。(nogajun/201002)
+   . →後述の iBus によって obsolete になるので SCIM は考えない。(henrich/201109)
+  1. iBus
+   * pros) 他のディストリビューションでも採用されている実績。(henrich/201109)
+   * pros) モダンな設定画面がある(henrich/201109)
+   * cons) jp な人では iBus に関わっている人があまりいない？(henrich/201109)
+ 1. evince などでの [[http://lists.debian.or.jp/debian-devel/200906/msg00020.html|ryumin/GothicBBB 表示問題]]→とりあえず[[DebianBug:642520|BTS]]しました (henrich/201109)
+ 1. GNOME メニューで訳されていない項目があるのが気になる(henrich/201111)
+  * 大体作業終わり
+  * [[http://mail.gnome.gr.jp/ml/gnome-translation/201109/msg00022.html|GIMP]] は[[http://www.gimp.org/mail_lists.html|ML]]に聞かないとダメか…
+ 1. [[DebianBug:645955|update-manager の訳]]が更新されていない
+ 1. software-properties の訳が更新されていない(henrich/201111)
+  . → upstream の tarball に最新の訳が含まれていない。Launchpad の Rosetta にしかないので、[[https://bugs.launchpad.net/ubuntu/+source/software-properties/+bug/878118|BTS]]した
+ 1. libgksu のメッセージ [[DebianBug:503461|Bug#503461]]が放置されている 
+  . →将来的には packagekit の方を優先して gksu は obsolete になる予定らしい。GNOME方面で作業する予定 (henrich/201111)
+ 1. gnomeの中心アプリ(jessieにつながる3.10/master系)は2013/8-9月にほぼ100%まで一気に持っていった(victory/201310)
+  . →あちらも松澤氏ほぼ一人しか機能しておらず良好な翻訳状態を維持するには約半年ごとに加勢して作業することが必要
