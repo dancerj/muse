@@ -13,7 +13,7 @@
 
  - [[./pdf2018/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]
  - [[./pdf2018/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
- - [[https://gobby.debian.org/export/l10n/ja/20180915-BOF][日本語環境の整備を進めるための状況整理]]
+ - [[/2018-09_tokyodebian_langja_bof.txt][日本語環境の整備を進めるための状況整理]]（[[https://gobby.debian.org/export/l10n/ja/20180915-BOF][オリジナルのgobbyのデータはこちら]]）
 
 * 参加報告
 
