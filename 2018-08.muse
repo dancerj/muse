@@ -13,7 +13,7 @@
 
  - [[./pdf2018/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]
  - [[./pdf2018/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
- - [[https://gobby.debian.org/export/debconf18/bof/tokyodebian][セミナーdebconf18参加者懇談会まとめ]]
+ - [[/2018-08_tokyodebian_debconf18_bof.txt][セミナーdebconf18参加者懇談会まとめ]]（[[https://gobby.debian.org/export/debconf18/bof/tokyodebian][オリジナルのgobbyのデータはこちら]]）
 
 * 参加報告
 
