@@ -1,4 +1,4 @@
-#title 第<lisp> number</lisp>回東京エリアDebian勉強会、<lisp>year</lisp>年<lisp>month</lisp>月勉強会
+#title 第<lisp> number</lisp>回東京エリアDebian勉強会、<lisp>year</lisp>年<lisp>month</lisp>月勉強会（Bug Squash Party）
 <lisp>(progn (setq year 2018) (setq month 12) (setq day 15) (setq number 169) (setq eventid 110219) nil) </lisp>
 * 開催概要
 
@@ -11,8 +11,7 @@
 
 * 資料
 
- - [[./pdf2018/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]
- - [[./pdf2018/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
+ - なし
 
 * 参加報告
 
