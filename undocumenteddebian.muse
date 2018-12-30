@@ -7,6 +7,29 @@
 有志で紙媒体に印刷して有償で配布していますが、PDF形式でも配布しており、
 ここからダウンロードできます。
 
+** 2018年冬号
+
+ - [[./pdf2018/debianmeetingresume2018-fuyu.pdf][2018年冬号PDF]]
+
+ - Introduction
+ - Debian Update（OSC 2018 Tokyo/fall）
+ - Debconf18参加リポート
+ - Debianで自宅にリモート接続 / OpenVPN編
+ - Debian で Atom、Debian で Visual Studio Code
+ - debianにおけるnginxの設定例
+ - Rethinking of debian/watch - debian/watchを再考する
+
+** 2018年夏号
+
+ - [[./pdf2018/debianmeetingresume2018-natsu.pdf][2018年夏号PDF]]
+
+ - Introduction
+ - gccのpieオプションとdebianにおける状況について
+ - ufw 再入門
+ - 我が家の仮想ネットワーク
+ - go / debian での機械学習環境構築について
+ - salsaと東京エリアdebian勉強会のWeb/原稿システムの仕組み
+
 ** 2017年冬号
 
  - [[./pdf2017/debianmeetingresume2017-fuyu.pdf][2017年冬号PDF]]
