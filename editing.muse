@@ -27,7 +27,7 @@ git-pre-commit.sh | cp -p git-pre-commit.sh .git/hooks/pre-commit として利�
 * コンパイル方法
 
 git commit をする際に git-pre-commit.sh を利用すると自動で make preview してくれるようになります。
-make publish でリリースです。
+git push でリリースです。
 
 コマンド || 内容
 make  | html/ 以下にhtmlファイルを生成 
