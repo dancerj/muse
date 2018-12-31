@@ -90,6 +90,10 @@
    - https://www.debian.or.jp/
  - Debian JP webサイトを更新する方法は以下のページを参照ください。
    - https://www.debian.or.jp/project/webmasters.html
+ - 作成及び編集するファイルは以下です。
+   - www/trunk/blosxom/data/events/tokyodebian-nnn.d を新規作成
+   - www/trunk/src/community/events/YYYY/index.tt2 を修正
+   - www/trunk/src/community/events/index.tt2 を修正
 
 ** 勉強会開催の告知をして参加者を募る
 
