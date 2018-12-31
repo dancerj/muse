@@ -69,6 +69,7 @@ Debian 勉強会を開催します。
 
  - google group上で行っています。勉強会運営に興味がある方は ウェブマスター、勉強会運営メンバー または [[https://www.debian.or.jp/community/ml/openml.html][debian-devel@lists.debian.or.jp]] に連絡ください。
  - [[editing][このページの編集方法]]
+ - [[how-to-hosting-an-event][イベント開催準備の流れ]]
  - [[https://salsa.debian.org/tokyodebian-team/][Salsa でのプロジェクトページ]]
    - [[https://salsa.debian.org/tokyodebian-team/monthly-report][資料のgitレポジトリ]]
    - [[https://salsa.debian.org/tokyodebian-team/tokyodebian-team.pages.debian.net][ウェブページのgitレポジトリ]]
