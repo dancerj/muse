@@ -22,7 +22,9 @@
 
 * 資料
 
- - なし
+ - [[./pdf<lisp>year</lisp>/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]
+ - [[./pdf<lisp>year</lisp>/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
+ - [[./pdf<lisp>year</lisp>/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation-sugimoto.pdf][PDFプレゼンテーション資料「systemdとsysvinitのデーモンで動作するDebianパッケージの作り方を調べてみる」（dictossさん）]]
 
 * 参加報告
 
