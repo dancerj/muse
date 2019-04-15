@@ -1,0 +1,28 @@
+#title Debian / Ubuntu ユーザーミートアップ in 札幌 <lisp>year</lisp>.0<lisp>month</lisp>
+<lisp>(progn (setq year 2019) (setq month 5) (setq day 31)(setq eventid 126637) nil) </lisp>
+* 開催概要
+
+日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(金曜日) 19:00-21:00
+参加登録方法 | [[https://debianjp.connpass.com/event/<lisp>(format "%.6d" eventid)</lisp>/][connpass上での案内]]の掲示を見て参加申し込みをお願いします。
+
+* 当日のagenda
+
+時間 || 内容 || 概要 || 発表者
+18:45-19:00 | 開場 | 集合後、会場の設営をします。 | 参加者全員
+19:00-19:05 | はじめに、開会の挨拶 |  | 参加者全員
+19:05-19:20 | 参加者同士の自己紹介 |  | 参加者全員
+19:20-19:35 | 発表その1 | （内容は検討中） | 発表者1
+19:35-19:50 | 発表その2 | （内容は検討中） | 発表者2
+19:50-20:50 | ミートアップタイム | 相談ごとやMy流行りなどを語り合いましょう。<br>DebianまたはUbuntuをインストールしたPCやタブレット、スマートフォン、ボードをお持ちいただくと、話がはずむと思います。 | 全員
+20:50-21:00 | 閉会の挨拶、後片付け |  | 全員
+21:00- | 解散〜有志で懇親会へ |  |
+
+* 勉強会の申し込みと詳細情報
+
+ 勉強会の申し込みは イベント管理サービスである [[http://debianjp.connpass.com/event/<lisp>(format "%.5d" eventid)</lisp>/][connpass]]に掲示しています。詳細はリンク先を参照ください。
+
+* 資料
+ - [[./pdf2019/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-meetup-sapporo-presentation.pdf][PDFプレゼンテーション資料]]
+
+* 参加報告
+
