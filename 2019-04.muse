@@ -24,6 +24,7 @@
 
  - [[./pdf<lisp>year</lisp>/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]
  - [[./pdf<lisp>year</lisp>/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
+ - [[./pdf<lisp>year</lisp>/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-knok.pdf][PDFプレゼンテーション資料「grml-debootstrapを用いたUSB起動メモリの作成」（野首さん）]]
 
 * 参加報告
 
