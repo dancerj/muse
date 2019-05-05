@@ -19,7 +19,7 @@
 
 * 勉強会の申し込みと詳細情報
 
- 勉強会の申し込みは イベント管理サービスである [[http://debianjp.connpass.com/event/<lisp>(format "%.5d" eventid)</lisp>/][connpass]]に掲示しています。詳細はリンク先を参照ください。
+ - 勉強会の申し込みは イベント管理サービスである [[http://debianjp.connpass.com/event/<lisp>(format "%.6d" eventid)</lisp>/][connpass]]に掲示しています。詳細はリンク先を参照ください。
 
 * 資料
  - [[./pdf2019/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-meetup-sapporo-presentation.pdf][PDFプレゼンテーション資料]]
