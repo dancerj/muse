@@ -17,9 +17,8 @@ pages:
 build_html:
   stage: build_html
   tags:
-    - 1GB RAM
     - debian
-    - stretch 
+    - stable
   artifacts:
     untracked: false
     paths:
