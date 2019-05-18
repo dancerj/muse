@@ -5,9 +5,8 @@ stages:
 pages:
   stage: deploy
   tags:
-    - 1GB RAM
     - debian
-    - stretch 
+    - stable
   artifacts:
     paths:
       - "public"
