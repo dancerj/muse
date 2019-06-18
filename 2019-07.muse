@@ -1,0 +1,28 @@
+#title Debian10 "Buster" 七夕リリースパーティ in Tokyo（<lisp>year</lisp>年<lisp>month</lisp>月勉強会、第<lisp> number</lisp>回東京エリアDebian勉強会）
+<lisp>(progn (setq year 2019) (setq month 7) (setq day 7) (setq number 176) (setq eventid 135969) nil) </lisp>
+* 開催概要
+
+日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(日曜日) 11:00-17:00
+参加登録方法 | [[https://debianjp.connpass.com/event/<lisp>(format "%.6d" eventid)</lisp>/][connpass上での案内]]の掲示を見て参加申し込みをお願いします。
+
+* 当日のagenda
+
+時間 || 内容 || 概要 || 発表者
+11:00 | 開場 |  | Hack参加者
+11:30-13:00 | Hack Time | 各自Hacktimeを行い、わからないことは参加者とFaceToFaceで相談して問題を解決してみてください。 | Hack参加者
+ | GPG キーサイン | 希望する方によるGPG キーサインを行います（参加する方はフィンガープリント＆パスポート持参してください） | GPGキーサイン希望者
+13:00-17:00 | リリースパーティ | Buster のリリースをみんなでお祝いしましょう！ | 参加者全員
+17:00- | 片付け、解散 |  | 参加者全員
+
+お祝いとはいえ、節度を持ってご参加ください。connpassの注意事項をよく読み、参加していただくようお願いいたします。
+
+* 勉強会の申し込みと詳細情報
+
+勉強会の申し込みはイベント管理サービスである [[http://debianjp.connpass.com/event/<lisp>(format "%.5d" eventid)</lisp>/][connpass]] に掲示しています。詳細はリンク先を参照ください。
+
+* 資料
+
+なし
+
+* 参加報告
+
