@@ -54,6 +54,7 @@ Debian 勉強会を開催します。
 * リンクなど
 
  - [[./pdf2007/debianmeetingresume200712.pdf][資料の編集方針など（2007年12月用資料）]]
+ - [[./pdf2018/debianmeetingresume201806.pdf][勉強会のWeb/原稿システムの仕組み（2018年6月用資料）]]
  - [[https://wiki.debian.org/KansaiDebianMeeting][Kansai Debian Meeting]]
    - 関西エリアで行っているDebian勉強会のページです。関西方面の方はこちらに参加してみてはいかがでしょうか。
 
