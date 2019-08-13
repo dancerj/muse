@@ -22,7 +22,8 @@
 
 * 資料
 
-なし
+- [[./pdf<lisp>year</lisp>/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation-yyoshino.pdf][PDFプレゼンテーション資料「Busterデスクトップの日本語入力」（吉野さん）]]
+
 
 * 参加報告
 
