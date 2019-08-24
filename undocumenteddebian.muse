@@ -7,6 +7,19 @@
 有志で紙媒体に印刷して有償で配布していますが、PDF形式でも配布しており、
 ここからダウンロードできます。
 
+** 2019年夏号
+
+ - [[./pdf2019/debianmeetingresume2019-natsu.pdf][2019年夏号PDF]]
+
+ - Introduction
+ - Debian Update
+ - Buster デスクトップの日本語入力
+ - /usr Mergeについて
+ - Systemdに入門してみた
+ - systemdとsysvinitのデーモンで動作するDebianパッケージの作り方を調べてみる
+ - grml-debootstrapを用いたUSB起動メモリの作成
+ - Rustで書いたツールのdebian パッケージングに挑戦してみた話(仮)
+
 ** 2018年冬号
 
  - [[./pdf2018/debianmeetingresume2018-fuyu.pdf][2018年冬号PDF]]
