@@ -32,6 +32,7 @@
 
  - [[./pdf<lisp>year</lisp>/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]
  - [[./pdf<lisp>year</lisp>/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
+ - [[./pdf<lisp>year</lisp>/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation-sugimoto.pdf][PDFプレゼンテーション資料「Debian GNU/kFreeBSD セットアップガイド 2019年版」（dictossさん）]]
 
 * 参加報告
 
