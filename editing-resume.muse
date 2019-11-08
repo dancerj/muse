@@ -6,28 +6,31 @@ Debian勉強会の資料（レジュメ、プレゼン資料）を作成する�
 
 * 必要ツール
 
-資料の編集には、squeeze の環境だと以下のパッケージが必要になります。
+資料の編集には、buster の環境だと以下のパッケージが必要になります。
 
 <verse>
-git
-ptex-bin
-dvipdfmx
-latex-beamer
-okumura-clsfiles
-ghostscript-x
-inkscape
-xpdf-japanese
-exlive-latex-extra
-lv
-cmap-adobe-japan1
-gs-cjk-resource
+# apt-get install \
+    git \
+    locales \
+    lv \
+    make \
+    poppler-data \
+    python3-pygments \
+    texlive-lang-japanese \
+    texlive-latex-extra \
+    texlive-latex-recommended \
+# apt-get install \
+    inkscape \
+    evince
 </verse>
+
+また、　ja_JP.UTF-8 locale が必要です。
 
 * リポジトリ
 
 資料のリポジトリは以下にあります。
 
-git://anonscm.debian.org/tokyodebian/monthly-report.git
+https://salsa.debian.org/tokyodebian-team/monthly-report
 
 * パッチの送信
 
