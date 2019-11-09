@@ -1,0 +1,5 @@
+# GCP Cloud Run configuration, run:
+#  gcloud builds submit .
+steps:
+- name: 'debian'
+  args: ./ci_build_html.sh
