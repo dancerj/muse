@@ -18,7 +18,7 @@
     python3-pygments \
     texlive-lang-japanese \
     texlive-latex-extra \
-    texlive-latex-recommended \
+    texlive-latex-recommended
 # apt-get install \
     inkscape \
     evince
