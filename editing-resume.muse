@@ -8,7 +8,7 @@ Debian勉強会の資料（レジュメ、プレゼン資料）を作成する�
 
 資料の編集には、buster の環境だと以下のパッケージが必要になります。
 
-<verse>
+<example>
 # apt-get install \
     git \
     locales \
@@ -22,7 +22,7 @@ Debian勉強会の資料（レジュメ、プレゼン資料）を作成する�
 # apt-get install \
     inkscape \
     evince
-</verse>
+</example>
 
 また、　ja_JP.UTF-8 locale が必要です。
 
