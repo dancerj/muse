@@ -1,0 +1,33 @@
+#title <lisp>year</lisp>年<lisp>month</lisp>月 東京エリアDebian勉強会
+<lisp>(progn (setq year 2019) (setq month 12) (setq day 22) (setq number 181) (setq eventid 156209) nil) </lisp>
+* 開催概要
+
+日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(日曜日) **15:30-18:30**
+参加登録方法 | [[https://debianjp.connpass.com/event/<lisp>(format "%.6d" eventid)</lisp>/][connpass上での案内]]の掲示を見て参加申し込みをお願いします。
+
+* 当日のagenda
+
+時間 || 内容 || 概要 || 発表者
+15:30 | 集合 |  | 参加者全員
+15:30-15:40 | 会場設営 |  | 参加者全員
+15:40-15:50 | 事前課題発表 |  | 参加者全員
+15:50-16:35 | セミナー1（調整中） |  |
+16:35-16:45 | 休憩 |  | 全員
+16:45-17:20 | セミナー2（調整中） |  |
+17:20-18:15 | セミナー3（調整中） |  |
+18:15-18:30 | 片付け |  | 全員
+18:30- | 解散〜有志で懇親会へ |  |
+
+* 勉強会の申し込みと詳細情報
+
+勉強会の申し込みは イベント管理サービスである [[http://debianjp.connpass.com/event/<lisp>(format "%.6d" eventid)</lisp>/][connpass]] に掲示しています。詳細はリンク先を参照ください。
+
+* 事前課題
+
+* 資料
+
+ - [[./pdf<lisp>year</lisp>/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]
+ - [[./pdf<lisp>year</lisp>/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
+
+* 参加報告
+
