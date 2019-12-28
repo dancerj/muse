@@ -6,7 +6,7 @@ pages:
   stage: deploy
   tags:
     - debian
-    - stable
+    - buster
   artifacts:
     paths:
       - "public"
