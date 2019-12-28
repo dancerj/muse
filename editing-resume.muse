@@ -19,6 +19,9 @@ Debian勉強会の資料（レジュメ、プレゼン資料）を作成する�
     texlive-lang-japanese \
     texlive-latex-extra \
     texlive-latex-recommended \
+    texlive-fonts-recommended \
+    texlive-plain-generic \
+    ghostscript-x
 # apt-get install \
     inkscape \
     evince
