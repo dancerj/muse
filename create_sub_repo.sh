@@ -41,4 +41,6 @@ if gitlab_api GET "/projects/${path}%2F${name}" | grep -q '"id":'; then
     exit 0
 fi
 
-gitlab_api POST "/projects" "{\"name\":\"${name}\",\"namespace_id\":${namespace_id},\"description\":\"${description}\",\"visibility\":\"${visibility}\",\"import_url\":\"${import_url}\"}"
+result=`gitlab_api POST "/projects" "{\"name\":\"${name}\",\"namespace_id\":${namespace_id},\"description\":\"${description}\",\"visibility\":\"${visibility}\",\"import_url\":\"${import_url}\"}"`
+echo "$result"
+echo "$result" | sed 's/^.*"http_url_to_repo":"//' | sed 's/".*$//'
