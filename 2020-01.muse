@@ -1,0 +1,29 @@
+#title <lisp>year</lisp>年<lisp>month</lisp>月 東京エリアDebian勉強会
+<lisp>(progn (setq year 2020) (setq month 1) (setq day 18) (setq number 182) (setq eventid 161310) nil) </lisp>
+* 開催概要
+
+日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 14:00-18:00
+参加登録方法 | [[https://debianjp.connpass.com/event/<lisp>(format "%.6d" eventid)</lisp>/][connpass上での案内]]の掲示を見て参加申し込みをお願いします。<br>【注意】参加の申し込みは前日お昼までです。
+
+* 当日のagenda
+
+時間 || 内容 || 概要 || 発表者
+14:00-14:15 | 集合と設営 |  | 参加者全員
+14:15-14:30 | 事前課題発表 |  | 参加者全員
+14:30-15:30 | 月刊 Debian Policy | ・[[https://www.debian.org/doc/debian-policy/][Debian Policy]] とは、Debian ディストリビューションのポリシー (方針)、すなわち Debian に要求されるいくつかの必要条件について書かれたドキュメントです。<br>・Debian Policy は文章量が多くしばしば更新されるため、更新をチェックしたり、読み深めていく必要があります。<br>・今回は「[[https://www.debian.org/doc/debian-policy/ch-source.html][4. Source packages]]」 に書いてある内容を参加者の皆さんと一緒に学習してみようと思います。 | 進行役dictossさん
+15:30-17:30 | Hack Time | 各自Hacktimeを行い、わからないことは参加者とFaceToFaceで相談して問題を解決してみてください。 | 参加者全員
+17:30-17:50 | 成果発表 |  | 全員
+17:50-18:00 | 片付け |  | 全員
+18:00- | 解散〜有志で懇親会へ |  |
+
+* 勉強会の申し込みと詳細情報
+
+ 勉強会の申し込みは イベント管理サービスである [[http://debianjp.connpass.com/event/<lisp>(format "%.6d" eventid)</lisp>/][connpass]]に掲示しています。詳細はリンク先を参照ください。
+
+* 資料
+
+ - [[./pdf<lisp>year</lisp>/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]
+ - [[./pdf<lisp>year</lisp>/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
+
+* 参加報告
+
