@@ -66,6 +66,9 @@ Debian 勉強会を開催します。
  - [[./pdf2018/debianmeetingresume201806.pdf][勉強会のWeb/原稿システムの仕組み（2018年6月用資料）]]
  - [[https://wiki.debian.org/KansaiDebianMeeting][Kansai Debian Meeting]]
    - 関西エリアで行っているDebian勉強会のページです。関西方面の方はこちらに参加してみてはいかがでしょうか。
+ - Cross Distro Developers Camp
+   - Debianを含めたディストリビューション共通の課題を解決することを目的とした開発者の集まりです。
+   - [[https://www.ospn.jp/odc2019/pdf/ODC2019_cddc.pdf][オープンデベロッパーズカンファレンス 2019 Tokyo発表スライド]]
 
 * 運営向けの情報
 
