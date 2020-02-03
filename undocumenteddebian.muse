@@ -7,6 +7,19 @@
 有志で紙媒体に印刷して有償で配布していますが、PDF形式でも配布しており、
 ここからダウンロードできます。
 
+** 2019年冬号
+
+ - [[./pdf2019/debianmeetingresume2019-fuyu.pdf][2019年冬号PDF]]
+
+ - Introduction
+ - Debian 10 buster リリース
+ - Debian Updates
+ - 自作キーボード温泉に日帰り入浴してみた話
+ - Debian GNU/kFreeBSD セットアップガイド 2019年版
+ - DebConf19 の気になるセミナーを調べてみる
+ - OSC 2019 Hokkaidoのイベント参加報告
+ - 東京エリア Debian 勉強会課題整理
+
 ** 2019年夏号
 
  - [[./pdf2019/debianmeetingresume2019-natsu.pdf][2019年夏号PDF]]
