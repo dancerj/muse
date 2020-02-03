@@ -4,14 +4,14 @@
 
 東京エリアDebian勉強会は、OSC <lisp>year</lisp> Tokyo/Spring に参加します。
 
-日時    | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日)
+日時    | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 10:00-17:30
 会場案内 | [[https://www.ospn.jp/osc2020-spring/][OSC <lisp>year</lisp> Tokyo/Spring 会場(駒沢大学 駒沢キャンパス 3号館(種月館))]]
 
 * 当日のagenda
 
 時間 || 内容 || 概要 || 発表者
-<lisp>month</lisp>/<lisp>day</lisp>(土)  | セミナー | （調整中） | 杉本
-<lisp>month</lisp>/<lisp>day</lisp>(土)  | ブース出展 | Debianを紹介するブースを出展しています。Debian稼働マシンや過去勉強会資料の展示等を行います。 | 杉本
+<lisp>month</lisp>/<lisp>day</lisp>(土) 13:00-13:45 | セミナー「Debian 10 からの新標準 ファイアウォール nftables 入門」 | 2019年7月にリリースした Debian 10 からファイアウォール機能は nftables がデフォルトになりました。<br>長らく iptables の時代が続いておりこれから新しく nftables を覚えるのも大変です。<br>本セミナーでは、nftables の概要を説明し、Debian 10 において iptables から nftables へ切り替えるためのコツを説明します。 | 杉本
+<lisp>month</lisp>/<lisp>day</lisp>(土) 10:00-16:00 | ブース出展 | Debianを紹介するブースを出展しています。Debian稼働マシンや過去勉強会資料の展示等を行います。 | 杉本
 
  - 注意：OSCは2日間の開催ですが、東京エリアDebian勉強会の出展は土曜日のみとなります。
 
