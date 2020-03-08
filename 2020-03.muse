@@ -1,0 +1,26 @@
+#title <lisp>year</lisp>年<lisp>month</lisp>月 東京エリアDebian勉強会
+<lisp>(progn (setq year 2020) (setq month 3) (setq day 21) (setq number 183) (setq eventid 163542) nil) </lisp>
+* 開催概要
+
+日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) （開催時間は調整中）
+参加登録方法 | [[https://debianjp.connpass.com/event/<lisp>(format "%.6d" eventid)</lisp>/][connpass上での案内]]の掲示を見て参加申し込みをお願いします。<br>
+開催方法 | ビデオ会議で行う予定です。インターネット回線がある場所からご参加ください。ビデオ会議の参加の方法は後日ご案内します。
+
+* 当日のagenda
+
+時間 || 内容 || 概要 || 発表者
+ | 事前課題発表 |  | 参加者全員
+ | セミナー１ |  |
+ | Hack Time | 各自Hacktimeを行い、わからないことは参加者とFaceToFaceで相談して問題を解決してみてください。 | 参加者全員
+ | 解散 |  |
+
+* 勉強会の申し込みと詳細情報
+
+ 勉強会の申し込みは イベント管理サービスである [[http://debianjp.connpass.com/event/<lisp>(format "%.6d" eventid)</lisp>/][connpass]]に掲示しています。詳細はリンク先を参照ください。
+
+* 資料
+
+ - [[./pdf<lisp>year</lisp>/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
+
+* 参加報告
+
