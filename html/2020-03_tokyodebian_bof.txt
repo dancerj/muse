@@ -1,0 +1,107 @@
+# BoF: 今回のビデオ会議システムの品質について、流行りのビデオ会議システムについて、そのほか雑談
+
+## イベント概要
+
+- イベント名
+    - 東京エリアDebian勉強会 2020年3月度
+    - https://tokyodebian-team.pages.debian.net/2020-03.html
+- 開催日時
+    - 2020-03-21(土) 14:00-16:00（BoFは15:15-16:00）
+- 場所
+    - オンラインによるビデオ会議
+        - Googleハングアウト
+        - rtmpを用いたストリーム配信環境（セミナーでデモ）
+        - jitsi
+    - IRC
+        - irc.debian.or.jp #debianjp
+- 参加者（敬称略）
+    - 16名
+        - dictoss
+        - dancerj
+        - NOKUBI Takatsugu
+        - あ
+        - yy_y_ja_jp
+        - koedoyoshida
+        - yosuke_san
+        - ysaito
+        - Kouhei Maeda
+        - Akihiro Terasaki
+        - Kazuhiro NISHIYAMA
+        - matoken
+        - nabaua
+        - ItSANgo
+        - YukiharuYABUKI
+        - sambar_gamer
+- このドキュメントのライセンス
+    - GPLv3
+
+## 議事内容
+
+- 無償版googleハングアウトは参加人数の上限が10人
+    - 10人を超えると参加できない仕様
+    - 勉強会の参加者数が10名を超えたため参加できない人が出てしまった
+
+- セミナーのデモで紹介したストリーミング配信方式（勉強会のセミナーパートで使用）
+    - ストリーミング配信と再生を自分のPCで行い、カメラ・映像・画面を相互に共有する方法
+    - セミナーのデモ
+        - rtmp://34.85.34.176/videochat/test
+        - vlc rtmp://34.85.34.176/videochat/test
+        - ffplay rtmp://34.85.34.176/videochat/test
+    - obs
+        - obsのストリームキーの話は操作方法が特殊なためメモしておくとよいと思う
+        - マシン性能が低いと動作が重く、できればマシン性能が高いPCの利用を推奨
+
+- jitsiサーバ https://jitsi.debian.social/DebianTokyo（勉強会のBoFパートで使用）
+    - うまく動かなかったように思える
+    - 音声が出ない、映像が出ないという事象を確認した勉強会参加者あり
+
+- jitsiサーバ https://vc1.pcdennokan.wjg.jp/TokyoDebian（勉強会のBoFパートで使用）
+   - 今回実験としてクラウド上のサーバに構築したビデオ会議サーバ
+       - （勉強会終了後に停止）
+   - webサイト https://jitsi.org/
+   - 15人が同時ログインしている状態でリアルタイムの双方向なビデオ会議を行うことができた
+   - jitsiはビデオ会議に参加しているクライアントPCの負荷が高い傾向あり
+       - もしかするとクライアントPCから他の参加者全員とP2Pのような通信をしているかもしれない
+       - アプリケーションの通信の仕方を調査してみると技術面で参考になるかもしれない
+   - サーバの構築手順を提示していただけるとありがたい
+
+- YouTube live
+    - 遅延が気になる（20秒程度遅延する）
+    - かけあい（リアルタイムで行う双方向コミュニケーション）を行う会議ではやり方を考える必要あり
+
+- appr.tc
+    - https://github.com/webrtc/apprtc
+    - https://appr.tc/
+    - TCPのセッション数を多く使用するアプリケーション仕様
+        - クライアント同士でTCPのセッションを生成する仕様の模様
+
+- WebRTC
+    - STUN、TURNという仕様がある
+    - https://sora.shiguredo.jp/
+
+- Mumble
+    - https://wiki.mumble.info/wiki/Installing_Mumble
+    - VoIPアプリケーションのため音声のみ
+    - server-client型のアプリケーション
+    - debian 10では"mumble"というパッケージ名で提供中
+
+- tox https://tox.chat/
+    - クライアントアプリケーション
+        - qtox
+        - utox（読み：マイクロトックス）
+
+- matrix https://matrix.org/
+    - VoIP及びテレビ電話のサーバアプリケーション
+    - matrixのモバイルクライアントアプリケーション
+        - Riot https://riot.im/app/mobile_guide/
+
+- マイクの選び方
+    - ビデオ会議では音声がクリアに聞こえないとやりとりが困難
+    - ヘッドセットを利用する
+        - PCで会議をする場合は推奨（手が空くため）
+    - PC/Mac本体についているマイクを利用する
+        - キーボードの音も拾ってしまう場合あり
+        - スピーカーの音をマイクが拾ってしまいハウリングする場合あり
+    - スタンドマイクを利用する
+    - テーブルに置く無指向性マイクを利用する
+        - YAMAHA YVC-330を仕事で使っている人がいて良いマイクと思う
