@@ -43,12 +43,12 @@
 
 - セミナーのデモで紹介したストリーミング配信方式（勉強会のセミナーパートで使用）
     - ストリーミング配信と再生を自分のPCで行い、カメラ・映像・画面を相互に共有する方法
-    - セミナーのデモ
-        - rtmp://34.85.34.176/videochat/test
-        - vlc rtmp://34.85.34.176/videochat/test
-        - ffplay rtmp://34.85.34.176/videochat/test
+    - セミナーのデモ (Ephemeral IP で一時的に立ち上げたサーバなのでもううごいていません)
+        - rtmp://example.com/videochat/test
+        - vlc rtmp://example.com/videochat/test
+        - ffplay rtmp://example.com/videochat/test
     - obs
-        - obsのストリームキーの話は操作方法が特殊なためメモしておくとよいと思う
+        - RTMPのストリームキーの話は操作方法はパットみわからないためメモしておくとよいと思う
         - マシン性能が低いと動作が重く、できればマシン性能が高いPCの利用を推奨
 
 - jitsiサーバ https://jitsi.debian.social/DebianTokyo（勉強会のBoFパートで使用）
