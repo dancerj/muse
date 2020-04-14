@@ -1,4 +1,4 @@
-#title <lisp>year</lisp>年<lisp>month</lisp>月 東京エリアDebian勉強会
+#title <lisp>year</lisp>年<lisp>month</lisp>月 東京エリア・関西合同Debian勉強会（オンライン開催）
 <lisp>(progn (setq year 2020) (setq month 4) (setq day 18) (setq number 184) (setq eventid 172494) nil) </lisp>
 * 開催概要
 
