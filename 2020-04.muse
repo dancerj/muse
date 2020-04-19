@@ -26,6 +26,7 @@
 
  - [[./pdf<lisp>year</lisp>/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]
  - [[./pdf<lisp>year</lisp>/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
+ - [[https://slide.rabbit-shocker.org/authors/znz/use-wireguard/][プレゼンテーション資料「Wireguard 実践入門」（西山和広さん）]]
 
 * 参加報告
 
