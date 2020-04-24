@@ -1,0 +1,31 @@
+#title <lisp>year</lisp>年<lisp>month</lisp>月 東京エリア・関西合同Debian勉強会（オンライン開催）
+<lisp>(progn (setq year 2020) (setq month 5) (setq day 16) (setq number 185) (setq eventid 174544) nil) </lisp>
+* 開催概要
+
+日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 14:00-16:00
+参加登録方法 | [[https://debianjp.connpass.com/event/<lisp>(format "%.6d" eventid)</lisp>/][connpass上での案内]]の掲示を見て参加申し込みをお願いします。<br>
+開催方法 | Jitsiサーバを使ったビデオ会議で行う予定です。インターネット回線がある場所からご参加ください。ビデオ会議の参加の方は[[https://debianjp.connpass.com/event/<lisp>(format "%.6d" eventid)</lisp>/][connpass上での案内]]をご参照ください。
+
+* 当日のagenda
+
+時間 || 内容 || 概要 || 発表者
+14:00 |  ビデオ会議のURLに集合 |  | 参加者全員
+14:00-14:10 | 開会、説明事項の連絡 |  | dictossさん
+14:10-14:25 | 自己紹介、事前課題発表 |  | 参加者全員
+14:25-15:05 | セミナー1 |  | 
+15:05-15:15 | 休憩 |  | 参加者全員
+15:15-15:55 | セミナー2 |  |
+15:55-16:00 | 閉会、諸連絡 |  | dictossさん
+16:00 | 解散 |  |
+
+* 勉強会の申し込みと詳細情報
+
+ 勉強会の申し込みは イベント管理サービスである [[http://debianjp.connpass.com/event/<lisp>(format "%.6d" eventid)</lisp>/][connpass]]に掲示しています。詳細はリンク先を参照ください。
+
+* 資料
+
+ - [[./pdf<lisp>year</lisp>/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]
+ - [[./pdf<lisp>year</lisp>/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDFプレゼンテーション資料]]
+
+* 参加報告
+
