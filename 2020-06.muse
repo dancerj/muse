@@ -4,7 +4,7 @@
 
 日時 | <lisp>year</lisp>年<lisp>month</lisp>月<lisp>day</lisp>日(土曜日) 14:00-16:00
 参加登録方法 | [[https://debianjp.connpass.com/event/<lisp>(format "%.6d" eventid)</lisp>/][connpass上での案内]]の掲示を見て参加申し込みをお願いします。<br>
-開催方法 | インターネットを用いたビデオ会議で行う予定です。インターネット回線がある場所からご参加ください。ビデオ会議の参加の方は[[https://debianjp.connpass.com/event/<lisp>(format "%.6d" eventid)</lisp>/][connpass上での案内]]をご参照ください。
+開催方法 | Skype for Webを用いたオンラインのビデオ会議で行う予定です。インターネット回線がある場所からご参加ください。ビデオ会議の参加の方は[[https://debianjp.connpass.com/event/<lisp>(format "%.6d" eventid)</lisp>/][connpass上での案内]]をご参照ください。
 
 * 当日のagenda
 
@@ -26,6 +26,6 @@
 
  - [[./pdf<lisp>year</lisp>/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]
  - [[./pdf<lisp>year</lisp>/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDF司会進行資料]]
-
+ - [[/2020-06_tokyodebian_langja_bof.txt][セミナーのディスカッション議事録]]（[[https://gobby.debian.org/export/l10n/ja/20200620-BOF][オリジナルのgobbyのデータはこちら]]）
 * 参加報告
 
