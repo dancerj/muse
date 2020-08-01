@@ -1,4 +1,4 @@
-# GCP Cloud Run configuration, run:
+# GCP Cloud Build configuration, run:
 #  gcloud builds submit .
 steps:
 - name: 'debian'
