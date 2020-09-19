@@ -1,6 +1,8 @@
 date       visitors    eventtag
            (seminar)
 ------------------------------------------
+2020-08-22  25         202008-online-tk-kan
+2020-07-18  14         202007-online-tk-kan
 2020-06-20  12         202006-online-tk-kan
 2020-05-16  26         202005-online-tk-kan
 2020-04-18  33         202004-online-tk-kan
