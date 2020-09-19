@@ -29,8 +29,8 @@
 
 * 資料
 
- - [[./pdf<lisp>year</lisp>/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]
  - [[./pdf<lisp>year</lisp>/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDF司会進行資料]]
+ - [[https://gobby.debian.org/export/l10n/ja/20200919-tokyodebian][DebConf20の共有資料（gobby）]]
 
 * 参加報告
 
