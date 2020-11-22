@@ -5,8 +5,7 @@ stages:
 pages:
   stage: deploy
   tags:
-    - debian
-    - buster
+    - tokyodebian-web
   artifacts:
     paths:
       - "public"
@@ -17,8 +16,7 @@ pages:
 build_html:
   stage: build_html
   tags:
-    - debian
-    - buster
+    - tokyodebian-web
   artifacts:
     untracked: false
     paths:
