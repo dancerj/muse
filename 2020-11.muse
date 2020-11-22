@@ -27,6 +27,7 @@
 
  - [[./pdf<lisp>year</lisp>/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>.pdf][PDF事前配布資料]]
  - [[./pdf<lisp>year</lisp>/debianmeetingresume<lisp>(format "%.4d%.2d" year month)</lisp>-presentation.pdf][PDF司会進行資料]]
+ - [[https://slide.rabbit-shocker.org/authors/kenhys/tokyodebian-debexpo-20201121/][PDFプレゼンテーション資料「debexpo(mentors.d.n)をハックするには(2020年版)」（kenhysさん）]]
 
 * 参加報告
 
