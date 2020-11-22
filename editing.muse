@@ -22,9 +22,16 @@ Debianであれば，elpa-muse（旧名：muse-el）パッケージを利用し�
 =*.muse= | Muse 用のファイル， wiki風 markup です．
 =html/debianmeeting.css= | スタイルファイルです
 =html/*.html= | 自動生成されるHTMLです
+=html/sitemap*.xml= | サイトマップファイルです（自動生成するコマンドはないため手書きです）
 git-pre-commit.sh | cp -p git-pre-commit.sh .git/hooks/pre-commit として利用するチェック用スクリプトです
 
 * コンパイル方法
+
+ビルドに必要なパッケージをインストールします。
+
+<example>
+# apt-get install make emacs-nox elpa-muse
+</example>
 
 git commit をする際に git-pre-commit.sh を利用すると自動で make preview してくれるようになります。
 git push でリリースです。
