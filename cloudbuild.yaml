@@ -1,5 +1,14 @@
 # GCP Cloud Build configuration, run:
-#  gcloud builds submit .
+#
+# use:
+#   gcloud builds submit .
 steps:
-- name: 'debian'
-  args: ./ci_build_html.sh
+- name: 'gcr.io/kaniko-project/executor:latest'
+  args:
+    - --destination=gcr.io/$PROJECT_ID/tokyodebian-team-pages-builder
+    - --cache=true
+    - --dockerfile=Dockerfile
+- name: 'gcr.io/$PROJECT_ID/tokyodebian-team-pages-builder'
+  id: 'build'
+  entrypoint: '/bin/bash'
+  args: ['./ci_build_html.sh']
